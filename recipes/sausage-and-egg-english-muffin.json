@@ -14,35 +14,35 @@
   "ingredients": [
     {
       "text": "4 wholemeal English muffins, sliced in half (we like Asda wholemeal muffins)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 600,
+      "protein": 24.0,
+      "carbs": 112.0,
+      "fat": 6.0,
+      "satFat": 1.2
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "4 small eggs",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20.0,
+      "satFat": 6.4
     },
     {
       "text": "4 lighter burger cheese slices",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 160,
+      "protein": 14.0,
+      "carbs": 4.0,
+      "fat": 10.0,
+      "satFat": 6.4
     }
   ],
   "steps": [

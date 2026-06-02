@@ -13,41 +13,41 @@
   "ingredients": [
     {
       "text": "4 medium lamb leg steaks (about 500g total)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 744,
+      "protein": 115.2,
+      "carbs": 0.0,
+      "fat": 31.2,
+      "satFat": 13.4
     },
     {
       "text": "60g wholemeal bread",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 144,
+      "protein": 6.6,
+      "carbs": 25.2,
+      "fat": 1.5,
+      "satFat": 0.3
     },
     {
       "text": "1 garlic clove, peeled",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2 tbsp fresh rosemary leaves",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
-      "carbs": 0,
+      "carbs": 0.2,
       "fat": 0,
       "satFat": 0
     },
     {
       "text": "2 tbsp fresh parsley leaves",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
       "fat": 0,
       "satFat": 0
     },
@@ -61,10 +61,10 @@
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     }
   ],

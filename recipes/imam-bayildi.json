@@ -11,18 +11,18 @@
   "ingredients": [
     {
       "text": "2 aubergines, sliced lengthways in half",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 125,
+      "protein": 5.0,
+      "carbs": 15.0,
+      "fat": 2.0,
+      "satFat": 0.5
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
@@ -35,89 +35,89 @@
     },
     {
       "text": "2 red onions, peeled and finely chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
     },
     {
       "text": "1 red pepper, deseeded and diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 50,
+      "protein": 1.6,
+      "carbs": 9.6,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "4 garlic cloves, peeled and minced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 16,
+      "protein": 0.8,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 x 400g tin chopped tomatoes",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 80,
+      "protein": 4.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.1
     },
     {
       "text": "½ tsp sweet paprika",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp sumac (or subsitute 1 tsp lemon juice)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp ground cinnamon",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp dried oregano",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp granulated sweetener",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tbsp balsamic vinegar",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 14,
+      "protein": 0.1,
+      "carbs": 2.7,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "fresh basil leaves, to serve (optional)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
       "fat": 0,
       "satFat": 0
     }

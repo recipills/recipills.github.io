@@ -15,51 +15,51 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "2 white onions, peeled and roughly chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 108,
+      "protein": 3.6,
+      "carbs": 23.7,
+      "fat": 0.6,
+      "satFat": 0.0
     },
     {
       "text": "3 garlic cloves, peeled and chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 celery stalk, roughly chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 6,
+      "protein": 0.3,
+      "carbs": 1.0,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp dried tarragon",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp dried thyme",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -71,41 +71,41 @@
     },
     {
       "text": "1 litre chicken stock (1 chicken stock cube dissolved in 1 litre boiling water)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.3,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "1 chicken breast, about 165g (skin and visible fat removed)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 159,
+      "protein": 36.0,
+      "carbs": 0.0,
+      "fat": 2.2,
+      "satFat": 0.6
     },
     {
       "text": "1 head of cauliflower (about 300g), broken into florets",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 168,
+      "protein": 12.0,
+      "carbs": 18.0,
+      "fat": 3.0,
+      "satFat": 0.6
     },
     {
       "text": "100g risotto rice or other white rice",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 350,
+      "protein": 7.0,
+      "carbs": 78.0,
+      "fat": 0.6,
+      "satFat": 0.1
     },
     {
       "text": "rosemary sprigs, to garnish (optional)",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
-      "carbs": 0,
+      "carbs": 0.2,
       "fat": 0,
       "satFat": 0
     }

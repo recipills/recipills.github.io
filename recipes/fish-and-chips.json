@@ -13,41 +13,41 @@
   "ingredients": [
     {
       "text": "800g potatoes, peeled",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 616,
+      "protein": 16.0,
+      "carbs": 136.0,
+      "fat": 0.8,
+      "satFat": 0.0
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "30g wholemeal bread",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 72,
+      "protein": 3.3,
+      "carbs": 12.6,
+      "fat": 0.8,
+      "satFat": 0.1
     },
     {
       "text": "1 lemon",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 12,
+      "protein": 0.4,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp chives, fresh chopped or dried",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
       "fat": 0,
       "satFat": 0
     },
@@ -61,11 +61,11 @@
     },
     {
       "text": "4 skinless cod fillets or similar (about 150g each)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 480,
+      "protein": 108.0,
+      "carbs": 0.0,
+      "fat": 4.2,
+      "satFat": 0.6
     }
   ],
   "steps": [

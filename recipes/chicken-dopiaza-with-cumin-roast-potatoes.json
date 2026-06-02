@@ -15,105 +15,105 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "2 red onions, peeled and diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
     },
     {
       "text": "4 garlic cloves, peeled and finely chopped or grated",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 16,
+      "protein": 0.8,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2.5cm (1in) piece of root ginger, peeled and grated",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 60,
+      "protein": 1.4,
+      "carbs": 13.5,
+      "fat": 0.6,
+      "satFat": 0.2
     },
     {
       "text": "1 red chilli, deseeded and finely chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "500g chicken breast (skin and visible fat removed), diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 530,
+      "protein": 120.0,
+      "carbs": 0.0,
+      "fat": 7.5,
+      "satFat": 2.0
     },
     {
       "text": "1 tbsp garam masala",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 21,
+      "protein": 0.9,
+      "carbs": 3.0,
+      "fat": 0.9,
+      "satFat": 0.3
     },
     {
       "text": "1 tsp ground cumin",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 0.9,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp ground coriander",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "1 x 400g tin chopped tomatoes",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 80,
+      "protein": 4.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.1
     },
     {
       "text": "200ml chicken stock (1 chicken stock cube dissolved in 200ml boiling water)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.6,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "1 red pepper, deseeded and diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 50,
+      "protein": 1.6,
+      "carbs": 9.6,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "1 tbsp chopped fresh coriander",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
       "fat": 0,
       "satFat": 0
     }

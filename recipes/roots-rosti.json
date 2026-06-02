@@ -13,73 +13,73 @@
   "ingredients": [
     {
       "text": "1 small swede, peeled",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 96,
+      "protein": 2.8,
+      "carbs": 20.0,
+      "fat": 0.4,
+      "satFat": 0.0
     },
     {
       "text": "1 small sweet potato, scrubbed",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 258,
+      "protein": 4.8,
+      "carbs": 60.0,
+      "fat": 0.3,
+      "satFat": 0.0
     },
     {
       "text": "1 small carrot, peeled",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 28,
+      "protein": 0.6,
+      "carbs": 6.4,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "1 small parsnip, peeled",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 83,
+      "protein": 1.6,
+      "carbs": 16.9,
+      "fat": 1.4,
+      "satFat": 0.3
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "2 large eggs",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
     },
     {
       "text": "1 tsp onion granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 1.8,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp xanthan gum",
-      "kcal": 0,
+      "kcal": 3,
       "protein": 0,
-      "carbs": 0,
+      "carbs": 1,
       "fat": 0,
       "satFat": 0
     },

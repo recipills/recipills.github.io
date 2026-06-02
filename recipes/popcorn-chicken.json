@@ -14,27 +14,27 @@
   "ingredients": [
     {
       "text": "120g wholemeal bread",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 288,
+      "protein": 13.2,
+      "carbs": 50.4,
+      "fat": 3.0,
+      "satFat": 0.6
     },
     {
       "text": "½ tsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "¼ tsp chilli powder (hot or mild, depending on taste)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.2,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp sea salt",
@@ -46,26 +46,26 @@
     },
     {
       "text": "300g chicken breast (all skin and visible fat removed)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 318,
+      "protein": 72.0,
+      "carbs": 0.0,
+      "fat": 4.5,
+      "satFat": 1.2
     },
     {
       "text": "1 egg",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     }
   ],

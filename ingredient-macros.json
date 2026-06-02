@@ -1,0 +1,3262 @@
+{
+  "_README": {
+    "purpose": "Reusable base-ingredient macro reference. Keyed on normalised base ingredient (quantity stripped). Values are ballpark estimates from standard UK nutritional data, tuned for the reduced-fat/fat-free products common in slimming cookbooks.",
+    "fields": "per = [kcal, protein_g, carbs_g, fat_g, satFat_g] for the stated basis; avg_g = typical weight of one item when a recipe gives a count without grams; g100 = optional [kcal,protein,carbs,fat,satFat] per 100g fallback used when a normally-counted item is given by weight.",
+    "basis_meanings": {
+      "fixed": "per whole ingredient as listed (negligible/fixed amount)",
+      "100g": "per 100 g",
+      "100ml": "per 100 ml",
+      "tsp": "per teaspoon",
+      "tbsp": "per tablespoon",
+      "unit": "per item",
+      "egg": "per egg",
+      "slice": "per slice",
+      "count": "per item"
+    },
+    "usage": "Parse quantity+unit from an ingredient line, map to the base name here, scale `per` by the parsed amount. See README extraction notes."
+  },
+  "ingredients": {
+    "-sized red chillies": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "5%-fat minced beef": {
+      "basis": "100g",
+      "per": [
+        136,
+        21,
+        0,
+        5,
+        2.2
+      ]
+    },
+    "5%-fat minced pork": {
+      "basis": "100g",
+      "per": [
+        136,
+        21,
+        0,
+        5,
+        1.8
+      ]
+    },
+    "5%-fat pork mince": {
+      "basis": "100g",
+      "per": [
+        136,
+        21,
+        0,
+        5,
+        1.8
+      ]
+    },
+    "a few spinach leaves": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "all-purpose seasoning": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "american long-grain rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "amounts of sliced pepper": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 80
+    },
+    "angel hair pasta": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "apple": {
+      "basis": "unit",
+      "per": [
+        55,
+        0.3,
+        13,
+        0.2,
+        0
+      ]
+    },
+    "asparagus spears": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.4,
+        0.4,
+        0,
+        0
+      ],
+      "g100": [
+        20,
+        2.2,
+        2,
+        0.4,
+        0.1
+      ]
+    },
+    "aubergine": {
+      "basis": "100g",
+      "per": [
+        25,
+        1,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 250
+    },
+    "aubergines": {
+      "basis": "100g",
+      "per": [
+        25,
+        1,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 250
+    },
+    "baby corn": {
+      "basis": "100g",
+      "per": [
+        26,
+        2.5,
+        5,
+        0.3,
+        0
+      ],
+      "avg_g": 100
+    },
+    "babybel cheeses": {
+      "basis": "unit",
+      "per": [
+        42,
+        3,
+        0,
+        3.4,
+        2.2
+      ]
+    },
+    "bacon medallions": {
+      "basis": "unit",
+      "per": [
+        25,
+        4.5,
+        0.2,
+        0.8,
+        0.3
+      ],
+      "g100": [
+        120,
+        21,
+        1,
+        3.8,
+        1.3
+      ]
+    },
+    "baking potatoes": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0.1,
+        0
+      ],
+      "avg_g": 250
+    },
+    "balsamic vinegar": {
+      "basis": "tbsp",
+      "per": [
+        14,
+        0.1,
+        2.7,
+        0,
+        0
+      ]
+    },
+    "bananas": {
+      "basis": "100g",
+      "per": [
+        95,
+        1.2,
+        23,
+        0.3,
+        0.1
+      ],
+      "avg_g": 120
+    },
+    "barley": {
+      "basis": "100g",
+      "per": [
+        352,
+        10,
+        73,
+        2,
+        0.4
+      ]
+    },
+    "basmati rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        8,
+        77,
+        0.9,
+        0.2
+      ]
+    },
+    "beef stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "beef stock cube": {
+      "basis": "unit",
+      "per": [
+        10,
+        0.5,
+        1.5,
+        0.4,
+        0.2
+      ]
+    },
+    "bell peppers": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "blueberries": {
+      "basis": "100g",
+      "per": [
+        57,
+        0.7,
+        14,
+        0.3,
+        0
+      ],
+      "avg_g": 1.5
+    },
+    "boiling water": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "broccoli": {
+      "basis": "100g",
+      "per": [
+        34,
+        2.8,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 350
+    },
+    "bunch of coriander": {
+      "basis": "fixed",
+      "per": [
+        5,
+        0.5,
+        0.8,
+        0.1,
+        0
+      ]
+    },
+    "butternut squash": {
+      "basis": "100g",
+      "per": [
+        40,
+        1,
+        9,
+        0.1,
+        0
+      ],
+      "avg_g": 900
+    },
+    "button mushrooms": {
+      "basis": "100g",
+      "per": [
+        13,
+        1.8,
+        0.4,
+        0.5,
+        0.1
+      ],
+      "avg_g": 12
+    },
+    "cajun seasoning": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.2,
+        0
+      ]
+    },
+    "carrot": {
+      "basis": "100g",
+      "per": [
+        35,
+        0.7,
+        8,
+        0.1,
+        0
+      ],
+      "avg_g": 80
+    },
+    "carrots": {
+      "basis": "100g",
+      "per": [
+        35,
+        0.7,
+        8,
+        0.1,
+        0
+      ],
+      "avg_g": 80
+    },
+    "carton passata": {
+      "basis": "carton500",
+      "per": [
+        175,
+        8,
+        30,
+        1,
+        0.2
+      ]
+    },
+    "cauliflower": {
+      "basis": "100g",
+      "per": [
+        28,
+        2,
+        3,
+        0.5,
+        0.1
+      ],
+      "avg_g": 250
+    },
+    "celery": {
+      "basis": "unit",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "celery salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "celery stalk": {
+      "basis": "unit",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "celery stick": {
+      "basis": "unit",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "celery sticks": {
+      "basis": "unit",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "cherry tomato": {
+      "basis": "unit",
+      "per": [
+        2,
+        0.1,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "cherry tomatoes": {
+      "basis": "100g",
+      "per": [
+        18,
+        0.9,
+        3.1,
+        0.2,
+        0
+      ],
+      "avg_g": 8
+    },
+    "chicken": {
+      "basis": "100g",
+      "per": [
+        145,
+        21,
+        0,
+        6.5,
+        1.9
+      ],
+      "avg_g": 1400
+    },
+    "chicken breast": {
+      "basis": "100g",
+      "per": [
+        106,
+        24,
+        0,
+        1.5,
+        0.4
+      ],
+      "avg_g": 150
+    },
+    "chicken breasts": {
+      "basis": "100g",
+      "per": [
+        106,
+        24,
+        0,
+        1.5,
+        0.4
+      ],
+      "avg_g": 150
+    },
+    "chicken drumsticks": {
+      "basis": "unit",
+      "per": [
+        105,
+        14,
+        0,
+        5.5,
+        1.5
+      ]
+    },
+    "chicken sausages or 4–6 chipolata-style sausages": {
+      "basis": "unit",
+      "per": [
+        70,
+        6,
+        2,
+        4,
+        1.5
+      ]
+    },
+    "chicken stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "chicken thigh fillets": {
+      "basis": "100g",
+      "per": [
+        120,
+        18,
+        0,
+        5,
+        1.4
+      ],
+      "avg_g": 70
+    },
+    "chicken thigh fillets cut into 2cm pieces": {
+      "basis": "100g",
+      "per": [
+        120,
+        18,
+        0,
+        5,
+        1.4
+      ],
+      "avg_g": 70
+    },
+    "chilli powder": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "chilli sauce": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0.3,
+        3.5,
+        0.1,
+        0
+      ]
+    },
+    "chillies": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "chinese 5-spice": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.2,
+        1.2,
+        0.2,
+        0
+      ]
+    },
+    "chipotle chilli flakes": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "chives": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "chopped fresh coriander": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.3,
+        0,
+        0
+      ]
+    },
+    "chopped fresh parsley": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "chopped rosemary": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "cider vinegar": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "cod or hake fillets": {
+      "basis": "100g",
+      "per": [
+        80,
+        18,
+        0,
+        0.7,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "cooked ham": {
+      "basis": "100g",
+      "per": [
+        107,
+        18,
+        1,
+        3.3,
+        1.1
+      ]
+    },
+    "cooked king prawns": {
+      "basis": "100g",
+      "per": [
+        70,
+        15,
+        0,
+        0.6,
+        0.1
+      ]
+    },
+    "cooked low-fat sausages": {
+      "basis": "unit",
+      "per": [
+        80,
+        8,
+        4,
+        3.5,
+        1.3
+      ]
+    },
+    "cooked new potatoes": {
+      "basis": "100g",
+      "per": [
+        75,
+        1.7,
+        16,
+        0.3,
+        0
+      ]
+    },
+    "cooked prawns": {
+      "basis": "100g",
+      "per": [
+        70,
+        15,
+        0,
+        0.6,
+        0.1
+      ]
+    },
+    "cornichons or small gherkins": {
+      "basis": "100g",
+      "per": [
+        15,
+        0.6,
+        2.6,
+        0.2,
+        0
+      ]
+    },
+    "courgette": {
+      "basis": "100g",
+      "per": [
+        18,
+        1.2,
+        2,
+        0.4,
+        0.1
+      ],
+      "avg_g": 200
+    },
+    "courgettes": {
+      "basis": "100g",
+      "per": [
+        18,
+        1.2,
+        2,
+        0.4,
+        0.1
+      ],
+      "avg_g": 200
+    },
+    "cucumber": {
+      "basis": "100g",
+      "per": [
+        15,
+        0.7,
+        1.5,
+        0.1,
+        0
+      ],
+      "avg_g": 300
+    },
+    "curry powder": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "diced chicken": {
+      "basis": "100g",
+      "per": [
+        106,
+        24,
+        0,
+        1.5,
+        0.4
+      ]
+    },
+    "diet cherry cola": {
+      "basis": "100ml",
+      "per": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "dried basil": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "dried chilli flakes": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.2,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "dried chipotle flakes": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "dried dill": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried italian herbs": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried lasagne sheets": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "dried mint": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.2,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "dried oregano": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried parsley": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.3,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "dried pasta": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "dried quinoa": {
+      "basis": "100g",
+      "per": [
+        368,
+        14,
+        57,
+        6,
+        0.7
+      ]
+    },
+    "dried rosemary": {
+      "basis": "tsp",
+      "per": [
+        4,
+        0.1,
+        0.7,
+        0.2,
+        0
+      ]
+    },
+    "dried sage": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried spaghetti": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "dried tarragon": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried thyme": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "egg": {
+      "basis": "egg",
+      "per": [
+        72,
+        6.3,
+        0.4,
+        5,
+        1.6
+      ]
+    },
+    "egg yolk": {
+      "basis": "unit",
+      "per": [
+        55,
+        2.7,
+        0.6,
+        4.5,
+        1.6
+      ]
+    },
+    "egg yolks": {
+      "basis": "unit",
+      "per": [
+        55,
+        2.7,
+        0.6,
+        4.5,
+        1.6
+      ]
+    },
+    "eggs": {
+      "basis": "egg",
+      "per": [
+        72,
+        6.3,
+        0.4,
+        5,
+        1.6
+      ]
+    },
+    "extra slices to serve": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "extra-lean medallion steaks": {
+      "basis": "100g",
+      "per": [
+        125,
+        22,
+        0,
+        4,
+        1.7
+      ],
+      "avg_g": 120
+    },
+    "fat-free": {
+      "basis": "100g",
+      "per": [
+        54,
+        5.7,
+        8,
+        0.2,
+        0.1
+      ]
+    },
+    "fat-free greek yoghurt": {
+      "basis": "100g",
+      "per": [
+        57,
+        9,
+        4,
+        0.2,
+        0.1
+      ]
+    },
+    "fat-free natural yoghurt": {
+      "basis": "100g",
+      "per": [
+        54,
+        5.7,
+        8,
+        0.2,
+        0.1
+      ]
+    },
+    "fennel seeds": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "finely chopped chives": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "finely chopped fresh rosemary leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "fish sauce": {
+      "basis": "tbsp",
+      "per": [
+        6,
+        0.9,
+        0.7,
+        0,
+        0
+      ]
+    },
+    "fish stock pot": {
+      "basis": "unit",
+      "per": [
+        15,
+        0.5,
+        2,
+        0.4,
+        0.1
+      ]
+    },
+    "flaked almonds": {
+      "basis": "100g",
+      "per": [
+        613,
+        21,
+        7,
+        53,
+        4.3
+      ]
+    },
+    "flat mushrooms": {
+      "basis": "100g",
+      "per": [
+        13,
+        1.8,
+        0.4,
+        0.5,
+        0.1
+      ],
+      "avg_g": 40
+    },
+    "fresh basil leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh cherries": {
+      "basis": "unit",
+      "per": [
+        4,
+        0.1,
+        1,
+        0,
+        0
+      ]
+    },
+    "fresh chilli": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "fresh coriander": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.3,
+        0,
+        0
+      ]
+    },
+    "fresh or frozen strawberries": {
+      "basis": "100g",
+      "per": [
+        33,
+        0.7,
+        8,
+        0.3,
+        0
+      ],
+      "avg_g": 12
+    },
+    "fresh parsley": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh parsley leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh rosemary leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "fresh salmon": {
+      "basis": "100g",
+      "per": [
+        180,
+        20,
+        0,
+        11,
+        2.2
+      ]
+    },
+    "fresh thyme": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "freshly ground black pepper": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "frozen broad beans": {
+      "basis": "100g",
+      "per": [
+        80,
+        7,
+        11,
+        0.6,
+        0.1
+      ]
+    },
+    "frozen peas": {
+      "basis": "100g",
+      "per": [
+        66,
+        5.4,
+        9,
+        0.9,
+        0.2
+      ],
+      "avg_g": 100
+    },
+    "frozen petits pois": {
+      "basis": "100g",
+      "per": [
+        66,
+        5.4,
+        9,
+        0.9,
+        0.2
+      ]
+    },
+    "frozen raspberries": {
+      "basis": "100g",
+      "per": [
+        52,
+        1.2,
+        12,
+        0.7,
+        0
+      ]
+    },
+    "garam masala": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1,
+        0.3,
+        0.1
+      ]
+    },
+    "garlic bulb": {
+      "basis": "unit",
+      "per": [
+        40,
+        1.8,
+        9,
+        0.1,
+        0
+      ]
+    },
+    "garlic clove": {
+      "basis": "unit",
+      "per": [
+        4,
+        0.2,
+        1,
+        0,
+        0
+      ]
+    },
+    "garlic cloves": {
+      "basis": "unit",
+      "per": [
+        4,
+        0.2,
+        1,
+        0,
+        0
+      ]
+    },
+    "garlic granules": {
+      "basis": "tsp",
+      "per": [
+        10,
+        0.5,
+        2,
+        0,
+        0
+      ]
+    },
+    "garlic salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "gluten-free finger rolls": {
+      "basis": "unit",
+      "per": [
+        120,
+        3,
+        22,
+        2,
+        0.4
+      ]
+    },
+    "gluten-free seeded wholemeal roll": {
+      "basis": "unit",
+      "per": [
+        160,
+        5,
+        26,
+        4,
+        0.6
+      ]
+    },
+    "granulated sweetener": {
+      "basis": "tsp",
+      "per": [
+        2,
+        0,
+        0.5,
+        0,
+        0
+      ],
+      "g100": [
+        39,
+        0,
+        10,
+        0,
+        0
+      ]
+    },
+    "grapes": {
+      "basis": "unit",
+      "per": [
+        3,
+        0,
+        0.8,
+        0,
+        0
+      ]
+    },
+    "grated mozzarella": {
+      "basis": "100g",
+      "per": [
+        250,
+        24,
+        1,
+        16,
+        11
+      ]
+    },
+    "grated reduced-fat mozzarella": {
+      "basis": "100g",
+      "per": [
+        250,
+        24,
+        1,
+        16,
+        11
+      ]
+    },
+    "greek yoghurt": {
+      "basis": "100g",
+      "per": [
+        57,
+        9,
+        4,
+        0.2,
+        0.1
+      ]
+    },
+    "green beans": {
+      "basis": "100g",
+      "per": [
+        31,
+        1.8,
+        3,
+        0.5,
+        0.1
+      ]
+    },
+    "green cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 600
+    },
+    "green lentils": {
+      "basis": "100g",
+      "per": [
+        310,
+        24,
+        50,
+        1.5,
+        0.2
+      ]
+    },
+    "ground cinnamon": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.1,
+        1.2,
+        0.1,
+        0
+      ]
+    },
+    "ground coriander": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.2,
+        0
+      ]
+    },
+    "ground cumin": {
+      "basis": "tsp",
+      "per": [
+        8,
+        0.4,
+        0.9,
+        0.5,
+        0
+      ]
+    },
+    "ground ginger": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.2,
+        1.3,
+        0.1,
+        0
+      ]
+    },
+    "ground turmeric": {
+      "basis": "tsp",
+      "per": [
+        8,
+        0.2,
+        1.4,
+        0.2,
+        0
+      ]
+    },
+    "handful of fresh oregano": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.1,
+        0.3,
+        0,
+        0
+      ]
+    },
+    "head of broccoli": {
+      "basis": "100g",
+      "per": [
+        34,
+        2.8,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 350
+    },
+    "head of cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 900
+    },
+    "head of cauliflower": {
+      "basis": "100g",
+      "per": [
+        28,
+        2,
+        3,
+        0.5,
+        0.1
+      ],
+      "avg_g": 600
+    },
+    "henderson’s relish or worcestershire sauce": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0,
+        3.6,
+        0,
+        0
+      ]
+    },
+    "italian hard cheese": {
+      "basis": "100g",
+      "per": [
+        416,
+        38,
+        0.9,
+        29,
+        18
+      ]
+    },
+    "juice of 1 lemon": {
+      "basis": "fixed",
+      "per": [
+        6,
+        0.1,
+        2,
+        0,
+        0
+      ]
+    },
+    "juice of ½ lemon": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "juice of ½ lime": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "juice of½ lemon": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "lamb leg steaks": {
+      "basis": "100g",
+      "per": [
+        155,
+        24,
+        0,
+        6.5,
+        2.8
+      ],
+      "avg_g": 120
+    },
+    "lamb stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "lamb’s lettuce": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.3,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "lean": {
+      "basis": "100g",
+      "per": [
+        129,
+        21,
+        0,
+        5,
+        2
+      ]
+    },
+    "lean diced pork": {
+      "basis": "100g",
+      "per": [
+        122,
+        21,
+        0,
+        4,
+        1.4
+      ]
+    },
+    "lean ham": {
+      "basis": "100g",
+      "per": [
+        107,
+        18,
+        1,
+        3.3,
+        1.1
+      ]
+    },
+    "lean pork mince": {
+      "basis": "100g",
+      "per": [
+        136,
+        21,
+        0,
+        5,
+        1.8
+      ]
+    },
+    "leek": {
+      "basis": "100g",
+      "per": [
+        31,
+        1.5,
+        6,
+        0.3,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "leeks": {
+      "basis": "100g",
+      "per": [
+        31,
+        1.5,
+        6,
+        0.3,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "lemon": {
+      "basis": "unit",
+      "per": [
+        12,
+        0.4,
+        3,
+        0.1,
+        0
+      ]
+    },
+    "lemon juice": {
+      "basis": "fixed",
+      "per": [
+        4,
+        0,
+        1.3,
+        0,
+        0
+      ]
+    },
+    "lemons": {
+      "basis": "unit",
+      "per": [
+        12,
+        0.4,
+        3,
+        0.1,
+        0
+      ]
+    },
+    "light soy sauce": {
+      "basis": "tbsp",
+      "per": [
+        9,
+        1,
+        0.8,
+        0,
+        0
+      ]
+    },
+    "light spreadable or squeezy cheese": {
+      "basis": "100g",
+      "per": [
+        180,
+        13,
+        5,
+        12,
+        8
+      ]
+    },
+    "lighter burger cheese slices": {
+      "basis": "unit",
+      "per": [
+        40,
+        3.5,
+        1,
+        2.5,
+        1.6
+      ]
+    },
+    "lime juice": {
+      "basis": "fixed",
+      "per": [
+        4,
+        0,
+        1.3,
+        0,
+        0
+      ]
+    },
+    "limes": {
+      "basis": "unit",
+      "per": [
+        8,
+        0.2,
+        2,
+        0,
+        0
+      ]
+    },
+    "long-grain rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "low-calorie cooking spray": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0,
+        0.1,
+        0
+      ]
+    },
+    "low-calorie tortilla wraps": {
+      "basis": "unit",
+      "per": [
+        110,
+        5,
+        18,
+        2,
+        0.5
+      ]
+    },
+    "low-fat spreadable cheese": {
+      "basis": "100g",
+      "per": [
+        180,
+        13,
+        5,
+        12,
+        8
+      ]
+    },
+    "low-fat tortilla wraps": {
+      "basis": "unit",
+      "per": [
+        110,
+        5,
+        18,
+        2,
+        0.5
+      ]
+    },
+    "macaroni": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "mangetouts": {
+      "basis": "100g",
+      "per": [
+        32,
+        3.6,
+        4,
+        0.2,
+        0
+      ]
+    },
+    "mango": {
+      "basis": "100g",
+      "per": [
+        60,
+        0.8,
+        15,
+        0.4,
+        0.1
+      ],
+      "avg_g": 200
+    },
+    "marmite or gf yeast extract": {
+      "basis": "tsp",
+      "per": [
+        9,
+        2,
+        1,
+        0,
+        0
+      ]
+    },
+    "mild curry powder": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "mushrooms": {
+      "basis": "100g",
+      "per": [
+        13,
+        1.8,
+        0.4,
+        0.5,
+        0.1
+      ],
+      "avg_g": 15
+    },
+    "mustard": {
+      "basis": "tsp",
+      "per": [
+        15,
+        0.8,
+        1,
+        0.9,
+        0
+      ]
+    },
+    "mustard powder": {
+      "basis": "tsp",
+      "per": [
+        15,
+        0.8,
+        1,
+        0.9,
+        0
+      ]
+    },
+    "nests dry egg noodles": {
+      "basis": "unit",
+      "per": [
+        175,
+        6,
+        36,
+        1,
+        0.2
+      ]
+    },
+    "new potatoes": {
+      "basis": "100g",
+      "per": [
+        70,
+        1.7,
+        15,
+        0.3,
+        0
+      ],
+      "avg_g": 40
+    },
+    "no-added-sugar orange squash": {
+      "basis": "100ml",
+      "per": [
+        5,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "no-added-sugar peach squash": {
+      "basis": "100ml",
+      "per": [
+        5,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "noodle nests": {
+      "basis": "unit",
+      "per": [
+        175,
+        6,
+        36,
+        1,
+        0.2
+      ]
+    },
+    "of chopped spinach leaves": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.4,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "of lamb's lettuce": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.3,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "of lamb’s lettuce": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.3,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "onion": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 110
+    },
+    "onion granules": {
+      "basis": "tsp",
+      "per": [
+        8,
+        0.4,
+        1.8,
+        0,
+        0
+      ]
+    },
+    "onion powder": {
+      "basis": "tsp",
+      "per": [
+        8,
+        0.4,
+        1.8,
+        0,
+        0
+      ]
+    },
+    "onion salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "onions": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 110
+    },
+    "orange": {
+      "basis": "100g",
+      "per": [
+        37,
+        0.9,
+        8.5,
+        0.1,
+        0
+      ],
+      "avg_g": 130
+    },
+    "oyster sauce": {
+      "basis": "tbsp",
+      "per": [
+        8,
+        0.3,
+        1.6,
+        0,
+        0
+      ]
+    },
+    "paprika": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "parmesan": {
+      "basis": "100g",
+      "per": [
+        416,
+        38,
+        0.9,
+        29,
+        18
+      ]
+    },
+    "parsnips": {
+      "basis": "100g",
+      "per": [
+        64,
+        1.2,
+        13,
+        1.1,
+        0.2
+      ],
+      "avg_g": 130
+    },
+    "pasta": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "peaches": {
+      "basis": "unit",
+      "per": [
+        40,
+        0.9,
+        10,
+        0.2,
+        0
+      ]
+    },
+    "peppers": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "pink lady apple": {
+      "basis": "unit",
+      "per": [
+        60,
+        0.3,
+        14,
+        0.2,
+        0
+      ]
+    },
+    "pork loin steaks": {
+      "basis": "100g",
+      "per": [
+        140,
+        22,
+        0,
+        5.5,
+        2
+      ],
+      "avg_g": 120
+    },
+    "pork shoulder joint": {
+      "basis": "100g",
+      "per": [
+        145,
+        20,
+        0,
+        7,
+        2.5
+      ],
+      "avg_g": 1500
+    },
+    "pork stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "pork stock cube": {
+      "basis": "unit",
+      "per": [
+        10,
+        0.5,
+        1.5,
+        0.4,
+        0.2
+      ]
+    },
+    "potato": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0.1,
+        0
+      ],
+      "avg_g": 180
+    },
+    "potatoes": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0.1,
+        0
+      ],
+      "avg_g": 180
+    },
+    "quark": {
+      "basis": "100g",
+      "per": [
+        68,
+        12,
+        4,
+        0.2,
+        0.1
+      ]
+    },
+    "radishes": {
+      "basis": "100g",
+      "per": [
+        12,
+        0.7,
+        2,
+        0.1,
+        0
+      ],
+      "avg_g": 15
+    },
+    "raw beetroot": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.7,
+        8,
+        0.1,
+        0
+      ],
+      "avg_g": 120
+    },
+    "raw king prawns": {
+      "basis": "100g",
+      "per": [
+        70,
+        15,
+        0,
+        0.6,
+        0.1
+      ]
+    },
+    "red cabbage": {
+      "basis": "100g",
+      "per": [
+        28,
+        1.4,
+        6,
+        0.2,
+        0
+      ],
+      "avg_g": 500
+    },
+    "red chilli": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "red food colouring": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "red onion": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 110
+    },
+    "red onions": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 110
+    },
+    "red or yellow pepper": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "red pepper": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "red peppers": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "red wine stock pot": {
+      "basis": "unit",
+      "per": [
+        20,
+        0.3,
+        3,
+        0.3,
+        0.1
+      ]
+    },
+    "red wine vinegar": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "reduced-fat cheddar": {
+      "basis": "100g",
+      "per": [
+        273,
+        33,
+        0.1,
+        15,
+        9.5
+      ]
+    },
+    "reduced-fat cheddar cheese": {
+      "basis": "100g",
+      "per": [
+        273,
+        33,
+        0.1,
+        15,
+        9.5
+      ]
+    },
+    "reduced-fat feta cheese": {
+      "basis": "100g",
+      "per": [
+        200,
+        15,
+        2,
+        14,
+        9
+      ]
+    },
+    "reduced-fat feta or greek salad cheese": {
+      "basis": "100g",
+      "per": [
+        200,
+        15,
+        2,
+        14,
+        9
+      ]
+    },
+    "reduced-fat feta or greek-style salad cheese": {
+      "basis": "100g",
+      "per": [
+        200,
+        15,
+        2,
+        14,
+        9
+      ]
+    },
+    "reduced-fat halloumi": {
+      "basis": "100g",
+      "per": [
+        230,
+        22,
+        2,
+        14,
+        9
+      ]
+    },
+    "reduced-fat mature cheddar": {
+      "basis": "100g",
+      "per": [
+        273,
+        33,
+        0.1,
+        15,
+        9.5
+      ]
+    },
+    "reduced-fat mozzarella": {
+      "basis": "100g",
+      "per": [
+        250,
+        24,
+        1,
+        16,
+        11
+      ]
+    },
+    "reduced-fat mozzarella paprika": {
+      "basis": "100g",
+      "per": [
+        250,
+        24,
+        1,
+        16,
+        11
+      ]
+    },
+    "rice vinegar": {
+      "basis": "tbsp",
+      "per": [
+        5,
+        0,
+        0.7,
+        0,
+        0
+      ]
+    },
+    "ricotta": {
+      "basis": "100g",
+      "per": [
+        144,
+        11,
+        3,
+        11,
+        7
+      ]
+    },
+    "ripe mango": {
+      "basis": "100g",
+      "per": [
+        60,
+        0.8,
+        15,
+        0.4,
+        0.1
+      ],
+      "avg_g": 200
+    },
+    "risotto rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "risotto rice or other white rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "root ginger": {
+      "basis": "100g",
+      "per": [
+        80,
+        1.8,
+        18,
+        0.8,
+        0.2
+      ],
+      "avg_g": 30
+    },
+    "root vegetables": {
+      "basis": "100g",
+      "per": [
+        45,
+        1,
+        9,
+        0.3,
+        0
+      ]
+    },
+    "rosemary sprigs": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "sage": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "salmon fillets": {
+      "basis": "100g",
+      "per": [
+        180,
+        20,
+        0,
+        11,
+        2.2
+      ],
+      "avg_g": 130
+    },
+    "salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "savoy or green cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 600
+    },
+    "sea salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "sea salt and finely ground black pepper": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "sea salt and freshly ground black pepper": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "seafood mix": {
+      "basis": "100g",
+      "per": [
+        80,
+        15,
+        1,
+        1.5,
+        0.3
+      ]
+    },
+    "sesame seeds": {
+      "basis": "tsp",
+      "per": [
+        17,
+        0.5,
+        0.7,
+        1.5,
+        0.2
+      ]
+    },
+    "shallots": {
+      "basis": "unit",
+      "per": [
+        10,
+        0.4,
+        2.3,
+        0,
+        0
+      ]
+    },
+    "silverskin pickled onions": {
+      "basis": "unit",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "skimmed milk": {
+      "basis": "100ml",
+      "per": [
+        34,
+        3.4,
+        5,
+        0.1,
+        0.1
+      ]
+    },
+    "skinless cod fillets or similar": {
+      "basis": "100g",
+      "per": [
+        80,
+        18,
+        0,
+        0.7,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "small silverskin pickled onions": {
+      "basis": "unit",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "smoked paprika": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "smoked salmon": {
+      "basis": "100g",
+      "per": [
+        180,
+        25,
+        0,
+        9,
+        2
+      ]
+    },
+    "smoked white fish": {
+      "basis": "100g",
+      "per": [
+        100,
+        20,
+        0,
+        1,
+        0.2
+      ]
+    },
+    "smoky paprika": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "soy sauce": {
+      "basis": "tbsp",
+      "per": [
+        9,
+        1,
+        0.8,
+        0,
+        0
+      ]
+    },
+    "spaghetti": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "spinach": {
+      "basis": "100g",
+      "per": [
+        23,
+        2.8,
+        1.6,
+        0.4,
+        0.1
+      ],
+      "avg_g": 100
+    },
+    "spinach leaves": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.4,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "spring green cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 400
+    },
+    "spring onion": {
+      "basis": "unit",
+      "per": [
+        5,
+        0.3,
+        1,
+        0,
+        0
+      ]
+    },
+    "spring onions": {
+      "basis": "unit",
+      "per": [
+        5,
+        0.3,
+        1,
+        0,
+        0
+      ]
+    },
+    "squeeze of lime juice": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "strawberries": {
+      "basis": "100g",
+      "per": [
+        33,
+        0.7,
+        8,
+        0.3,
+        0
+      ],
+      "avg_g": 12
+    },
+    "sugar-free elderflower cordial": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "sumac": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.2,
+        0
+      ]
+    },
+    "swede": {
+      "basis": "100g",
+      "per": [
+        24,
+        0.7,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 400
+    },
+    "sweet paprika": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "sweet potato": {
+      "basis": "100g",
+      "per": [
+        86,
+        1.6,
+        20,
+        0.1,
+        0
+      ],
+      "avg_g": 300
+    },
+    "sweet potatoes": {
+      "basis": "100g",
+      "per": [
+        86,
+        1.6,
+        20,
+        0.1,
+        0
+      ],
+      "avg_g": 300
+    },
+    "tagliatelle": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "tenderstem broccoli": {
+      "basis": "100g",
+      "per": [
+        34,
+        2.8,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 100
+    },
+    "tin baked beans": {
+      "basis": "tin400",
+      "per": [
+        300,
+        19,
+        52,
+        0.8,
+        0.2
+      ]
+    },
+    "tin black beans": {
+      "basis": "tin400",
+      "per": [
+        260,
+        17,
+        40,
+        1,
+        0.2
+      ]
+    },
+    "tin butter beans": {
+      "basis": "tin400",
+      "per": [
+        280,
+        18,
+        42,
+        1.2,
+        0.2
+      ]
+    },
+    "tin chopped tomatoes": {
+      "basis": "tin400",
+      "per": [
+        80,
+        4,
+        12,
+        0.4,
+        0.1
+      ]
+    },
+    "tin green lentils": {
+      "basis": "tin400",
+      "per": [
+        280,
+        20,
+        40,
+        1,
+        0.2
+      ]
+    },
+    "tin haricot beans": {
+      "basis": "tin400",
+      "per": [
+        280,
+        18,
+        42,
+        1.2,
+        0.2
+      ]
+    },
+    "tin mixed beans in chilli sauce": {
+      "basis": "tin400",
+      "per": [
+        320,
+        18,
+        52,
+        2,
+        0.4
+      ]
+    },
+    "tin sweetcorn": {
+      "basis": "tin325",
+      "per": [
+        260,
+        8,
+        52,
+        2,
+        0.3
+      ]
+    },
+    "tin water chestnuts": {
+      "basis": "tin225",
+      "per": [
+        110,
+        2,
+        26,
+        0.2,
+        0
+      ]
+    },
+    "tinned bamboo shoots": {
+      "basis": "100g",
+      "per": [
+        12,
+        1.5,
+        2,
+        0.2,
+        0
+      ]
+    },
+    "tins butter beans": {
+      "basis": "tin400",
+      "per": [
+        280,
+        18,
+        42,
+        1.2,
+        0.2
+      ]
+    },
+    "tins chopped tomatoes": {
+      "basis": "tin400",
+      "per": [
+        80,
+        4,
+        12,
+        0.4,
+        0.1
+      ]
+    },
+    "tins peeled new potatoes": {
+      "basis": "tin400",
+      "per": [
+        280,
+        7,
+        60,
+        0.4,
+        0
+      ]
+    },
+    "tins tuna": {
+      "basis": "tin145",
+      "per": [
+        150,
+        33,
+        0,
+        1.5,
+        0.4
+      ]
+    },
+    "tomato": {
+      "basis": "100g",
+      "per": [
+        18,
+        0.9,
+        3.1,
+        0.2,
+        0
+      ],
+      "avg_g": 80
+    },
+    "tomato puree": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0.8,
+        3,
+        0.1,
+        0
+      ]
+    },
+    "tomatoes": {
+      "basis": "100g",
+      "per": [
+        18,
+        0.9,
+        3.1,
+        0.2,
+        0
+      ],
+      "avg_g": 80
+    },
+    "turkey breast steaks": {
+      "basis": "100g",
+      "per": [
+        105,
+        24,
+        0,
+        1,
+        0.3
+      ],
+      "avg_g": 120
+    },
+    "turnip": {
+      "basis": "100g",
+      "per": [
+        23,
+        0.9,
+        5,
+        0.2,
+        0
+      ],
+      "avg_g": 150
+    },
+    "uncooked rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "vanilla extract": {
+      "basis": "tsp",
+      "per": [
+        12,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "vegetable stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.2,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "water": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "white onions": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 150
+    },
+    "white potatoes": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0.1,
+        0
+      ],
+      "avg_g": 180
+    },
+    "white wine vinegar": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "wholemeal bagel thin": {
+      "basis": "unit",
+      "per": [
+        110,
+        6,
+        20,
+        1.5,
+        0.3
+      ]
+    },
+    "wholemeal bread": {
+      "basis": "slice",
+      "per": [
+        75,
+        3.5,
+        13,
+        1,
+        0.2
+      ],
+      "g100": [
+        240,
+        11,
+        42,
+        2.5,
+        0.5
+      ]
+    },
+    "wholemeal breadcrumbs": {
+      "basis": "100g",
+      "per": [
+        240,
+        11,
+        42,
+        2.5,
+        0.5
+      ]
+    },
+    "wholemeal english muffins": {
+      "basis": "unit",
+      "per": [
+        150,
+        6,
+        28,
+        1.5,
+        0.3
+      ]
+    },
+    "wholemeal rolls": {
+      "basis": "unit",
+      "per": [
+        110,
+        4.5,
+        20,
+        1.5,
+        0.3
+      ]
+    },
+    "worcestershire sauce": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0,
+        3.6,
+        0,
+        0
+      ]
+    },
+    "worcestershire sauce or henderson’s relish": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0,
+        3.6,
+        0,
+        0
+      ]
+    },
+    "xanthan gum": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "yellow pepper": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "zest and juice of 1 lemon": {
+      "basis": "fixed",
+      "per": [
+        8,
+        0.2,
+        2.5,
+        0,
+        0
+      ]
+    },
+    "zest and juice of 2 limes": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.2,
+        3,
+        0,
+        0
+      ]
+    },
+    "zest and ½ juice of 1 lime": {
+      "basis": "fixed",
+      "per": [
+        5,
+        0.1,
+        1.5,
+        0,
+        0
+      ]
+    }
+  }
+}

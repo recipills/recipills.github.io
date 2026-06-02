@@ -11,35 +11,35 @@
   "ingredients": [
     {
       "text": "500g potatoes, peeled and cut into chunks",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 385,
+      "protein": 10.0,
+      "carbs": 85.0,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "200g savoy or green cabbage, finely shredded",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 52,
+      "protein": 2.6,
+      "carbs": 10.0,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "4 spring onions, trimmed and thinly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.2,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",

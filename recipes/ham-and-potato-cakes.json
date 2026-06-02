@@ -13,41 +13,41 @@
   "ingredients": [
     {
       "text": "700g potatoes, peeled and chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 539,
+      "protein": 14.0,
+      "carbs": 119.0,
+      "fat": 0.7,
+      "satFat": 0.0
     },
     {
       "text": "300g cooked ham",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 321,
+      "protein": 54.0,
+      "carbs": 3.0,
+      "fat": 9.9,
+      "satFat": 3.3
     },
     {
       "text": "4 spring onions, trimmed and sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.2,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp mustard powder",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 15,
+      "protein": 0.8,
+      "carbs": 1.0,
+      "fat": 0.9,
+      "satFat": 0.0
     },
     {
       "text": "2 tsp chopped fresh parsley",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
       "fat": 0,
       "satFat": 0
     },
@@ -61,18 +61,18 @@
     },
     {
       "text": "1 large egg yolk, beaten",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 55,
+      "protein": 2.7,
+      "carbs": 0.6,
+      "fat": 4.5,
+      "satFat": 1.6
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     }
   ],

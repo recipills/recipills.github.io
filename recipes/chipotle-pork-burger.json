@@ -14,27 +14,27 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "4 x 60g gluten-free seeded wholemeal roll",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 640,
+      "protein": 20.0,
+      "carbs": 104.0,
+      "fat": 16.0,
+      "satFat": 2.4
     },
     {
       "text": "1 red chilli, deseeded and thinly sliced, to garnish (optional)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
     }
   ],
   "steps": [

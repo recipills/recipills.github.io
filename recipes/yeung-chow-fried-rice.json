@@ -14,90 +14,90 @@
   "ingredients": [
     {
       "text": "150g pork loin steaks, cut into strips",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 210,
+      "protein": 33.0,
+      "carbs": 0.0,
+      "fat": 8.2,
+      "satFat": 3.0
     },
     {
       "text": "200g long-grain rice",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 700,
+      "protein": 14.0,
+      "carbs": 156.0,
+      "fat": 1.2,
+      "satFat": 0.2
     },
     {
       "text": "1 medium egg, beaten",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "100g frozen peas",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 66,
+      "protein": 5.4,
+      "carbs": 9.0,
+      "fat": 0.9,
+      "satFat": 0.2
     },
     {
       "text": "bunch of spring onions, trimmed and thinly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 5,
+      "protein": 0.3,
+      "carbs": 1,
       "fat": 0,
       "satFat": 0
     },
     {
       "text": "1 carrot, peeled and coarsely grated or cut into thin strips (julienne)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 28,
+      "protein": 0.6,
+      "carbs": 6.4,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "100g cooked ham, diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 107,
+      "protein": 18.0,
+      "carbs": 1.0,
+      "fat": 3.3,
+      "satFat": 1.1
     },
     {
       "text": "100g cooked prawns",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 70,
+      "protein": 15.0,
+      "carbs": 0.0,
+      "fat": 0.6,
+      "satFat": 0.1
     },
     {
       "text": "1 tbsp soy sauce",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 9,
+      "protein": 1.0,
+      "carbs": 0.8,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "chilli sauce, to serve (optional)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
+      "kcal": 15,
+      "protein": 0.3,
+      "carbs": 3.5,
+      "fat": 0.1,
       "satFat": 0
     }
   ],

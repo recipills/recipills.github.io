@@ -11,67 +11,67 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "½ onion, peeled and roughly chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 0.7,
+      "carbs": 4.3,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "1 garlic clove, peeled and chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "250g cauliflower, trimmed",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 70,
+      "protein": 5.0,
+      "carbs": 7.5,
+      "fat": 1.2,
+      "satFat": 0.2
     },
     {
       "text": "250ml vegetable stock (1 vegetable stock cube dissolved in 250ml boiling water)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 1.2,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp mustard powder",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 0.5,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "1 head of broccoli, trimmed (about 350g)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 119,
+      "protein": 9.8,
+      "carbs": 10.5,
+      "fat": 1.4,
+      "satFat": 0.4
     },
     {
       "text": "80g reduced-fat Cheddar cheese, grated",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 218,
+      "protein": 26.4,
+      "carbs": 0.1,
+      "fat": 12.0,
+      "satFat": 7.6
     },
     {
       "text": "sea salt and freshly ground black pepper",

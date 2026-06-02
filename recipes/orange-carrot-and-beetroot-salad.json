@@ -13,27 +13,27 @@
   "ingredients": [
     {
       "text": "1 large orange",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 48,
+      "protein": 1.2,
+      "carbs": 11.1,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "¼ tsp peeled and grated root ginger",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 24,
+      "protein": 0.5,
+      "carbs": 5.4,
+      "fat": 0.2,
+      "satFat": 0.1
     },
     {
       "text": "1 tsp red wine vinegar",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "sea salt",
@@ -45,25 +45,25 @@
     },
     {
       "text": "60g raw beetroot, peeled and cut into thin strips (julienne)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 22,
+      "protein": 1.0,
+      "carbs": 4.8,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "60g carrot, peeled and cut into thin strips (julienne)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 21,
+      "protein": 0.4,
+      "carbs": 4.8,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tbsp chopped fresh coriander",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
       "fat": 0,
       "satFat": 0
     }

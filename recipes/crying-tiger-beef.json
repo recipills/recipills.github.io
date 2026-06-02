@@ -13,27 +13,27 @@
   "ingredients": [
     {
       "text": "2 extra-lean medallion steaks (about 170g each)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 425,
+      "protein": 74.8,
+      "carbs": 0.0,
+      "fat": 13.6,
+      "satFat": 5.8
     },
     {
       "text": "2 tbsp reduced-salt soy sauce",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 18,
+      "protein": 2.0,
+      "carbs": 1.6,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tbsp Worcestershire sauce or Henderson’s relish",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 3.6,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "freshly ground black pepper, to taste",
@@ -45,10 +45,10 @@
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     }
   ],

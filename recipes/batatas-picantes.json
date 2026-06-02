@@ -11,18 +11,18 @@
   "ingredients": [
     {
       "text": "1kg sweet potatoes, peeled and diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 860,
+      "protein": 16.0,
+      "carbs": 200.0,
+      "fat": 1.0,
+      "satFat": 0.0
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
@@ -35,27 +35,27 @@
     },
     {
       "text": "1 tbsp sweet paprika",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 18,
+      "protein": 0.9,
+      "carbs": 3.6,
+      "fat": 0.9,
+      "satFat": 0.0
     },
     {
       "text": "1 tbsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 30,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tbsp onion granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 24,
+      "protein": 1.2,
+      "carbs": 5.4,
+      "fat": 0.0,
+      "satFat": 0.0
     }
   ],
   "steps": [

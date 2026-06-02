@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "text": "1.5kg pork shoulder joint (weight including fat)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2175,
+      "protein": 300.0,
+      "carbs": 0.0,
+      "fat": 105.0,
+      "satFat": 37.5
     },
     {
       "text": "4 white onions, peeled and roughly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 216,
+      "protein": 7.2,
+      "carbs": 47.4,
+      "fat": 1.2,
+      "satFat": 0.0
     },
     {
       "text": "660ml diet cherry cola (we also like Dr Pepper)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 7,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2 tsp Worcestershire sauce or Henderson’s relish",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.0,
+      "carbs": 2.4,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 pork stock cube, crumbled",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 1.5,
+      "fat": 0.4,
+      "satFat": 0.2
     },
     {
       "text": "1 tsp smoked paprika",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 6,
+      "protein": 0.3,
+      "carbs": 1.2,
+      "fat": 0.3,
+      "satFat": 0.0
     },
     {
       "text": "1 tbsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 30,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp onion granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 1.8,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -85,19 +85,19 @@
     },
     {
       "text": "4 tbsp tomato puree",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 60,
+      "protein": 3.2,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.0
     },
     {
       "text": "1 tbsp balsamic vinegar",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 14,
+      "protein": 0.1,
+      "carbs": 2.7,
+      "fat": 0.0,
+      "satFat": 0.0
     }
   ],
   "steps": [

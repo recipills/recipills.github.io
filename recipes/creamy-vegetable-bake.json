@@ -14,75 +14,75 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "1 small sweet potato, scrubbed and cut into roughly 2cm (¾ in) chunks (about 130g)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 258,
+      "protein": 4.8,
+      "carbs": 60.0,
+      "fat": 0.3,
+      "satFat": 0.0
     },
     {
       "text": "2 small leeks, trimmed, washed and cut into roughly 2cm (¾ in) chunks",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 93,
+      "protein": 4.5,
+      "carbs": 18.0,
+      "fat": 0.9,
+      "satFat": 0.3
     },
     {
       "text": "1 small carrots, peeled and cut into roughly 2cm (¾ in) chunks",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 28,
+      "protein": 0.6,
+      "carbs": 6.4,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "2 small parsnips, peeled and cut into roughly 2cm (¾ in) chunks",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 166,
+      "protein": 3.1,
+      "carbs": 33.8,
+      "fat": 2.9,
+      "satFat": 0.5
     },
     {
       "text": "200g cauliflower, trimmed and broken into florets",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 56,
+      "protein": 4.0,
+      "carbs": 6.0,
+      "fat": 1.0,
+      "satFat": 0.2
     },
     {
       "text": "360g ricotta",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 518,
+      "protein": 39.6,
+      "carbs": 10.8,
+      "fat": 39.6,
+      "satFat": 25.2
     },
     {
       "text": "220g light spreadable or squeezy cheese",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 396,
+      "protein": 28.6,
+      "carbs": 11.0,
+      "fat": 26.4,
+      "satFat": 17.6
     },
     {
       "text": "2 tsp mustard powder",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 30,
+      "protein": 1.6,
+      "carbs": 2.0,
+      "fat": 1.8,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -94,11 +94,11 @@
     },
     {
       "text": "60g wholemeal bread",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 144,
+      "protein": 6.6,
+      "carbs": 25.2,
+      "fat": 1.5,
+      "satFat": 0.3
     }
   ],
   "steps": [

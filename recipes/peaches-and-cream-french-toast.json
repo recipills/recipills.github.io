@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "text": "4 large eggs",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20.0,
+      "satFat": 6.4
     },
     {
       "text": "4 tsp granulated sweetener",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.0,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "4 tsp vanilla extract",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 48,
+      "protein": 0.0,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "300g fat-free Greek yoghurt",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 171,
+      "protein": 27.0,
+      "carbs": 12.0,
+      "fat": 0.6,
+      "satFat": 0.3
     },
     {
       "text": "4 tbsp no-added-sugar peach squash",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.0,
+      "carbs": 0.3,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "120g wholemeal bread, sliced (this will be around 4 slices; with or without crusts is fine)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 288,
+      "protein": 13.2,
+      "carbs": 50.4,
+      "fat": 3.0,
+      "satFat": 0.6
     },
     {
       "text": "2 peaches, stoned and sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 80,
+      "protein": 1.8,
+      "carbs": 20.0,
+      "fat": 0.4,
+      "satFat": 0.0
     }
   ],
   "steps": [

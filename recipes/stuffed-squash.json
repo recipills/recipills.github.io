@@ -11,18 +11,18 @@
   "ingredients": [
     {
       "text": "2 butternut squash, deseeded and cut in half lengthways (total 1.5kg)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 720,
+      "protein": 18.0,
+      "carbs": 162.0,
+      "fat": 1.8,
+      "satFat": 0.0
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
@@ -35,73 +35,73 @@
     },
     {
       "text": "2 white onions, peeled and finely chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 108,
+      "protein": 3.6,
+      "carbs": 23.7,
+      "fat": 0.6,
+      "satFat": 0.0
     },
     {
       "text": "1 x 400g tin black beans, drained",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 260,
+      "protein": 17.0,
+      "carbs": 40.0,
+      "fat": 1.0,
+      "satFat": 0.2
     },
     {
       "text": "1 x 200g tin sweetcorn, drained",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 160,
+      "protein": 4.9,
+      "carbs": 32.0,
+      "fat": 1.2,
+      "satFat": 0.2
     },
     {
       "text": "2 tomatoes, finely diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 29,
+      "protein": 1.4,
+      "carbs": 5.0,
+      "fat": 0.3,
+      "satFat": 0.0
     },
     {
       "text": "2 tsp smoked paprika",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 2.4,
+      "fat": 0.6,
+      "satFat": 0.0
     },
     {
       "text": "2 tsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.0,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp ground cumin",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 0.9,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "4 tbsp Greek yoghurt",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 57,
+      "protein": 9.0,
+      "carbs": 4.0,
+      "fat": 0.2,
+      "satFat": 0.1
     },
     {
       "text": "fresh coriander, to serve (optional)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
       "fat": 0,
       "satFat": 0
     }

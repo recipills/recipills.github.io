@@ -14,75 +14,75 @@
   "ingredients": [
     {
       "text": "375g turkey breast steaks",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 394,
+      "protein": 90.0,
+      "carbs": 0.0,
+      "fat": 3.8,
+      "satFat": 1.1
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "4 tsp Chinese 5-spice",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 28,
+      "protein": 0.8,
+      "carbs": 4.8,
+      "fat": 0.8,
+      "satFat": 0.0
     },
     {
       "text": "4 tbsp dark soy sauce",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 36,
+      "protein": 4.0,
+      "carbs": 3.2,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "3 tbsp granulated sweetener",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 4.5,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "4 tbsp balsamic vinegar",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 56,
+      "protein": 0.4,
+      "carbs": 10.8,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "4 low-calorie tortilla wraps",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 440,
+      "protein": 20.0,
+      "carbs": 72.0,
+      "fat": 8.0,
+      "satFat": 2.0
     },
     {
       "text": "½ cucumber, sliced into batons",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 22,
+      "protein": 1.0,
+      "carbs": 2.2,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "6 spring onions, trimmed and thinly sliced lengthways",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 30,
+      "protein": 1.8,
+      "carbs": 6.0,
+      "fat": 0.0,
+      "satFat": 0.0
     }
   ],
   "steps": [

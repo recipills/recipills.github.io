@@ -10,86 +10,54 @@
   ],
   "prepTime": 15,
   "cookTime": 12,
-  "servings": 6,
+  "servings": 24,
   "ingredients": [
     {
-      "text": "2 x 800g tins peeled new potatoes",
-      "kcal": 0,
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "125g macaroni",
+      "kcal": 438,
+      "protein": 15.0,
+      "carbs": 90.0,
+      "fat": 1.9,
+      "satFat": 0.4
+    },
+    {
+      "text": "1½ tsp chives, dried or freshly chopped",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
       "fat": 0,
       "satFat": 0
     },
     {
-      "text": "120g fat-free natural yoghurt",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "text": "75g low-fat spreadable cheese",
+      "kcal": 135,
+      "protein": 9.8,
+      "carbs": 3.8,
+      "fat": 9.0,
+      "satFat": 6.0
     },
     {
-      "text": "1 tsp mild curry powder",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "text": "20g reduced-fat Cheddar, grated",
+      "kcal": 55,
+      "protein": 6.6,
+      "carbs": 0.0,
+      "fat": 3.0,
+      "satFat": 1.9
     },
     {
-      "text": "½ tsp ground turmeric",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
-    },
-    {
-      "text": "½ tsp garam masala",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
-    },
-    {
-      "text": "1 tsp ground coriander",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
-    },
-    {
-      "text": "1 tsp granulated sweetener",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
-    },
-    {
-      "text": "1 celery stick, thinly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
-    },
-    {
-      "text": "6 spring onions, trimmed and thinly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
-    },
-    {
-      "text": "handful of chopped spinach leaves",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
+      "text": "pinch of mustard powder",
+      "kcal": 15,
+      "protein": 0.8,
+      "carbs": 1,
+      "fat": 0.9,
       "satFat": 0
     },
     {
@@ -101,22 +69,27 @@
       "satFat": 0
     },
     {
-      "text": "handful of fresh coriander leaves to serve (optional)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "text": "1 large egg, beaten",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
+    },
+    {
+      "text": "15g Parmesan or Italian hard cheese, grated",
+      "kcal": 62,
+      "protein": 5.7,
+      "carbs": 0.1,
+      "fat": 4.3,
+      "satFat": 2.7
     }
   ],
   "steps": [
-    "Drain the tins of potatoes and set to one side. Put the yoghurt, curry\npowder, turmeric, garam masala, ground coriander and sweetener in a\nbowl and mix. Add the potatoes, celery, spring onions and spinach to the\nbowl and mix together.",
-    "Season with salt and pepper and serve with fresh coriander sprinkled on\ntop, if desired.\n\f                  Tips\n We’ve made this speedy by using tinned\n potatoes, but feel free to cook your own\n potatoes if you wish. You could also add\n120g of chopped dried apricots for an extra\n           56 kcals per serving.\n\f\f                              FRENCH PEAS\n                            5 MINS |        20 MINS |        SERVES 4",
-    "This recipe is based on the classic French dish Petits pois à la\n Français but don’t be put off by the fancy name. These are really\n  just pimped-up peas which taste soooo good and can be served\nwith any lean meat or fish, our Coq au Vin (see page 161) or even on\n                      their own as a light lunch.",
-    "GF\nuse GF stock pot\nPER SERVING:\n108 KCAL\n7.3G CARBS",
-    "low-calorie cooking spray\n4 bacon medallions, thinly sliced\n1 small onion, peeled and finely diced\n3 garlic cloves, peeled and crushed\n200ml vegetable stock (1 vegetable stock pot dissolved in 200ml boiling water)\n200g frozen petits pois",
-    "Spray a large frying pan with low-calorie cooking spray and cook the\nbacon and onion for 5 minutes over a medium heat until the onion is\ntranslucent. Add the crushed garlic, mix into the bacon and onion and\ncook for another minute or so.",
-    "Add the stock and reduce over a high heat for 10 minutes. Stir in the\npeas and cook for another 4 minutes until the peas are just tender. Serve."
+    "Preheat the oven to 190°C (fan 170°C/gas mark 5) and spray a 24-hole mini muffin tray with some low-calorie cooking spray.",
+    "Cook the macaroni according to the packet instructions, then drain and rinse in some cold water to stop it sticking together. Place the drained pasta in a bowl and stir in the chives, spreadable cheese, grated Cheddar and mustard powder. Season with some salt and pepper, mix well and check the seasoning. Stir in the beaten egg.",
+    "Divide the mixture equally between the twenty-four mini muffin moulds. Sprinkle the Parmesan over the top of each one and cook for 10–12 minutes, until they have set and browned on top.",
+    "Allow to cool for a minute or two before removing them from the muffin tray. Serve either warm or cold. The bites can also be frozen once cooled – defrost fully then reheat until piping hot."
   ],
   "macros": {
     "kcal": 38,
@@ -128,6 +101,6 @@
     "protein": 1.9,
     "iron": 0.5
   },
-  "notes": "Makes 24 bites. Macros are per serving of 4 bites.",
+  "notes": "Makes 24 bites. Macros shown are per bite (per the book's 'per bite' values).",
   "source": "Pinch of Nom: Everyday Light"
 }

@@ -14,99 +14,99 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "100g leeks, trimmed, washed and thinly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 31,
+      "protein": 1.5,
+      "carbs": 6.0,
+      "fat": 0.3,
+      "satFat": 0.1
     },
     {
       "text": "100g carrots, peeled and cut into a medium-sized dice",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 35,
+      "protein": 0.7,
+      "carbs": 8.0,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "50g celery, cut into a medium-sized dice",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 300,
+      "protein": 15.0,
+      "carbs": 50.0,
+      "fat": 5.0,
+      "satFat": 0.0
     },
     {
       "text": "100g turnip, peeled and cut into a medium-sized dice",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 23,
+      "protein": 0.9,
+      "carbs": 5.0,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "60g green cabbage, trimmed and finely shredded",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 16,
+      "protein": 0.8,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "1.5 litres vegetable stock (3 vegetable stock cubes dissolved in 1.5 litres boiling water)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 6,
+      "protein": 0.3,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "¼ tsp dried sage",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "¼ tsp dried thyme",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "50g barley",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 176,
+      "protein": 5.0,
+      "carbs": 36.5,
+      "fat": 1.0,
+      "satFat": 0.2
     },
     {
       "text": "100g potatoes, peeled and cut into a medium-sized dice",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 77,
+      "protein": 2.0,
+      "carbs": 17.0,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "60g frozen peas",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 40,
+      "protein": 3.2,
+      "carbs": 5.4,
+      "fat": 0.5,
+      "satFat": 0.1
     }
   ],
   "steps": [

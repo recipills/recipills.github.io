@@ -13,105 +13,105 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "100g mushrooms, sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 13,
+      "protein": 1.8,
+      "carbs": 0.4,
+      "fat": 0.5,
+      "satFat": 0.1
     },
     {
       "text": "4 spring onions, trimmed and sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.2,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 red chilli, deseeded and sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2 garlic cloves, peeled and minced or grated",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 litre vegetable stock (2 vegetable stock cubes dissolved in 1 litre boiling water",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "2 carrots, peeled and cut into thin strips (julienne)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 56,
+      "protein": 1.1,
+      "carbs": 12.8,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "75g baby corn, cut into 5mm (¼ in)-thick slices",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.9,
+      "carbs": 3.8,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "120g tinned bamboo shoots, drained",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 14,
+      "protein": 1.8,
+      "carbs": 2.4,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "2 tbsp light soy sauce",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 18,
+      "protein": 2.0,
+      "carbs": 1.6,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2 tbsp rice vinegar",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.0,
+      "carbs": 1.4,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp dried chilli flakes",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "¼–½ tsp xanthan gum 1 egg",
-      "kcal": 0,
+      "kcal": 3,
       "protein": 0,
-      "carbs": 0,
+      "carbs": 1,
       "fat": 0,
       "satFat": 0
     }

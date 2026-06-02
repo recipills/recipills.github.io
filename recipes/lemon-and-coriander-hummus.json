@@ -11,33 +11,33 @@
   "ingredients": [
     {
       "text": "25g bunch of coriander, leaves only, plus extra leaves to serve",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
+      "kcal": 5,
+      "protein": 0.5,
+      "carbs": 0.8,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "1 x 400g tin butter beans, drained",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 280,
+      "protein": 18.0,
+      "carbs": 42.0,
+      "fat": 1.2,
+      "satFat": 0.2
     },
     {
       "text": "70g fat-free natural yoghurt",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 38,
+      "protein": 4.0,
+      "carbs": 5.6,
+      "fat": 0.1,
+      "satFat": 0.1
     },
     {
       "text": "zest and juice of 1 lemon, plus",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 8,
+      "protein": 0.2,
+      "carbs": 2.5,
       "fat": 0,
       "satFat": 0
     },
@@ -51,11 +51,11 @@
     },
     {
       "text": "2 tsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.0,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",

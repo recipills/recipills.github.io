@@ -13,83 +13,83 @@
   "ingredients": [
     {
       "text": "2 slices of wholemeal bread",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 150,
+      "protein": 7.0,
+      "carbs": 26.0,
+      "fat": 2.0,
+      "satFat": 0.4
     },
     {
       "text": "20g reduced-fat Cheddar",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 55,
+      "protein": 6.6,
+      "carbs": 0.0,
+      "fat": 3.0,
+      "satFat": 1.9
     },
     {
       "text": "2 slices of lean ham (about 50g)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 107,
+      "protein": 18.0,
+      "carbs": 1.0,
+      "fat": 3.3,
+      "satFat": 1.1
     },
     {
       "text": "½ spring onion, trimmed and thinly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 cherry tomato, thinly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.4,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "3 spinach leaves, roughly chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 3,
+      "protein": 0.4,
+      "carbs": 0.2,
       "fat": 0,
       "satFat": 0
     },
     {
       "text": "1 small egg",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
     },
     {
       "text": "1 tsp fat-free natural yoghurt",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 54,
+      "protein": 5.7,
+      "carbs": 8.0,
+      "fat": 0.2,
+      "satFat": 0.1
     },
     {
       "text": "½ tsp Worcestershire sauce or Henderson’s relish",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.0,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "¼ tsp mustard powder",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 0.2,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -101,10 +101,10 @@
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     }
   ],

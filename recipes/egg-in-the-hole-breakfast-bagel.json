@@ -11,27 +11,27 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "2 bacon medallions",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 50,
+      "protein": 9.0,
+      "carbs": 0.4,
+      "fat": 1.6,
+      "satFat": 0.6
     },
     {
       "text": "1 mushroom, sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 2,
+      "protein": 0.3,
+      "carbs": 0.1,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -43,35 +43,35 @@
     },
     {
       "text": "1 egg",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
     },
     {
       "text": "1 wholemeal bagel thin",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 110,
+      "protein": 6.0,
+      "carbs": 20.0,
+      "fat": 1.5,
+      "satFat": 0.3
     },
     {
       "text": "a few spinach leaves",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.1,
       "fat": 0,
       "satFat": 0
     },
     {
       "text": "2 cherry tomatoes, sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
     }
   ],
   "steps": [

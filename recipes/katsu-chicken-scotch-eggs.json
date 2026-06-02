@@ -14,27 +14,27 @@
   "ingredients": [
     {
       "text": "2 medium eggs",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
     },
     {
       "text": "3 large chicken sausages or 4–6 chipolata-style sausages",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 210,
+      "protein": 18.0,
+      "carbs": 6.0,
+      "fat": 12.0,
+      "satFat": 4.5
     },
     {
       "text": "½ tsp curry powder",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
     }
   ],
   "steps": [

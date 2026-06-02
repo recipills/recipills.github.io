@@ -13,51 +13,51 @@
   "ingredients": [
     {
       "text": "1 large potato, peeled and cut into 1cm (½ in) cubes (about 240g)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 139,
+      "protein": 3.6,
+      "carbs": 30.6,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "1 head of cauliflower (about 600g), trimmed",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 168,
+      "protein": 12.0,
+      "carbs": 18.0,
+      "fat": 3.0,
+      "satFat": 0.6
     },
     {
       "text": "1 tsp xanthan gum",
-      "kcal": 0,
+      "kcal": 3,
       "protein": 0,
-      "carbs": 0,
+      "carbs": 1,
       "fat": 0,
       "satFat": 0
     },
     {
       "text": "1 tsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp onion granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 0.9,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2 eggs, one for the mix, one beaten for basting",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -69,10 +69,10 @@
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     }
   ],

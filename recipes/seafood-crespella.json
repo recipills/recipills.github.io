@@ -11,91 +11,91 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "1 red onion, peeled and diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "1 red or yellow pepper, deseeded and diced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 50,
+      "protein": 1.6,
+      "carbs": 9.6,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "2 garlic cloves, peeled and crushed",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "60g mushrooms, sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 1.1,
+      "carbs": 0.2,
+      "fat": 0.3,
+      "satFat": 0.1
     },
     {
       "text": "¼ tsp dried Italian herbs",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp balsamic vinegar",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 5,
+      "protein": 0.0,
+      "carbs": 0.9,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 x 500g carton passata",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 175,
+      "protein": 8.0,
+      "carbs": 30.0,
+      "fat": 1.0,
+      "satFat": 0.2
     },
     {
       "text": "200g fresh salmon",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 360,
+      "protein": 40.0,
+      "carbs": 0.0,
+      "fat": 22.0,
+      "satFat": 4.4
     },
     {
       "text": "200g seafood mix (raw or cooked)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 160,
+      "protein": 30.0,
+      "carbs": 2.0,
+      "fat": 3.0,
+      "satFat": 0.6
     },
     {
       "text": "1 fish stock pot",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 15,
+      "protein": 0.5,
+      "carbs": 2.0,
+      "fat": 0.4,
+      "satFat": 0.1
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -107,27 +107,27 @@
     },
     {
       "text": "4 low-fat tortilla wraps",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 440,
+      "protein": 20.0,
+      "carbs": 72.0,
+      "fat": 8.0,
+      "satFat": 2.0
     },
     {
       "text": "40g reduced-fat Cheddar, grated",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 109,
+      "protein": 13.2,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "satFat": 3.8
     },
     {
       "text": "70g reduced-fat mozzarella paprika (optional)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 175,
+      "protein": 16.8,
+      "carbs": 0.7,
+      "fat": 11.2,
+      "satFat": 7.7
     }
   ],
   "steps": [

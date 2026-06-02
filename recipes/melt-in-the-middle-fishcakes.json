@@ -11,33 +11,33 @@
   "ingredients": [
     {
       "text": "500g potatoes, peeled and chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 385,
+      "protein": 10.0,
+      "carbs": 85.0,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "250g smoked white fish (such as smoked haddock or smoked basa)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 250,
+      "protein": 50.0,
+      "carbs": 0.0,
+      "fat": 2.5,
+      "satFat": 0.5
     },
     {
       "text": "1 medium egg",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
     },
     {
       "text": "2 tbsp finely chopped chives",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
       "fat": 0,
       "satFat": 0
     },
@@ -51,26 +51,26 @@
     },
     {
       "text": "110g light spreadable or squeezy cheese",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 198,
+      "protein": 14.3,
+      "carbs": 5.5,
+      "fat": 13.2,
+      "satFat": 8.8
     },
     {
       "text": "4 Babybel cheeses, wax outer coating removed and cheese grated",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 168,
+      "protein": 12.0,
+      "carbs": 0.0,
+      "fat": 13.6,
+      "satFat": 8.8
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     }
   ],

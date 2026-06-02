@@ -11,67 +11,67 @@
   "ingredients": [
     {
       "text": "500g white potatoes",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 385,
+      "protein": 10.0,
+      "carbs": 85.0,
+      "fat": 0.5,
+      "satFat": 0.0
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "1 x 250g carton passata",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 88,
+      "protein": 4.0,
+      "carbs": 15.0,
+      "fat": 0.5,
+      "satFat": 0.1
     },
     {
       "text": "2 tsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.0,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp onion granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 1.8,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp dried oregano",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp dried basil",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp granulated sweetener",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -83,27 +83,27 @@
     },
     {
       "text": "80g grated mozzarella",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 200,
+      "protein": 19.2,
+      "carbs": 0.8,
+      "fat": 12.8,
+      "satFat": 8.8
     },
     {
       "text": "¼ small red pepper, deseeded and sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 12,
+      "protein": 0.4,
+      "carbs": 2.4,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "2 button mushrooms, sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.4,
+      "carbs": 0.1,
+      "fat": 0.1,
+      "satFat": 0.0
     }
   ],
   "steps": [

@@ -11,75 +11,75 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "2 leeks, green and white parts washed and very finely chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 93,
+      "protein": 4.5,
+      "carbs": 18.0,
+      "fat": 0.9,
+      "satFat": 0.3
     },
     {
       "text": "120g wholemeal breadcrumbs",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 288,
+      "protein": 13.2,
+      "carbs": 50.4,
+      "fat": 3.0,
+      "satFat": 0.6
     },
     {
       "text": "160g reduced-fat Cheddar, finely grated",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 437,
+      "protein": 52.8,
+      "carbs": 0.2,
+      "fat": 24.0,
+      "satFat": 15.2
     },
     {
       "text": "3 tsp mustard powder",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 45,
+      "protein": 2.4,
+      "carbs": 3.0,
+      "fat": 2.7,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp dried thyme",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "½–1 tsp xanthan gum",
-      "kcal": 0,
+      "kcal": 3,
       "protein": 0,
-      "carbs": 0,
+      "carbs": 1,
       "fat": 0,
       "satFat": 0
     },
     {
       "text": "2 eggs, one for the mix and one beaten for basting",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
     },
     {
       "text": "sea salt and freshly ground black pepper",

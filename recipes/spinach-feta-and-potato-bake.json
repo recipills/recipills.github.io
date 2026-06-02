@@ -13,67 +13,67 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "½ red onion, peeled and finely chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 0.7,
+      "carbs": 4.3,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "1 garlic clove, peeled and chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "250g spinach",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 58,
+      "protein": 7.0,
+      "carbs": 4.0,
+      "fat": 1.0,
+      "satFat": 0.2
     },
     {
       "text": "juice of 1 lemon",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
+      "kcal": 6,
+      "protein": 0.1,
+      "carbs": 2,
       "fat": 0,
       "satFat": 0
     },
     {
       "text": "1kg potatoes, peeled and thinly sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 770,
+      "protein": 20.0,
+      "carbs": 170.0,
+      "fat": 1.0,
+      "satFat": 0.0
     },
     {
       "text": "130g reduced-fat feta or Greek salad cheese",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 260,
+      "protein": 19.5,
+      "carbs": 2.6,
+      "fat": 18.2,
+      "satFat": 11.7
     },
     {
       "text": "200ml vegetable stock (1 vegetable stock cube dissolved in 200ml boiling water)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 1.0,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",

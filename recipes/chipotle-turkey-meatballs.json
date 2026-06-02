@@ -13,75 +13,75 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "1 onion, peeled and chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "1 carrot, peeled and dices",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 28,
+      "protein": 0.6,
+      "carbs": 6.4,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "2 garlic cloves, peeled and minced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2 tsp smoked paprika",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 2.4,
+      "fat": 0.6,
+      "satFat": 0.0
     },
     {
       "text": "½ tsp chipotle chilli flakes",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "1 x 500g carton passata",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 175,
+      "protein": 8.0,
+      "carbs": 30.0,
+      "fat": 1.0,
+      "satFat": 0.2
     },
     {
       "text": "300ml chicken stock (1 chicken stock cube dissolved in 300ml boiling water)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 12,
+      "protein": 0.9,
+      "carbs": 1.2,
+      "fat": 0.3,
+      "satFat": 0.0
     },
     {
       "text": "2 tbsp Worcestershire sauce or Henderson’s relish",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 30,
+      "protein": 0.0,
+      "carbs": 7.2,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",
@@ -93,11 +93,11 @@
     },
     {
       "text": "200g dried spaghetti",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 700,
+      "protein": 24.0,
+      "carbs": 144.0,
+      "fat": 3.0,
+      "satFat": 0.6
     }
   ],
   "steps": [

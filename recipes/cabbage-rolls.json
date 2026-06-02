@@ -13,83 +13,83 @@
   "ingredients": [
     {
       "text": "1 large head of cabbage, whole",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 234,
+      "protein": 11.7,
+      "carbs": 45.0,
+      "fat": 0.9,
+      "satFat": 0.0
     },
     {
       "text": "100g uncooked rice",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 350,
+      "protein": 7.0,
+      "carbs": 78.0,
+      "fat": 0.6,
+      "satFat": 0.1
     },
     {
       "text": "2 large onions, peeled and finely chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
     },
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "500g 5%-fat minced beef",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 680,
+      "protein": 105.0,
+      "carbs": 0.0,
+      "fat": 25.0,
+      "satFat": 11.0
     },
     {
       "text": "2 tsp Worcestershire sauce",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.0,
+      "carbs": 2.4,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2 tsp garlic granules",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.0,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1 tsp dried parsley",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.3,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "2 tbsp tomato puree",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 30,
+      "protein": 1.6,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "1 red wine or beef stock pot",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 4,
+      "protein": 0.3,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "sea salt and freshly ground black pepper",

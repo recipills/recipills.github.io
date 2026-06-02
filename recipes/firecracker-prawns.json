@@ -13,107 +13,107 @@
   "ingredients": [
     {
       "text": "low-calorie cooking spray",
-      "kcal": 0,
+      "kcal": 1,
       "protein": 0,
       "carbs": 0,
-      "fat": 0,
+      "fat": 0.1,
       "satFat": 0
     },
     {
       "text": "2 red peppers, deseeded and sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 99,
+      "protein": 3.2,
+      "carbs": 19.2,
+      "fat": 1.0,
+      "satFat": 0.0
     },
     {
       "text": "4 spring onions, finely chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 20,
+      "protein": 1.2,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "1–2 chillies (depending on your taste), deseeded and sliced",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "100g baby corn, cut into 3",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 26,
+      "protein": 2.5,
+      "carbs": 5.0,
+      "fat": 0.3,
+      "satFat": 0.0
     },
     {
       "text": "100g mangetouts, cut in half",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 32,
+      "protein": 3.6,
+      "carbs": 4.0,
+      "fat": 0.2,
+      "satFat": 0.0
     },
     {
       "text": "400g raw king prawns, peeled and deveined",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 280,
+      "protein": 60.0,
+      "carbs": 0.0,
+      "fat": 2.4,
+      "satFat": 0.4
     },
     {
       "text": "2 garlic cloves, peeled and chopped",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "4 tbsp oyster sauce",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 32,
+      "protein": 1.2,
+      "carbs": 6.4,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "4 tbsp soy sauce",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 36,
+      "protein": 4.0,
+      "carbs": 3.2,
+      "fat": 0.0,
+      "satFat": 0.0
     },
     {
       "text": "2 tsp tomato puree",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 2.0,
+      "fat": 0.1,
+      "satFat": 0.0
     },
     {
       "text": "juice of ½ lime",
-      "kcal": 0,
+      "kcal": 3,
       "protein": 0,
-      "carbs": 0,
+      "carbs": 1,
       "fat": 0,
       "satFat": 0
     },
     {
       "text": "½ tsp granulated sweetener (or use sugar if you prefer)",
-      "kcal": 0,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 0,
-      "satFat": 0
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
     }
   ],
   "steps": [
