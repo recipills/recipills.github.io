@@ -1,0 +1,122 @@
+{
+  "id": "yeung-chow-fried-rice",
+  "title": "Yeung Chow Fried Rice",
+  "description": "We love a Chinese takeaway, but we don’t love how unhealthy they can be. This Yeung Chow Fried Rice tastes as good as the real thing but comes in at 400 calories per serving.",
+  "cuisine": "Asian",
+  "category": "Dinner",
+  "tags": [
+    "eggs",
+    "rice"
+  ],
+  "prepTime": 20,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "150g pork loin steaks, cut into strips",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "200g long-grain rice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 medium egg, beaten",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g frozen peas",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "bunch of spring onions, trimmed and thinly sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 carrot, peeled and coarsely grated or cut into thin strips (julienne)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g cooked ham, diced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g cooked prawns",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp soy sauce",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "chilli sauce, to serve (optional)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Mix the marinade ingredients together in a bowl, add the pork loin strips\nand mix until well coated. Cover and refrigerate for 20 minutes.",
+    "Cook the rice according to packet instructions, fluff up with a fork, then\nallow to cool.\n\nHeat a wok over a medium heat and scramble the egg. Place on a plate\nand put to one side.",
+    "Wipe out the wok, spray with low-calorie cooking spray and place over a\nhigh heat. Add the marinated pork strips and stir-fry for 5 minutes, until\nthe pork is cooked. Add the peas, onions, ham, carrot and prawns and\nstir-fry for another minute.",
+    "Add the cooked rice, cooked egg and tablespoon of soy sauce. Continue\nto stir-fry, until the ingredients are well combined and the rice is\nthoroughly heated, then serve."
+  ],
+  "macros": {
+    "kcal": 400,
+    "protein": 27,
+    "carbs": 52,
+    "fat": 10,
+    "satFat": 3.2,
+    "fibre": 6.1,
+    "sugar": 7.9,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

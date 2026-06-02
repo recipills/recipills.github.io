@@ -1,0 +1,144 @@
+{
+  "id": "ramen-bowls",
+  "title": "Ramen Bowls",
+  "description": "There are many different ways to make Ramen Bowls, but we think our shoyu (soy sauce) version is pretty great! Each portion is full of goodness, packing in six different types of veg.",
+  "cuisine": "Asian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 20,
+  "cookTime": 30,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "200g Tenderstem broccoli",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 medium onion, peeled and sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 garlic cloves, peeled and finely grated",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2.5cm (1in) piece of root ginger, peeled and grated",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ fresh chilli, finely chopped (or a pinch of dried chilli flakes)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1.2 litres chicken stock (2 chicken stock cubes dissoved in 1.2 litres water)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp oyster sauce",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3 tbsp rice vinegar",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp fish sauce",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "9 tbsp soy sauce",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300g chicken breast (skin and visible fat removed)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g spring green cabbage, trimmed and shredded",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 nests dry egg noodles",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Trim the florets off the broccoli, place to one side, and thinly slice the\nremaining stems. Spray a wok with low-calorie cooking spray. Add the\nonion and broccoli stems and stir-fry for 1 minute.\n\nAdd half of the garlic, three-quarters of the ginger, and the chilli, and\ncontinue cooking for another minute. Add the stock, oyster sauce, rice\nvinegar, fish sauce and 8 tablespoons of the soy sauce to the wok and\nbring to a boil. Add the chicken and reduce the heat to a simmer. Poach\nthe chicken for 15–20 minutes, until it is cooked and there is no pink\ninside.",
+    "Meanwhile, boil the eggs for 7 minutes. While the eggs are boiling,\nprepare a dish of cold or iced water. When the timer is up, plunge the\neggs into the bowl of water. Carefully removed the shells and cut in half.",
+    "When the chicken is cooked, remove from the broth and shred. Keep to\none side. Add the shredded cabbage to the pan,and cook for 2–3\nminutes. Stir-fry the broccoli florets in a separate frying pan or wok with\nthe remaining garlic, and the ginger and soy sauce.",
+    "Cook the noodles in a pan of boiling salted water for 4 minutes, then\ndrain.",
+    "Assemble the ramen bowls. Evenly distribute the noodles between four\nbowls. Spoon over the cabbage and broth. Arrange the carrots, pepper,\nspring onions, shredded chicken and stir-fried broccoli on top. Top each\nbowl with two egg halves and serve, with lime cheeks for squeezing over\n(if desired)."
+  ],
+  "macros": {
+    "kcal": 372,
+    "protein": 34,
+    "carbs": 34,
+    "fat": 8.6,
+    "satFat": 2,
+    "fibre": 8.9,
+    "sugar": 17,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

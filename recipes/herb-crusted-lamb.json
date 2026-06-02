@@ -1,0 +1,90 @@
+{
+  "id": "herb-crusted-lamb",
+  "title": "Herb-Crusted Lamb",
+  "description": "Lean lamb can be a little flavourless and dry if you don’t pack it full of herbs and spices to enhance the taste. This herby crumb is a great way of adding fresh flavours to the meat and texture along with the breadcrumbs.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [
+    "meat"
+  ],
+  "prepTime": 5,
+  "cookTime": 25,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "4 medium lamb leg steaks (about 500g total)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "60g wholemeal bread",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 garlic clove, peeled",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp fresh rosemary leaves",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp fresh parsley leaves",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 170°C (fan 150°C/gas mark 3).",
+    "Line a baking tray with greaseproof paper. Place the lamb steaks on the\nbaking tray.",
+    "Put all of the remaining ingredients (except the salt and pepper and low-\ncalorie cooking spray) into a mini electric chopper or food processor. Blitz\n\ninto fine breadcrumbs and season with salt and pepper.",
+    "Carefully spoon the herby breadcrumbs over the lamb and gently pat\ndown. Spray with low-calorie cooking spray and cook in the oven for 25\nminutes until the lamb is cooked and the topping is golden.",
+    "Serve with your choice of accompaniment. The lamb can also be frozen\nonce cooled – defrost fully then reheat until piping hot."
+  ],
+  "macros": {
+    "kcal": 235,
+    "protein": 27,
+    "carbs": 6.2,
+    "fat": 11,
+    "satFat": 4.7,
+    "fibre": 1.3,
+    "sugar": 0.5,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

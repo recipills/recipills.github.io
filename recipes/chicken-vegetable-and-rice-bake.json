@@ -1,0 +1,131 @@
+{
+  "id": "chicken-vegetable-and-rice-bake",
+  "title": "Chicken, Vegetable and Rice Bake",
+  "description": "This simple bake is fuss-free and really easy to make. We’ve chosen an array of vegetables for this dish and the beauty of it is that you can choose whatever you like; tomatoes, cauliflower, carrots – anything goes!",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [
+    "bake",
+    "meat",
+    "vegetarian",
+    "rice"
+  ],
+  "prepTime": 5,
+  "cookTime": 50,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "600g chicken thigh fillets (skin and visible fat removed) cut into 2cm (¾ in) pieces",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300g basmati rice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "600ml chicken stock (1 chicken stock pot dissolved in 600ml boiling water)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "150g broccoli, cut into small florets",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 yellow pepper, deseeded and cut into 2cm (¾ in) dice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 red pepper, deseeded and cut into 2cm (¾ in) dice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 small onion, peeled and roughly chopped",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 courgette, cut into 2cm (¾ in) dice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp mild curry powder",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp ground turmeric",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp garlic granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 170°C (fan 150°C/gas mark 3).",
+    "Place all of the ingredients in a large, ovenproof baking dish. Mix well,\nseason with salt and pepper and place in the oven for 25 minutes.",
+    "Remove from the oven, stir and put back into the oven for another 20–25\nminutes, until the rice is cooked through. Serve while piping hot.\n\nHOW to BATCH\nCool within 1 hour of cooking, then divide into individual portions and\nfreeze immediately. Find detailed guidelines on storing and reheating\nrice on page 11."
+  ],
+  "macros": {
+    "kcal": 374,
+    "protein": 25,
+    "carbs": 43,
+    "fat": 11,
+    "satFat": 2.8,
+    "fibre": 3.5,
+    "sugar": 3.7,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

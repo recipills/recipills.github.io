@@ -1,0 +1,131 @@
+{
+  "id": "monte-cristo-sandwich",
+  "title": "Monte Cristo Sandwich",
+  "description": "This sandwich is a variation on the classic croque monsieur. A fried ham-and-cheese sandwich doesn’t sound like something you can enjoy while slimming, but by measuring your cheese and cooking with low-calorie cooking spray you can recreate the amazing flavours but keep the calories low.",
+  "cuisine": "French",
+  "category": "Breakfast",
+  "tags": [
+    "sandwich"
+  ],
+  "prepTime": 5,
+  "cookTime": 4,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "2 slices of wholemeal bread",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "20g reduced-fat Cheddar",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 slices of lean ham (about 50g)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ spring onion, trimmed and thinly sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 cherry tomato, thinly sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3 spinach leaves, roughly chopped",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 small egg",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp fat-free natural yoghurt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp Worcestershire sauce or Henderson’s relish",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp mustard powder",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "2 slices of wholemeal bread\n20g reduced-fat Cheddar\n2 slices of lean ham (about 50g)\n½ spring onion, trimmed and thinly sliced\n1 cherry tomato, thinly sliced\n3 spinach leaves, roughly chopped\n1 small egg\n1 tsp fat-free natural yoghurt\n½ tsp Worcestershire sauce or Henderson’s relish\n¼ tsp mustard powder\nsea salt and freshly ground black pepper\nlow-calorie cooking spray",
+    "Cut the crusts off the slices of bread. Grate the cheese with a fine grater\nand sprinkle half of it onto one slice of the bread. Layer the ham, spring\nonion, tomato slices and spinach on top. Sprinkle over the other half of\nthe cheese and place the second piece of bread on top. Press down on\nthe sandwich to flatten it.",
+    "In a shallow bowl, beat the egg with the natural yoghurt and\n\nWorcestershire sauce. Season the egg with mustard powder, salt and\npepper. Dip the sandwich in the egg, turning it over to make sure both\nsides of the bread have been soaked well.",
+    "Liberally spray a non-stick frying pan with low-calorie cooking spray and\nturn the heat up to medium. When the pan is hot and the cooking spray is\nbubbling, place the sandwich in the pan.",
+    "Cook for 1–2 minutes. Spray the top side of the sandwich with low-calorie\ncooking spray before flipping it over, then cook for another 1–2 minutes.\nThe sandwich is ready when it looks golden and toasted, and the cheese\nhas melted.",
+    "Slice the sandwich in half with a sharp knife and serve hot."
+  ],
+  "macros": {
+    "kcal": 379,
+    "protein": 29,
+    "carbs": 28,
+    "fat": 15,
+    "satFat": 5.3,
+    "fibre": 5.5,
+    "sugar": 4.1,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

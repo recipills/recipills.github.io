@@ -1,0 +1,106 @@
+{
+  "id": "chicken-and-asparagus-quiche",
+  "title": "Chicken and Asparagus Quiche",
+  "description": "Quiche is definitely a party staple, and this chicken and asparagus version offers a protein-filled light dish to take to your next celebration.",
+  "cuisine": "British",
+  "category": "Lunch",
+  "tags": [
+    "meat"
+  ],
+  "prepTime": 5,
+  "cookTime": 32,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "1 chicken breast (skin and visible fat removed), cut into 1cm (½ in) chunks",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 large onion, peeled and finely chopped",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100ml chicken stock (1 chicken stock cube dissolved in 100ml boiling water)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "8 eggs",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp quark",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "60g reduced-fat Cheddar, finely grated",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "125g asparagus spears, trimmed and cut into 1cm (½ in) pieces",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C (fan 180°C/gas mark 6).",
+    "Put the chicken and onion in a frying pan and spray with some low-\ncalorie cooking spray. Gently sauté over a medium heat for 2 minutes,\nuntil the chicken is white on the outside. It won’t be cooked fully, only the\noutside will be coloured.",
+    "Add the stock to the pan and simmer for 5 minutes, until the onions are\nsoft, the chicken is cooked through and there is no liquid left in the pan.\n\nSeason with salt and pepper.",
+    "Beat the eggs and quark together in a bowl until smooth, add half the\ngrated cheese and season with salt and pepper. Add the chicken, onion\nand asparagus to a roughly 23cm (9in) flan dish. Pour over the egg\nmixture. Sprinkle the other half of the grated cheese on top. Place the\ndish in the centre of the oven for 25 minutes, or until the quiche has set\nall the way through and is golden on top.",
+    "Remove from the oven and serve hot or cold. You can also cover and\nfreeze for another day once cooled."
+  ],
+  "macros": {
+    "kcal": 192,
+    "protein": 20,
+    "carbs": 4.3,
+    "fat": 10,
+    "satFat": 3.4,
+    "fibre": 2.5,
+    "sugar": 3.1,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

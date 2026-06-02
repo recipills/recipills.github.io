@@ -1,0 +1,80 @@
+{
+  "id": "batatas-picantes",
+  "title": "Batatas Picantes",
+  "description": "We’ve given the classic patatas bravas the Pinch of Nom twist, and used sweet potatoes and low-fat cooking spray to keep the calories down. These are a perfect treat for dinner parties, where everybody can help themselves to everything they fancy.",
+  "cuisine": "Latin",
+  "category": "Side",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 60,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "1kg sweet potatoes, peeled and diced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp sweet paprika",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp garlic granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp onion granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C (fan 180°C/gas mark 6).",
+    "Put the potatoes into a large roasting dish and spray liberally with low-\n\ncalorie cooking spray. Season the potatoes with salt and pepper and the\npaprika, garlic granules and onion granules, making sure to toss them\nand coat them evenly. Spread them out so they are in a single layer. Put\nthe roasting dish into the middle of the preheated oven for around 1 hour,\nmaking sure to turn occasionally.",
+    "Put the passata, balsamic vinegar, Worcestershire sauce, paprika, garlic\ngranules, chilli powder and a pinch each of salt and pepper in a\nsaucepan. Gently heat just before the potatoes are ready.",
+    "When the potatoes are done, they should be a little crispy and firm, like\npotato wedges. If they are not spread out in a single layer, they may take\na little longer to cook. Once the potatoes are ready, remove from the\noven. (At this point you can cool and freeze the potatoes for later, and do\nthe same with the sauce, separately.)",
+    "Pour over the sauce and serve."
+  ],
+  "macros": {
+    "kcal": 220,
+    "protein": 4.7,
+    "carbs": 42,
+    "fat": 1.6,
+    "satFat": 0.3,
+    "fibre": 5.7,
+    "sugar": 15,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

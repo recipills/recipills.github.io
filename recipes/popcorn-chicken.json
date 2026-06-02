@@ -1,0 +1,91 @@
+{
+  "id": "popcorn-chicken",
+  "title": "Popcorn Chicken",
+  "description": "There’s no need to head to the takeaway for your favourite chicken bites! Our popcorn chicken is packed full of flavour and you can adjust the spicy heat to your taste.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "meat",
+    "eggs"
+  ],
+  "prepTime": 5,
+  "cookTime": 25,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "120g wholemeal bread",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp garlic granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp chilli powder (hot or mild, depending on taste)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp sea salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300g chicken breast (all skin and visible fat removed)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 egg",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "120g wholemeal bread\n½ tsp garlic granules\n¼ tsp chilli powder (hot or mild, depending on taste)\n½ tsp sea salt\n300g chicken breast (all skin and visible fat removed)\n1 egg\nlow-calorie cooking spray",
+    "Preheat the oven to 170ºC (fan 150ºC/gas mark 3). Line a baking tray\nwith greaseproof paper.",
+    "In a mini electric chopper or food processor, blitz the wholemeal bread\ninto fine crumbs. Place into a shallow dish with the garlic granules, chilli\npowder and salt and mix well.",
+    "Dice the chicken into bite-sized pieces (about 2cm/¾ in cubes). Beat the\negg in a bowl and add the diced chicken, stirring to ensure the chicken is\ncoated in egg. Put the chicken into the breadcrumbs, a few pieces at a\ntime. Shake the chicken around in the breadcrumbs to coat and place\n\neach piece onto the baking tray. Repeat until all the chicken is coated in\nbreadcrumbs. If you have any breadcrumbs left over, dip the breaded\nchicken into the egg again, then back into the crumbs for an extra crispy\ncoating!",
+    "Spray the chicken with low-calorie cooking spray and pop in the oven for\n20–25 minutes until golden and the chicken pieces are cooked through.\nThe chicken can also be frozen once cooled (or frozen raw and coated) –\ndefrost fully before reheating."
+  ],
+  "macros": {
+    "kcal": 356,
+    "protein": 46,
+    "carbs": 24,
+    "fat": 7.1,
+    "satFat": 1.7,
+    "fibre": 4.9,
+    "sugar": 1.8,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

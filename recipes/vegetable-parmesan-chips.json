@@ -1,0 +1,90 @@
+{
+  "id": "vegetable-parmesan-chips",
+  "title": "Vegetable Parmesan Chips",
+  "description": "Having chips on the menu doesn’t mean falling off the wagon. These crisp up really nicely in the oven and with the added rosemary and Parmesan, they taste incredible.",
+  "cuisine": "British",
+  "category": "Side",
+  "tags": [
+    "vegetarian"
+  ],
+  "prepTime": 5,
+  "cookTime": 35,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "2 small carrots, peeled and trimmed",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 small parsnips, peeled and trimmed",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 small sweet potato, peeled about 120g",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "60g Parmesan (or vegetarian hard cheese), finely grated",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp finely chopped fresh rosemary leaves",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 170°C (fan 150°C/gas mark 3).",
+    "Cut the carrots, parsnips and sweet potato into thin strips, about 5mm (¼\nin) wide. Spread evenly onto a large baking tray lined with baking\nparchment and spray with low-calorie cooking spray.",
+    "In a small bowl, mix the finely grated Parmesan with the finely chopped\nfresh rosemary. You could use the same amount of dried rosemary too,\nbut fresh is more fragrant and has a better flavour.",
+    "Sprinkle the cheese and herb mix over the chips and turn them to ensure\nan even coating. Place in the oven for 35 minutes or until golden. Check\n\nthe chips after 25 minutes to make sure they’re not beginning to burn on\nthe edges.",
+    "Remove from the oven, sprinkle with salt as required and leave for 5\nminutes before serving, as they will crisp up."
+  ],
+  "macros": {
+    "kcal": 276,
+    "protein": 13,
+    "carbs": 28,
+    "fat": 11,
+    "satFat": 6.1,
+    "fibre": 8.3,
+    "sugar": 14,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

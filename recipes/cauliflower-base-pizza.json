@@ -1,0 +1,140 @@
+{
+  "id": "cauliflower-base-pizza",
+  "title": "Cauliflower-Base Pizza",
+  "description": "We’re always on a quest for the perfect guilt-free pizza. We think this comes pretty close!",
+  "cuisine": "American",
+  "category": "Lunch",
+  "tags": [
+    "eggs"
+  ],
+  "prepTime": 10,
+  "cookTime": 35,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "1 small head of cauliflower, trimmed",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "60g Parmesan, finely grated",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 large egg",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tsp xanthan gum",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 x 150g carton passata",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp garlic granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp onion granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp dried oregano",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp dried basil",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp granulated sweetener",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "80g grated mozzarella",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "small amounts of sliced pepper, mushrooms and red onion",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "1 small head of cauliflower, trimmed\n60g Parmesan, finely grated\n1 large egg\n2 tsp xanthan gum\n1 x 150g carton passata\n1 tsp garlic granules\n½ tsp onion granules\n½ tsp dried oregano\n½ tsp dried basil\n½ tsp salt\n½ tsp granulated sweetener\n80g grated mozzarella\nsmall amounts of sliced pepper, mushrooms and red onion",
+    "Preheat the oven to 180°C (fan 160°C/gas mark 4). Line a large baking\ntray – a 29cm (11½in) round pizza tray is ideal – with greaseproof paper.",
+    "Place the cauliflower into a food processor and blitz until it’s the\nconsistency of rice. Put into a microwaveable bowl, cover with cling film\n\nand microwave on high for 4 minutes. Allow to cool slightly, then use a\nclean tea towel or fine sieve to squeeze out any excess moisture. Put the\ncauliflower in a bowl.",
+    "Add the Parmesan, egg and xanthan gum to the cauliflower and mix well.\nLeave to sit for 2 minutes, then turn out onto the lined baking tray.",
+    "Press the cauliflower mix into a circle – the diameter should be 29cm\n(11½in) – ensuring that the depth of the layer is even. Put in the oven to\ncook for 15 minutes until just turning golden.",
+    "Meanwhile, make the tomato sauce by putting the passata, garlic\ngranules, onion granules, oregano, basil, salt and sweetener in a bowl.\nMix well and set aside.",
+    "When the pizza base has finished cooking, take it out of the oven.\nSpread the tomato sauce over the base and sprinkle over the grated\nmozzarella. Top with your choice of toppings – red pepper, mushrooms\nand onions work well – and return to the oven for another 10–15 minutes\nuntil the cheese is melted and bubbling. Cut into slices and serve."
+  ],
+  "macros": {
+    "kcal": 340,
+    "protein": 27,
+    "carbs": 16,
+    "fat": 17,
+    "satFat": 9.6,
+    "fibre": 7.1,
+    "sugar": 11,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

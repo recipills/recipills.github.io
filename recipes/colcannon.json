@@ -1,0 +1,70 @@
+{
+  "id": "colcannon",
+  "title": "Colcannon",
+  "description": "This is such a simple recipe, but we promise that this Irish classic will change the way you view the lowly mashed potato. You can serve it as a side with roast meat, use it as a topping for a shepherd’s pie, or however you would usually enjoy mash.",
+  "cuisine": "British",
+  "category": "Side",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "500g potatoes, peeled and cut into chunks",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "200g savoy or green cabbage, finely shredded",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "4 spring onions, trimmed and thinly sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Place the potato in a pan of boiling salted water. Bring back to the boil,\nturn the heat down and simmer until the potatoes are soft. This should\ntake around 20–25 minutes.",
+    "While the potatoes are cooking, spray a frying pan with some low-calorie\ncooking spray, add the cabbage and spring onions and cook over a high\nheat until they are cooked, then set aside. This should take around 4 or 5\nminutes.",
+    "When the potatoes are cooked, drain them well and return them to the\npan, then, using a potato masher (or a stick blender with a masher\nattachment, if it has one), mash the potato until very smooth.\n\nStir in the cooked cabbage and spring onion, check the seasoning and\nadd some salt and pepper if necessary, and serve. The colcannon can be\nfrozen once cooled – defrost fully then reheat until piping hot."
+  ],
+  "macros": {
+    "kcal": 126,
+    "protein": 3.4,
+    "carbs": 25,
+    "fat": 0.5,
+    "satFat": 0.1,
+    "fibre": 4.3,
+    "sugar": 3.3,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "giant-baked-beans",
+  "title": "Giant Baked Beans",
+  "description": "Baked beans are a cupboard staple, but did you know that the average tin contains up to 3 teaspoons of added sugar? We think it’s much tastier (and healthier) to make your own with butter beans – plus everything is better when it’s oversized!",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "bake"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "2 x 400g tins butter beans, drained",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 x 500g carton passata",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp Worcestershire sauce or Henderson’s relish",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp balsamic vinegar",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp sweet paprika",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp onion granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp garlic granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp mustard powder",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp granulated sweetener",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "2 x 400g tins butter beans, drained\n1 x 500g carton passata\n1 tbsp Worcestershire sauce or Henderson’s relish\n1 tsp balsamic vinegar\n½ tsp sweet paprika\n1 tsp onion granules\n½ tsp garlic granules\n¼ tsp mustard powder\n½ tsp granulated sweetener\nsea salt and freshly ground black pepper",
+    "In a saucepan add the butter beans and passata. Add the Worcestershire\nsauce, balsamic vinegar, paprika, onion granules, garlic granules,\nmustard powder, sweetener and some salt and pepper. Give the beans a\nstir and gently simmer over a low heat with the saucepan lid on for 10\nminutes, stirring occasionally.",
+    "Serve on toast, with an egg, on the side of a fry-up – the possibilities are\n\nendless. The beans can be frozen once allowed to cool."
+  ],
+  "macros": {
+    "kcal": 144,
+    "protein": 9.9,
+    "carbs": 24,
+    "fat": 0.9,
+    "satFat": 0.1,
+    "fibre": 6.8,
+    "sugar": 9.4,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

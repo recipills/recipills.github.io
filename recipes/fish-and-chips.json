@@ -1,0 +1,96 @@
+{
+  "id": "fish-and-chips",
+  "title": "Fish and Chips",
+  "description": "This is our Pinch of Nom take on the classic British dish, using breadcrumbs to coat the fish instead of a high-calorie batter. This is the ultimate Friday-night fakeaway, and could be enjoyed with a side of our French Peas (see page 226).",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [
+    "seafood"
+  ],
+  "prepTime": 15,
+  "cookTime": 40,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "800g potatoes, peeled",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "30g wholemeal bread",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 lemon",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp chives, fresh chopped or dried",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "4 skinless cod fillets or similar (about 150g each)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Start with the chips as they take longer to make than the fish.",
+    "Preheat the oven to 200°C (fan 180°C/gas mark 6).\n\nCut the peeled potatoes into 1cm (½ in) slices, and then into 1cm (½ in)\nstrips to make chips.",
+    "Place the potatoes into a large bowl of cold water and rinse well. Drain\nthe water, pat dry with some kitchen towel and spray with low-calorie\ncooking spray until they are all coated. Season with some salt.",
+    "Place onto a non-stick baking tray and cook in the oven for 20 minutes.\nAfter 20 minutes, turn the chips over on the baking tray, spray with some\nmore low-calorie cooking spray and return to the oven for a further 15–20\nminutes until golden.",
+    "Cut the peeled potatoes into 1cm (½ in) slices, and then into 1cm (½ in)\nstrips to make chips. Place the potatoes in a large bowl of cold water and\nrinse well.",
+    "Drain the water, pat dry with some kitchen towel and spray with low-\ncalorie cooking spray until they are all coated. Season with salt.",
+    "Place into the air fryer. Set the air fryer to 180°C and cook for 15–20\nminutes, shake them around halfway through to make sure they cook\nevenly. After 15–20 minutes, check to see if the chips are done. If not,\ncook for a further 5 minutes at a time until they are cooked and golden\nbrown.",
+    "Preheat the oven to 200°C (fan 180°C/gas mark 6).",
+    "Using a food processor, blitz the bread into fine breadcrumbs and set\naside in a bowl. Using a fine grater or zester, remove the zest from the\nlemon and add it to the breadcrumbs, along with the chives and some\nsalt and pepper. Stir well.",
+    "Pat the fish dry using some kitchen towel, then place the fillets on a\nbaking tray that has been sprayed with some low-calorie cooking spray.\n\nSeason the fish with a little salt and pepper, then divide the breadcrumb\ntopping into four equal portions and place on top of the fish. Pat it down\ngently to form a crust, and so that it doesn’t fall off!",
+    "Cook in the oven for about 10 minutes, until the fish is opaque, and serve\nwith the chips."
+  ],
+  "macros": {
+    "kcal": 333,
+    "protein": 32,
+    "carbs": 42,
+    "fat": 2.8,
+    "satFat": 0.6,
+    "fibre": 5.3,
+    "sugar": 2.4,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

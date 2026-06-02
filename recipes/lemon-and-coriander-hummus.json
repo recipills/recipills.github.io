@@ -1,0 +1,85 @@
+{
+  "id": "lemon-and-coriander-hummus",
+  "title": "Lemon and Coriander Hummus",
+  "description": "This hummus is fresh and zingy with lemon, making it the perfect dip for veggie sticks. We use butter beans to both reduce calories and give a creamier, less gritty texture than making it with chickpeas.",
+  "cuisine": "British",
+  "category": "Side",
+  "tags": [],
+  "prepTime": 2,
+  "cookTime": 0,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "25g bunch of coriander, leaves only, plus extra leaves to serve",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 x 400g tin butter beans, drained",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "70g fat-free natural yoghurt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "zest and juice of 1 lemon, plus",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "extra slices to serve",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tsp garlic granules",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Roughly chop the coriander leaves. Add half of the coriander to a blender\nwith the butter beans, natural yoghurt, lemon juice and zest, garlic\ngranules and a pinch each of salt and pepper. Blitz until coarsely\nblended, then stir in the other half of the coriander.",
+    "Serve, garnished with lemon slices and more coriander leaves."
+  ],
+  "macros": {
+    "kcal": 80,
+    "protein": 4.8,
+    "carbs": 13,
+    "fat": 0.6,
+    "satFat": 0.1,
+    "fibre": 1.7,
+    "sugar": 1.8,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

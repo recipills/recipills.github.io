@@ -1,0 +1,127 @@
+{
+  "id": "spring-vegetable-soup",
+  "title": "Spring Vegetable Soup",
+  "description": "This warming soup packs in so many spring veggies, and can be chilled after cooking to use as lunch for the rest of the week. It’s so easy to make: just throw everything into the pan and simmer!",
+  "cuisine": "British",
+  "category": "Lunch",
+  "tags": [
+    "soup",
+    "vegetarian"
+  ],
+  "prepTime": 15,
+  "cookTime": 50,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g leeks, trimmed, washed and thinly sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g carrots, peeled and cut into a medium-sized dice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "50g celery, cut into a medium-sized dice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g turnip, peeled and cut into a medium-sized dice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "60g green cabbage, trimmed and finely shredded",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1.5 litres vegetable stock (3 vegetable stock cubes dissolved in 1.5 litres boiling water)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp dried sage",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp dried thyme",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "50g barley",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g potatoes, peeled and cut into a medium-sized dice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "60g frozen peas",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a large pan with some low-calorie cooking spray, place over a\nmedium heat, add the leeks, carrots and celery and sauté for 4–5\nminutes, until they start to soften. Add the turnip, cabbage, stock, herbs\nand barley, then bring to the boil. Turn down the heat and simmer for 25\nminutes, then add the potato.\n\nCook for another 20 minutes. Add the peas, then cook for another minute\nor two. Check the seasoning and serve. The soup can also be frozen\nonce cooled – defrost fully then reheat until piping hot."
+  ],
+  "macros": {
+    "kcal": 134,
+    "protein": 4.5,
+    "carbs": 21,
+    "fat": 2.7,
+    "satFat": 0.2,
+    "fibre": 4.2,
+    "sugar": 5.3,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

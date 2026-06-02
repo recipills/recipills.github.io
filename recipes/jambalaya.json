@@ -1,0 +1,142 @@
+{
+  "id": "jambalaya",
+  "title": "Jambalaya",
+  "description": "Jambalaya, a traditional Louisiana dish, contains sausage as a staple ingredient. Its tomato-based sauce tastes incredible combined with the Cajun spice mix.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300g diced chicken",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 bell peppers, deseeded and diced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 onion, peeled and finely diced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 celery sticks, sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 garlic cloves, peeled and minced or finely chopped",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1–2 tbsp Cajun seasoning",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp smoked paprika",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp dried oregano",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "200g American long-grain rice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 x 400g tin chopped tomatoes",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "400ml chicken stock (2 chicken stock cubes dissolved in 400ml boiling water)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp Worcestershire sauce or Henderson’s relish",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3 cooked low-fat sausages, sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "low-calorie cooking spray\n300g diced chicken\n2 bell peppers, deseeded and diced\n1 onion, peeled and finely diced\n2 celery sticks, sliced\n2 garlic cloves, peeled and minced or finely chopped\n1–2 tbsp Cajun seasoning\n1 tsp smoked paprika\n½ tsp dried oregano\n200g American long-grain rice\n1 x 400g tin chopped tomatoes\n400ml chicken stock (2 chicken stock cubes dissolved in 400ml boiling water)\n1 tbsp Worcestershire sauce or Henderson’s relish\n3 cooked low-fat sausages, sliced",
+    "Spray a large, shallow casserole dish with low-calorie cooking spray, add\nthe chicken and cook over a medium–high heat for 2–3 minutes. Add the\npeppers, onion and celery and cook for another minute.",
+    "Add the garlic, Cajun spice (according to taste), paprika and oregano,\nand cook for a further minute, to release the flavours.\n\nAdd the rice, chopped tomatoes, stock and Worcestershire sauce. Stir in\nthe sausages and bring to the boil. Reduce the heat to low, cover and\ncook for 25 minutes, or until all the liquid has been absorbed and the rice\nis tender."
+  ],
+  "macros": {
+    "kcal": 398,
+    "protein": 32.9,
+    "carbs": 55.8,
+    "fat": 5,
+    "satFat": 1.2,
+    "fibre": 4.7,
+    "sugar": 12.2,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

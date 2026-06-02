@@ -1,0 +1,87 @@
+{
+  "id": "breakfast-banana-split",
+  "title": "Breakfast Banana Split",
+  "description": "One of Kate’s favourite desserts as a child was a banana split; the more cream, the better! This simple twist of using flavoured yoghurt makes it much friendlier to the waistline while making it perfect for a quick breakfast without the need to cook.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "2 bananas (about 160g each)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "200g fat-free Greek yoghurt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp granulated sweetener tsp vanilla extract",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "10 blueberries",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "4 strawberries",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "25g flaked almonds (toast them if you wish)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 fresh cherries",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "2 bananas (about 160g each)\n200g fat-free Greek yoghurt\n1 tbsp granulated sweetener tsp vanilla extract\n10 blueberries\n4 strawberries\n25g flaked almonds (toast them if you wish)\n2 fresh cherries",
+    "Peel the bananas and slice them in half lengthways. Arrange them on\ntwo plates.",
+    "Mix the Greek yoghurt, sweetener and vanilla extract together. Thinly\nslice the blueberries and strawberries, reserving two strawberry halves\nfor garnish. Stir the sliced berries into the yoghurt.",
+    "Spoon the yoghurt mix onto the middle of the bananas. Sprinkle the\nflaked almonds on top and decorate with a fresh cherry and the reserved\nhalved strawberries.\n\nTip\nDon’t like nuts? You could use a sprinkling\n of your favourite cereal or muesli in this"
+  ],
+  "macros": {
+    "kcal": 232,
+    "protein": 14,
+    "carbs": 27,
+    "fat": 5.7,
+    "satFat": 0.5,
+    "fibre": 3.8,
+    "sugar": 25,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}
