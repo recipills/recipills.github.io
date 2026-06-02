@@ -1,0 +1,42 @@
+{
+  "id": "chocolate-lava-cake",
+  "title": "Chocolate Lava Cake",
+  "description": "Individual warm chocolate cakes with a molten, flowing centre. Elegant enough for a dinner party, easy enough for a weeknight.",
+  "cuisine": "French",
+  "category": "Dessert",
+  "tags": ["chocolate", "baking", "dinner party", "make-ahead"],
+  "prepTime": 15,
+  "cookTime": 12,
+  "servings": 4,
+  "ingredients": [
+    { "text": "150g dark chocolate (70%), chopped",          "kcal": 788, "protein": 8,  "carbs": 63, "fat": 54, "satFat": 32 },
+    { "text": "150g unsalted butter, plus extra for greasing","kcal": 1079,"protein": 1,  "carbs": 0,  "fat": 122,"satFat": 77 },
+    { "text": "3 large eggs",                                "kcal": 210, "protein": 18, "carbs": 2,  "fat": 15, "satFat": 4  },
+    { "text": "3 egg yolks",                                 "kcal": 165, "protein": 8,  "carbs": 2,  "fat": 14, "satFat": 4  },
+    { "text": "150g caster sugar",                           "kcal": 581, "protein": 0,  "carbs": 150,"fat": 0,  "satFat": 0  },
+    { "text": "50g plain flour",                             "kcal": 177, "protein": 5,  "carbs": 38, "fat": 1,  "satFat": 0  },
+    { "text": "Cocoa powder, for dusting",                   "kcal": 10,  "protein": 1,  "carbs": 2,  "fat": 1,  "satFat": 0  },
+    { "text": "Vanilla ice cream or cream, to serve",        "kcal": 100, "protein": 1,  "carbs": 10, "fat": 6,  "satFat": 4  }
+  ],
+  "steps": [
+    "Preheat oven to 200°C. Butter 4 ramekins and dust with cocoa powder, tapping out any excess.",
+    "Melt chocolate and butter together in a heatproof bowl over simmering water. Stir until smooth and let cool slightly.",
+    "Whisk eggs, yolks, and sugar until pale and thick, about 3 minutes.",
+    "Fold chocolate mixture into the egg mixture, then sift in flour and fold until just combined.",
+    "Divide batter among ramekins. At this point they can be refrigerated for up to 24 hours.",
+    "Bake 10–12 minutes until the edges are set but the centre still has a wobble.",
+    "Run a knife around the edge, invert onto plates, and serve immediately with ice cream."
+  ],
+  "macros": {
+    "kcal":    777,
+    "protein": 11,
+    "carbs":   67,
+    "fat":     53,
+    "satFat":  30,
+    "fibre":   3,
+    "sugar":   58,
+    "iron":    4.1
+  },
+  "notes": "Baking time is critical — 10 mins for very runny, 12 for just-set. Test with one ramekin first if unsure of your oven.",
+  "source": "Classic French Patisserie"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "miso-glazed-salmon",
+  "title": "Miso Glazed Salmon",
+  "description": "Salmon fillets marinated in a sweet-salty miso glaze, then broiled until caramelised. A weeknight staple that feels special.",
+  "cuisine": "Japanese",
+  "category": "Dinner",
+  "tags": ["fish", "quick", "healthy", "umami", "gluten-free"],
+  "prepTime": 5,
+  "cookTime": 12,
+  "servings": 2,
+  "ingredients": [
+    { "text": "2 salmon fillets (180g each), skin on", "kcal": 468, "protein": 50, "carbs": 0,  "fat": 28, "satFat": 5  },
+    { "text": "2 tbsp white miso paste",               "kcal": 68,  "protein": 4,  "carbs": 9,  "fat": 2,  "satFat": 0  },
+    { "text": "1 tbsp mirin",                          "kcal": 45,  "protein": 0,  "carbs": 10, "fat": 0,  "satFat": 0  },
+    { "text": "1 tbsp sake or dry sherry",             "kcal": 14,  "protein": 0,  "carbs": 1,  "fat": 0,  "satFat": 0  },
+    { "text": "1 tsp soy sauce",                       "kcal": 3,   "protein": 0,  "carbs": 0,  "fat": 0,  "satFat": 0  },
+    { "text": "1 tsp sesame oil",                      "kcal": 40,  "protein": 0,  "carbs": 0,  "fat": 5,  "satFat": 1  },
+    { "text": "1 tsp sugar",                           "kcal": 16,  "protein": 0,  "carbs": 4,  "fat": 0,  "satFat": 0  },
+    { "text": "Spring onions and sesame seeds, to serve","kcal": 20, "protein": 1,  "carbs": 2,  "fat": 1,  "satFat": 0  }
+  ],
+  "steps": [
+    "Mix miso, mirin, sake, soy sauce, sesame oil, and sugar into a smooth paste.",
+    "Coat salmon fillets generously with the marinade. Leave for at least 30 minutes, or up to 24 hours in the fridge.",
+    "Preheat grill/broiler to high. Line a tray with foil.",
+    "Wipe excess marinade from salmon (it burns easily) and place skin-side down on the tray.",
+    "Grill for 10–12 minutes until glaze is deeply caramelised and fish flakes easily. No need to flip.",
+    "Scatter with sliced spring onions and sesame seeds. Serve with steamed rice."
+  ],
+  "macros": {
+    "kcal":    337,
+    "protein": 28,
+    "carbs":   13,
+    "fat":     18,
+    "satFat":  3,
+    "fibre":   1,
+    "sugar":   7,
+    "iron":    1.8
+  },
+  "notes": "White miso is milder and sweeter than red; either works but reduce sugar slightly with red miso. The longer the marinade, the deeper the flavour.",
+  "source": "Japanese Home Cooking"
+}
