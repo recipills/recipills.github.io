@@ -1,41 +1,507 @@
-{
-  "id": "pasta-carbonara",
-  "title": "Pasta Carbonara",
-  "description": "A classic Roman pasta made with eggs, Pecorino Romano, guanciale, and black pepper. Rich, silky, and deeply satisfying.",
-  "cuisine": "Italian",
-  "category": "Dinner",
-  "tags": ["pasta", "quick", "egg", "cheese", "roman"],
-  "prepTime": 10,
-  "cookTime": 20,
-  "servings": 4,
-  "ingredients": [
-    { "text": "400g spaghetti or rigatoni",        "kcal": 588, "protein": 20, "carbs": 120, "fat": 2,  "satFat": 0.4 },
-    { "text": "200g guanciale or pancetta, diced", "kcal": 680, "protein": 18, "carbs": 0,   "fat": 66, "satFat": 24  },
-    { "text": "4 large eggs",                      "kcal": 280, "protein": 24, "carbs": 2,   "fat": 20, "satFat": 6   },
-    { "text": "2 egg yolks",                       "kcal": 110, "protein": 5,  "carbs": 1,   "fat": 9,  "satFat": 3   },
-    { "text": "100g Pecorino Romano, finely grated","kcal": 390, "protein": 26, "carbs": 0,   "fat": 32, "satFat": 21  },
-    { "text": "50g Parmesan, finely grated",        "kcal": 196, "protein": 18, "carbs": 0,   "fat": 13, "satFat": 8   },
-    { "text": "Black pepper, freshly cracked",      "kcal": 0,   "protein": 0,  "carbs": 0,   "fat": 0,  "satFat": 0   },
-    { "text": "Salt, for pasta water",              "kcal": 0,   "protein": 0,  "carbs": 0,   "fat": 0,  "satFat": 0   }
-  ],
-  "steps": [
-    "Bring a large pot of salted water to a boil. Cook pasta until al dente, reserving 1 cup of pasta water before draining.",
-    "Fry guanciale in a cold pan over medium heat until crispy and fat has rendered, about 8 minutes. Remove from heat.",
-    "Whisk eggs, yolks, Pecorino, and Parmesan together with a generous amount of cracked black pepper.",
-    "Add drained pasta to the pan with guanciale (off heat). Toss to coat in the fat.",
-    "Pour egg mixture over pasta, tossing constantly and adding pasta water a splash at a time until a glossy, creamy sauce forms.",
-    "Serve immediately with extra Pecorino and black pepper."
-  ],
-  "macros": {
-    "kcal":    561,
-    "protein": 28,
-    "carbs":   31,
-    "fat":     35,
-    "satFat":  15,
-    "fibre":   2,
-    "sugar":   1,
-    "iron":    3.2
-  },
-  "notes": "The key is temperature control — the pan must be off the heat when you add the egg mixture or it will scramble. Work quickly.",
-  "source": "Classic Roman"
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recipe Library</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Outfit:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f7f4ef;
+      --bg2:       #eeebe4;
+      --surface:   #ffffff;
+      --border:    #ddd8ce;
+      --text:      #1c1a16;
+      --text2:     #6b6456;
+      --text3:     #a09880;
+      --accent:    #8b4513;
+      --accent2:   #c8763a;
+      --gold:      #b8860b;
+      --shadow:    0 2px 12px rgba(0,0,0,0.07);
+      --shadow-lg: 0 8px 32px rgba(0,0,0,0.12);
+    }
+
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg); color: var(--text);
+      font-family: 'Outfit', sans-serif; font-weight: 300;
+      line-height: 1.6; min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    .site-header {
+      background: var(--text); color: var(--bg);
+      padding: 2.5rem 2rem 2rem; text-align: center;
+      position: relative; overflow: hidden;
+    }
+    .site-header::before {
+      content: ''; position: absolute; inset: 0;
+      background: repeating-linear-gradient(45deg,transparent,transparent 40px,rgba(255,255,255,.015) 40px,rgba(255,255,255,.015) 80px);
+    }
+    .header-inner { position: relative; z-index: 1; }
+    .site-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(2.2rem,5vw,3.5rem); font-weight: 400;
+      letter-spacing: .04em; color: #f7f4ef; line-height: 1.1;
+    }
+    .site-title em { font-style: italic; color: #d4a96a; }
+    .site-subtitle { margin-top: .5rem; font-size: .85rem; color: #9a9080; letter-spacing: .12em; text-transform: uppercase; }
+    .recipe-count-badge {
+      display: inline-block; margin-top: 1rem;
+      padding: .3rem .9rem; border: 1px solid #3a3530;
+      border-radius: 20px; font-size: .75rem; color: #9a9080; letter-spacing: .06em;
+    }
+
+    /* ── Controls ── */
+    .controls-bar {
+      position: sticky; top: 0; z-index: 50;
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: .9rem 1.5rem; display: flex; gap: .75rem; flex-wrap: wrap; align-items: center;
+      box-shadow: var(--shadow);
+    }
+    .search-wrap { position: relative; flex: 1; min-width: 180px; }
+    .search-icon { position: absolute; left: .75rem; top: 50%; transform: translateY(-50%); color: var(--text3); pointer-events: none; }
+    .search-input {
+      width: 100%; padding: .55rem .75rem .55rem 2.25rem;
+      background: var(--bg); border: 1px solid var(--border); border-radius: 8px;
+      font-family: 'Outfit', sans-serif; font-size: .88rem; color: var(--text);
+      outline: none; transition: border-color .15s;
+    }
+    .search-input:focus { border-color: var(--accent); }
+    .search-input::placeholder { color: var(--text3); }
+    .filters { display: flex; gap: .4rem; flex-wrap: wrap; align-items: center; }
+    .filter-label { font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; color: var(--text3); margin-right: .2rem; }
+    .pill {
+      padding: .35rem .85rem; border-radius: 20px; border: 1px solid var(--border);
+      background: var(--bg); color: var(--text2);
+      font-family: 'Outfit', sans-serif; font-size: .78rem;
+      cursor: pointer; transition: all .15s; white-space: nowrap;
+    }
+    .pill:hover { border-color: var(--accent); color: var(--accent); }
+    .pill.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 500; }
+
+    /* ── Results bar ── */
+    .results-bar {
+      padding: .75rem 1.5rem; display: flex; justify-content: space-between; align-items: center;
+      font-size: .8rem; color: var(--text3); border-bottom: 1px solid var(--border);
+    }
+    .sort-select { background: none; border: none; font-family: 'Outfit', sans-serif; font-size: .8rem; color: var(--text2); cursor: pointer; outline: none; }
+
+    /* ── Grid ── */
+    .grid-wrap { padding: 1.5rem; }
+    .recipe-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(290px,1fr)); gap: 1.25rem; }
+
+    /* ── Card ── */
+    .card {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+      overflow: hidden; cursor: pointer;
+      transition: transform .15s, box-shadow .15s, border-color .15s;
+      display: flex; flex-direction: column;
+    }
+    .card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); border-color: var(--accent2); }
+    .card-stripe { height: 4px; }
+    .card-body { padding: 1.1rem 1.15rem 1.15rem; flex: 1; display: flex; flex-direction: column; }
+    .card-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: .5rem; }
+    .card-cat { font-size: .68rem; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); font-weight: 500; }
+    .card-cuisine { font-size: .72rem; color: var(--text3); font-style: italic; }
+    .card-title { font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 600; line-height: 1.25; margin-bottom: .4rem; color: var(--text); }
+    .card-desc { font-size: .82rem; color: var(--text2); line-height: 1.55; margin-bottom: .85rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; flex: 1; }
+    .card-footer { display: flex; gap: .75rem; align-items: center; flex-wrap: wrap; }
+    .meta { display: flex; align-items: center; gap: .28rem; font-size: .74rem; color: var(--text3); }
+    /* card macros strip */
+    .card-macros { display: flex; gap: .5rem; margin-top: .75rem; padding-top: .65rem; border-top: 1px solid var(--bg2); flex-wrap: wrap; }
+    .card-macro { font-size: .72rem; color: var(--text3); }
+    .card-macro strong { color: var(--text2); font-weight: 500; }
+    .card-tags { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .6rem; }
+    .tag { padding: .12rem .5rem; background: var(--bg2); border-radius: 20px; font-size: .68rem; color: var(--text2); }
+
+    /* ── States ── */
+    .state-box { text-align: center; padding: 5rem 2rem; color: var(--text3); }
+    .state-box h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.6rem; font-weight: 400; color: var(--text2); margin-bottom: .5rem; }
+    .spinner { width: 32px; height: 32px; margin: 0 auto 1rem; border: 2px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin .7s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Modal ── */
+    .overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(28,26,22,.75); z-index: 200;
+      align-items: center; justify-content: center;
+      padding: 1rem; backdrop-filter: blur(3px);
+    }
+    .overlay.open { display: flex; }
+    .modal {
+      background: var(--surface); border-radius: 16px;
+      max-width: 860px; width: 100%; max-height: 90vh; overflow-y: auto;
+      box-shadow: var(--shadow-lg); animation: slideUp .2s ease;
+    }
+    @keyframes slideUp { from { transform: translateY(16px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+    .modal-stripe { height: 5px; border-radius: 16px 16px 0 0; }
+    .modal-inner { padding: 2rem 2rem 2.5rem; }
+    .modal-close {
+      float: right; margin-bottom: -1.5rem;
+      background: var(--bg2); border: 1px solid var(--border); border-radius: 8px;
+      padding: 5px 8px; cursor: pointer; font-size: 1rem; color: var(--text2);
+      line-height: 1; transition: all .15s;
+    }
+    .modal-close:hover { background: var(--accent); color: #fff; border-color: var(--accent); }
+    .modal-meta { font-size: .8rem; color: var(--accent); text-transform: uppercase; letter-spacing: .1em; margin-bottom: .4rem; }
+    .modal-title { font-family: 'Cormorant Garamond', serif; font-size: clamp(1.7rem,3vw,2.4rem); font-weight: 600; line-height: 1.15; margin-bottom: .6rem; }
+    .modal-desc { color: var(--text2); line-height: 1.65; margin-bottom: 1.25rem; font-size: .95rem; }
+
+    /* timing stats */
+    .modal-stats { display: flex; gap: 1.5rem; flex-wrap: wrap; padding: 1rem 1.25rem; background: var(--bg); border-radius: 10px; margin-bottom: 1rem; align-items: center; }
+    .stat { text-align: center; }
+    .stat-val { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; font-weight: 600; color: var(--accent); line-height: 1; }
+    .stat-lbl { font-size: .68rem; text-transform: uppercase; letter-spacing: .08em; color: var(--text3); margin-top: .2rem; }
+
+    /* serving multiplier */
+    .serving-control { margin-left: auto; display: flex; align-items: center; gap: .4rem; }
+    .serving-label { font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; color: var(--text3); }
+    .serving-btns { display: flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+    .srv-btn {
+      padding: .3rem .65rem; background: var(--surface); border: none;
+      font-family: 'Outfit', sans-serif; font-size: .8rem; font-weight: 500;
+      color: var(--text2); cursor: pointer; transition: all .15s;
+    }
+    .srv-btn:hover { background: var(--bg2); }
+    .srv-btn.active { background: var(--accent); color: #fff; }
+    .srv-btn + .srv-btn { border-left: 1px solid var(--border); }
+
+    /* macros panel */
+    .macros-panel {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(90px,1fr));
+      gap: .6rem; padding: .9rem 1.1rem;
+      background: var(--bg); border-radius: 10px;
+      margin-bottom: 1rem;
+    }
+    .macro-cell { text-align: center; }
+    .macro-val { font-family: 'Cormorant Garamond', serif; font-size: 1.15rem; font-weight: 600; color: var(--text); line-height: 1; }
+    .macro-val.kcal-val { color: var(--accent); font-size: 1.35rem; }
+    .macro-lbl { font-size: .65rem; text-transform: uppercase; letter-spacing: .07em; color: var(--text3); margin-top: .15rem; }
+    .macros-note { font-size: .7rem; color: var(--text3); text-align: right; margin-top: .3rem; font-style: italic; }
+
+    .modal-tags { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
+
+    /* cols */
+    .modal-cols { display: grid; grid-template-columns: 1fr 1.7fr; gap: 2rem; margin-bottom: 1.5rem; }
+    @media (max-width: 580px) { .modal-cols { grid-template-columns: 1fr; } }
+    .modal-section h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.1rem; font-weight: 600; margin-bottom: .75rem; color: var(--text); padding-bottom: .4rem; border-bottom: 1px solid var(--border); }
+
+    /* ingredients */
+    .ingredients-list { list-style: none; display: flex; flex-direction: column; }
+    .ingredients-list li { padding: .45rem 0; font-size: .85rem; color: var(--text2); border-bottom: 1px solid var(--bg2); }
+    .ing-row { display: flex; justify-content: space-between; align-items: flex-start; gap: .5rem; }
+    .ing-text::before { content: '–'; color: var(--accent2); margin-right: .4rem; }
+    .ing-macros { display: flex; gap: .35rem; flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end; }
+    .ing-m { font-size: .68rem; color: var(--text3); white-space: nowrap; }
+    .ing-m strong { color: var(--accent); font-weight: 500; }
+
+    /* steps */
+    .steps-list { padding-left: 0; list-style: none; display: flex; flex-direction: column; gap: .9rem; counter-reset: steps; }
+    .steps-list li { font-size: .88rem; color: var(--text2); line-height: 1.65; display: flex; gap: .85rem; align-items: flex-start; counter-increment: steps; }
+    .steps-list li::before { content: counter(steps); font-family: 'Cormorant Garamond', serif; font-size: 1.1rem; font-weight: 600; color: var(--accent); min-width: 1.4rem; text-align: right; line-height: 1.5; flex-shrink: 0; }
+
+    .modal-notes { padding: .85rem 1.1rem; background: #fdf8f0; border: 1px solid #e8d8b8; border-radius: 8px; font-size: .84rem; color: #7a6040; line-height: 1.6; }
+    .modal-notes strong { color: var(--gold); }
+    .modal-source { margin-top: 1.5rem; font-size: .75rem; color: var(--text3); font-style: italic; }
+
+    @media (max-width: 600px) {
+      .controls-bar { padding: .75rem 1rem; }
+      .grid-wrap { padding: 1rem; }
+      .modal-inner { padding: 1.25rem 1.25rem 2rem; }
+      .modal-stats { gap: .75rem; }
+      .serving-control { margin-left: 0; margin-top: .5rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <h1 class="site-title">My <em>Recipe</em> Library</h1>
+    <p class="site-subtitle">A personal collection</p>
+    <div class="recipe-count-badge" id="count-badge">Loading…</div>
+  </div>
+</header>
+
+<div class="controls-bar">
+  <div class="search-wrap">
+    <span class="search-icon">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    </span>
+    <input class="search-input" id="search" type="search" placeholder="Search recipes, ingredients, cuisine…" />
+  </div>
+  <div class="filters" id="category-filters">
+    <span class="filter-label">Category</span>
+  </div>
+</div>
+
+<div class="results-bar">
+  <span id="results-count"></span>
+  <select class="sort-select" id="sort-select">
+    <option value="title">Sort: A–Z</option>
+    <option value="time">Sort: Quickest</option>
+    <option value="kcal">Sort: Lowest Cal</option>
+    <option value="category">Sort: Category</option>
+  </select>
+</div>
+
+<main class="grid-wrap">
+  <div id="loading" class="state-box"><div class="spinner"></div><p>Loading recipes…</p></div>
+  <div class="recipe-grid" id="grid" style="display:none"></div>
+  <div id="empty" class="state-box" style="display:none"><h3>No recipes found</h3><p>Try a different search or category</p></div>
+</main>
+
+<div class="overlay" id="overlay" role="dialog" aria-modal="true">
+  <div class="modal" id="modal">
+    <div class="modal-stripe" id="modal-stripe"></div>
+    <div class="modal-inner" id="modal-inner"></div>
+  </div>
+</div>
+
+<script>
+  const BASE = '';
+
+  const CAT_COLOURS = {
+    breakfast:'#f59e0b', lunch:'#10b981', dinner:'#6366f1',
+    snack:'#f97316', dessert:'#ec4899', drink:'#06b6d4',
+    side:'#84cc16', sauce:'#ef4444', other:'#94a3b8',
+  };
+  const catCol = c => CAT_COLOURS[(c||'other').toLowerCase()] || '#94a3b8';
+
+  let allRecipes = [];
+  let activeCategory = 'All';
+  let activeSearch = '';
+  let activeSort = 'title';
+  let currentRecipe = null;
+  let currentMultiplier = 1;
+
+  // ── Load ──
+  async function loadAll() {
+    try {
+      const res = await fetch(`${BASE}/recipes/index.json`);
+      const ids = await res.json();
+      const recipes = await Promise.all(ids.map(id =>
+        fetch(`${BASE}/recipes/${id}.json`).then(r => r.json()).catch(() => null)
+      ));
+      allRecipes = recipes.filter(Boolean);
+      document.getElementById('count-badge').textContent =
+        `${allRecipes.length} recipe${allRecipes.length !== 1 ? 's' : ''}`;
+      buildCategoryFilters();
+      renderGrid();
+    } catch(e) {
+      document.getElementById('loading').innerHTML =
+        `<h3>Couldn't load recipes</h3><p style="color:#e07070">${e.message}</p>`;
+    }
+  }
+
+  // ── Filters ──
+  function buildCategoryFilters() {
+    const cats = ['All', ...new Set(allRecipes.map(r => r.category).filter(Boolean).sort())];
+    const container = document.getElementById('category-filters');
+    const label = container.querySelector('.filter-label');
+    container.innerHTML = ''; container.appendChild(label);
+    cats.forEach(cat => {
+      const btn = document.createElement('button');
+      btn.className = 'pill' + (cat === activeCategory ? ' active' : '');
+      btn.textContent = cat;
+      btn.onclick = () => {
+        activeCategory = cat;
+        container.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderGrid();
+      };
+      container.appendChild(btn);
+    });
+  }
+
+  document.getElementById('search').addEventListener('input', e => { activeSearch = e.target.value; renderGrid(); });
+  document.getElementById('sort-select').addEventListener('change', e => { activeSort = e.target.value; renderGrid(); });
+
+  // ── Filter + sort ──
+  function filtered() {
+    const q = activeSearch.toLowerCase();
+    return allRecipes.filter(r => {
+      const matchSearch = !q
+        || r.title?.toLowerCase().includes(q)
+        || r.description?.toLowerCase().includes(q)
+        || r.cuisine?.toLowerCase().includes(q)
+        || r.ingredients?.some(i => (i.text||i).toLowerCase().includes(q))
+        || r.tags?.some(t => t.toLowerCase().includes(q));
+      const matchCat = activeCategory === 'All' || r.category === activeCategory;
+      return matchSearch && matchCat;
+    }).sort((a,b) => {
+      if (activeSort === 'title')    return a.title.localeCompare(b.title);
+      if (activeSort === 'time')     return ((a.prepTime||0)+(a.cookTime||0)) - ((b.prepTime||0)+(b.cookTime||0));
+      if (activeSort === 'kcal')     return (a.macros?.kcal||9999) - (b.macros?.kcal||9999);
+      if (activeSort === 'category') return (a.category||'').localeCompare(b.category||'');
+      return 0;
+    });
+  }
+
+  // ── Render grid ──
+  function renderGrid() {
+    const results = filtered();
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('results-count').textContent = `${results.length} recipe${results.length !== 1 ? 's' : ''}`;
+    const grid = document.getElementById('grid');
+    const empty = document.getElementById('empty');
+    if (!results.length) { grid.style.display = 'none'; empty.style.display = 'block'; return; }
+    empty.style.display = 'none'; grid.style.display = 'grid';
+    grid.innerHTML = results.map(cardHTML).join('');
+    grid.querySelectorAll('.card').forEach((el,i) => el.addEventListener('click', () => openModal(results[i])));
+  }
+
+  function cardHTML(r) {
+    const colour = catCol(r.category);
+    const total = (r.prepTime||0)+(r.cookTime||0);
+    const tags = (r.tags||[]).slice(0,3).map(t=>`<span class="tag">${esc(t)}</span>`).join('');
+    const m = r.macros;
+    const macroStrip = m ? `
+      <div class="card-macros">
+        <span class="card-macro"><strong>${m.kcal}</strong> kcal</span>
+        <span class="card-macro"><strong>${m.protein}g</strong> P</span>
+        <span class="card-macro"><strong>${m.carbs}g</strong> C</span>
+        <span class="card-macro"><strong>${m.fat}g</strong> F</span>
+      </div>` : '';
+    return `
+      <article class="card">
+        <div class="card-stripe" style="background:${colour}"></div>
+        <div class="card-body">
+          <div class="card-top">
+            <span class="card-cat">${esc(r.category||'Other')}</span>
+            <span class="card-cuisine">${esc(r.cuisine||'')}</span>
+          </div>
+          <h2 class="card-title">${esc(r.title)}</h2>
+          <p class="card-desc">${esc(r.description||'')}</p>
+          <div class="card-footer">
+            ${total?`<span class="meta"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>${total}m</span>`:''}
+            ${r.servings?`<span class="meta"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>${r.servings}</span>`:''}
+          </div>
+          ${macroStrip}
+          ${tags?`<div class="card-tags">${tags}</div>`:''}
+        </div>
+      </article>`;
+  }
+
+  // ── Modal ──
+  const MULTIPLIERS = [0.5, 1, 2, 3];
+
+  function openModal(r, mult) {
+    currentRecipe = r;
+    currentMultiplier = mult || 1;
+    renderModal();
+    document.getElementById('overlay').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function renderModal() {
+    const r = currentRecipe;
+    const x = currentMultiplier;
+    const colour = catCol(r.category);
+    const total = (r.prepTime||0)+(r.cookTime||0);
+
+    // timing + serving control
+    const stats = [
+      r.prepTime ? `<div class="stat"><div class="stat-val">${r.prepTime}m</div><div class="stat-lbl">Prep</div></div>` : '',
+      r.cookTime ? `<div class="stat"><div class="stat-val">${r.cookTime}m</div><div class="stat-lbl">Cook</div></div>` : '',
+      total      ? `<div class="stat"><div class="stat-val">${total}m</div><div class="stat-lbl">Total</div></div>` : '',
+      r.servings ? `<div class="stat"><div class="stat-val">${Math.round(r.servings*x)}</div><div class="stat-lbl">Serves</div></div>` : '',
+    ].join('');
+
+    const srvBtns = MULTIPLIERS.map(m =>
+      `<button class="srv-btn${x===m?' active':''}" data-mult="${m}">${m===0.5?'½':m+'×'}</button>`
+    ).join('');
+
+    // macros panel (scaled)
+    let macrosPanel = '';
+    if (r.macros) {
+      const m = r.macros;
+      const s = v => v != null ? Math.round(v*x) : '–';
+      macrosPanel = `
+        <div class="macros-panel">
+          <div class="macro-cell"><div class="macro-val kcal-val">${s(m.kcal)}</div><div class="macro-lbl">kcal</div></div>
+          <div class="macro-cell"><div class="macro-val">${s(m.protein)}g</div><div class="macro-lbl">Protein</div></div>
+          <div class="macro-cell"><div class="macro-val">${s(m.carbs)}g</div><div class="macro-lbl">Carbs</div></div>
+          <div class="macro-cell"><div class="macro-val">${s(m.fat)}g</div><div class="macro-lbl">Fat</div></div>
+          <div class="macro-cell"><div class="macro-val">${s(m.satFat)}g</div><div class="macro-lbl">Sat Fat</div></div>
+          <div class="macro-cell"><div class="macro-val">${s(m.fibre)}g</div><div class="macro-lbl">Fibre</div></div>
+          <div class="macro-cell"><div class="macro-val">${s(m.sugar)}g</div><div class="macro-lbl">Sugar</div></div>
+          <div class="macro-cell"><div class="macro-val">${s(m.iron)}mg</div><div class="macro-lbl">Iron</div></div>
+        </div>
+        <p class="macros-note">Per serving · ballpark estimates</p>`;
+    }
+
+    // ingredients (with per-ingredient macros, scaled)
+    const ingredients = (r.ingredients||[]).map(ing => {
+      if (typeof ing === 'string') return `<li><span class="ing-text">${esc(ing)}</span></li>`;
+      const sc = v => v != null ? Math.round(v*x) : null;
+      const kcal = sc(ing.kcal); const p = sc(ing.protein); const c = sc(ing.carbs); const f = sc(ing.fat); const sf = sc(ing.satFat);
+      const hasMacros = kcal || p || c || f;
+      return `<li>
+        <div class="ing-row">
+          <span class="ing-text">${esc(ing.text)}</span>
+          ${hasMacros ? `<span class="ing-macros">
+            <span class="ing-m"><strong>${kcal}</strong>kcal</span>
+            <span class="ing-m"><strong>${p}g</strong>P</span>
+            <span class="ing-m"><strong>${c}g</strong>C</span>
+            <span class="ing-m"><strong>${f}g</strong>F</span>
+            ${sf ? `<span class="ing-m"><strong>${sf}g</strong>SF</span>` : ''}
+          </span>` : ''}
+        </div>
+      </li>`;
+    }).join('');
+
+    const steps = (r.steps||[]).map(s=>`<li>${esc(s)}</li>`).join('');
+    const tags  = (r.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('');
+
+    document.getElementById('modal-stripe').style.background = colour;
+    document.getElementById('modal-inner').innerHTML = `
+      <button class="modal-close" id="modal-close-btn">✕</button>
+      <p class="modal-meta">${esc(r.category||'')} · ${esc(r.cuisine||'')}</p>
+      <h2 class="modal-title">${esc(r.title)}</h2>
+      ${r.description ? `<p class="modal-desc">${esc(r.description)}</p>` : ''}
+      <div class="modal-stats">
+        ${stats}
+        <div class="serving-control">
+          <span class="serving-label">Servings</span>
+          <div class="serving-btns">${srvBtns}</div>
+        </div>
+      </div>
+      ${macrosPanel}
+      ${tags ? `<div class="modal-tags">${tags}</div>` : ''}
+      <div class="modal-cols">
+        <div class="modal-section"><h3>Ingredients</h3><ul class="ingredients-list">${ingredients}</ul></div>
+        <div class="modal-section"><h3>Method</h3><ol class="steps-list">${steps}</ol></div>
+      </div>
+      ${r.notes ? `<div class="modal-notes"><strong>Notes:</strong> ${esc(r.notes)}</div>` : ''}
+      ${r.source ? `<p class="modal-source">Source: ${esc(r.source)}</p>` : ''}
+    `;
+
+    document.getElementById('modal-close-btn').onclick = closeModal;
+    document.querySelectorAll('.srv-btn').forEach(btn => {
+      btn.onclick = () => { currentMultiplier = parseFloat(btn.dataset.mult); renderModal(); };
+    });
+  }
+
+  function closeModal() {
+    document.getElementById('overlay').classList.remove('open');
+    document.body.style.overflow = '';
+    currentRecipe = null; currentMultiplier = 1;
+  }
+
+  document.getElementById('overlay').addEventListener('click', e => { if (e.target === document.getElementById('overlay')) closeModal(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+  function esc(str) {
+    return String(str??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  loadAll();
+</script>
+</body>
+</html>
