@@ -2,235 +2,190 @@
 
 A static recipe website — no build step, no dependencies. Hosted on GitHub Pages.
 
+Canonical hosted assets:
+- This file: `https://recipills.github.io/README.md`
+- Shared ingredient macro table: `https://recipills.github.io/ingredient-macros.json`
+
+> **Using this README to drive an extraction:** you can paste the whole
+> Extraction Protocol below into a capable model along with a recipe book, or
+> just point the model at `https://recipills.github.io/README.md` and tell it
+> to follow the protocol. The protocol is written to be self-contained.
+
 ## Structure
 
 ```
 recipe-site/
 ├── index.html              ← the entire app (HTML + CSS + JS)
+├── ingredient-macros.json  ← shared base-ingredient macro table (reused across books)
 ├── recipes/
 │   ├── index.json          ← manifest: list of all recipe IDs
 │   ├── pasta-carbonara.json
-│   ├── chocolate-lava-cake.json
 │   └── ...
 └── README.md
 ```
 
 ## Setup on GitHub Pages
 
-1. Create a new GitHub repo (e.g. `recipe-library`)
-2. Push this folder to the `main` branch
-3. Go to **Settings → Pages → Source: Deploy from branch → main / root**
-4. Your site will be live at `https://yourusername.github.io/recipe-library/`
+1. Create a repo (e.g. `recipills.github.io` or `recipe-library`).
+2. Push this folder to the `main` branch.
+3. **Settings → Pages → Source: Deploy from branch → main / root.**
+4. Site goes live at `https://recipills.github.io/` (or your repo URL).
 
-> If your repo is in a subdirectory, edit the `BASE` variable at the top of
-> the `<script>` block in `index.html`:
-> ```js
-> const BASE = '/recipe-library'; // match your repo name
-> ```
-
-## Adding recipes
-
-### Step 1 — Extract from a book (paste this prompt into Claude)
-
-> **Tip:** Upload the book file (PDF or EPUB) to Claude and paste the prompt
-> below. For books with more than ~15 recipes, ask Claude to extract
-> programmatically (read the text layer + read any nutrition tables as
-> images) rather than transcribing page by page — it is faster, cheaper,
-> and far more accurate. Claude can then hand back a zip of JSON files
-> instead of pasting them into chat.
-
-```
-I'm giving you a recipe book (PDF or EPUB). Extract every recipe and output
-them as individual JSON files matching the schema below.
-
-== BEFORE YOU START: scan the whole book ==
-
-Recipe books vary a lot in layout. Do a quick structural pass first and tell
-me what you find, THEN extract. Specifically check:
-
-1. WHERE THE MACROS LIVE. This is the most common source of errors.
-   The page for each recipe may show only PARTIAL nutrition (e.g. just
-   calories and carbs). The full per-serving breakdown (protein, fat,
-   sat fat, sugar, fibre, iron) is often in a SEPARATE summary table,
-   frequently near the back of the book, sometimes as an image/scan
-   rather than selectable text. Find that table and cross-reference each
-   recipe to its row BY NAME. If a book has no macros at all, estimate
-   them and flag clearly that they are estimates.
-
-2. HOW RECIPES ARE TITLED. Titles may be ALL CAPS, mixed case, split
-   across two lines, or contain curly apostrophes / accents. Do not
-   assume a single format. Watch out for SUB-HEADINGS that look like
-   titles but aren't — e.g. "FOR THE SAUCE", "OVEN METHOD", "TO SERVE",
-   "MAKE IT VEGGIE". These belong inside a recipe, not as new recipes.
-
-3. HOW THE BOOK IS ORGANISED vs the schema categories. The book's own
-   chapter names (e.g. "Fakeaways", "Batch Cook", "Sides") won't match
-   the 9 schema categories. Map each recipe to the closest schema
-   category using judgement, not just the chapter name.
-
-== RULES FOR EACH FIELD ==
-
-- `category` must be one of: Breakfast, Lunch, Dinner, Snack, Dessert,
-  Drink, Side, Sauce, Other. Infer it; don't expect the book to state it.
-- `prepTime` / `cookTime`: integers in minutes, or null. If the book gives
-  a range ("15–20 mins") pick the lower or midpoint and be consistent.
-  Ignore qualifiers like "plus marinating time" / "plus chilling" for the
-  number, but you may note them in `notes`. "No cook" → cookTime 0.
-- `servings`: integer or null. Some recipes say "MAKES 24" (e.g. bites,
-  cookies) instead of "SERVES N" — convert to a sensible serving count
-  and explain the conversion in `notes`.
-- `id` / filename slug: lowercase, hyphens only, no apostrophes/accents/
-  special characters. Keep it stable and unique.
-- INGREDIENTS: capture the MAIN list. Many recipes have secondary groups
-  ("For the sauce", "For the topping") — fold those into the same
-  `ingredients` array (you may prefix the text, e.g. "Sauce: 2 tbsp …").
-  EXCLUDE "to accompany" / "to serve" suggestions that come with their
-  own separate calorie counts — those are optional sides, not part of
-  the dish's stated macros.
-- STEPS: method paragraphs only. Strip out method sub-headers
-  ("Oven method", "Air fryer method", "For the chips") — either drop them
-  or merge them into the step text. Do not let ingredient lines leak into
-  step 1. Keep steps concise; no padding.
-- `description`: 1–2 sentences, pulled from the recipe's intro blurb.
-
-== MACROS ==
-
-- Recipe-level `macros` = totals PER SERVING (book table value, or book
-  total ÷ servings). Include kcal, protein, carbs, fat, satFat, fibre,
-  sugar, and iron (mg). If the table omits a field, estimate and note it.
-- Per-INGREDIENT macros are almost never printed in books — estimate them
-  from standard nutritional data for the actual quantity listed (not per
-  100g). Use 0 for negligible amounts (garnish, seasoning, spray), null
-  if truly unknown. These are ballpark estimates.
-
-For EACH recipe, output a separate JSON block like this:
-
-**Filename: `recipes/recipe-slug.json`**
-```json
-{
-  "id": "recipe-slug",
-  "title": "Recipe Name",
-  "description": "1–2 sentence description of the dish.",
-  "cuisine": "Italian",
-  "category": "Dinner",
-  "tags": ["pasta", "quick", "vegetarian"],
-  "prepTime": 10,
-  "cookTime": 20,
-  "servings": 4,
-  "ingredients": [
-    {
-      "text": "200g chicken breast",
-      "kcal": 220,
-      "protein": 41,
-      "carbs": 0,
-      "fat": 5,
-      "satFat": 1.4
-    },
-    {
-      "text": "1 tbsp olive oil",
-      "kcal": 120,
-      "protein": 0,
-      "carbs": 0,
-      "fat": 14,
-      "satFat": 2
-    }
-  ],
-  "steps": [
-    "First step as a clear, concise instruction.",
-    "Second step."
-  ],
-  "macros": {
-    "kcal": 320,
-    "protein": 38,
-    "carbs": 12,
-    "fat": 14,
-    "satFat": 3,
-    "fibre": 2,
-    "sugar": 4,
-    "iron": 2.1
-  },
-  "notes": "Any tips or variations, or null.",
-  "source": "Book Title"
-}
-```
-
-== VALIDATE BEFORE YOU FINISH ==
-
-Run these checks and report the results:
-- Count recipes found. Does it match the book's stated count (often on the
-  cover or contents page, e.g. "100 recipes")? If short, list which sections
-  you may have missed and re-scan.
-- No recipe has 0 ingredients, 0 steps, or kcal of 0 (unless genuinely
-  zero-cal, like water-based lollies).
-- Every slug in `index.json` has a matching file, and every file is listed
-  in the index. No orphans, no dangling entries.
-- Spot-check 3–4 recipes against the book pages, including at least one
-  whose title spans two lines or has unusual formatting.
-
-After all recipe JSONs, output a final block:
-
-**File: `recipes/index.json`**
-```json
-["slug-one", "slug-two", "slug-three"]
-```
-
-This should be a complete list of ALL recipe IDs (include any I give you
-from the existing index).
-```
-
-### Step 2 — Save the files
-
-Copy each JSON block Claude outputs into the corresponding file in the
-`recipes/` folder (or unzip the bundle Claude provides).
-
-### Step 3 — Update the manifest
-
-Replace `recipes/index.json` with the updated list Claude provides.
-
-### Step 4 — Commit and push
-
-```bash
-git add recipes/
-git commit -m "Add recipes from [Book Name]"
-git push
-```
-
-GitHub Pages updates within ~30 seconds.
+> If your repo is in a subdirectory, set the `BASE` variable at the top of the
+> `<script>` block in `index.html` to match the repo name.
 
 ---
 
-## Extraction notes & gotchas
+# Extraction Protocol
 
-Lessons from real extractions. Not every book hits every one of these —
-treat them as a checklist of things to verify, not assumptions.
+This is the procedure for turning a recipe book (PDF/EPUB) into recipe JSON
+files. Earlier extractions failed in two expensive ways: **recipes were given
+the wrong ingredient list** (blocks bled across recipe boundaries on shared
+pages), and **titles were mis-read** (sub-headings captured as recipes,
+multi-line titles truncated). The protocol below is built specifically to
+prevent both. Follow the phases in order; do not skip the verification phase.
 
-- **Macros are frequently split across the book.** Per-recipe pages may
-  show only calories (and maybe carbs); the full breakdown lives in a
-  summary table elsewhere, often scanned as an image. Always look for a
-  second source of nutrition data before assuming a field is missing.
-- **Scanned/image tables need visual reading.** If the nutrition table
-  has no selectable text, it must be read as an image. Text extraction
-  alone will silently drop it.
-- **Titles are not reliably uppercase or single-line.** Don't pattern-match
-  on "ALL CAPS only". Verify the recipe count after extraction — a parser
-  that assumes one title format tends to both *miss* real recipes and
-  *invent* fake ones from sub-headings.
-- **Sub-headings masquerade as recipes.** "For the sauce", "Oven method",
-  "To serve", "Make it veggie" are internal to a recipe. If you see a
-  "recipe" with a description but no ingredients, it's probably one of these.
-- **Categories must be inferred.** Map the book's chapters to the schema's
-  9 categories; the names rarely line up.
-- **Servings ≠ always "serves N".** "Makes 24" (bites, biscuits, batches)
-  needs converting to a serving count, with the conversion noted.
-- **Times come with ranges and qualifiers.** Normalise "15–20 mins",
-  "about 1 hr 30 mins", "plus marinating time", "no cook" to clean integers.
-- **Secondary ingredient groups and "to accompany" lists differ.** Fold
-  component groups ("for the topping") into the ingredients; exclude
-  optional accompaniments that carry their own separate calorie counts.
-- **Per-ingredient macros are estimates.** Books almost never print them.
-  Mark them as ballpark and don't present them as authoritative.
-- **Always finish with the validation pass.** Count, completeness, and
-  index/file consistency checks catch the majority of extraction errors.
+> **Recommended model usage**
+> - **Manifest building (Phase 0) and Verification (Phase 3) + final
+>   reconciliation (Phase 5): use the most capable model available (e.g. the
+>   current top-tier Claude Opus).** These steps are cheap to run and
+>   catastrophic to get wrong.
+> - **Bulk transcription (Phases 1–2): a mid-tier model (e.g. current Claude
+>   Sonnet) is acceptable _only_ if a top-tier model has already produced the
+>   manifest and will perform the verification pass.**
+> - **Default for safety: use the top-tier model end-to-end.** A single book is
+>   a small cost next to shipping a wrong recipe, and a single model avoids
+>   handoff drift. Reserve the split-model approach for high volume, and never
+>   let the cheaper model build the manifest or run verification.
+
+## Phase 0 — Build the canonical manifest from the Contents page (do this FIRST)
+
+Before extracting any recipe content, read the book's **Contents / index pages**
+and produce a numbered manifest. This is the single source of truth for *how
+many* recipes exist and *what each is called*. Everything downstream is
+reconciled against it.
+
+For each recipe, capture: **recipe name**, **chapter/section**, and **page
+number** if shown. Output the manifest and state the total count.
+
+- If the book advertises a count (cover/intro, e.g. "100 recipes"), the manifest
+  total **must** match it. If it doesn't, find the missing/extra entries and
+  resolve before continuing — do not proceed on a mismatched count.
+- Treat the manifest names as the authoritative titles. Do **not** later rename
+  a recipe based on a heading you see in the body.
+
+## Phase 1 — Locate each recipe; never guess boundaries
+
+For each manifest entry, find that recipe in the body **by its name** (and page
+number where available). Record its start position.
+
+- A recipe's content is the span **from its own start up to the start of the
+  next recipe in manifest order**. Nothing outside that span may be assigned to
+  it. This boundary rule is what stops ingredient blocks leaking between recipes.
+- Do not detect recipes by formatting heuristics ("all-caps line"). Titles vary:
+  mixed case, split across two lines, curly apostrophes/accents. You already know
+  the title from the manifest — anchor to it.
+
+## Phase 2 — Extract within bounds
+
+Within each bounded span, pull: title (from the manifest), prep/cook times,
+servings, description, the nutrition block, ingredients, and method steps.
+
+- **Shared pages / variant recipes.** Short recipes (sides, variants, "stuffed
+  X" trios) often share a spread, with several `PER SERVING` blocks on one page.
+  Split the span on each nutrition block and bind each block to the **nearest
+  preceding manifest title**. This is the exact situation that previously caused
+  swapped ingredient lists — handle it explicitly.
+- **Two ingredient groups.** Recipes with "For the sauce" / "For the topping" /
+  "For the platter" have multiple ingredient lists. Fold them all into the one
+  `ingredients` array (you may prefix, e.g. `"Sauce: 2 tbsp …"`). Do not keep
+  only the first group.
+- **Method sub-headers** ("Oven method", "Air fryer method", "To serve") are not
+  steps and not recipes — merge into step text or drop.
+- **Merged lines.** Text extraction sometimes glues two ingredients onto one
+  line (e.g. `"225g butternut squash, peeled and chopped 400g 5%-fat minced
+  beef"`). Detect an embedded quantity mid-line and split into separate
+  ingredients.
+- **Macros that live elsewhere.** Per-recipe pages may show only calories (+
+  carbs); the full per-serving breakdown is often in a **summary table near the
+  back**, sometimes as a scanned image. Find it and cross-reference each recipe
+  by name. If macros are genuinely absent, estimate and flag.
+- **Servings.** `"Makes 24"` (bites/biscuits) is not `"Serves N"`. If the
+  book's macros are stated *per item* ("per bite"), set `servings` to the item
+  count and record it in `notes`; otherwise convert to a serving count and note
+  the conversion.
+- **Times.** Normalise ranges/qualifiers ("15–20 mins", "plus marinating time",
+  "no cook") to clean integer minutes.
+
+## Phase 3 — Verification (the guardrail — do not skip)
+
+For **every** recipe, run these checks and report results:
+
+1. **Boundary check.** The recipe's ingredients and steps physically lie between
+   its own manifest title and the next recipe's title. Flag anything sourced
+   from outside its span.
+2. **Uniqueness check.** No two recipes share an identical (or near-identical)
+   ingredient list. Identical lists almost always mean a block was copied to the
+   wrong recipe.
+3. **Plausibility check.** The ingredient set makes sense for the dish name.
+   Flag obvious contradictions (e.g. salmon in a dish titled "stuffed
+   mushrooms", meat in a recipe marked vegetarian).
+4. **Calorie reconciliation.** Compute `sum(ingredient kcal) ÷ servings` and
+   compare to the published per-serving kcal. Investigate anything outside
+   roughly **0.5×–1.8×**. Most out-of-band cases are a swapped/partial block or
+   a quantity-parsing miss — fix the cause, don't just suppress the flag.
+   (Genuinely ultra-low-calorie dishes — clear broths, fruit-and-squash lollies
+   — can sit below the band legitimately; confirm by eye.)
+5. **Completeness check.** No recipe has 0 ingredients, 0 steps, or (unless
+   truly zero-calorie) 0 kcal. Times and servings parsed or explicitly null.
+
+Re-extract any recipe that fails a check, going back to its bounded span in
+Phase 1/2. Do not hand-edit a value to make a flag disappear.
+
+## Phase 4 — Estimate ingredient macros from the shared table
+
+Fetch the hosted table: `https://recipills.github.io/ingredient-macros.json`.
+
+- For each ingredient line, parse the quantity + unit, map to the **base
+  ingredient** in the table, and scale the table's values by the parsed amount.
+  Keying on the base ingredient (not the raw line) means "200g chicken breast"
+  and "150g chicken breast" reuse one entry and scale correctly.
+- Only **estimate from scratch** for base ingredients not already in the table.
+  Collect every new base ingredient (with the per-100g / per-unit / per-tsp
+  values you assigned) for the maintenance report in Phase 5.
+- Per-ingredient macros are ballpark estimates; treat them as such.
+- Table conventions: each entry has a `basis` (`100g`, `100ml`, `tsp`, `tbsp`,
+  `unit`/`egg`/`slice`, `fixed`, `tin###`, `carton###`), a `per` array
+  `[kcal, protein, carbs, fat, satFat]` for that basis, an optional `avg_g`
+  (typical weight of one item when a count is given without grams), and an
+  optional `g100` fallback `[kcal,protein,carbs,fat,satFat]` per 100g used when a
+  normally-counted item is given by weight (e.g. "350g bacon medallions").
+- The current table is tuned for reduced-fat / fat-free products common in
+  slimming cookbooks. If a new book relies on full-fat staples, the relevant base
+  values may need revisiting — note this in the maintenance report rather than
+  silently diverging.
+
+## Phase 5 — Final reconciliation + maintenance report
+
+**Reconcile:**
+- Recipe count equals the Phase 0 manifest count (and any advertised count).
+- One-to-one mapping between manifest entries and output files — no orphans, no
+  duplicates, no missing.
+- `recipes/index.json` lists exactly the produced IDs.
+
+**Then output a Maintenance Report** (this is required after every book — the
+maintainer applies the updates to the hosted files):
+
+1. **`ingredient-macros.json` changes** — list new base ingredients to add, with
+   their `basis`/`per`(/`avg_g`/`g100`) values, plus any existing values you
+   believe should change and why. If none, say "no changes."
+2. **`README.md` changes** — any new format quirk or failure mode this book
+   revealed that future extractions should guard against. If none, say
+   "no changes."
+3. **Open questions / low-confidence items** — recipes or macros you were unsure
+   about, so they can be spot-checked.
+
+Deliver the recipe JSON files (and updated `index.json`) alongside the report.
 
 ---
 
@@ -238,23 +193,24 @@ treat them as a checklist of things to verify, not assumptions.
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `id` | string | URL-safe slug, matches filename |
-| `title` | string | Recipe name |
+| `id` | string | URL-safe slug, matches filename, unique |
+| `title` | string | Recipe name (from the Contents manifest) |
 | `description` | string | 1–2 sentence summary |
-| `cuisine` | string | e.g. Italian, Japanese, Mexican |
-| `category` | string | One of the 9 categories above |
+| `cuisine` | string | e.g. Italian, Indian, British |
+| `category` | string | One of: Breakfast, Lunch, Dinner, Snack, Dessert, Drink, Side, Sauce, Other |
 | `tags` | string[] | Free-form keywords |
 | `prepTime` | number\|null | Minutes |
 | `cookTime` | number\|null | Minutes |
-| `servings` | number\|null | Serving count |
+| `servings` | number\|null | Serving count (or item count for "makes N") |
 | `ingredients` | object[] | See below |
-| `ingredients[].text` | string | "amount + ingredient" |
-| `ingredients[].kcal` | number | Calories for that quantity |
+| `ingredients[].text` | string | "amount + ingredient" exactly as written |
+| `ingredients[].kcal` | number | Estimated calories for that quantity |
 | `ingredients[].protein` | number | Grams |
 | `ingredients[].carbs` | number | Grams |
 | `ingredients[].fat` | number | Grams |
 | `ingredients[].satFat` | number | Grams |
-| `macros.kcal` | number | Per serving |
+| `steps` | string[] | Ordered method steps |
+| `macros.kcal` | number | Per serving (from the book) |
 | `macros.protein` | number | Grams per serving |
 | `macros.carbs` | number | Grams per serving |
 | `macros.fat` | number | Grams per serving |
@@ -262,16 +218,78 @@ treat them as a checklist of things to verify, not assumptions.
 | `macros.fibre` | number | Grams per serving |
 | `macros.sugar` | number | Grams per serving |
 | `macros.iron` | number | mg per serving |
-| `steps` | string[] | Ordered method steps |
-| `notes` | string\|null | Tips, variations, serving/“makes” conversions |
-| `source` | string\|null | Book or origin |
+| `notes` | string\|null | Tips, variations, "makes N"/per-item conversions |
+| `source` | string\|null | Book title |
+
+### Example
+
+```json
+{
+  "id": "recipe-slug",
+  "title": "Recipe Name",
+  "description": "1–2 sentence description.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": ["pasta", "quick"],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    { "text": "200g chicken breast", "kcal": 212, "protein": 48, "carbs": 0, "fat": 3, "satFat": 0.8 }
+  ],
+  "steps": ["First step.", "Second step."],
+  "macros": { "kcal": 320, "protein": 38, "carbs": 12, "fat": 14, "satFat": 3, "fibre": 2, "sugar": 4, "iron": 2.1 },
+  "notes": null,
+  "source": "Book Title"
+}
+```
+
+---
+
+## Adding the files to the site
+
+1. Save each recipe JSON into `recipes/`.
+2. Replace `recipes/index.json` with the produced ID list.
+3. Apply the Maintenance Report: update the hosted `ingredient-macros.json` and,
+   if flagged, this `README.md`.
+4. Commit and push:
+   ```bash
+   git add recipes/ ingredient-macros.json README.md
+   git commit -m "Add recipes from [Book Name]"
+   git push
+   ```
+   GitHub Pages updates within ~30 seconds.
+
+---
+
+## Extraction gotchas (quick checklist)
+
+Distilled from real extractions. Verify each per book — not every book hits
+every one.
+
+- **Anchor to the Contents manifest, not formatting.** Prevents both missed
+  recipes and sub-headings masquerading as recipes.
+- **Bound each recipe by the next recipe's start.** Prevents ingredient blocks
+  bleeding across recipes — the single biggest past failure.
+- **Shared pages need per-block binding.** Multiple `PER SERVING` blocks on one
+  spread → bind each to its nearest preceding manifest title.
+- **Macros often live in a separate (sometimes scanned) table.** Look for a
+  second nutrition source before assuming a field is missing.
+- **Multiple ingredient groups → one merged list.** Don't keep only the first.
+- **Split glued ingredient lines.** Watch for a quantity appearing mid-line.
+- **"Makes N" ≠ "Serves N";** per-item macros need noting.
+- **Normalise time ranges/qualifiers** to integers.
+- **Reuse the shared ingredient table;** only estimate genuinely new bases, and
+  report them back.
+- **Run Phase 3 verification every time** — boundary, uniqueness, plausibility,
+  calorie reconciliation, completeness.
+
+---
 
 ## Features
 
 - Search by name, ingredient, cuisine, tag
-- Filter by category (auto-detected)
-- Sort by name, quickest, lowest calorie, category
-- Per-ingredient macros: kcal · P · C · F · sat fat
+- Filter by category; sort by name, quickest, lowest calorie, category
+- Per-ingredient macros: kcal · P · C · F · sat fat (ballpark estimates)
 - Recipe macros panel: kcal, protein, carbs, fat, sat fat, fibre, sugar, iron
-- Serving multiplier (½× 1× 2× 3×) — all macros and ingredient quantities scale accordingly
-- Macros labelled as ballpark estimates
+- Serving multiplier (½× 1× 2× 3×) scales all macros and ingredient quantities
