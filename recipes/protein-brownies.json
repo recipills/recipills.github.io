@@ -1,0 +1,108 @@
+{
+  "id": "protein-brownies",
+  "title": "Protein Brownies",
+  "description": "Fudgy high-protein brownies with dark chocolate, butter, cocoa and casein protein \u2014 nobody will guess these are macro-friendly.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "brownies",
+    "chocolate",
+    "casein",
+    "baked",
+    "high-protein"
+  ],
+  "prepTime": 15,
+  "cookTime": 27,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "60g all-purpose flour",
+      "kcal": 210,
+      "protein": 6.0,
+      "carbs": 43.8,
+      "fat": 0.6,
+      "satFat": 0.1
+    },
+    {
+      "text": "60g casein vanilla protein powder",
+      "kcal": 222,
+      "protein": 45.0,
+      "carbs": 6.0,
+      "fat": 3.0,
+      "satFat": 0.9
+    },
+    {
+      "text": "40g cocoa powder",
+      "kcal": 92,
+      "protein": 8.0,
+      "carbs": 12.0,
+      "fat": 5.6,
+      "satFat": 3.2
+    },
+    {
+      "text": "2 eggs (100g)",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 1.0,
+      "fat": 11.0,
+      "satFat": 3.3
+    },
+    {
+      "text": "25g butter",
+      "kcal": 182,
+      "protein": 0.2,
+      "carbs": 0.0,
+      "fat": 20.2,
+      "satFat": 12.8
+    },
+    {
+      "text": "25g dark chocolate",
+      "kcal": 138,
+      "protein": 1.2,
+      "carbs": 11.2,
+      "fat": 8.8,
+      "satFat": 5.2
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g skimmed milk",
+      "kcal": 70,
+      "protein": 7.0,
+      "carbs": 10.0,
+      "fat": 0.2,
+      "satFat": 0.2
+    }
+  ],
+  "steps": [
+    "Preheat oven to 180\u00b0C / 350\u00b0F. Whisk flour, casein, cocoa and salt in a bowl.",
+    "Melt butter and dark chocolate together in microwave ~30 seconds on low.",
+    "Mix eggs, yogurt and melted chocolate together until smooth.",
+    "Combine wet into dry; whisk until smooth batter forms.",
+    "Line a 16\u00d718cm (6\u00d77in) dish with foil; bake 27 minutes. Cool 30 minutes; cut into squares."
+  ],
+  "macros": {
+    "kcal": 112,
+    "protein": 9,
+    "carbs": 9,
+    "fat": 5,
+    "satFat": 3,
+    "fibre": 1,
+    "sugar": 2,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1119,
+    "protein": 87,
+    "carbs": 92,
+    "fat": 45
+  },
+  "notes": "Casein works better than whey \u2014 whey can make them dry. Optional: add 50g liquid coffee to batter for mocha brownies.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "egg-white-tortilla",
+  "title": "Egg White Tortilla",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "High-protein tortillas made with skyr, egg whites and a little flour \u2014 use as a low-calorie wrap for any filling.",
+  "cuisine": "International",
+  "category": "Side",
+  "tags": [
+    "tortilla",
+    "egg whites",
+    "high-protein",
+    "wrap",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 3,
+  "ingredients": [
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 52,
+      "protein": 11.0,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g all-purpose flour",
+      "kcal": 105,
+      "protein": 3.0,
+      "carbs": 21.9,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g onion powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Whisk all ingredients until smooth.",
+    "Add 1g of oil to a pan (24cm) on medium heat.",
+    "Pour \u2153 of batter; spread with spatula into a tortilla shape.",
+    "Close lid; cook 1 minute. Flip; repeat until cooked through.",
+    "Repeat with remaining batter \u2014 makes ~3 tortillas."
+  ],
+  "macros": {
+    "kcal": 238,
+    "protein": 23,
+    "carbs": 28,
+    "fat": 3,
+    "satFat": 0,
+    "fibre": 1,
+    "sugar": 2,
+    "iron": 1
+  },
+  "macrosNote": "Macros are for the whole batch (3 tortillas)",
+  "notes": "Change spices for different flavours. Add 25g shredded cheese before removing and fold into a quesadilla.",
+  "source": "The Felu Cookbook"
+}

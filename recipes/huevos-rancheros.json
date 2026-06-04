@@ -1,0 +1,101 @@
+{
+  "id": "huevos-rancheros",
+  "title": "Huevos Rancheros",
+  "description": "Classic Mexican breakfast: crispy tortilla with egg whites, a fried egg and fresh tomato salsa.",
+  "cuisine": "Mexican",
+  "category": "Breakfast",
+  "tags": [
+    "mexican",
+    "eggs",
+    "tortilla",
+    "quick"
+  ],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 wheat tortilla (20cm)",
+      "kcal": 135.0,
+      "protein": 3.6,
+      "carbs": 22.5,
+      "fat": 3.6,
+      "satFat": 1.1
+    },
+    {
+      "text": "25g onion",
+      "kcal": 10.0,
+      "protein": 0.3,
+      "carbs": 2.3,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g tomatoes",
+      "kcal": 36.0,
+      "protein": 1.8,
+      "carbs": 7.8,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg",
+      "kcal": 77.5,
+      "protein": 6.3,
+      "carbs": 0.6,
+      "fat": 5.3,
+      "satFat": 1.6
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 55.0,
+      "protein": 11.0,
+      "carbs": 0.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g jalapeno",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "10g soy sauce",
+      "kcal": 5.3,
+      "protein": 0.5,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g deli meat",
+      "kcal": 55.0,
+      "protein": 8.5,
+      "carbs": 1.0,
+      "fat": 2.0,
+      "satFat": 0.7
+    }
+  ],
+  "steps": [
+    "Chop onion, jalapeno; cube deli meat; grate tomatoes into puree.",
+    "Heat pan; fry onion and jalapeno 3\u20134 min; add garlic 20 sec; add tomatoes + soy sauce; simmer 2\u20133 min.",
+    "Warm tortilla in dry pan 30\u201345 sec each side; place on plate.",
+    "Fry deli meat 1\u20132 min; add egg whites; stir 30 sec; place on tortilla.",
+    "Fry egg 1 min covered; place on egg whites; top with tomato sauce and cilantro."
+  ],
+  "macros": {
+    "kcal": 355,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 12,
+    "satFat": 3,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Tomato sauce can be meal-prepped and stored 2\u20133 days.",
+  "source": "The Felu Cookbook"
+}

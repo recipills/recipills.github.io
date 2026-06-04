@@ -1,0 +1,93 @@
+{
+  "id": "air-fryer-chicken-crispy-potatoes",
+  "title": "Air Fryer Chicken & Crispy Potatoes",
+  "description": "Juicy air-fried chicken thighs with incredibly crispy seasoned potatoes \u2014 a perfect macro-friendly comfort meal.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "potatoes",
+    "air fryer",
+    "crispy",
+    "easy"
+  ],
+  "prepTime": 5,
+  "cookTime": 25,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "200g skinless boneless chicken thighs",
+      "kcal": 270,
+      "protein": 40.0,
+      "carbs": 0.0,
+      "fat": 11.0,
+      "satFat": 3.0
+    },
+    {
+      "text": "300g potatoes",
+      "kcal": 231,
+      "protein": 6.0,
+      "carbs": 51.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "6g oil",
+      "kcal": 54,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "satFat": 0.8
+    },
+    {
+      "text": "2g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g smoked paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g onion powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g cayenne pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cut potatoes into small cubes. Toss with 4g oil, garlic powder, smoked paprika, onion powder, cayenne and salt.",
+    "Air-fry potatoes at 200\u00b0C / 400\u00b0F for 20\u201325 minutes, shaking halfway.",
+    "Rub chicken with 2g oil, salt and black pepper. Add to air fryer with potatoes in the last 15 minutes.",
+    "Chicken is done when internal temp reaches 72\u00b0C / 160\u00b0F."
+  ],
+  "macros": {
+    "kcal": 619,
+    "protein": 46,
+    "carbs": 57,
+    "fat": 25,
+    "satFat": 6,
+    "fibre": 6,
+    "sugar": 3,
+    "iron": 4
+  },
+  "notes": "Serve with the avocado cream cheese dip or ranch sauce from Chapter 9.",
+  "source": "The Felu Cookbook"
+}

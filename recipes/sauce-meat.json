@@ -1,0 +1,103 @@
+{
+  "id": "sauce-meat",
+  "title": "Meat Sauce (Bolognese-style)",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Rich lean beef sauce with gelatine for that mouth-feel of long-braised meat \u2014 great on pasta, rice or in lasagna.",
+  "cuisine": "Italian",
+  "category": "Sauce",
+  "tags": [
+    "bolognese",
+    "meat sauce",
+    "beef",
+    "Italian",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 25,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g ground beef 95/5",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 carrot (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g celery",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion (50g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g tomato pur\u00e9e",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "250g water + 10g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "9g dry gelatine",
+      "kcal": 36,
+      "protein": 7.8,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil, 5g fresh parsley, salt, pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Chop carrots, celery and onion. Dissolve broth and gelatine in water.",
+    "Fry vegetables in oil 3\u20134 min. Add beef; fry 2\u20133 min until browned.",
+    "Add tomato pur\u00e9e; stir 1 min. Add broth; simmer uncovered 20 min.",
+    "Finish with fresh parsley."
+  ],
+  "macros": {
+    "kcal": 350,
+    "protein": 48,
+    "carbs": 11,
+    "fat": 11,
+    "satFat": 4,
+    "fibre": 3,
+    "sugar": 5,
+    "iron": 4
+  },
+  "notes": "Gelatine gives the sauce a rich mouthfeel without extra calories. Can fry beef first if preferred.",
+  "source": "The Felu Cookbook"
+}

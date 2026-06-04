@@ -1,0 +1,113 @@
+{
+  "id": "mp-panna-cotta",
+  "title": "Panna Cotta",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "Classic Italian panna cotta made higher-protein with skyr \u2014 infused with lemongrass and ginger for a beautiful aromatic flavour.",
+  "cuisine": "Italian",
+  "category": "Dessert / Meal Prep",
+  "tags": [
+    "panna cotta",
+    "dessert",
+    "meal prep",
+    "Italian",
+    "high-protein"
+  ],
+  "prepTime": 15,
+  "cookTime": 15,
+  "servings": 5,
+  "ingredients": [
+    {
+      "text": "300g skimmed milk",
+      "kcal": 105,
+      "protein": 10.5,
+      "carbs": 15.0,
+      "fat": 0.3,
+      "satFat": 0.3
+    },
+    {
+      "text": "200g heavy cream",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "500g skyr or 0.2% Greek yogurt",
+      "kcal": 300,
+      "protein": 50.0,
+      "carbs": 20.0,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "9g dry gelatine",
+      "kcal": 36,
+      "protein": 7.8,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 stem lemongrass",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 thumb fresh ginger",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g vanilla extract",
+      "kcal": 45,
+      "protein": 0.0,
+      "carbs": 1.8,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Bloom gelatine in 50g water. Chill a large bowl in fridge.",
+    "Heat cream and milk with lemongrass and ginger until simmering; rest 10 min.",
+    "Remove aromatics; whisk in gelatine until dissolved.",
+    "Add skyr to cold bowl; pour in cream mixture; whisk smooth.",
+    "Stir 5 minutes so fat doesn't separate; portion into 5 containers; refrigerate 2+ hours."
+  ],
+  "macros": {
+    "kcal": 1056,
+    "protein": 72,
+    "carbs": 34,
+    "fat": 68,
+    "satFat": 40,
+    "fibre": 0,
+    "sugar": 20,
+    "iron": 0
+  },
+  "macrosNote": "Whole recipe. Per serving: 211 kcal, 14g protein",
+  "notes": "Set at least 2 hours \u2014 overnight is best. Lasts 3\u20135 days in fridge.",
+  "source": "The Felu Cookbook"
+}

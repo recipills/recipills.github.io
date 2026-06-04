@@ -1,0 +1,61 @@
+{
+  "id": "sauce-3-ingredient-cheese",
+  "title": "3-Ingredient Cheese Sauce",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "The easiest cheese sauce ever \u2014 just cheddar, evaporated milk and cornstarch heated for 30 seconds on the stovetop.",
+  "cuisine": "International",
+  "category": "Sauce",
+  "tags": [
+    "cheese sauce",
+    "3 ingredients",
+    "quick",
+    "easy",
+    "mac n cheese"
+  ],
+  "prepTime": 2,
+  "cookTime": 2,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "25g cheddar (grated)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g evaporated milk",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g cornstarch",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl; mix until combined.",
+    "Add to a hot pan; stir 30 seconds until creamy."
+  ],
+  "macros": {
+    "kcal": 152,
+    "protein": 9,
+    "carbs": 7,
+    "fat": 11,
+    "satFat": 6,
+    "fibre": 0,
+    "sugar": 4,
+    "iron": 0
+  },
+  "notes": "Works perfectly for a fast mac n cheese. Add hot sauce for some heat.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "chicken-potato-stir-fry",
+  "title": "Chicken Potato Stir Fry",
+  "description": "Quick stir fry of chicken breast and microwave-prepped potato cubes with onion and bell pepper in a tangy soy-based sauce.",
+  "cuisine": "Asian Fusion",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "potatoes",
+    "stir fry",
+    "quick",
+    "one pan"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 chicken breast or 180g",
+      "kcal": 198,
+      "protein": 41.4,
+      "carbs": 0.0,
+      "fat": 2.2,
+      "satFat": 0.5
+    },
+    {
+      "text": "250g potatoes",
+      "kcal": 192,
+      "protein": 5.0,
+      "carbs": 42.5,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "75g bell pepper",
+      "kcal": 15,
+      "protein": 0.7,
+      "carbs": 3.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g soy sauce",
+      "kcal": 25,
+      "protein": 2.5,
+      "carbs": 2.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g honey",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 4.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g cornstarch",
+      "kcal": 7,
+      "protein": 0.0,
+      "carbs": 1.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g oil",
+      "kcal": 45,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "satFat": 0.7
+    },
+    {
+      "text": "1g garlic powder + paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cut potatoes into bite-sized cubes; microwave at 600W for 5 minutes.",
+    "Cut chicken into strips; chop onion and pepper. Mix soy sauce, honey, cornstarch and 30g water into a sauce.",
+    "Fry potatoes in 3g oil on medium-high 4\u20135 minutes until golden. Remove.",
+    "Add 2g oil; fry chicken with garlic powder and paprika 2 minutes. Add onion and pepper; fry 2 more minutes.",
+    "Return potatoes; add sauce; stir everything 30 seconds until coated and glossy."
+  ],
+  "macros": {
+    "kcal": 579,
+    "protein": 49,
+    "carbs": 72,
+    "fat": 11,
+    "satFat": 2,
+    "fibre": 6,
+    "sugar": 12,
+    "iron": 4
+  },
+  "notes": "Also works great with chicken thighs or lean beef instead of chicken breast.",
+  "source": "The Felu Cookbook"
+}

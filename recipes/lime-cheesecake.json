@@ -1,0 +1,91 @@
+{
+  "id": "lime-cheesecake",
+  "title": "Lime Cheesecake",
+  "description": "Zesty baked lime cheesecake with no protein powder \u2014 fresh lime zest and juice in a creamy cream cheese and skyr base.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "cheesecake",
+    "lime",
+    "baked",
+    "high-protein",
+    "no protein powder"
+  ],
+  "prepTime": 10,
+  "cookTime": 50,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "340g 0.2% fat cream cheese",
+      "kcal": 204,
+      "protein": 37.4,
+      "carbs": 10.2,
+      "fat": 1.7,
+      "satFat": 1.0
+    },
+    {
+      "text": "340g skyr or 0.2% Greek yogurt",
+      "kcal": 204,
+      "protein": 34.0,
+      "carbs": 13.6,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 eggs (100g)",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 1.0,
+      "fat": 11.0,
+      "satFat": 3.3
+    },
+    {
+      "text": "30g all-purpose flour",
+      "kcal": 105,
+      "protein": 3.0,
+      "carbs": 21.9,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "zest of 4 limes + juice of \u00bd lime",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 1.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat oven to 160\u00b0C / 320\u00b0F.",
+    "Whisk all ingredients until smooth.",
+    "Line a 12\u00d718cm (5\u00d77in) baking dish with parchment; pour in batter.",
+    "Bake 45\u201350 minutes. Cool 15 minutes; refrigerate 4+ hours or overnight."
+  ],
+  "macros": {
+    "kcal": 220,
+    "protein": 20,
+    "carbs": 11,
+    "fat": 10,
+    "satFat": 4,
+    "fibre": 0,
+    "sugar": 4,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 881,
+    "protein": 79,
+    "carbs": 45,
+    "fat": 42
+  },
+  "notes": "Top with 10g whipped cream right before serving. Works well with a butter cookie on the side.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "gyro-chicken-salad",
+  "title": "Gyro Chicken Salad",
+  "description": "Greek-inspired grilled chicken thighs over a crisp salad of cucumber, tomatoes and onion with a creamy tzatziki-style dressing.",
+  "cuisine": "Greek",
+  "category": "Lunch",
+  "tags": [
+    "chicken",
+    "salad",
+    "Greek",
+    "gyro",
+    "tzatziki"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "200g skinless boneless chicken thighs",
+      "kcal": 270,
+      "protein": 40.0,
+      "carbs": 0.0,
+      "fat": 11.0,
+      "satFat": 3.0
+    },
+    {
+      "text": "100g cucumber",
+      "kcal": 15,
+      "protein": 0.7,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g tomatoes",
+      "kcal": 18,
+      "protein": 0.9,
+      "carbs": 4.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g onion",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g lettuce",
+      "kcal": 8,
+      "protein": 0.7,
+      "carbs": 1.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g feta light",
+      "kcal": 38,
+      "protein": 2.2,
+      "carbs": 0.8,
+      "fat": 2.8,
+      "satFat": 1.8
+    },
+    {
+      "text": "1 serving tzatziki (see Chapter 9)",
+      "kcal": 44,
+      "protein": 7.2,
+      "carbs": 3.2,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "4g oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "2g oregano + garlic powder + cumin",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "\u00bd lemon juice",
+      "kcal": 4,
+      "protein": 0.1,
+      "carbs": 1.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Rub chicken with oil, oregano, garlic powder, cumin, salt and pepper. Grill or fry on medium-high 3\u20134 minutes per side.",
+    "Chop cucumber, tomatoes, onion and lettuce; toss with lemon juice and salt.",
+    "Slice chicken; arrange over salad. Crumble feta on top. Drizzle tzatziki."
+  ],
+  "macros": {
+    "kcal": 472,
+    "protein": 47,
+    "carbs": 18,
+    "fat": 25,
+    "satFat": 7,
+    "fibre": 3,
+    "sugar": 8,
+    "iron": 3
+  },
+  "notes": "Tzatziki recipe is in Chapter 9. Serve with a warm wheat tortilla for a gyro wrap.",
+  "source": "The Felu Cookbook"
+}

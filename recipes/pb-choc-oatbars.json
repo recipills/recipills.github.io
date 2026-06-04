@@ -1,0 +1,100 @@
+{
+  "id": "pb-choc-oatbars",
+  "title": "PB Choc Oatbars",
+  "description": "Chewy baked oat bars with peanut butter, cocoa and casein protein \u2014 meal-preppable, high-protein snack or breakfast.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "oat bars",
+    "peanut butter",
+    "chocolate",
+    "casein",
+    "meal prep"
+  ],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "150g oats",
+      "kcal": 555,
+      "protein": 19.5,
+      "carbs": 90.0,
+      "fat": 10.5,
+      "satFat": 1.7
+    },
+    {
+      "text": "30g cocoa powder",
+      "kcal": 69,
+      "protein": 6.0,
+      "carbs": 9.0,
+      "fat": 4.2,
+      "satFat": 2.4
+    },
+    {
+      "text": "50g peanut butter",
+      "kcal": 325,
+      "protein": 12.5,
+      "carbs": 10.0,
+      "fat": 25.0,
+      "satFat": 4.5
+    },
+    {
+      "text": "60g casein vanilla protein powder",
+      "kcal": 222,
+      "protein": 45.0,
+      "carbs": 6.0,
+      "fat": 3.0,
+      "satFat": 0.9
+    },
+    {
+      "text": "150g skimmed milk",
+      "kcal": 52,
+      "protein": 5.2,
+      "carbs": 7.5,
+      "fat": 0.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "30\u201350g water (as needed)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g sweetener (optional)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix all dry ingredients in a bowl.",
+    "Add peanut butter; stir. Add milk and mix with a spatula until thick and creamy (~60 seconds). Add 30g water if too dry.",
+    "Line a baking tray (8\u00d722cm / 3\u00d79in) with parchment paper. Transfer mixture.",
+    "Bake at 180\u00b0C / 350\u00b0F for 20\u201325 minutes.",
+    "Cool 20 minutes. Cut into 6 equal bars. Store in fridge 2\u20133 days."
+  ],
+  "macros": {
+    "kcal": 205,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 7,
+    "satFat": 2,
+    "fibre": 3,
+    "sugar": 2,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1230,
+    "protein": 89,
+    "carbs": 122,
+    "fat": 40
+  },
+  "notes": "Casein works best. With whey, reduce water and consider adding a mashed banana. Add 25g sweetener if protein powder is not pre-sweetened.",
+  "source": "The Felu Cookbook"
+}

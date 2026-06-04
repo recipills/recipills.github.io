@@ -1,0 +1,81 @@
+{
+  "id": "pickled-ginger",
+  "title": "Pickled Ginger",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "Sweet and sour pickled ginger \u2014 the classic Japanese condiment, great on chicken, salads and burritos.",
+  "cuisine": "Japanese",
+  "category": "Condiment",
+  "tags": [
+    "pickled",
+    "ginger",
+    "condiment",
+    "Japanese",
+    "easy"
+  ],
+  "prepTime": 10,
+  "cookTime": 5,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "300g young ginger",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "300g white vinegar",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "300g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "pinch salt",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g sugar (optional)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Peel ginger; slice into very fine slices.",
+    "Add ginger to a clean jar.",
+    "Combine water, vinegar, salt and optional sugar in a pot; bring to a boil.",
+    "Switch off heat; pour immediately over ginger in jar.",
+    "Close jar; refrigerate. Ready in 1\u20132 hours, best after overnight."
+  ],
+  "macros": {
+    "kcal": 30,
+    "protein": 0,
+    "carbs": 6,
+    "fat": 0,
+    "satFat": 0,
+    "fibre": 0,
+    "sugar": 3,
+    "iron": 0
+  },
+  "macrosNote": "Per serving (without sugar)",
+  "notes": "Add aromatics like jalape\u00f1o, herbs or peppercorns for extra flavour. Sugar adds ~80 kcal per whole batch.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pb-overload-overnight-oats",
+  "title": "PB Overload Overnight Oats",
+  "description": "The ultimate peanut butter overnight oats \u2014 double peanut hit with powdered peanuts AND peanut butter.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "peanut butter",
+    "casein",
+    "high-protein",
+    "easy"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "26g powdered peanuts",
+      "kcal": 104,
+      "protein": 9.1,
+      "carbs": 9.1,
+      "fat": 3.1,
+      "satFat": 0.5
+    },
+    {
+      "text": "10g peanut butter",
+      "kcal": 65,
+      "protein": 2.5,
+      "carbs": 2.0,
+      "fat": 5.0,
+      "satFat": 0.9
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl. Mix until smooth.",
+    "Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 516,
+    "protein": 49,
+    "carbs": 48,
+    "fat": 12,
+    "satFat": 2,
+    "fibre": 6,
+    "sugar": 8,
+    "iron": 3
+  },
+  "notes": "If you want it sweeter, use skimmed milk instead of water (+40 kcal).",
+  "source": "The Felu Cookbook"
+}

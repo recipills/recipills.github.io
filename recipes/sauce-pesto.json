@@ -1,0 +1,87 @@
+{
+  "id": "sauce-pesto",
+  "title": "Pesto",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "High-protein pesto with cream cheese instead of extra olive oil \u2014 fresh basil, pine nuts and parmesan blended smooth.",
+  "cuisine": "Italian",
+  "category": "Sauce",
+  "tags": [
+    "pesto",
+    "Italian",
+    "basil",
+    "high-protein",
+    "sauce"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 3,
+  "ingredients": [
+    {
+      "text": "25g fresh basil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g 0.2% cream cheese",
+      "kcal": 15,
+      "protein": 2.8,
+      "carbs": 0.8,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "10g pine nuts",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g parmesan cheese",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 clove garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "salt",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients except cream cheese to blender; mix 60 sec.",
+    "Add cream cheese; blend 60 more seconds until smooth.",
+    "Transfer to airtight container. Refrigerate up to 7 days."
+  ],
+  "macros": {
+    "kcal": 129,
+    "protein": 8,
+    "carbs": 4,
+    "fat": 10,
+    "satFat": 3,
+    "fibre": 1,
+    "sugar": 1,
+    "iron": 1
+  },
+  "macrosNote": "Whole recipe (3 servings)",
+  "notes": "Try pecorino romano instead of parmesan, or cottage cheese instead of cream cheese.",
+  "source": "The Felu Cookbook"
+}

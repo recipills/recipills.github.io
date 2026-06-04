@@ -1,0 +1,86 @@
+{
+  "id": "greek-yogurt-cake",
+  "title": "Greek Yogurt Cake",
+  "description": "Moist orange and blueberry cake made with skyr and oat flour \u2014 high-protein breakfast bake.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "baked",
+    "cake",
+    "blueberry",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 40,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "90g oat flour (blended oats)",
+      "kcal": 350.1,
+      "protein": 15.3,
+      "carbs": 59.4,
+      "fat": 6.3,
+      "satFat": 1.2
+    },
+    {
+      "text": "300g skyr",
+      "kcal": 180.0,
+      "protein": 30.0,
+      "carbs": 12.0,
+      "fat": 0.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 55.0,
+      "protein": 11.0,
+      "carbs": 0.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g butter",
+      "kcal": 180.0,
+      "protein": 0.2,
+      "carbs": 0.0,
+      "fat": 20.0,
+      "satFat": 13.0
+    },
+    {
+      "text": "10g vanilla extract",
+      "kcal": 28.8,
+      "protein": 0.0,
+      "carbs": 1.3,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g blueberries",
+      "kcal": 57.0,
+      "protein": 0.7,
+      "carbs": 14.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix oat flour, sweetener, baking powder and baking soda.",
+    "Melt butter; preheat oven to 180\u00b0C.",
+    "Combine skyr, egg whites, melted butter, vanilla, orange zest and blueberries.",
+    "Fold wet into dry; stir smooth.",
+    "Pour into lined 18\u00d712cm dish; bake 40 min.",
+    "Cool 30 min before serving."
+  ],
+  "macros": {
+    "kcal": 186,
+    "protein": 14,
+    "carbs": 18,
+    "fat": 6,
+    "satFat": 3,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Whole recipe = 742 kcal. Optional blueberry cream cheese frosting.",
+  "source": "The Felu Cookbook"
+}

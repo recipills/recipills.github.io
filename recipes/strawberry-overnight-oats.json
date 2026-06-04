@@ -1,0 +1,84 @@
+{
+  "id": "strawberry-overnight-oats",
+  "title": "Strawberry Overnight Oats",
+  "description": "Classic strawberry overnight oats with strawberry jam, fresh strawberries, skyr and casein \u2014 simple and delicious.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "strawberry",
+    "casein",
+    "high-protein",
+    "easy"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g strawberries",
+      "kcal": 48,
+      "protein": 1.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g strawberry jam (sugar-free)",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 3.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients except strawberries to a bowl; mix until smooth.",
+    "Cut strawberries into small pieces; mix in.",
+    "Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 426,
+    "protein": 36,
+    "carbs": 56,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 6,
+    "sugar": 18,
+    "iron": 2
+  },
+  "notes": "Use jam with max 100 kcal per 100g. Casein gives creamier texture than whey.",
+  "source": "The Felu Cookbook"
+}

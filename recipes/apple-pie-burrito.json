@@ -1,0 +1,93 @@
+{
+  "id": "apple-pie-burrito",
+  "title": "Apple Pie Burrito",
+  "description": "A sweet protein-packed burrito filled with casein, skyr, cream cheese and apple sauce \u2014 wrapped in a warm wheat tortilla.",
+  "cuisine": "International",
+  "category": "Snack",
+  "tags": [
+    "burrito",
+    "sweet",
+    "apple",
+    "casein",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 3,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 wheat tortilla (20cm / 8in)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "50g skyr or 0.2% Greek yogurt",
+      "kcal": 30,
+      "protein": 5.0,
+      "carbs": 2.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g 0.2% fat cream cheese",
+      "kcal": 30,
+      "protein": 5.5,
+      "carbs": 1.5,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "50g unsweetened apple sauce",
+      "kcal": 20,
+      "protein": 0.1,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g cinnamon",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "\u00bd apple (sliced)",
+      "kcal": 39,
+      "protein": 0.2,
+      "carbs": 10.5,
+      "fat": 0.2,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix casein, skyr, cream cheese, apple sauce and cinnamon until smooth.",
+    "Warm tortilla in a pan 30 seconds each side.",
+    "Spread filling on tortilla; top with apple slices.",
+    "Roll into a burrito; toast in pan 1\u20132 minutes until golden."
+  ],
+  "macros": {
+    "kcal": 326,
+    "protein": 29,
+    "carbs": 45,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 3,
+    "sugar": 11,
+    "iron": 2
+  },
+  "notes": "Swap apple sauce for any jam or fruit pur\u00e9e. Top with cinnamon and sweetener.",
+  "source": "The Felu Cookbook"
+}

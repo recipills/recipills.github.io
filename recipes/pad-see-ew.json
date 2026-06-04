@@ -1,0 +1,134 @@
+{
+  "id": "pad-see-ew",
+  "title": "Pad See Ew",
+  "description": "Classic Thai stir-fried flat rice noodles with chicken, broccoli and egg in a sweet soy-oyster sauce.",
+  "cuisine": "Thai",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "noodles",
+    "Thai",
+    "egg",
+    "stir fry"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 chicken breast or 180g",
+      "kcal": 198,
+      "protein": 41.4,
+      "carbs": 0.0,
+      "fat": 2.2,
+      "satFat": 0.5
+    },
+    {
+      "text": "60g rice noodles (dry)",
+      "kcal": 210,
+      "protein": 7.2,
+      "carbs": 42.0,
+      "fat": 0.9,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g broccoli",
+      "kcal": 51,
+      "protein": 4.2,
+      "carbs": 10.5,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 red bell pepper or 150g",
+      "kcal": 30,
+      "protein": 1.4,
+      "carbs": 7.5,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "20g light soy sauce",
+      "kcal": 20,
+      "protein": 2.0,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g dark soy sauce",
+      "kcal": 20,
+      "protein": 2.0,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g oyster sauce",
+      "kcal": 10,
+      "protein": 0.2,
+      "carbs": 2.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g honey",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 4.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "6g oil",
+      "kcal": 54,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "satFat": 0.8
+    },
+    {
+      "text": "1 clove garlic + 5g rice vinegar",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Chop all vegetables; slice chicken. Mix all sauce ingredients.",
+    "Cook broccoli in boiling water 3 minutes; remove. Add noodles; simmer 12\u201315 minutes; drain.",
+    "Fry chicken in 3g oil on medium-high 2 minutes; remove. Fry onion and pepper in remaining oil 3 minutes.",
+    "Add broccoli; fry 2 minutes. Add garlic 15 seconds. Crack in egg; stir quickly.",
+    "Add sauce, noodles and chicken; stir-fry 1 minute."
+  ],
+  "macros": {
+    "kcal": 729,
+    "protein": 61,
+    "carbs": 84,
+    "fat": 17,
+    "satFat": 3,
+    "fibre": 9,
+    "sugar": 14,
+    "iron": 5
+  },
+  "notes": "Also great with ground beef. The dark soy sauce gives the characteristic deep colour.",
+  "source": "The Felu Cookbook"
+}

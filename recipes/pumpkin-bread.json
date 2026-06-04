@@ -1,0 +1,108 @@
+{
+  "id": "pumpkin-bread",
+  "title": "Pumpkin Bread",
+  "description": "Moist pumpkin spice bread made with pumpkin pur\u00e9e, whey protein and oat flour \u2014 perfect autumn breakfast or snack.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "baked",
+    "pumpkin",
+    "bread",
+    "whey",
+    "fall"
+  ],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "300g pumpkin pur\u00e9e",
+      "kcal": 78,
+      "protein": 3.0,
+      "carbs": 21.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 52,
+      "protein": 11.0,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "90g all-purpose flour",
+      "kcal": 315,
+      "protein": 9.0,
+      "carbs": 65.7,
+      "fat": 0.9,
+      "satFat": 0.1
+    },
+    {
+      "text": "60g whey vanilla protein powder",
+      "kcal": 228,
+      "protein": 48.0,
+      "carbs": 4.8,
+      "fat": 2.4,
+      "satFat": 1.2
+    },
+    {
+      "text": "6g cinnamon + 3g ginger + 1g nutmeg",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Whisk pumpkin pur\u00e9e, skyr and egg whites in a bowl.",
+    "In a separate bowl, whisk all dry ingredients.",
+    "Add dry to wet; whisk slowly until smooth.",
+    "Line an 8\u00d722cm (3\u00d79in) tin; pour batter.",
+    "Bake at 180\u00b0C / 350\u00b0F for 40\u201345 minutes. Cool 30 minutes before slicing."
+  ],
+  "macros": {
+    "kcal": 113,
+    "protein": 12,
+    "carbs": 14,
+    "fat": 1,
+    "satFat": 0,
+    "fibre": 2,
+    "sugar": 4,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 793,
+    "protein": 81,
+    "carbs": 96,
+    "fat": 8
+  },
+  "notes": "Use homemade pumpkin pur\u00e9e for best flavour. Whey recommended \u2014 casein doesn't rise properly.",
+  "source": "The Felu Cookbook"
+}

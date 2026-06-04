@@ -1,0 +1,125 @@
+{
+  "id": "one-pot-beef-curry",
+  "title": "One Pot Beef Curry",
+  "description": "Hearty one-pot ground beef curry with potatoes, crushed tomatoes and warm spices \u2014 bold flavour with minimal cleanup.",
+  "cuisine": "Indian",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "curry",
+    "one pot",
+    "potatoes",
+    "meal prep"
+  ],
+  "prepTime": 5,
+  "cookTime": 25,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g ground beef 95/5",
+      "kcal": 234,
+      "protein": 39.6,
+      "carbs": 0.0,
+      "fat": 9.0,
+      "satFat": 3.6
+    },
+    {
+      "text": "200g potatoes",
+      "kcal": 154,
+      "protein": 4.0,
+      "carbs": 34.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g crushed tomatoes",
+      "kcal": 35,
+      "protein": 1.4,
+      "carbs": 7.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g peas",
+      "kcal": 40,
+      "protein": 2.7,
+      "carbs": 7.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "4g oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "3g curry powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g turmeric",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g cumin",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garam masala",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder + ginger",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Peel and cube potatoes; microwave at 600W for 4 minutes.",
+    "Fry onion in oil 3 minutes. Add garlic and ginger; fry 20 seconds. Add all spices; toast 20 seconds.",
+    "Add beef; fry 2 minutes. Add crushed tomatoes and 100g water; stir.",
+    "Add microwaved potatoes; simmer covered on medium-low 10 minutes. Add peas; cook 2 more minutes."
+  ],
+  "macros": {
+    "kcal": 556,
+    "protein": 46,
+    "carbs": 57,
+    "fat": 15,
+    "satFat": 4,
+    "fibre": 8,
+    "sugar": 8,
+    "iron": 5
+  },
+  "notes": "Serve with rice or naan. Great for meal prep \u2014 freezes well.",
+  "source": "The Felu Cookbook"
+}

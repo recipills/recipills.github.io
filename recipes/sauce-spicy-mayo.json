@@ -1,0 +1,69 @@
+{
+  "id": "sauce-spicy-mayo",
+  "title": "Spicy Mayo",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Creamy spicy mayo made lighter with 0.2% cream cheese instead of full-fat mayo \u2014 just 41 calories per serving.",
+  "cuisine": "American",
+  "category": "Sauce",
+  "tags": [
+    "spicy mayo",
+    "sauce",
+    "quick",
+    "low calorie",
+    "dip"
+  ],
+  "prepTime": 2,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "15g light mayo",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g 0.2% cream cheese",
+      "kcal": 6,
+      "protein": 1.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g jalape\u00f1o hot sauce (Franks)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder, salt, black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl.",
+    "Mix until smooth. Done."
+  ],
+  "macros": {
+    "kcal": 41,
+    "protein": 1,
+    "carbs": 1,
+    "fat": 3,
+    "satFat": 1,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "If you can't find light mayo, use Greek yogurt with 5\u201310g honey. Lasts 2\u20133 days covered in fridge.",
+  "source": "The Felu Cookbook"
+}

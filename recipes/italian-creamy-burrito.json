@@ -1,0 +1,101 @@
+{
+  "id": "italian-creamy-burrito",
+  "title": "Italian Creamy Burrito",
+  "description": "A fusion burrito stuffed with Italian-spiced chicken, creamy ricotta-style filling, tomato sauce and shredded mozzarella.",
+  "cuisine": "Italian-American",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "burrito",
+    "tortilla",
+    "Italian",
+    "creamy"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 wheat tortilla 25cm (~55g)",
+      "kcal": 165,
+      "protein": 3.9,
+      "carbs": 29.7,
+      "fat": 2.8,
+      "satFat": 0.8
+    },
+    {
+      "text": "1 chicken breast or 180g",
+      "kcal": 198,
+      "protein": 41.4,
+      "carbs": 0.0,
+      "fat": 2.2,
+      "satFat": 0.5
+    },
+    {
+      "text": "50g 0.2% fat cream cheese",
+      "kcal": 30,
+      "protein": 5.5,
+      "carbs": 1.5,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "50g storebought tomato sauce",
+      "kcal": 32,
+      "protein": 1.0,
+      "carbs": 6.0,
+      "fat": 0.8,
+      "satFat": 0.1
+    },
+    {
+      "text": "30g shredded mozzarella",
+      "kcal": 90,
+      "protein": 6.6,
+      "carbs": 0.6,
+      "fat": 6.6,
+      "satFat": 3.9
+    },
+    {
+      "text": "50g spinach",
+      "kcal": 12,
+      "protein": 1.4,
+      "carbs": 2.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "4g oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "1g garlic powder + oregano + black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Season chicken with garlic powder, oregano, salt and pepper. Fry in oil on medium-high 1 minute per side; remove and slice.",
+    "In the same pan, wilt spinach 1 minute. Mix with cream cheese.",
+    "Spread tomato sauce on tortilla; add cream cheese\u2013spinach mix, chicken and mozzarella.",
+    "Roll tightly; return to pan seam-side down, fry 1 minute per side until golden. Slice and serve."
+  ],
+  "macros": {
+    "kcal": 581,
+    "protein": 58,
+    "carbs": 36,
+    "fat": 21,
+    "satFat": 8,
+    "fibre": 3,
+    "sugar": 5,
+    "iron": 3
+  },
+  "notes": "Can add chilli flakes or fresh basil for extra flavour.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "mojito-smoothie",
+  "title": "Mojito Smoothie",
+  "description": "Refreshing avocado and mint smoothie packed with protein and tasting like a mojito.",
+  "cuisine": "American",
+  "category": "Drink",
+  "tags": [
+    "smoothie",
+    "avocado",
+    "mint",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "100g ice cubes",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "50g skimmed milk",
+      "kcal": 17.5,
+      "protein": 1.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "70g avocado",
+      "kcal": 112.0,
+      "protein": 1.4,
+      "carbs": 6.3,
+      "fat": 10.5,
+      "satFat": 1.5
+    },
+    {
+      "text": "170g skyr",
+      "kcal": 102.0,
+      "protein": 17.0,
+      "carbs": 6.8,
+      "fat": 0.3,
+      "satFat": 0.2
+    },
+    {
+      "text": "5g fresh mint",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to blender.",
+    "Blend on high for 60 seconds.",
+    "Pour into glass and enjoy."
+  ],
+  "macros": {
+    "kcal": 284,
+    "protein": 21,
+    "carbs": 14,
+    "fat": 18,
+    "satFat": 3,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Add 15g whey protein powder for more protein.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "pb-choc-overnight-oats",
+  "title": "PB Choc Overnight Oats",
+  "description": "Felu's all-time favourite breakfast \u2014 creamy peanut butter and chocolate overnight oats with skyr and casein protein, topped with banana and walnuts.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "peanut butter",
+    "chocolate",
+    "casein",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "10g cocoa powder",
+      "kcal": 23,
+      "protein": 2.0,
+      "carbs": 3.0,
+      "fat": 1.4,
+      "satFat": 0.8
+    },
+    {
+      "text": "13g powdered peanuts",
+      "kcal": 52,
+      "protein": 4.5,
+      "carbs": 4.5,
+      "fat": 1.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "TOPPING: 20g walnuts",
+      "kcal": 130,
+      "protein": 3.0,
+      "carbs": 2.8,
+      "fat": 13.0,
+      "satFat": 1.2
+    },
+    {
+      "text": "TOPPING: 1 medium banana (125g)",
+      "kcal": 111,
+      "protein": 1.4,
+      "carbs": 28.8,
+      "fat": 0.4,
+      "satFat": 0.1
+    }
+  ],
+  "steps": [
+    "Place a bowl on a scale. Add all ingredients except toppings.",
+    "Mix until creamy and smooth (~30 seconds).",
+    "Cover and refrigerate overnight.",
+    "In the morning, slice banana and roughly chop walnuts. Add on top."
+  ],
+  "macros": {
+    "kcal": 679,
+    "protein": 46,
+    "carbs": 75,
+    "fat": 18,
+    "satFat": 3,
+    "fibre": 9,
+    "sugar": 22,
+    "iron": 3
+  },
+  "macrosWithoutToppings": {
+    "kcal": 441,
+    "protein": 42,
+    "carbs": 45,
+    "fat": 5,
+    "satFat": 1
+  },
+  "notes": "Casein gives the creamiest texture. Whey works but will be thinner. Swap banana+walnuts for strawberries to save ~150 kcal.",
+  "source": "The Felu Cookbook"
+}

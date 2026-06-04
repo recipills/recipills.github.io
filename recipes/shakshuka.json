@@ -1,0 +1,102 @@
+{
+  "id": "shakshuka",
+  "title": "Shakshuka",
+  "description": "Classic Middle Eastern eggs poached in spiced tomato and pepper sauce.",
+  "cuisine": "Middle Eastern",
+  "category": "Breakfast",
+  "tags": [
+    "eggs",
+    "tomato",
+    "spicy",
+    "gluten-free"
+  ],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 red bell pepper (150g)",
+      "kcal": 46.5,
+      "protein": 1.5,
+      "carbs": 9.0,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion (50g)",
+      "kcal": 20.0,
+      "protein": 0.6,
+      "carbs": 4.7,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "400g crushed tomatoes",
+      "kcal": 128.0,
+      "protein": 6.0,
+      "carbs": 26.0,
+      "fat": 0.8,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 eggs",
+      "kcal": 232.5,
+      "protein": 18.9,
+      "carbs": 1.7,
+      "fat": 15.9,
+      "satFat": 4.7
+    },
+    {
+      "text": "2 cloves garlic",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3g smoked paprika",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1g chili powder",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "10g olive oil",
+      "kcal": 88.4,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 10.0,
+      "satFat": 1.4
+    }
+  ],
+  "steps": [
+    "Chop pepper and onion; grate garlic.",
+    "Heat oil on medium; fry pepper and onion 6\u20137 min until caramelized.",
+    "Add garlic 30 sec; add spices; stir.",
+    "Add crushed tomatoes + water; cover; simmer 10 min.",
+    "Remove lid; reduce 5 min.",
+    "Make 3 wells; crack in eggs; cover; cook 2\u20133 min until yolks runny."
+  ],
+  "macros": {
+    "kcal": 492,
+    "protein": 26,
+    "carbs": 33,
+    "fat": 24,
+    "satFat": 5,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Garnish with olives and parsley. Serve with toasted baguette.",
+  "source": "The Felu Cookbook"
+}

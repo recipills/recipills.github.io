@@ -1,0 +1,124 @@
+{
+  "id": "choc-pb-donuts",
+  "title": "Choc PB Donuts",
+  "description": "Baked chocolate-peanut butter protein donuts \u2014 whey/casein blend with cocoa and powdered peanuts, baked in ramekins.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "donuts",
+    "chocolate",
+    "peanut butter",
+    "baked",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "60g oats (blended to flour)",
+      "kcal": 228,
+      "protein": 8.4,
+      "carbs": 37.2,
+      "fat": 4.5,
+      "satFat": 0.7
+    },
+    {
+      "text": "20g cocoa powder",
+      "kcal": 46,
+      "protein": 4.0,
+      "carbs": 6.0,
+      "fat": 2.8,
+      "satFat": 1.6
+    },
+    {
+      "text": "15g whey vanilla protein powder",
+      "kcal": 57,
+      "protein": 12.0,
+      "carbs": 1.2,
+      "fat": 0.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "26g powdered peanuts",
+      "kcal": 104,
+      "protein": 9.1,
+      "carbs": 9.1,
+      "fat": 3.1,
+      "satFat": 0.5
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "50g egg whites",
+      "kcal": 26,
+      "protein": 5.5,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g skyr or 0.2% Greek yogurt",
+      "kcal": 30,
+      "protein": 5.0,
+      "carbs": 2.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Grind oats into oat flour. Mix all dry ingredients.",
+    "Mix all wet ingredients together; combine into dry. Whisk until smooth.",
+    "Pour batter into ramekins (8cm / 3in) \u2014 makes 6\u20138 donuts.",
+    "Bake at 160\u00b0C / 320\u00b0F for 16\u201320 minutes.",
+    "Remove from ramekins; cool. Add frosting if desired."
+  ],
+  "macros": {
+    "kcal": 97,
+    "protein": 10,
+    "carbs": 9,
+    "fat": 3,
+    "satFat": 1,
+    "fibre": 2,
+    "sugar": 2,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 677,
+    "protein": 67,
+    "carbs": 66,
+    "fat": 18
+  },
+  "notes": "Muffin tins work if you don't have ramekins. Whey/casein blend gives best texture.",
+  "source": "The Felu Cookbook"
+}

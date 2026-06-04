@@ -1,0 +1,89 @@
+{
+  "id": "mp-taco-meat",
+  "title": "Taco Meat",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "Versatile lean taco meat cooked in tomato sauce with Mexican spices \u2014 the ultimate meal prep base for burritos, tacos, sloppy joes and bowls.",
+  "cuisine": "Mexican",
+  "category": "Meal Prep",
+  "tags": [
+    "taco meat",
+    "beef",
+    "meal prep",
+    "Mexican",
+    "base"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "400g ground beef 95/5",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 large onion (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g tomato sauce",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g tomato pur\u00e9e",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g garlic powder, 3g paprika, 1.5g oregano, 1g chili, 1g cumin",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Dice onion; fry in oil on medium heat 2\u20133 min.",
+    "Push onion aside; add beef; spread with spatula. Fry 1 min.",
+    "Add all seasonings; toast 15 sec. Add tomato pur\u00e9e; fry 15 sec.",
+    "Add tomato sauce with a splash of water; stir; simmer 1\u20132 min until thick.",
+    "Transfer to meal prep container; cool and refrigerate. Lasts 3\u20134 days."
+  ],
+  "macros": {
+    "kcal": 780,
+    "protein": 95,
+    "carbs": 35,
+    "fat": 28,
+    "satFat": 8,
+    "fibre": 5,
+    "sugar": 10,
+    "iron": 6
+  },
+  "macrosNote": "Whole recipe (2 servings). Per serving: ~390 kcal",
+  "notes": "Use in tacos, burritos, sloppy joes, enchiladas or simply with rice.",
+  "source": "The Felu Cookbook"
+}

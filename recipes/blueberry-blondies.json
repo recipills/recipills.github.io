@@ -1,0 +1,115 @@
+{
+  "id": "blueberry-blondies",
+  "title": "Blueberry Blondies",
+  "description": "Chewy peanut butter blondies with blueberries, chocolate chips and casein protein \u2014 one of Felu's all-time favourite baked goods.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "blondies",
+    "blueberry",
+    "peanut butter",
+    "casein",
+    "baked"
+  ],
+  "prepTime": 10,
+  "cookTime": 35,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "120g oats (blended to flour)",
+      "kcal": 456,
+      "protein": 16.8,
+      "carbs": 74.4,
+      "fat": 9.0,
+      "satFat": 1.4
+    },
+    {
+      "text": "60g casein vanilla protein powder",
+      "kcal": 222,
+      "protein": 45.0,
+      "carbs": 6.0,
+      "fat": 3.0,
+      "satFat": 0.9
+    },
+    {
+      "text": "100g peanut butter",
+      "kcal": 650,
+      "protein": 25.0,
+      "carbs": 20.0,
+      "fat": 50.0,
+      "satFat": 9.0
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "200g unsweetened apple sauce",
+      "kcal": 80,
+      "protein": 0.4,
+      "carbs": 20.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g blueberries",
+      "kcal": 28,
+      "protein": 0.3,
+      "carbs": 7.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "40g chocolate chips",
+      "kcal": 224,
+      "protein": 2.4,
+      "carbs": 23.6,
+      "fat": 12.4,
+      "satFat": 7.6
+    },
+    {
+      "text": "1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Grind oats into oat flour. Mix oat flour, casein, salt and baking soda.",
+    "Add remaining wet ingredients; mix until combined. The batter will be sticky like cookie dough.",
+    "Line a 18\u00d712cm (7\u00d75in) baking dish; pour in batter.",
+    "Bake at 180\u00b0C / 350\u00b0F for 30\u201335 minutes. Cool 30 minutes before cutting."
+  ],
+  "macros": {
+    "kcal": 242,
+    "protein": 14,
+    "carbs": 22,
+    "fat": 11,
+    "satFat": 3,
+    "fibre": 3,
+    "sugar": 8,
+    "iron": 2
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1691,
+    "protein": 101,
+    "carbs": 155,
+    "fat": 75
+  },
+  "notes": "Add cinnamon for extra flavour. Great with whipped cream or vanilla ice cream. Keeps 2\u20133 days in fridge.",
+  "source": "The Felu Cookbook"
+}

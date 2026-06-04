@@ -1,0 +1,63 @@
+{
+  "id": "homemade-almond-milk",
+  "title": "Homemade Almond Milk",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "Real almond milk made with whole almonds \u2014 far more nutritious than store-bought which has barely any almonds.",
+  "cuisine": "International",
+  "category": "Other",
+  "tags": [
+    "almond milk",
+    "homemade",
+    "dairy-free",
+    "easy"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g almonds",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1000g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g Guar Gum (optional)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cover almonds with water; refrigerate at least 12 hours to soak.",
+    "Blend softened almonds with 1000g fresh water for 1 minute.",
+    "Strain through cheesecloth over a bowl; squeeze out all liquid.",
+    "Optional: return liquid to blender with Guar Gum; blend 30 seconds for an emulsion."
+  ],
+  "macros": {
+    "kcal": 290,
+    "protein": 11,
+    "carbs": 11,
+    "fat": 25,
+    "satFat": 2,
+    "fibre": 6,
+    "sugar": 2,
+    "iron": 1
+  },
+  "macrosNote": "Whole batch",
+  "notes": "Guar Gum prevents separation \u2014 optional but recommended. Same method works with cashews.",
+  "source": "The Felu Cookbook"
+}

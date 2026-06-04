@@ -5,7 +5,8 @@
     "updated_for_books": [
       "Pinch of Nom: Everyday Light",
       "Pinch of Nom: Quick & Easy",
-      "Pinch of Nom: Comfort Food"
+      "Pinch of Nom: Comfort Food",
+      "The Felu Cookbook"
     ],
     "usage": "Parse quantity+unit from an ingredient line, map to the base name here, scale per by the parsed amount. See https://recipills.github.io/README.md"
   },
@@ -7220,6 +7221,710 @@
         0,
         0
       ]
+    },
+    "Chicken Breast (skinless/boneless)": {
+      "basis": "100g",
+      "per": [
+        110,
+        23,
+        0,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Chicken Thigh (skinless/boneless)": {
+      "basis": "100g",
+      "per": [
+        135,
+        19,
+        0,
+        6,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Ground Beef 95/5": {
+      "basis": "100g",
+      "per": [
+        130,
+        22,
+        0,
+        5,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Tuna Canned (in water)": {
+      "basis": "100g",
+      "per": [
+        110,
+        24,
+        0,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Deli Meat (chicken/pork)": {
+      "basis": "100g",
+      "per": [
+        110,
+        18,
+        2,
+        3,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Whole Egg (~50g each)": {
+      "basis": "100g",
+      "per": [
+        150,
+        13,
+        1,
+        10,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Egg Whites": {
+      "basis": "100g",
+      "per": [
+        55,
+        12,
+        1,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Skimmed Milk (1%)": {
+      "basis": "100g",
+      "per": [
+        35,
+        3,
+        5,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Skyr / Greek Yogurt 0.2%": {
+      "basis": "100g",
+      "per": [
+        60,
+        11,
+        4,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Cream Cheese 0.2% Fat": {
+      "basis": "100g",
+      "per": [
+        60,
+        11,
+        4,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Cottage Cheese 1%": {
+      "basis": "100g",
+      "per": [
+        65,
+        14,
+        3,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Laughing Cow Wedge": {
+      "basis": "100g",
+      "per": [
+        220,
+        8,
+        8,
+        16,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Shredded Mozzarella": {
+      "basis": "100g",
+      "per": [
+        300,
+        22,
+        2,
+        22,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Fresh Mozzarella (fat-reduced)": {
+      "basis": "100g",
+      "per": [
+        145,
+        14,
+        2,
+        9,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "American Cheese Slice": {
+      "basis": "100g",
+      "per": [
+        300,
+        15,
+        5,
+        24,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Raw Rice (any variety)": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        77,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Dry Pasta / Wheat Noodles": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        2,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Udon Noodles (dry)": {
+      "basis": "100g",
+      "per": [
+        135,
+        4,
+        28,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Wheat Tortilla": {
+      "basis": "100g",
+      "per": [
+        300,
+        8,
+        50,
+        7,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Oats": {
+      "basis": "100g",
+      "per": [
+        350,
+        13,
+        62,
+        7,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Potatoes": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Sweet Potatoes": {
+      "basis": "100g",
+      "per": [
+        85,
+        2,
+        20,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Onion": {
+      "basis": "100g",
+      "per": [
+        40,
+        1,
+        9,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Garlic": {
+      "basis": "100g",
+      "per": [
+        150,
+        6,
+        33,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Tomatoes": {
+      "basis": "100g",
+      "per": [
+        18,
+        1,
+        4,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Bell Pepper": {
+      "basis": "100g",
+      "per": [
+        20,
+        1,
+        5,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Mushrooms": {
+      "basis": "100g",
+      "per": [
+        22,
+        3,
+        3,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Zucchini / Cucumber": {
+      "basis": "100g",
+      "per": [
+        17,
+        1,
+        3,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Carrot": {
+      "basis": "100g",
+      "per": [
+        41,
+        1,
+        10,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Broccoli": {
+      "basis": "100g",
+      "per": [
+        34,
+        3,
+        7,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Cauliflower": {
+      "basis": "100g",
+      "per": [
+        25,
+        2,
+        5,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Cabbage": {
+      "basis": "100g",
+      "per": [
+        16,
+        1,
+        4,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Spinach": {
+      "basis": "100g",
+      "per": [
+        23,
+        3,
+        4,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Peas (frozen)": {
+      "basis": "100g",
+      "per": [
+        80,
+        5,
+        14,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Avocado": {
+      "basis": "100g",
+      "per": [
+        160,
+        2,
+        9,
+        15,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Banana": {
+      "basis": "100g",
+      "per": [
+        89,
+        1,
+        23,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Crushed Tomatoes (canned)": {
+      "basis": "100g",
+      "per": [
+        32,
+        2,
+        6,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Sieved Tomatoes (passata)": {
+      "basis": "100g",
+      "per": [
+        35,
+        2,
+        7,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Tomato Purée / Paste": {
+      "basis": "100g",
+      "per": [
+        82,
+        4,
+        19,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Kidney / Cannellini Beans (canned)": {
+      "basis": "100g",
+      "per": [
+        80,
+        5,
+        14,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Soy Sauce (light/low-sodium)": {
+      "basis": "100g",
+      "per": [
+        100,
+        10,
+        8,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Gochujang (Korean chili paste)": {
+      "basis": "100g",
+      "per": [
+        200,
+        4,
+        40,
+        2,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Low-Sugar Ketchup": {
+      "basis": "100g",
+      "per": [
+        45,
+        1,
+        10,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Mustard": {
+      "basis": "100g",
+      "per": [
+        60,
+        4,
+        6,
+        3,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Light Mayo": {
+      "basis": "100g",
+      "per": [
+        150,
+        0,
+        5,
+        13,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Peanut Butter": {
+      "basis": "100g",
+      "per": [
+        650,
+        25,
+        20,
+        50,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Powdered Peanuts (PB2 / PBFit)": {
+      "basis": "100g",
+      "per": [
+        400,
+        40,
+        30,
+        8,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Honey": {
+      "basis": "100g",
+      "per": [
+        300,
+        0,
+        80,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Sweetener (Erythritol / Stevia)": {
+      "basis": "100g",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Cornstarch": {
+      "basis": "100g",
+      "per": [
+        350,
+        0,
+        85,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Dry Gelatine": {
+      "basis": "100g",
+      "per": [
+        400,
+        85,
+        0,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Vegetable / Chicken Broth Powder": {
+      "basis": "100g",
+      "per": [
+        200,
+        8,
+        30,
+        4,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Cocoa Powder": {
+      "basis": "100g",
+      "per": [
+        350,
+        20,
+        58,
+        14,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "All-Purpose Flour": {
+      "basis": "100g",
+      "per": [
+        350,
+        10,
+        74,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Whey Protein Powder": {
+      "basis": "100g",
+      "per": [
+        380,
+        80,
+        6,
+        4,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Casein Protein Powder": {
+      "basis": "100g",
+      "per": [
+        380,
+        80,
+        6,
+        4,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Vanilla Extract": {
+      "basis": "100g",
+      "per": [
+        288,
+        0,
+        13,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Lemon / Lime Juice": {
+      "basis": "100g",
+      "per": [
+        22,
+        0,
+        7,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Vinegar (rice / white)": {
+      "basis": "100g",
+      "per": [
+        15,
+        0,
+        1,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Fresh Ginger": {
+      "basis": "100g",
+      "per": [
+        80,
+        2,
+        18,
+        1,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Jalapeño": {
+      "basis": "100g",
+      "per": [
+        30,
+        1,
+        7,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Romaine Lettuce": {
+      "basis": "100g",
+      "per": [
+        17,
+        1,
+        3,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Celery": {
+      "basis": "100g",
+      "per": [
+        16,
+        1,
+        3,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
+    },
+    "Spices / Seasonings (tracked individually)": {
+      "basis": "100g",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "_source": "felu_cookbook"
     }
   }
 }

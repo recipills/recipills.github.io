@@ -1,0 +1,86 @@
+{
+  "id": "kaiserschmarrn",
+  "title": "Kaiserschmarrn (Emperor Pancake)",
+  "description": "Austria's famous torn pancake \u2014 high-protein version with skyr, casein/whey blend and egg, torn into caramelised pieces.",
+  "cuisine": "Austrian",
+  "category": "Breakfast",
+  "tags": [
+    "pancakes",
+    "Austrian",
+    "casein",
+    "whey",
+    "eggs"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g all-purpose flour",
+      "kcal": 175,
+      "protein": 5.0,
+      "carbs": 36.5,
+      "fat": 0.5,
+      "satFat": 0.1
+    },
+    {
+      "text": "15g casein/whey blend vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.5,
+      "carbs": 1.3,
+      "fat": 0.7,
+      "satFat": 0.3
+    },
+    {
+      "text": "2 eggs (100g)",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 1.0,
+      "fat": 11.0,
+      "satFat": 3.3
+    },
+    {
+      "text": "50g skimmed milk",
+      "kcal": 18,
+      "protein": 1.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "170g skyr or 0.2% Greek yogurt",
+      "kcal": 102,
+      "protein": 17.0,
+      "carbs": 6.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "7g butter",
+      "kcal": 51,
+      "protein": 0.1,
+      "carbs": 0.0,
+      "fat": 5.7,
+      "satFat": 3.6
+    }
+  ],
+  "steps": [
+    "Whisk eggs, yogurt, protein powder, milk and a pinch of salt until combined.",
+    "Melt butter in a pan on medium; pour in all batter at once.",
+    "Cook until bottom is golden; flip onto a plate then back into pan.",
+    "Cook other side 2 minutes. Use spatula to tear into bite-sized pieces.",
+    "Fry pieces 1 more minute tossing for extra colour."
+  ],
+  "macros": {
+    "kcal": 537,
+    "protein": 48,
+    "carbs": 48,
+    "fat": 17,
+    "satFat": 6,
+    "fibre": 1,
+    "sugar": 8,
+    "iron": 2
+  },
+  "notes": "For extra fluffiness: separate eggs, beat whites to stiff peaks, fold into yolk batter before cooking.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "tiramisu-overnight-oats",
+  "title": "Tiramisu Overnight Oats",
+  "description": "The classic Italian dessert as a high-protein breakfast \u2014 espresso, cocoa and casein in overnight oats form.",
+  "cuisine": "Italian",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "tiramisu",
+    "coffee",
+    "casein",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g strong liquid coffee / espresso",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g cocoa powder",
+      "kcal": 12,
+      "protein": 1.0,
+      "carbs": 1.5,
+      "fat": 0.7,
+      "satFat": 0.4
+    },
+    {
+      "text": "50g skimmed milk",
+      "kcal": 18,
+      "protein": 1.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "satFat": 0.1
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl. Mix until smooth.",
+    "Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 365,
+    "protein": 37,
+    "carbs": 39,
+    "fat": 5,
+    "satFat": 1,
+    "fibre": 4,
+    "sugar": 6,
+    "iron": 2
+  },
+  "notes": "Use milk instead of water \u2014 straight coffee can be too bitter. Adjust cocoa/casein ratio to taste.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "protein-bar",
+  "title": "Protein Bar",
+  "description": "Chewy store-style protein bars made with fiber syrup, peanut butter and casein \u2014 freezer-stable for up to 3 months.",
+  "cuisine": "International",
+  "category": "Snack",
+  "tags": [
+    "protein bar",
+    "peanut butter",
+    "casein",
+    "meal prep",
+    "no bake"
+  ],
+  "prepTime": 15,
+  "cookTime": 0,
+  "servings": 5,
+  "ingredients": [
+    {
+      "text": "200g liquid fiber syrup",
+      "kcal": 320,
+      "protein": 0.0,
+      "carbs": 160.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g oats",
+      "kcal": 74,
+      "protein": 2.6,
+      "carbs": 12.0,
+      "fat": 1.4,
+      "satFat": 0.2
+    },
+    {
+      "text": "50g peanut butter",
+      "kcal": 325,
+      "protein": 12.5,
+      "carbs": 10.0,
+      "fat": 25.0,
+      "satFat": 4.5
+    },
+    {
+      "text": "100g casein vanilla protein powder",
+      "kcal": 370,
+      "protein": 75.0,
+      "carbs": 10.0,
+      "fat": 5.0,
+      "satFat": 1.5
+    },
+    {
+      "text": "20g granola (optional topping)",
+      "kcal": 84,
+      "protein": 1.8,
+      "carbs": 13.0,
+      "fat": 3.0,
+      "satFat": 0.4
+    }
+  ],
+  "steps": [
+    "Microwave fiber syrup in a microwave-safe bowl for 15 seconds on medium.",
+    "Add peanut butter; stir until melted.",
+    "Add half the casein; mix. Add remaining casein and oats; knead into a smooth dough. Add a splash of milk if too dry.",
+    "Line a container (16\u00d712cm / 6\u00d75in) with parchment paper. Add dough; flatten evenly. Top with granola and a pinch of salt.",
+    "Rest 2 hours. Cut into 5 bars. Wrap in plastic foil; freeze up to 3 months or refrigerate up to 2 weeks."
+  ],
+  "macros": {
+    "kcal": 223,
+    "protein": 19,
+    "carbs": 14,
+    "fat": 20,
+    "satFat": 4,
+    "fibre": 6,
+    "sugar": 2,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1115,
+    "protein": 93,
+    "carbs": 71,
+    "fat": 31
+  },
+  "notes": "Can be eaten straight from the freezer. Fiber syrup is what gives the chewy texture \u2014 do not substitute.",
+  "source": "The Felu Cookbook"
+}

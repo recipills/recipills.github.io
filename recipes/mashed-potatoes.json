@@ -1,0 +1,70 @@
+{
+  "id": "mashed-potatoes",
+  "title": "Mashed Potatoes",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "Simple creamy mashed potatoes made lighter with skimmed milk and a Laughing Cow wedge instead of butter.",
+  "cuisine": "International",
+  "category": "Side",
+  "tags": [
+    "mash",
+    "potato",
+    "side",
+    "quick",
+    "comfort food"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "250g potatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g skimmed milk",
+      "kcal": 18,
+      "protein": 1.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 Laughing Cow wedge (17g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "salt and black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Peel and cut potatoes; simmer in salted water 12\u201315 minutes until soft.",
+    "Drain; mash with a fork until smooth.",
+    "Add milk; mix until smooth. Add Laughing Cow and seasoning; mix until incorporated."
+  ],
+  "macros": {
+    "kcal": 254,
+    "protein": 9,
+    "carbs": 47,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 5,
+    "sugar": 5,
+    "iron": 1
+  },
+  "notes": "Add rosemary, cayenne or cumin for extra flavour. Great alongside any protein.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "cheeseburger-bowl",
+  "title": "Cheeseburger Bowl",
+  "description": "Deconstructed cheeseburger in a bowl \u2014 ground beef with American cheese, pickles, lettuce and a classic burger sauce over rice.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "rice",
+    "bowl",
+    "burger",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g ground beef 95/5",
+      "kcal": 234,
+      "protein": 39.6,
+      "carbs": 0.0,
+      "fat": 9.0,
+      "satFat": 3.6
+    },
+    {
+      "text": "50g raw rice",
+      "kcal": 175,
+      "protein": 3.5,
+      "carbs": 38.5,
+      "fat": 0.5,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 slice American cheese (20g)",
+      "kcal": 60,
+      "protein": 3.2,
+      "carbs": 1.0,
+      "fat": 4.6,
+      "satFat": 2.8
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g pickles",
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g romaine lettuce",
+      "kcal": 4,
+      "protein": 0.4,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    },
+    {
+      "text": "10g light mayo",
+      "kcal": 15,
+      "protein": 0.2,
+      "carbs": 0.5,
+      "fat": 1.4,
+      "satFat": 0.2
+    },
+    {
+      "text": "5g mustard",
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.4,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g low-sugar ketchup",
+      "kcal": 4,
+      "protein": 0.1,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g pickle water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook rice: add rice, 125g water and a pinch of salt to a pot; boil, then simmer covered 12\u201315 minutes.",
+    "Mix mayo, mustard, ketchup and pickle water into a burger sauce.",
+    "Fry ground beef in oil on medium-high 1 minute per side. Add onion; fry 1\u20132 more minutes. Add American cheese; stir until melted.",
+    "Bowl: rice \u2192 beef mixture \u2192 pickles and lettuce on edges \u2192 sauce on top."
+  ],
+  "macros": {
+    "kcal": 538,
+    "protein": 50,
+    "carbs": 51,
+    "fat": 14,
+    "satFat": 6,
+    "fibre": 2,
+    "sugar": 5,
+    "iron": 4
+  },
+  "notes": "Greek yogurt or cream cheese also work as a sauce base.",
+  "source": "The Felu Cookbook"
+}

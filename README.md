@@ -1,4 +1,116 @@
-# Recipe Library
+# ReciPills Recipe Library (also check archived readme below)
+
+A structured collection of high-protein, low-calorie recipes extracted from cookbooks and stored as machine-readable JSON.
+
+---
+
+## File Structure
+/recipes/ → Individual recipe JSON files (one per recipe)
+/recipes/index.json → Lightweight index of all recipes (no steps/ingredients)
+/ingredient-macros.json → Canonical macro reference per ingredient key (per 100g)
+
+text
+
+---
+
+## Recipe JSON Schema
+
+Each recipe file follows this structure:
+
+```json
+{
+  "id": "unique-slug",
+  "title": "Recipe Title",
+  "chapter": 5,
+  "chapterName": "Lunch / Dinner",
+  "description": "Short description.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": ["chicken", "pasta", "quick"],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g chicken breast",
+      "kcal": 198,
+      "protein": 41.4,
+      "carbs": 0,
+      "fat": 1.8,
+      "satFat": 0.4
+    }
+  ],
+  "steps": ["Step 1...", "Step 2..."],
+  "macros": {
+    "kcal": 550,
+    "protein": 48,
+    "carbs": 55,
+    "fat": 12,
+    "satFat": 3,
+    "fibre": 4,
+    "sugar": 5,
+    "iron": 2
+  },
+  "macrosNote": "Whole recipe (1 serving)",
+  "notes": "Optional substitution tips.",
+  "source": "Cookbook Name"
+}
+```
+
+**All weights are raw/uncooked unless otherwise stated.**  
+**Macros are estimates** — always re-verify with your own calorie tracker.
+
+---
+
+## Ingredient Macros (`ingredient-macros.json`)
+
+A lookup table of standardised ingredients used across recipes. Each entry uses a stable key and provides macros per 100g:
+
+```json
+"chicken_breast": {
+  "name": "Chicken Breast (skinless/boneless)",
+  "kcal_per_100g": 110,
+  "protein_per_100g": 23,
+  "carbs_per_100g": 0,
+  "fat_per_100g": 1
+}
+```
+
+Use this to recalculate macros when substituting ingredients or scaling recipes.
+
+---
+
+## Recipe Index (`recipes/index.json`)
+
+A flat array of all recipes, each containing metadata and macros only (no steps or ingredients). Use this for search, filtering and browsing without loading full recipe files.
+
+---
+
+## Filtering Recipes
+
+Common filter fields available in the index:
+
+| Field | Example values |
+|---|---|
+| `chapter` | 4–10 |
+| `chapterName` | `"Breakfast"`, `"Lunch / Dinner"`, `"Meal Prep"` |
+| `cuisine` | `"Italian"`, `"Korean"`, `"Mexican"` |
+| `category` | `"Breakfast"`, `"Dessert"`, `"Sauce"`, `"Soup"` |
+| `tags` | `"quick"`, `"high-protein"`, `"freezer"`, `"meal prep"` |
+| `macros.kcal` | numeric, whole recipe |
+| `macros.protein` | numeric, grams |
+
+---
+
+## Notes
+
+- **Ingredient substitutions** are noted in the `notes` field of each recipe.
+- **Noodle recipes** (Chapter 10) use 80g dry wheat noodles as the base; macros are adjusted accordingly.
+- **Meal prep recipes** (Chapter 8) include multi-serving macros; per-serving values are noted in `macrosNote`.
+- All baking temperatures are given in both °C and °F.
+- Air fryer baking: subtract 20°C from oven temperature.
+
+# ARCHIVED README - Recipe Library
 
 A static recipe website — no build step, no dependencies. Hosted on GitHub Pages.
 

@@ -1,0 +1,93 @@
+{
+  "id": "oven-roasted-chicken-thighs-vegetables",
+  "title": "Oven Roasted Chicken Thighs & Vegetables",
+  "description": "A one-tray bake of seasoned chicken thighs with cauliflower, carrot and bell pepper \u2014 effortless, nutritious and delicious.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "baked",
+    "one tray",
+    "vegetables",
+    "easy"
+  ],
+  "prepTime": 5,
+  "cookTime": 30,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "200g skinless boneless chicken thighs",
+      "kcal": 270,
+      "protein": 40.0,
+      "carbs": 0.0,
+      "fat": 11.0,
+      "satFat": 3.0
+    },
+    {
+      "text": "250g cauliflower",
+      "kcal": 62,
+      "protein": 4.8,
+      "carbs": 12.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 carrot or 100g",
+      "kcal": 41,
+      "protein": 0.9,
+      "carbs": 9.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red bell pepper or 150g",
+      "kcal": 30,
+      "protein": 1.4,
+      "carbs": 7.5,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g oil",
+      "kcal": 45,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "satFat": 0.7
+    },
+    {
+      "text": "2g garlic powder + rosemary + basil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat oven to 200\u00b0C / 400\u00b0F.",
+    "Cut chicken and all vegetables into bite-sized pieces.",
+    "Add to a baking dish; drizzle with oil; add all seasonings and mix well.",
+    "Bake 25\u201330 minutes."
+  ],
+  "macros": {
+    "kcal": 498,
+    "protein": 46,
+    "carbs": 35,
+    "fat": 22,
+    "satFat": 5,
+    "fibre": 10,
+    "sugar": 12,
+    "iron": 4
+  },
+  "notes": "Serve with avocado cream cheese dip (see Chapter 9). Chicken thighs are much harder to overcook than breast.",
+  "source": "The Felu Cookbook"
+}

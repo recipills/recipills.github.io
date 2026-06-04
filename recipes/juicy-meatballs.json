@@ -1,0 +1,93 @@
+{
+  "id": "juicy-meatballs",
+  "title": "Juicy Meatballs",
+  "description": "Baked ground beef meatballs made incredibly juicy with buttermilk, gelatine and egg whites \u2014 serve with your favourite sauce.",
+  "cuisine": "Italian-American",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "meatballs",
+    "baked",
+    "meal prep",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 18,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g ground beef 95/5",
+      "kcal": 234,
+      "protein": 39.6,
+      "carbs": 0.0,
+      "fat": 9.0,
+      "satFat": 3.6
+    },
+    {
+      "text": "1 slice sandwich bread (~25g)",
+      "kcal": 62,
+      "protein": 2.0,
+      "carbs": 11.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "25g egg whites",
+      "kcal": 14,
+      "protein": 2.8,
+      "carbs": 0.2,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g buttermilk 1%",
+      "kcal": 20,
+      "protein": 1.6,
+      "carbs": 2.5,
+      "fat": 0.5,
+      "satFat": 0.3
+    },
+    {
+      "text": "25g onion (finely diced)",
+      "kcal": 10,
+      "protein": 0.3,
+      "carbs": 2.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "9g dry gelatine",
+      "kcal": 36,
+      "protein": 7.8,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g chilli powder + paprika + parsley",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix buttermilk and gelatine; set aside. Dice onion and garlic finely. Cut bread into small cubes. Preheat oven to 180\u00b0C / 350\u00b0F.",
+    "Combine all ingredients; mix with hands. Test seasoning by microwaving a small piece 15 seconds.",
+    "Spray baking dish with oil; form small balls. Bake 15\u201318 minutes.",
+    "Optional: fry in a hot pan 1 minute to brown the outside."
+  ],
+  "macros": {
+    "kcal": 386,
+    "protein": 53,
+    "carbs": 16,
+    "fat": 10,
+    "satFat": 4,
+    "fibre": 1,
+    "sugar": 2,
+    "iron": 4
+  },
+  "notes": "Add 25g grated parmesan for extra flavour (+100 kcal). Keeps 3\u20134 days in the fridge.",
+  "source": "The Felu Cookbook"
+}

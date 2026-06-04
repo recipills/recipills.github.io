@@ -1,0 +1,75 @@
+{
+  "id": "yogurt-power-bowl",
+  "title": "Yogurt Power Bowl",
+  "description": "High-protein skyr bowl topped with blueberries, strawberries, honey and walnuts.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "yogurt",
+    "fruit",
+    "high-protein",
+    "no-cook"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "300g skyr",
+      "kcal": 180.0,
+      "protein": 30.0,
+      "carbs": 12.0,
+      "fat": 0.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "50g blueberries",
+      "kcal": 28.5,
+      "protein": 0.3,
+      "carbs": 7.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g strawberries",
+      "kcal": 32.0,
+      "protein": 0.7,
+      "carbs": 7.7,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g honey",
+      "kcal": 30.4,
+      "protein": 0.0,
+      "carbs": 8.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g walnuts",
+      "kcal": 98.1,
+      "protein": 2.3,
+      "carbs": 2.1,
+      "fat": 9.8,
+      "satFat": 0.9
+    }
+  ],
+  "steps": [
+    "Slice strawberries.",
+    "Add yogurt to bowl; top with berries and honey; mix.",
+    "Crush walnuts; sprinkle on top."
+  ],
+  "macros": {
+    "kcal": 352,
+    "protein": 34,
+    "carbs": 35,
+    "fat": 11,
+    "satFat": 1,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Vary the fruit seasonally.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "cauliflower-oatmeal",
+  "title": "Cauliflower Oatmeal",
+  "description": "Adding cauliflower rice to oatmeal dramatically increases volume and fibre without adding many calories \u2014 a clever high-protein hot breakfast.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "oatmeal",
+    "cauliflower",
+    "whey",
+    "high-protein",
+    "hot"
+  ],
+  "prepTime": 3,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "100g cauliflower rice or florets",
+      "kcal": 25,
+      "protein": 1.9,
+      "carbs": 5.0,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "13g powdered peanuts",
+      "kcal": 52,
+      "protein": 4.5,
+      "carbs": 4.5,
+      "fat": 1.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "30g whey vanilla protein powder",
+      "kcal": 114,
+      "protein": 24.0,
+      "carbs": 2.4,
+      "fat": 1.2,
+      "satFat": 0.6
+    },
+    {
+      "text": "300g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "If using whole cauliflower, grate florets into rice.",
+    "Add cauliflower rice to a pot with 250g salted water. Cook on medium heat 10 minutes.",
+    "Add oats and 50g more water; simmer stirring until thick and creamy (~5 minutes).",
+    "Add powdered peanuts and whey; cook stirring 30 seconds. Add splash of water if needed."
+  ],
+  "macros": {
+    "kcal": 388,
+    "protein": 38,
+    "carbs": 41,
+    "fat": 7,
+    "satFat": 1,
+    "fibre": 6,
+    "sugar": 4,
+    "iron": 3
+  },
+  "notes": "Can also be refrigerated overnight for a cold version. Cauliflower taste is completely masked.",
+  "source": "The Felu Cookbook"
+}

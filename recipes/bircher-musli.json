@@ -1,0 +1,99 @@
+{
+  "id": "bircher-musli",
+  "title": "Bircher M\u00fcsli",
+  "description": "Overnight oats Swiss-style with applesauce, peanut butter, chia seeds and honey.",
+  "cuisine": "Swiss",
+  "category": "Breakfast",
+  "tags": [
+    "oats",
+    "overnight",
+    "no-cook",
+    "sweet"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 194.5,
+      "protein": 8.5,
+      "carbs": 33.0,
+      "fat": 3.5,
+      "satFat": 0.7
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35.0,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "100g applesauce",
+      "kcal": 61.0,
+      "protein": 0.2,
+      "carbs": 16.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g peanut butter",
+      "kcal": 58.8,
+      "protein": 2.5,
+      "carbs": 2.0,
+      "fat": 5.0,
+      "satFat": 1.0
+    },
+    {
+      "text": "13g powdered peanuts",
+      "kcal": 52.0,
+      "protein": 4.8,
+      "carbs": 4.5,
+      "fat": 1.7,
+      "satFat": 0.3
+    },
+    {
+      "text": "10g chia seeds",
+      "kcal": 49.0,
+      "protein": 1.7,
+      "carbs": 4.2,
+      "fat": 3.1,
+      "satFat": 0.3
+    },
+    {
+      "text": "15g honey",
+      "kcal": 45.6,
+      "protein": 0.0,
+      "carbs": 12.3,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g skyr",
+      "kcal": 90.0,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.3,
+      "satFat": 0.2
+    }
+  ],
+  "steps": [
+    "Combine all ingredients in a bowl; mix well.",
+    "Refrigerate overnight.",
+    "Enjoy cold in the morning."
+  ],
+  "macros": {
+    "kcal": 622,
+    "protein": 38,
+    "carbs": 68,
+    "fat": 15,
+    "satFat": 2,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Swap applesauce for other fruit purees.",
+  "source": "The Felu Cookbook"
+}

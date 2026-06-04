@@ -1,0 +1,96 @@
+{
+  "id": "sauce-aurora",
+  "title": "Aurora Sauce",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Creamy Italian tomato sauce with caramelised onion, garlic and Laughing Cow \u2014 gorgeous over chicken and rice.",
+  "cuisine": "Italian",
+  "category": "Sauce",
+  "tags": [
+    "sauce",
+    "tomato",
+    "creamy",
+    "Italian",
+    "quick"
+  ],
+  "prepTime": 3,
+  "cookTime": 8,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 medium onion (50g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g sieved tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 clove garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 Laughing Cow wedge (17g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water + 5g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g fresh basil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil, salt, pepper, oregano",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Dice onion; peel and grate garlic. Mix broth powder with water.",
+    "Fry onion in oil 3 min; add garlic 20 sec.",
+    "Add broth and tomato sauce; add salt, pepper, oregano. Simmer 5 min.",
+    "Add Laughing Cow; press down with spatula until sauce turns orange (~1 min).",
+    "Add basil at the end. Done!"
+  ],
+  "macros": {
+    "kcal": 122,
+    "protein": 6,
+    "carbs": 17,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 3,
+    "sugar": 8,
+    "iron": 1
+  },
+  "notes": "Add chili flakes for some kick. Lasts 2\u20133 days in fridge.",
+  "source": "The Felu Cookbook"
+}

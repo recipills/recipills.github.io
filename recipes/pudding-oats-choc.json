@@ -1,0 +1,93 @@
+{
+  "id": "pudding-oats-choc",
+  "title": "Pudding Oats Choc",
+  "description": "Chocolate pudding oatmeal with cocoa, powdered peanuts and chocolate pudding powder \u2014 a dessert that doubles as breakfast.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "oatmeal",
+    "pudding",
+    "chocolate",
+    "peanut butter",
+    "quick"
+  ],
+  "prepTime": 3,
+  "cookTime": 8,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g chocolate pudding powder",
+      "kcal": 57,
+      "protein": 0.1,
+      "carbs": 13.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g cocoa powder",
+      "kcal": 23,
+      "protein": 2.0,
+      "carbs": 3.0,
+      "fat": 1.4,
+      "satFat": 0.8
+    },
+    {
+      "text": "13g powdered peanuts",
+      "kcal": 52,
+      "protein": 4.5,
+      "carbs": 4.5,
+      "fat": 1.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "250g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add oats, water and a pinch of salt to a pot. Heat on medium, stirring occasionally 2 minutes until thick.",
+    "Mix pudding powder, cocoa, peanut powder and milk in a glass until combined.",
+    "Pour into oats; stir 1 minute until thick.",
+    "Transfer to bowl; mix in skyr. Eat warm or refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 389,
+    "protein": 26,
+    "carbs": 53,
+    "fat": 7,
+    "satFat": 1,
+    "fibre": 6,
+    "sugar": 12,
+    "iron": 3
+  },
+  "notes": "Refrigerating overnight gives a mousse-like texture. Cover surface with plastic wrap to prevent skin forming.",
+  "source": "The Felu Cookbook"
+}

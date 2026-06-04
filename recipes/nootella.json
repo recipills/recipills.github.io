@@ -1,0 +1,76 @@
+{
+  "id": "nootella",
+  "title": "Nootella",
+  "description": "High-protein homemade Nutella-style spread made with hazelnut butter, cocoa and casein protein \u2014 use as a frosting or spread.",
+  "cuisine": "International",
+  "category": "Snack",
+  "tags": [
+    "nutella",
+    "hazelnut",
+    "chocolate",
+    "casein",
+    "spread"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "50g hazelnut butter or peanut butter",
+      "kcal": 325,
+      "protein": 12.5,
+      "carbs": 10.0,
+      "fat": 25.0,
+      "satFat": 4.5
+    },
+    {
+      "text": "30g casein vanilla protein powder",
+      "kcal": 111,
+      "protein": 22.5,
+      "carbs": 3.0,
+      "fat": 1.5,
+      "satFat": 0.4
+    },
+    {
+      "text": "15g cocoa powder",
+      "kcal": 34,
+      "protein": 3.0,
+      "carbs": 4.5,
+      "fat": 2.1,
+      "satFat": 1.2
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "10g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix all ingredients together until smooth and creamy.",
+    "Add more milk if too thick. Adjust cocoa and sweetener to taste.",
+    "Use as frosting on donuts, blondies or bread. Store refrigerated."
+  ],
+  "macros": {
+    "kcal": 78,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 1,
+    "sugar": 1,
+    "iron": 1
+  },
+  "notes": "Peanut butter works as a substitute for hazelnut butter. Use as donut frosting \u2014 see Choc PB Donuts.",
+  "source": "The Felu Cookbook"
+}

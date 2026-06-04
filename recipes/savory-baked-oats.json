@@ -1,0 +1,100 @@
+{
+  "id": "savory-baked-oats",
+  "title": "Savory Baked Oats",
+  "description": "Oats baked with egg whites, vegetables and broth into a savory high-protein morning bake.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "oats",
+    "baked",
+    "savory",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 194.5,
+      "protein": 8.5,
+      "carbs": 33.0,
+      "fat": 3.5,
+      "satFat": 0.7
+    },
+    {
+      "text": "50g onion",
+      "kcal": 20.0,
+      "protein": 0.6,
+      "carbs": 4.7,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g tomatoes",
+      "kcal": 9.0,
+      "protein": 0.5,
+      "carbs": 1.9,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g spinach",
+      "kcal": 3.4,
+      "protein": 0.4,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg",
+      "kcal": 77.5,
+      "protein": 6.3,
+      "carbs": 0.6,
+      "fat": 5.3,
+      "satFat": 1.6
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 55.0,
+      "protein": 11.0,
+      "carbs": 0.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "25g shredded mozzarella",
+      "kcal": 75.0,
+      "protein": 5.5,
+      "carbs": 0.6,
+      "fat": 5.5,
+      "satFat": 3.5
+    }
+  ],
+  "steps": [
+    "Chop veg finely.",
+    "Combine oats, baking powder, veg, eggs, egg whites, water and broth; add garlic powder and cayenne; whisk 30 sec.",
+    "Bake 25\u201330 min at 180\u00b0C.",
+    "Add mozzarella on top last 1\u20132 min until melted."
+  ],
+  "macros": {
+    "kcal": 427,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15,
+    "satFat": 5,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Try cumin or turmeric for flavor variation.",
+  "source": "The Felu Cookbook"
+}

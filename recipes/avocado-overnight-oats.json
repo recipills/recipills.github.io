@@ -1,0 +1,91 @@
+{
+  "id": "avocado-overnight-oats",
+  "title": "Avocado Overnight Oats",
+  "description": "Chocolate and avocado make a surprisingly brilliant overnight oats combination \u2014 creamy, rich and high in protein.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "avocado",
+    "chocolate",
+    "casein",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "70g avocado",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "8g cocoa powder",
+      "kcal": 18,
+      "protein": 1.6,
+      "carbs": 2.4,
+      "fat": 1.1,
+      "satFat": 0.6
+    },
+    {
+      "text": "10g honey",
+      "kcal": 30,
+      "protein": 0.0,
+      "carbs": 8.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl. Smash the avocado with a fork.",
+    "Mix until smooth. Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 527,
+    "protein": 37,
+    "carbs": 57,
+    "fat": 17,
+    "satFat": 2,
+    "fibre": 9,
+    "sugar": 16,
+    "iron": 3
+  },
+  "notes": "Casein gives the creamiest texture. The avocado adds healthy fats and a silky texture.",
+  "source": "The Felu Cookbook"
+}

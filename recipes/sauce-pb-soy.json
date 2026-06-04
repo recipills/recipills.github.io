@@ -1,0 +1,77 @@
+{
+  "id": "sauce-pb-soy",
+  "title": "PB Soy Sauce",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Quick Asian-inspired cold sauce with powdered peanuts, soy sauce, honey and garlic \u2014 drizzle on rice bowls, poke bowls and noodles.",
+  "cuisine": "Asian",
+  "category": "Sauce",
+  "tags": [
+    "peanut butter",
+    "soy sauce",
+    "Asian",
+    "quick",
+    "no cook"
+  ],
+  "prepTime": 2,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "25g soy sauce",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "9g powdered peanuts (PB2/PBFit)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g honey",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "juice of \u00bd lime",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 1.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl.",
+    "Mix until combined. Done."
+  ],
+  "macros": {
+    "kcal": 75,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 1,
+    "satFat": 0,
+    "fibre": 1,
+    "sugar": 5,
+    "iron": 1
+  },
+  "notes": "Tastes great on top of chicken poke bowl. Can be made in advance and stored in fridge up to 3 days.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "sweet-potato-pie",
+  "title": "Sweet Potato Pie",
+  "description": "High-protein sweet potato pie \u2014 baked sweet potato blended with whey, cream cheese, skyr and egg for a naturally sweet, creamy pie.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "sweet potato",
+    "pie",
+    "whey",
+    "baked",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 80,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "400g sweet potatoes",
+      "kcal": 340,
+      "protein": 6.4,
+      "carbs": 80.0,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "60g whey vanilla protein powder",
+      "kcal": 228,
+      "protein": 48.0,
+      "carbs": 4.8,
+      "fat": 2.4,
+      "satFat": 1.2
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g 0.2% fat cream cheese",
+      "kcal": 60,
+      "protein": 11.0,
+      "carbs": 3.0,
+      "fat": 0.5,
+      "satFat": 0.3
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 52,
+      "protein": 11.0,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "3g cinnamon",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Wash and poke sweet potatoes. Bake at 180\u00b0C / 350\u00b0F for 45\u201360 minutes until super tender.",
+    "Let cool; remove skin. Blend sweet potato 60 seconds until smooth.",
+    "Add all other ingredients; blend 15\u201330 seconds more.",
+    "Line a pie dish (18cm / 7in) with parchment; pour in mixture.",
+    "Bake 30\u201335 minutes at 180\u00b0C / 350\u00b0F. Cool 15 minutes; refrigerate 4\u20136 hours or overnight."
+  ],
+  "macros": {
+    "kcal": 118,
+    "protein": 13,
+    "carbs": 13,
+    "fat": 1,
+    "satFat": 0,
+    "fibre": 2,
+    "sugar": 5,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 828,
+    "protein": 92,
+    "carbs": 94,
+    "fat": 7
+  },
+  "notes": "Whey works best here \u2014 no baking powder needed. Lasts 2\u20133 days in fridge.",
+  "source": "The Felu Cookbook"
+}

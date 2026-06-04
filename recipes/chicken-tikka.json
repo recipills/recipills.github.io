@@ -1,0 +1,117 @@
+{
+  "id": "chicken-tikka",
+  "title": "Chicken Tikka",
+  "description": "Juicy yogurt-marinated chicken tikka grilled in a pan or air fryer \u2014 fragrant, charred and high-protein.",
+  "cuisine": "Indian",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "Indian",
+    "grilled",
+    "high-protein",
+    "meal prep"
+  ],
+  "prepTime": 15,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "200g skinless boneless chicken thighs",
+      "kcal": 270,
+      "protein": 40.0,
+      "carbs": 0.0,
+      "fat": 11.0,
+      "satFat": 3.0
+    },
+    {
+      "text": "50g raw rice",
+      "kcal": 175,
+      "protein": 3.5,
+      "carbs": 38.5,
+      "fat": 0.5,
+      "satFat": 0.1
+    },
+    {
+      "text": "80g 0.2% Greek yogurt",
+      "kcal": 44,
+      "protein": 7.2,
+      "carbs": 3.2,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "10g soy sauce",
+      "kcal": 10,
+      "protein": 1.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g garam masala",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g smoked paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g turmeric",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g cumin",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g cayenne pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Mix yogurt, soy sauce and all spices into a marinade. Add chicken; coat well. Marinate 15 minutes (or overnight).",
+    "Cook rice in 125g salted water, covered, 12\u201315 minutes.",
+    "Fry chicken in oil on medium-high 3\u20134 minutes per side until charred and cooked through.",
+    "Serve over rice with a squeeze of lemon."
+  ],
+  "macros": {
+    "kcal": 521,
+    "protein": 47,
+    "carbs": 51,
+    "fat": 16,
+    "satFat": 4,
+    "fibre": 2,
+    "sugar": 4,
+    "iron": 4
+  },
+  "notes": "Also great in a wrap with tzatziki. Marinating overnight produces the best flavour.",
+  "source": "The Felu Cookbook"
+}

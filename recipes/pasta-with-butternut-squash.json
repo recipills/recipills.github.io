@@ -1,0 +1,101 @@
+{
+  "id": "pasta-with-butternut-squash",
+  "title": "Pasta with Butternut Squash",
+  "description": "Silky butternut squash pasta sauce with garlic and parmesan \u2014 a naturally sweet, creamy and unexpectedly protein-efficient pasta dish.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [
+    "pasta",
+    "butternut squash",
+    "vegetarian",
+    "creamy",
+    "Italian"
+  ],
+  "prepTime": 5,
+  "cookTime": 25,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "80g dry pasta",
+      "kcal": 280,
+      "protein": 9.6,
+      "carbs": 56.0,
+      "fat": 1.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "300g butternut squash (peeled, cubed)",
+      "kcal": 108,
+      "protein": 2.7,
+      "carbs": 27.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g parmesan",
+      "kcal": 64,
+      "protein": 5.7,
+      "carbs": 0.6,
+      "fat": 4.3,
+      "satFat": 2.7
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g evaporated milk",
+      "kcal": 85,
+      "protein": 7.0,
+      "carbs": 11.0,
+      "fat": 1.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "4g oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "3 cloves garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g nutmeg + sage + black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Roast butternut squash cubes with 2g oil, salt and pepper at 200\u00b0C / 400\u00b0F for 20 minutes.",
+    "Cook pasta al dente; reserve 100ml pasta water.",
+    "Fry onion in 2g oil 3 minutes. Add garlic; fry 20 seconds. Add roasted squash, evaporated milk and pasta water; blend smooth.",
+    "Return sauce to pan; add pasta and parmesan; toss. Add more pasta water if needed."
+  ],
+  "macros": {
+    "kcal": 602,
+    "protein": 22,
+    "carbs": 99,
+    "fat": 14,
+    "satFat": 4,
+    "fibre": 8,
+    "sugar": 16,
+    "iron": 4
+  },
+  "notes": "Add 150g chicken breast for a protein boost. Also works with sage-browned butter instead of oil for extra depth.",
+  "source": "The Felu Cookbook"
+}

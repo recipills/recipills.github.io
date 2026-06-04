@@ -1,0 +1,109 @@
+{
+  "id": "lomo-saltado",
+  "title": "Lomo Saltado",
+  "description": "Peruvian-Chinese stir fry of marinated lean beef sirloin with jalape\u00f1os, tomatoes and vegetables served over oven-baked potato fries.",
+  "cuisine": "Peruvian",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "potatoes",
+    "Peruvian",
+    "stir fry",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "150g lean beef sirloin",
+      "kcal": 195,
+      "protein": 33.0,
+      "carbs": 0.0,
+      "fat": 7.5,
+      "satFat": 3.0
+    },
+    {
+      "text": "300g potatoes",
+      "kcal": 231,
+      "protein": 6.0,
+      "carbs": 51.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red bell pepper or 150g",
+      "kcal": 30,
+      "protein": 1.4,
+      "carbs": 7.5,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "40g jalape\u00f1o",
+      "kcal": 12,
+      "protein": 0.4,
+      "carbs": 2.4,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 carrot or 100g",
+      "kcal": 41,
+      "protein": 0.9,
+      "carbs": 9.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g tomatoes",
+      "kcal": 27,
+      "protein": 1.4,
+      "carbs": 6.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g soy sauce",
+      "kcal": 25,
+      "protein": 2.5,
+      "carbs": 2.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Cut beef into strips; marinate with baking soda, cornstarch, salt and soy sauce (see tenderising chapter). Cut potatoes into fries; toss with oil and salt. Bake at 200\u00b0C / 400\u00b0F for 30 minutes, flipping halfway.",
+    "Chop all vegetables; grate garlic.",
+    "Fry beef in a dry hot pan 60 seconds per side; remove. Add all vegetables except tomatoes; fry 7\u201310 minutes. Add garlic 15 seconds; add tomatoes, lid on, 3 minutes.",
+    "Add soy sauce and beef; cook 1 more minute. Add cornstarch slurry if needed. Serve over potato fries. Top with cilantro."
+  ],
+  "macros": {
+    "kcal": 576,
+    "protein": 44,
+    "carbs": 85,
+    "fat": 7,
+    "satFat": 2,
+    "fibre": 11,
+    "sugar": 10,
+    "iron": 4
+  },
+  "notes": "Beef can be swapped for chicken breast or lean pork. Potatoes can be swapped for rice.",
+  "source": "The Felu Cookbook"
+}

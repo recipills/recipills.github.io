@@ -1,0 +1,93 @@
+{
+  "id": "filled-savory-french-toast",
+  "title": "Filled Savory French Toast",
+  "description": "Savory French toast stuffed with deli meat and melted mozzarella.",
+  "cuisine": "French",
+  "category": "Breakfast",
+  "tags": [
+    "eggs",
+    "cheese",
+    "deli meat",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "2 slices sandwich bread",
+      "kcal": 212.0,
+      "protein": 7.2,
+      "carbs": 39.2,
+      "fat": 2.8,
+      "satFat": 0.6
+    },
+    {
+      "text": "60g egg whites",
+      "kcal": 33.0,
+      "protein": 6.6,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg",
+      "kcal": 77.5,
+      "protein": 6.3,
+      "carbs": 0.6,
+      "fat": 5.3,
+      "satFat": 1.6
+    },
+    {
+      "text": "30g deli meat",
+      "kcal": 33.0,
+      "protein": 5.1,
+      "carbs": 0.6,
+      "fat": 1.2,
+      "satFat": 0.4
+    },
+    {
+      "text": "20g shredded mozzarella",
+      "kcal": 60.0,
+      "protein": 4.4,
+      "carbs": 0.5,
+      "fat": 4.4,
+      "satFat": 2.8
+    },
+    {
+      "text": "2g oregano",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2g olive oil",
+      "kcal": 17.7,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Whisk egg, egg whites, oregano, chili powder, salt and pepper.",
+    "Soak both bread slices, flipping 3\u20134 times.",
+    "Heat oil on medium; fry bread 4\u20135 min, flipping occasionally.",
+    "Fry deli meat beside bread until crisp; add mozzarella on one slice; cover 30 sec.",
+    "Stack deli meat on mozzarella; top with second slice; flip; fry 30 sec."
+  ],
+  "macros": {
+    "kcal": 347,
+    "protein": 27,
+    "carbs": 28,
+    "fat": 15,
+    "satFat": 5,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Remove egg yolk for fewer calories.",
+  "source": "The Felu Cookbook"
+}

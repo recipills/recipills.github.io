@@ -1,0 +1,124 @@
+{
+  "id": "choc-banana-bread",
+  "title": "Choc Banana Bread",
+  "description": "Chocolate-banana bread with a citrus twist \u2014 cocoa powder and orange juice give this high-protein loaf incredible depth.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "baked",
+    "banana bread",
+    "chocolate",
+    "orange",
+    "whey"
+  ],
+  "prepTime": 15,
+  "cookTime": 35,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "40g all-purpose flour",
+      "kcal": 140,
+      "protein": 4.0,
+      "carbs": 29.2,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g oats (blended to flour)",
+      "kcal": 76,
+      "protein": 2.8,
+      "carbs": 12.4,
+      "fat": 1.5,
+      "satFat": 0.2
+    },
+    {
+      "text": "20g cocoa powder",
+      "kcal": 46,
+      "protein": 4.0,
+      "carbs": 6.0,
+      "fat": 2.8,
+      "satFat": 1.6
+    },
+    {
+      "text": "15g whey vanilla protein powder",
+      "kcal": 57,
+      "protein": 12.0,
+      "carbs": 1.2,
+      "fat": 0.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 52,
+      "protein": 11.0,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium banana (125g)",
+      "kcal": 111,
+      "protein": 1.4,
+      "carbs": 28.8,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "juice of 1 orange (~75g)",
+      "kcal": 34,
+      "protein": 0.5,
+      "carbs": 7.5,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Grind oats into oat flour. Mix all dry ingredients.",
+    "Mash banana; add orange juice. Mix all wet ingredients.",
+    "Combine wet into dry; whisk until smooth.",
+    "Line a 12\u00d718cm (5\u00d77in) tin; bake at 180\u00b0C / 350\u00b0F for 30\u201335 minutes.",
+    "Cool 30 minutes before slicing."
+  ],
+  "macros": {
+    "kcal": 88,
+    "protein": 8,
+    "carbs": 14,
+    "fat": 1,
+    "satFat": 0,
+    "fibre": 1,
+    "sugar": 5,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 617,
+    "protein": 56,
+    "carbs": 96,
+    "fat": 4
+  },
+  "notes": "Whey/casein blend works best. Add a splash of water if batter is too dry.",
+  "source": "The Felu Cookbook"
+}

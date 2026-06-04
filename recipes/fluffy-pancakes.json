@@ -1,0 +1,93 @@
+{
+  "id": "fluffy-pancakes",
+  "title": "Fluffy Pancakes",
+  "description": "Cloud-like fluffy pancakes made with buttermilk, coconut flour and whey protein \u2014 light, tall and packed with protein.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "pancakes",
+    "fluffy",
+    "buttermilk",
+    "whey",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "25g all-purpose flour",
+      "kcal": 88,
+      "protein": 2.5,
+      "carbs": 18.2,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g coconut flour",
+      "kcal": 43,
+      "protein": 1.9,
+      "carbs": 5.8,
+      "fat": 1.4,
+      "satFat": 1.3
+    },
+    {
+      "text": "15g whey vanilla protein powder",
+      "kcal": 57,
+      "protein": 12.0,
+      "carbs": 1.2,
+      "fat": 0.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "5g sugar",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g buttermilk",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Whisk all dry ingredients. Add wet ingredients; whisk until smooth.",
+    "Heat a pan on medium \u2014 do not add oil.",
+    "Pour batter; cook with closed lid 2\u20133 minutes until bubbles form on top.",
+    "Flip carefully; cook 2 more minutes. Repeat with remaining batter."
+  ],
+  "macros": {
+    "kcal": 323,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 7,
+    "satFat": 3,
+    "fibre": 3,
+    "sugar": 4,
+    "iron": 2
+  },
+  "notes": "The buttermilk and baking soda reaction is what creates the fluffiness \u2014 don't let the batter sit too long.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "rice-cake-sandwich",
+  "title": "Rice Cake Sandwich",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "The fastest high-protein lunch \u2014 cream cheese, deli meat, lettuce and tomato layered between two crispy rice cakes.",
+  "cuisine": "International",
+  "category": "Snack",
+  "tags": [
+    "rice cake",
+    "sandwich",
+    "quick",
+    "snack",
+    "easy"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "2 rice cakes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g lean deli meat",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g cream cheese",
+      "kcal": 9,
+      "protein": 1.6,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g lettuce",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "salt and black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Place one rice cake on a plate.",
+    "Spread cream cheese; top with deli meat, lettuce, tomatoes, salt and pepper.",
+    "Top with second rice cake. Done."
+  ],
+  "macros": {
+    "kcal": 130,
+    "protein": 9,
+    "carbs": 17,
+    "fat": 3,
+    "satFat": 1,
+    "fibre": 1,
+    "sugar": 2,
+    "iron": 1
+  },
+  "notes": "Try different lean deli meats. Add sriracha or any low-calorie sauce for a kick.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "pumpkin-pie-overnight-oats",
+  "title": "Pumpkin Pie Overnight Oats",
+  "description": "Pumpkin pie flavours in overnight oats \u2014 pumpkin pur\u00e9e, cinnamon, ginger, nutmeg and powdered peanuts.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "pumpkin",
+    "cinnamon",
+    "casein",
+    "fall"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g pumpkin pur\u00e9e",
+      "kcal": 26,
+      "protein": 1.0,
+      "carbs": 7.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "18g powdered peanuts",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 6.3,
+      "fat": 2.2,
+      "satFat": 0.4
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g cinnamon + 1g ginger + 0.5g nutmeg",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl. Mix until smooth.",
+    "Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 422,
+    "protein": 34,
+    "carbs": 48,
+    "fat": 10,
+    "satFat": 1,
+    "fibre": 6,
+    "sugar": 8,
+    "iron": 3
+  },
+  "notes": "Works great with homemade pumpkin pur\u00e9e. Swap powdered peanuts for 12g regular peanut butter.",
+  "source": "The Felu Cookbook"
+}

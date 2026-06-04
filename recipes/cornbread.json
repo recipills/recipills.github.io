@@ -1,0 +1,124 @@
+{
+  "id": "cornbread",
+  "title": "Cornbread",
+  "description": "High-protein cornbread made with cornmeal, oat flour, whey/casein blend and skyr \u2014 great with savoury meals or dunked in milk.",
+  "cuisine": "American",
+  "category": "Bread",
+  "tags": [
+    "cornbread",
+    "whey",
+    "casein",
+    "oat flour",
+    "baked"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "60g cornmeal (not cornflour)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g oats (blended to flour)",
+      "kcal": 114,
+      "protein": 4.2,
+      "carbs": 18.6,
+      "fat": 2.2,
+      "satFat": 0.4
+    },
+    {
+      "text": "30g all-purpose flour",
+      "kcal": 105,
+      "protein": 3.0,
+      "carbs": 21.9,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g whey vanilla protein powder",
+      "kcal": 114,
+      "protein": 24.0,
+      "carbs": 2.4,
+      "fat": 1.2,
+      "satFat": 0.6
+    },
+    {
+      "text": "30g casein vanilla protein powder",
+      "kcal": 111,
+      "protein": 22.5,
+      "carbs": 3.0,
+      "fat": 1.5,
+      "satFat": 0.4
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g buttermilk",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 52,
+      "protein": 11.0,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g unsweetened applesauce",
+      "kcal": 40,
+      "protein": 0.2,
+      "carbs": 10.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Blend oats into oat flour. Mix all dry ingredients.",
+    "Mix all wet ingredients together in a separate bowl.",
+    "Add wet to dry; whisk until smooth. Add a splash of water if it sticks.",
+    "Line a 20\u00d720cm (8\u00d78in) baking dish with parchment; pour batter.",
+    "Bake at 180\u00b0C / 350\u00b0F for 25\u201330 minutes. Cool 15 minutes; slice."
+  ],
+  "macros": {
+    "kcal": 128,
+    "protein": 13,
+    "carbs": 16,
+    "fat": 2,
+    "satFat": 0,
+    "fibre": 1,
+    "sugar": 3,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 895,
+    "protein": 90,
+    "carbs": 109,
+    "fat": 6
+  },
+  "notes": "Whey/casein blend works best. Use neutral-flavour protein for savoury pairings. Serve with maple syrup and Greek yogurt.",
+  "source": "The Felu Cookbook"
+}

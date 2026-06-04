@@ -1,0 +1,112 @@
+{
+  "id": "mp-one-pot-massive-chicken",
+  "title": "One Pot Massive Chicken",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "A massive 3-serving chicken and rice one-pot cooked in tomato salsa with colourful vegetables \u2014 simple, filling and flavourful.",
+  "cuisine": "International",
+  "category": "Meal Prep",
+  "tags": [
+    "one pot",
+    "chicken",
+    "rice",
+    "meal prep",
+    "easy"
+  ],
+  "prepTime": 15,
+  "cookTime": 35,
+  "servings": 3,
+  "ingredients": [
+    {
+      "text": "600g chicken thighs (skinless boneless)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "180g raw rice",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g tomato salsa",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "500g chicken stock",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 large onion (150g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 carrots (300g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 red bell peppers (450g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g smoked paprika, 3g garlic powder, onion powder, chili powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Season chicken; fry 2 min each side; remove. Fry vegetables 7\u201310 min.",
+    "Add rice, tomato salsa and 300g stock; mix. Return chicken; simmer covered 30 min.",
+    "Check every 10 min; add stock if dry. After 30 min, remove chicken; cut into pieces; return to pan.",
+    "Portion into 3 containers. Store 3\u20135 days."
+  ],
+  "macros": {
+    "kcal": 1956,
+    "protein": 126,
+    "carbs": 237,
+    "fat": 60,
+    "satFat": 12,
+    "fibre": 20,
+    "sugar": 20,
+    "iron": 8
+  },
+  "macrosNote": "Whole recipe. Per serving: 652 kcal, 42g protein, 79g carbs, 20g fat",
+  "notes": "Lasts 3\u20135 days. Can be made 5 servings \u2014 just scale ingredients.",
+  "source": "The Felu Cookbook"
+}

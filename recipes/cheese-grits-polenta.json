@@ -1,0 +1,93 @@
+{
+  "id": "cheese-grits-polenta",
+  "title": "Cheese Grits / Polenta",
+  "description": "Creamy low-calorie polenta made with evaporated milk and laughing cow wedges, topped with a spiced pan-fried chicken breast.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "polenta",
+    "grits",
+    "creamy",
+    "comfort food"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 chicken breast or 180g",
+      "kcal": 198,
+      "protein": 41.4,
+      "carbs": 0.0,
+      "fat": 2.2,
+      "satFat": 0.5
+    },
+    {
+      "text": "60g polenta / grits (dry)",
+      "kcal": 210,
+      "protein": 4.8,
+      "carbs": 45.0,
+      "fat": 0.9,
+      "satFat": 0.1
+    },
+    {
+      "text": "100g evaporated milk",
+      "kcal": 85,
+      "protein": 7.0,
+      "carbs": 11.0,
+      "fat": 1.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "2 laughing cow wedges (~34g)",
+      "kcal": 75,
+      "protein": 2.7,
+      "carbs": 2.7,
+      "fat": 5.8,
+      "satFat": 3.1
+    },
+    {
+      "text": "4g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "2g garlic powder + smoked paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Bring 400g water + broth powder to a boil. Whisk in polenta; reduce to medium-low; stir frequently 8\u201310 minutes.",
+    "Add evaporated milk and laughing cow wedges; stir until creamy. Season with salt and pepper.",
+    "Season chicken with garlic powder, smoked paprika, salt and pepper. Fry in oil 1 minute per side; finish in oven at 180\u00b0C / 350\u00b0F for 8\u201310 minutes.",
+    "Slice chicken; serve over polenta."
+  ],
+  "macros": {
+    "kcal": 623,
+    "protein": 52,
+    "carbs": 64,
+    "fat": 19,
+    "satFat": 7,
+    "fibre": 2,
+    "sugar": 8,
+    "iron": 3
+  },
+  "notes": "Leftovers firm up \u2014 slice cold polenta and pan-fry for crispy polenta cakes.",
+  "source": "The Felu Cookbook"
+}

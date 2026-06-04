@@ -1,0 +1,85 @@
+{
+  "id": "banana-split",
+  "title": "Banana Split",
+  "description": "A high-protein take on the famous banana split \u2014 vanilla pudding thickened with casein, layered with banana, skyr and blueberries.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "banana",
+    "pudding",
+    "casein",
+    "dessert",
+    "easy"
+  ],
+  "prepTime": 10,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "40g instant vanilla pudding powder",
+      "kcal": 152,
+      "protein": 0.2,
+      "carbs": 36.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g casein vanilla protein powder",
+      "kcal": 111,
+      "protein": 22.5,
+      "carbs": 3.0,
+      "fat": 1.5,
+      "satFat": 0.4
+    },
+    {
+      "text": "200g skimmed milk",
+      "kcal": 70,
+      "protein": 7.0,
+      "carbs": 10.0,
+      "fat": 0.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 banana",
+      "kcal": 89,
+      "protein": 1.1,
+      "carbs": 23.0,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g blueberries",
+      "kcal": 28,
+      "protein": 0.3,
+      "carbs": 7.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Whisk pudding powder and milk with an electric hand mixer until pudding-like consistency (~60 seconds).",
+    "Add casein; keep mixing until very thick.",
+    "Slice banana; layer with Greek yogurt, \u2153 of the custard and blueberries.",
+    "Store remaining custard in fridge up to one week."
+  ],
+  "macros": {
+    "kcal": 315,
+    "protein": 21,
+    "carbs": 52,
+    "fat": 1,
+    "satFat": 0,
+    "fibre": 3,
+    "sugar": 22,
+    "iron": 1
+  },
+  "notes": "The custard recipe makes extra \u2014 store and use throughout the week for quick desserts.",
+  "source": "The Felu Cookbook"
+}

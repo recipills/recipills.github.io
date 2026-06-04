@@ -1,0 +1,109 @@
+{
+  "id": "chocolate-protein-bar-donut",
+  "title": "Chocolate Protein Bar Donut",
+  "description": "A thick baked chocolate protein bar in donut form \u2014 oat flour, cocoa, casein and whey baked in a donut tray and frosted with Nootella.",
+  "cuisine": "International",
+  "category": "Snack",
+  "tags": [
+    "donut",
+    "chocolate",
+    "casein",
+    "whey",
+    "baked"
+  ],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "60g oats (blended to flour)",
+      "kcal": 228,
+      "protein": 8.4,
+      "carbs": 37.2,
+      "fat": 4.5,
+      "satFat": 0.7
+    },
+    {
+      "text": "20g whey vanilla protein powder",
+      "kcal": 76,
+      "protein": 16.0,
+      "carbs": 1.6,
+      "fat": 0.8,
+      "satFat": 0.4
+    },
+    {
+      "text": "20g casein vanilla protein powder",
+      "kcal": 74,
+      "protein": 15.0,
+      "carbs": 2.0,
+      "fat": 1.0,
+      "satFat": 0.3
+    },
+    {
+      "text": "15g cocoa powder",
+      "kcal": 34,
+      "protein": 3.0,
+      "carbs": 4.5,
+      "fat": 2.1,
+      "satFat": 1.2
+    },
+    {
+      "text": "20g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "50g skyr or 0.2% Greek yogurt",
+      "kcal": 30,
+      "protein": 5.0,
+      "carbs": 2.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Blend oats into oat flour. Mix all dry ingredients.",
+    "Mix all wet ingredients; combine into dry; whisk until smooth.",
+    "Transfer to a donut tray; bake at 180\u00b0C / 350\u00b0F for 12\u201315 minutes.",
+    "Top with Nootella (see recipe) or frosting of choice."
+  ],
+  "macros": {
+    "kcal": 150,
+    "protein": 13,
+    "carbs": 16,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 2,
+    "sugar": 2,
+    "iron": 1
+  },
+  "notes": "Whey/casein blend works best. Oat flour can be replaced with all-purpose flour. Add water if batter is dry.",
+  "source": "The Felu Cookbook"
+}

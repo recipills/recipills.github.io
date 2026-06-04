@@ -1,0 +1,58 @@
+{
+  "id": "homemade-cottage-cheese",
+  "title": "Homemade Cottage Cheese",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "Make your own cottage cheese with just skimmed milk and vinegar \u2014 cheap, easy and incredibly fresh.",
+  "cuisine": "International",
+  "category": "Other",
+  "tags": [
+    "cottage cheese",
+    "homemade",
+    "2 ingredients",
+    "easy",
+    "dairy"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "1000g skimmed milk",
+      "kcal": 350,
+      "protein": 35.0,
+      "carbs": 50.0,
+      "fat": 1.0,
+      "satFat": 1.0
+    },
+    {
+      "text": "40g white vinegar",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Heat milk in a pot on medium heat to 90\u00b0C / 200\u00b0F (just below simmering).",
+    "Add vinegar; whisk the milk.",
+    "Remove from heat; close lid; rest 20 minutes.",
+    "Line a bowl with cheesecloth; pour entire liquid through.",
+    "Squeeze out all liquid \u2014 curds remain in cloth, whey in bowl.",
+    "Discard whey; transfer cottage cheese to a plate to cool."
+  ],
+  "macros": {
+    "kcal": 65,
+    "protein": 13,
+    "carbs": 1,
+    "fat": 1,
+    "satFat": 0,
+    "fibre": 0,
+    "sugar": 1,
+    "iron": 0
+  },
+  "macrosNote": "Per 100g of cottage cheese produced",
+  "notes": "Macros are per 100g of final cottage cheese. Yield varies. Use in cheesecakes, dips and more.",
+  "source": "The Felu Cookbook"
+}

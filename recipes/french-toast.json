@@ -1,0 +1,101 @@
+{
+  "id": "french-toast",
+  "title": "French Toast",
+  "description": "High-protein French toast stack topped with skyr and powdered peanuts.",
+  "cuisine": "French",
+  "category": "Breakfast",
+  "tags": [
+    "sweet",
+    "high-protein",
+    "skyr",
+    "peanut"
+  ],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "4 slices sandwich bread",
+      "kcal": 424.0,
+      "protein": 14.4,
+      "carbs": 78.4,
+      "fat": 5.6,
+      "satFat": 1.3
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35.0,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 egg",
+      "kcal": 77.5,
+      "protein": 6.3,
+      "carbs": 0.6,
+      "fat": 5.3,
+      "satFat": 1.6
+    },
+    {
+      "text": "150g egg whites",
+      "kcal": 82.5,
+      "protein": 16.5,
+      "carbs": 1.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g cinnamon",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g skyr",
+      "kcal": 60.0,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "13g powdered peanuts",
+      "kcal": 52.0,
+      "protein": 4.8,
+      "carbs": 4.5,
+      "fat": 1.7,
+      "satFat": 0.3
+    },
+    {
+      "text": "2g olive oil",
+      "kcal": 17.7,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Pre-toast bread 1 min each side in dry pan.",
+    "Whisk egg, egg whites, milk, cinnamon and sweetener.",
+    "Soak each slice 10\u201315 sec each side.",
+    "Heat oil; fry soaked bread 6\u20137 min total, flipping until golden.",
+    "Stack and top with skyr and powdered peanuts."
+  ],
+  "macros": {
+    "kcal": 542,
+    "protein": 48,
+    "carbs": 57,
+    "fat": 12,
+    "satFat": 2,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Top with honey or sugar-free maple syrup instead of skyr if preferred.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "pina-colada-overnight-oats",
+  "title": "Pi\u00f1a Colada Overnight Oats",
+  "description": "Tropical overnight oats with canned pineapple, coconut and honey \u2014 pina colada flavours in a high-protein breakfast.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "pineapple",
+    "coconut",
+    "casein",
+    "tropical"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g canned pineapple (chopped)",
+      "kcal": 90,
+      "protein": 0.6,
+      "carbs": 22.5,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g grated coconut",
+      "kcal": 52,
+      "protein": 0.5,
+      "carbs": 2.2,
+      "fat": 5.0,
+      "satFat": 4.3
+    },
+    {
+      "text": "10g honey",
+      "kcal": 30,
+      "protein": 0.0,
+      "carbs": 8.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Chop pineapple into small pieces. Add all ingredients to a bowl.",
+    "Mix until smooth. Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 526,
+    "protein": 34,
+    "carbs": 64,
+    "fat": 14,
+    "satFat": 9,
+    "fibre": 5,
+    "sugar": 28,
+    "iron": 2
+  },
+  "notes": "Use canned pineapple \u2014 fresh pineapple contains enzymes that can break down the protein and make it watery. Add fresh pineapple in the morning instead.",
+  "source": "The Felu Cookbook"
+}

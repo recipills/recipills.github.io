@@ -1,0 +1,84 @@
+{
+  "id": "italian-egg-bites",
+  "title": "Italian Egg Bites",
+  "description": "Whole-egg baked muffin bites with spinach, tomatoes and mozzarella.",
+  "cuisine": "Italian",
+  "category": "Breakfast",
+  "tags": [
+    "meal-prep",
+    "baked",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 18,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "6 eggs",
+      "kcal": 465.0,
+      "protein": 37.8,
+      "carbs": 3.3,
+      "fat": 31.8,
+      "satFat": 9.3
+    },
+    {
+      "text": "50g tomatoes",
+      "kcal": 9.0,
+      "protein": 0.5,
+      "carbs": 1.9,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g spinach",
+      "kcal": 5.8,
+      "protein": 0.7,
+      "carbs": 0.9,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g shredded mozzarella",
+      "kcal": 75.0,
+      "protein": 5.5,
+      "carbs": 0.6,
+      "fat": 5.5,
+      "satFat": 3.5
+    },
+    {
+      "text": "2g garlic powder",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2g onion powder",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat oven to 180\u00b0C. Chop tomatoes and spinach.",
+    "Mix vegetables, cheese and seasonings in a bowl.",
+    "Distribute into 6 muffin cases.",
+    "Crack 1 egg into each; whisk with fork.",
+    "Bake 15\u201318 min."
+  ],
+  "macros": {
+    "kcal": 511,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 35,
+    "satFat": 10,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Makes 6 bites (2 servings). Refrigerate up to 5 days.",
+  "source": "The Felu Cookbook"
+}

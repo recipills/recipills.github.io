@@ -1,0 +1,101 @@
+{
+  "id": "air-fryer-chicken-nuggets",
+  "title": "Air Fryer Chicken Nuggets",
+  "description": "Crispy homemade chicken nuggets air-fried with a panko\u2013parmesan coating \u2014 way better and far fewer calories than fast food.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "nuggets",
+    "air fryer",
+    "panko",
+    "crispy"
+  ],
+  "prepTime": 10,
+  "cookTime": 12,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "200g chicken breast",
+      "kcal": 220,
+      "protein": 46.0,
+      "carbs": 0.0,
+      "fat": 2.4,
+      "satFat": 0.6
+    },
+    {
+      "text": "30g panko breadcrumbs",
+      "kcal": 105,
+      "protein": 3.6,
+      "carbs": 21.0,
+      "fat": 0.9,
+      "satFat": 0.1
+    },
+    {
+      "text": "15g parmesan (grated)",
+      "kcal": 64,
+      "protein": 5.7,
+      "carbs": 0.6,
+      "fat": 4.3,
+      "satFat": 2.7
+    },
+    {
+      "text": "15g flour",
+      "kcal": 52,
+      "protein": 1.5,
+      "carbs": 10.9,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g egg whites",
+      "kcal": 28,
+      "protein": 5.5,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g smoked paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil spray",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Cut chicken into bite-sized nugget pieces.",
+    "Set up breading station: flour (seasoned with salt, pepper, garlic powder) \u2192 egg whites \u2192 panko mixed with parmesan and smoked paprika.",
+    "Coat each piece: flour \u2192 egg whites \u2192 panko mix. Press firmly.",
+    "Spray air fryer basket with oil. Air-fry at 200\u00b0C / 400\u00b0F for 10\u201312 minutes, flipping halfway."
+  ],
+  "macros": {
+    "kcal": 449,
+    "protein": 59,
+    "carbs": 27,
+    "fat": 11,
+    "satFat": 3,
+    "fibre": 1,
+    "sugar": 0,
+    "iron": 2
+  },
+  "notes": "Serve with low-sugar ketchup or Frank's hot sauce. Great for meal prep \u2014 reheat in air fryer 3\u20134 minutes.",
+  "source": "The Felu Cookbook"
+}

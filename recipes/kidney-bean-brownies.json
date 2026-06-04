@@ -1,0 +1,94 @@
+{
+  "id": "kidney-bean-brownies",
+  "title": "Kidney Bean Brownies",
+  "description": "Fudgy protein brownies with canned kidney beans as the base \u2014 no flour, no oil, just beans, cocoa and casein for rich fudgy results.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "brownies",
+    "kidney beans",
+    "casein",
+    "no flour",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 35,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "265g canned kidney beans (drained)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g casein vanilla protein powder",
+      "kcal": 185,
+      "protein": 37.5,
+      "carbs": 5.0,
+      "fat": 2.5,
+      "satFat": 0.8
+    },
+    {
+      "text": "40g cocoa powder",
+      "kcal": 92,
+      "protein": 8.0,
+      "carbs": 12.0,
+      "fat": 5.6,
+      "satFat": 3.2
+    },
+    {
+      "text": "2 eggs (100g)",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 1.0,
+      "fat": 11.0,
+      "satFat": 3.3
+    },
+    {
+      "text": "30g dark chocolate",
+      "kcal": 165,
+      "protein": 1.5,
+      "carbs": 13.5,
+      "fat": 10.5,
+      "satFat": 6.3
+    },
+    {
+      "text": "30g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Drain and rinse beans; blend 60 seconds until smooth.",
+    "Melt dark chocolate in microwave 30 seconds on low.",
+    "Mix all ingredients including melted chocolate until smooth.",
+    "Line a 16\u00d718cm (6\u00d77in) dish; bake at 180\u00b0C / 350\u00b0F for 30\u201335 minutes.",
+    "Cool 30 minutes; cut into squares."
+  ],
+  "macros": {
+    "kcal": 114,
+    "protein": 10,
+    "carbs": 12,
+    "fat": 4,
+    "satFat": 2,
+    "fibre": 4,
+    "sugar": 2,
+    "iron": 2
+  },
+  "notes": "The beans give a super fudgy texture. Nobody will guess they're in there. Casein works best here.",
+  "source": "The Felu Cookbook"
+}

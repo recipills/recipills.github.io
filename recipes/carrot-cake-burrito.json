@@ -1,0 +1,84 @@
+{
+  "id": "carrot-cake-burrito",
+  "title": "Carrot Cake Burrito",
+  "description": "Carrot cake in burrito form \u2014 casein, cream cheese, skyr and shredded carrot wrapped in a toasted wheat tortilla with cinnamon.",
+  "cuisine": "International",
+  "category": "Snack",
+  "tags": [
+    "burrito",
+    "sweet",
+    "carrot cake",
+    "casein",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 3,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 wheat tortilla (20cm / 8in)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "50g skyr or 0.2% Greek yogurt",
+      "kcal": 30,
+      "protein": 5.0,
+      "carbs": 2.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g 0.2% fat cream cheese",
+      "kcal": 30,
+      "protein": 5.5,
+      "carbs": 1.5,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "50g shredded carrots",
+      "kcal": 20,
+      "protein": 0.5,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g cinnamon",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix casein, skyr, cream cheese and cinnamon until smooth.",
+    "Warm tortilla in a pan 30 seconds each side.",
+    "Spread filling; top with shredded carrots.",
+    "Roll into a burrito; toast in pan 1\u20132 minutes until golden."
+  ],
+  "macros": {
+    "kcal": 322,
+    "protein": 28,
+    "carbs": 43,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 3,
+    "sugar": 8,
+    "iron": 2
+  },
+  "source": "The Felu Cookbook"
+}

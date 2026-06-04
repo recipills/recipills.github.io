@@ -1,0 +1,101 @@
+{
+  "id": "pudding-oats-apple-cinnamon",
+  "title": "Pudding Oats Apple Cinnamon",
+  "description": "Caramelised apple cubes cooked into a creamy vanilla pudding oatmeal \u2014 the perfect autumn breakfast.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "oatmeal",
+    "pudding",
+    "apple",
+    "cinnamon",
+    "fall"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g vanilla pudding powder",
+      "kcal": 57,
+      "protein": 0.1,
+      "carbs": 13.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "250g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g apple (peeled, cubed)",
+      "kcal": 52,
+      "protein": 0.3,
+      "carbs": 14.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g butter",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 2.6
+    }
+  ],
+  "steps": [
+    "Melt butter in a pot on medium heat. Add apple cubes; fry 2\u20133 minutes until caramelised.",
+    "Add oats, water, sweetener and salt. Stir occasionally 2 minutes until thick.",
+    "Mix pudding powder and milk; add to pot; stir 1 minute.",
+    "Transfer to bowl; mix in skyr; top with cinnamon."
+  ],
+  "macros": {
+    "kcal": 426,
+    "protein": 20,
+    "carbs": 65,
+    "fat": 8,
+    "satFat": 3,
+    "fibre": 5,
+    "sugar": 22,
+    "iron": 2
+  },
+  "notes": "Cover surface with plastic wrap before refrigerating. Add 15g casein + 50g water on top for more protein.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "spicy-frittata",
+  "title": "Spicy Frittata",
+  "description": "Blended egg and cottage cheese frittata with broccoli, bell pepper and gochujang, baked in the oven.",
+  "cuisine": "Italian",
+  "category": "Breakfast",
+  "tags": [
+    "baked",
+    "spicy",
+    "meal-prep",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "3 eggs",
+      "kcal": 232.5,
+      "protein": 18.9,
+      "carbs": 1.7,
+      "fat": 15.9,
+      "satFat": 4.7
+    },
+    {
+      "text": "100g 1% cottage cheese",
+      "kcal": 65.0,
+      "protein": 12.0,
+      "carbs": 3.0,
+      "fat": 1.0,
+      "satFat": 0.4
+    },
+    {
+      "text": "20g gochujang",
+      "kcal": 39.0,
+      "protein": 0.9,
+      "carbs": 7.6,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "50g onion",
+      "kcal": 20.0,
+      "protein": 0.6,
+      "carbs": 4.7,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "75g red bell pepper",
+      "kcal": 23.2,
+      "protein": 0.8,
+      "carbs": 4.5,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g broccoli",
+      "kcal": 51.0,
+      "protein": 4.2,
+      "carbs": 9.9,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "2g olive oil",
+      "kcal": 17.7,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Blend eggs, cottage cheese, gochujang, garlic powder and black pepper 20 sec.",
+    "Preheat oven to 200\u00b0C. Dice onion and pepper; chop broccoli.",
+    "Boil broccoli 2\u20133 min; drain.",
+    "Fry onion and pepper 3\u20135 min; add broccoli 2 min; transfer to baking dish.",
+    "Pour in egg mixture; stir; bake 20 min."
+  ],
+  "macros": {
+    "kcal": 427,
+    "protein": 39,
+    "carbs": 27,
+    "fat": 19,
+    "satFat": 5,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Meal-preppable up to 5 days. Add 25g mozzarella for extra cheesiness.",
+  "source": "The Felu Cookbook"
+}

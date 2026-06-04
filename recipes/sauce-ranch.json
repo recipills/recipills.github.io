@@ -1,0 +1,85 @@
+{
+  "id": "sauce-ranch",
+  "title": "Ranch Sauce",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Lighter take on ranch dressing made with skyr and buttermilk \u2014 great on burgers, as a dip or drizzled on chicken.",
+  "cuisine": "American",
+  "category": "Sauce",
+  "tags": [
+    "ranch",
+    "sauce",
+    "dip",
+    "quick",
+    "low calorie"
+  ],
+  "prepTime": 2,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "15g skyr or 0.2% Greek yogurt",
+      "kcal": 9,
+      "protein": 1.5,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g buttermilk",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g mustard",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g honey",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder, 1g onion powder, lime juice",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "salt and black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl.",
+    "Mix until smooth. Done."
+  ],
+  "macros": {
+    "kcal": 45,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 0,
+    "satFat": 0,
+    "fibre": 0,
+    "sugar": 6,
+    "iron": 0
+  },
+  "notes": "Add cayenne or turmeric for different flavour combinations.",
+  "source": "The Felu Cookbook"
+}

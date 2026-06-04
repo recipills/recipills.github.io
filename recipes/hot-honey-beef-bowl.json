@@ -1,0 +1,117 @@
+{
+  "id": "hot-honey-beef-bowl",
+  "title": "Hot Honey Beef Bowl",
+  "description": "Viral ground beef bowl with air-fried sweet potatoes, avocado, cottage cheese and a hot honey drizzle.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "sweet potato",
+    "bowl",
+    "avocado",
+    "cottage cheese"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g ground beef 95/5",
+      "kcal": 234,
+      "protein": 39.6,
+      "carbs": 0.0,
+      "fat": 9.0,
+      "satFat": 3.6
+    },
+    {
+      "text": "250g sweet potatoes",
+      "kcal": 212,
+      "protein": 4.0,
+      "carbs": 50.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "\u00bd avocado or 70g",
+      "kcal": 112,
+      "protein": 1.4,
+      "carbs": 6.3,
+      "fat": 10.5,
+      "satFat": 1.5
+    },
+    {
+      "text": "100g cottage cheese 1%",
+      "kcal": 65,
+      "protein": 11.0,
+      "carbs": 4.0,
+      "fat": 1.0,
+      "satFat": 0.5
+    },
+    {
+      "text": "10g gochujang",
+      "kcal": 20,
+      "protein": 0.5,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g soy sauce",
+      "kcal": 25,
+      "protein": 2.5,
+      "carbs": 2.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g honey",
+      "kcal": 45,
+      "protein": 0.0,
+      "carbs": 12.3,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g sriracha",
+      "kcal": 15,
+      "protein": 0.1,
+      "carbs": 2.7,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "7g oil",
+      "kcal": 63,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 7.0,
+      "satFat": 1.0
+    },
+    {
+      "text": "1g paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cut sweet potatoes into chunks; toss with 4g oil, paprika, salt and pepper. Air-fry at 200\u00b0C / 400\u00b0F for 12 minutes.",
+    "Mix honey and sriracha into a hot honey sauce.",
+    "Mix gochujang and soy sauce. Stir-fry ground beef in 3g oil 3 minutes. Add sauce; stir 30 seconds.",
+    "Bowl: sweet potatoes \u2192 beef \u2192 cottage cheese \u2192 avocado \u2192 hot honey drizzle."
+  ],
+  "macros": {
+    "kcal": 775,
+    "protein": 57,
+    "carbs": 75,
+    "fat": 28,
+    "satFat": 7,
+    "fibre": 8,
+    "sugar": 28,
+    "iron": 5
+  },
+  "notes": "Use store-bought hot honey if available.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "pumpkin-pancakes",
+  "title": "Pumpkin Pancakes",
+  "description": "Fluffy pumpkin spice pancakes made with whey protein, pumpkin pur\u00e9e and egg \u2014 ready in 10 minutes.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "pancakes",
+    "pumpkin",
+    "whey",
+    "spiced",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "30g all-purpose flour",
+      "kcal": 105,
+      "protein": 3.0,
+      "carbs": 21.9,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g whey vanilla protein powder",
+      "kcal": 114,
+      "protein": 24.0,
+      "carbs": 2.4,
+      "fat": 1.2,
+      "satFat": 0.6
+    },
+    {
+      "text": "100g pumpkin pur\u00e9e",
+      "kcal": 26,
+      "protein": 1.0,
+      "carbs": 7.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "50g egg whites",
+      "kcal": 26,
+      "protein": 5.5,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g cinnamon + 1g ginger + 0.5g nutmeg",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Whisk all dry ingredients in a bowl.",
+    "Add wet ingredients; whisk until smooth.",
+    "Heat oiled pan on medium. Cook 2 pancakes at a time with a closed lid.",
+    "Flip when bubbles appear on top (~2\u20133 minutes). Cook other side 2 minutes.",
+    "Repeat \u2014 batter makes about 4\u20135 pancakes."
+  ],
+  "macros": {
+    "kcal": 367,
+    "protein": 38,
+    "carbs": 35,
+    "fat": 9,
+    "satFat": 2,
+    "fibre": 4,
+    "sugar": 4,
+    "iron": 3
+  },
+  "notes": "Top with powdered peanuts, Greek yogurt and blueberries for extra protein.",
+  "source": "The Felu Cookbook"
+}

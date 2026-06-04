@@ -1,0 +1,101 @@
+{
+  "id": "spicy-mac-n-cheese",
+  "title": "Spicy Mac N Cheese",
+  "description": "Creamy spicy mac and cheese made with American cheese and reduced-fat mozzarella for a surprisingly guilt-free comfort dish.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "pasta",
+    "cheese",
+    "spicy",
+    "vegetarian",
+    "comfort food"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "80g dry pasta (macaroni)",
+      "kcal": 280,
+      "protein": 9.6,
+      "carbs": 56.0,
+      "fat": 1.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "50g shredded mozzarella",
+      "kcal": 150,
+      "protein": 11.0,
+      "carbs": 1.0,
+      "fat": 11.0,
+      "satFat": 6.5
+    },
+    {
+      "text": "1 slice American cheese (20g)",
+      "kcal": 60,
+      "protein": 3.2,
+      "carbs": 1.0,
+      "fat": 4.6,
+      "satFat": 2.8
+    },
+    {
+      "text": "100g evaporated milk",
+      "kcal": 85,
+      "protein": 7.0,
+      "carbs": 11.0,
+      "fat": 1.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "2g cornstarch",
+      "kcal": 7,
+      "protein": 0.0,
+      "carbs": 1.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g sriracha or hot sauce",
+      "kcal": 10,
+      "protein": 0.1,
+      "carbs": 1.8,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook pasta al dente; reserve 50ml pasta water before draining.",
+    "Mix evaporated milk with cornstarch in a small pan; heat on medium until slightly thickened.",
+    "Add American cheese; stir until melted. Add mozzarella; stir until smooth. Add garlic powder and paprika.",
+    "Add pasta and a splash of pasta water; stir until coated. Top with sriracha."
+  ],
+  "macros": {
+    "kcal": 577,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 19,
+    "satFat": 10,
+    "fibre": 2,
+    "sugar": 8,
+    "iron": 3
+  },
+  "notes": "Add 150g chicken breast for a protein boost (+~200 kcal, +42g protein).",
+  "source": "The Felu Cookbook"
+}

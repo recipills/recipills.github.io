@@ -1,0 +1,118 @@
+{
+  "id": "chilli-beef-fried-rice",
+  "title": "Chilli Beef Fried Rice",
+  "description": "Spicy ground beef fried rice with pickled jalape\u00f1os, hoisin sauce and plenty of vegetables.",
+  "cuisine": "Asian",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "rice",
+    "spicy",
+    "stir fry",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g ground beef 95/5",
+      "kcal": 234,
+      "protein": 39.6,
+      "carbs": 0.0,
+      "fat": 9.0,
+      "satFat": 3.6
+    },
+    {
+      "text": "60g raw rice",
+      "kcal": 210,
+      "protein": 4.2,
+      "carbs": 46.2,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 red bell pepper or 150g",
+      "kcal": 30,
+      "protein": 1.4,
+      "carbs": 7.5,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g frozen peas",
+      "kcal": 81,
+      "protein": 5.4,
+      "carbs": 14.0,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "25g pickled jalape\u00f1os",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g soy sauce",
+      "kcal": 25,
+      "protein": 2.5,
+      "carbs": 2.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g hoisin sauce",
+      "kcal": 22,
+      "protein": 0.3,
+      "carbs": 4.4,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "4g oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "garlic + ginger + chilli + paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook rice in 150g salted water, covered, 12\u201315 minutes.",
+    "Chop jalape\u00f1os, pepper and onion. Mix soy sauce and hoisin.",
+    "Fry onion and pepper in 2g oil 3 minutes. Push to side; add beef and fry 1 minute.",
+    "Add chilli powder, paprika, jalape\u00f1os, garlic, ginger and peas; stir 1 minute.",
+    "Add rice and sauce; stir until evenly coated."
+  ],
+  "macros": {
+    "kcal": 667,
+    "protein": 55,
+    "carbs": 86,
+    "fat": 12,
+    "satFat": 4,
+    "fibre": 9,
+    "sugar": 10,
+    "iron": 5
+  },
+  "notes": "Leftover rice works best. 125g instant rice can be used to save time.",
+  "source": "The Felu Cookbook"
+}

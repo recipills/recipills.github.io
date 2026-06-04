@@ -1,0 +1,78 @@
+{
+  "id": "roasted-chickpeas",
+  "title": "Roasted Chickpeas",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "Crunchy air-fried roasted chickpeas seasoned with garlic and smoked paprika \u2014 a healthy high-fibre snack ready in 15 minutes.",
+  "cuisine": "International",
+  "category": "Snack",
+  "tags": [
+    "chickpeas",
+    "air fryer",
+    "snack",
+    "crispy",
+    "high-fibre"
+  ],
+  "prepTime": 3,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "150g canned chickpeas (drained)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g smoked paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "salt and black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Rinse and dry chickpeas; add to a bowl.",
+    "Add oil and seasoning; toss to coat.",
+    "Air fry at 200\u00b0C / 400\u00b0F for 12\u201315 minutes until golden and crispy."
+  ],
+  "macros": {
+    "kcal": 226,
+    "protein": 11,
+    "carbs": 34,
+    "fat": 6,
+    "satFat": 1,
+    "fibre": 9,
+    "sugar": 0,
+    "iron": 3
+  },
+  "notes": "Try cayenne, cumin or turmeric for different flavours. Can also be oven-baked at 200\u00b0C for 20 minutes.",
+  "source": "The Felu Cookbook"
+}

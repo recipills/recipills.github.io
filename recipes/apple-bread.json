@@ -1,0 +1,108 @@
+{
+  "id": "apple-bread",
+  "title": "Apple Bread",
+  "description": "High-protein apple bread made with oat flour, cottage cheese and whey \u2014 moist, naturally sweet and great for breakfast.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "baked",
+    "apple",
+    "bread",
+    "whey",
+    "oat flour"
+  ],
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "120g oats (blended to flour)",
+      "kcal": 456,
+      "protein": 16.8,
+      "carbs": 74.4,
+      "fat": 9.0,
+      "satFat": 1.4
+    },
+    {
+      "text": "60g whey vanilla protein powder",
+      "kcal": 228,
+      "protein": 48.0,
+      "carbs": 4.8,
+      "fat": 2.4,
+      "satFat": 1.2
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 52,
+      "protein": 11.0,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g 1% fat cottage cheese",
+      "kcal": 72,
+      "protein": 12.0,
+      "carbs": 3.0,
+      "fat": 1.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "120g peeled apples",
+      "kcal": 62,
+      "protein": 0.4,
+      "carbs": 16.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Blend oats 60 seconds until oat flour.",
+    "Whisk all dry ingredients. Blend apple with cottage cheese until smooth; mix with egg and egg whites.",
+    "Combine wet into dry; whisk until smooth.",
+    "Line an 8\u00d722cm (3\u00d79in) tin with parchment; pour batter.",
+    "Bake at 180\u00b0C / 350\u00b0F for 20\u201325 minutes. Cool 30 minutes before slicing."
+  ],
+  "macros": {
+    "kcal": 133,
+    "protein": 13,
+    "carbs": 13,
+    "fat": 3,
+    "satFat": 1,
+    "fibre": 1,
+    "sugar": 4,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 928,
+    "protein": 94,
+    "carbs": 94,
+    "fat": 17
+  },
+  "notes": "Whey works best \u2014 casein doesn't rise properly. Great topped with Greek yogurt. Add cinnamon for extra flavour.",
+  "source": "The Felu Cookbook"
+}

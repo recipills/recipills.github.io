@@ -1,0 +1,101 @@
+{
+  "id": "strawberry-coconut-balls",
+  "title": "Strawberry Coconut Balls",
+  "description": "No-bake strawberry coconut oat balls made with frozen strawberries, coconut flour and whey protein \u2014 great as a snack or dessert.",
+  "cuisine": "International",
+  "category": "Snack",
+  "tags": [
+    "no bake",
+    "strawberry",
+    "coconut",
+    "whey",
+    "balls"
+  ],
+  "prepTime": 15,
+  "cookTime": 0,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "100g oats",
+      "kcal": 370,
+      "protein": 13.0,
+      "carbs": 60.0,
+      "fat": 7.0,
+      "satFat": 1.1
+    },
+    {
+      "text": "150g frozen strawberries",
+      "kcal": 48,
+      "protein": 1.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g whey vanilla protein powder",
+      "kcal": 114,
+      "protein": 24.0,
+      "carbs": 2.4,
+      "fat": 1.2,
+      "satFat": 0.6
+    },
+    {
+      "text": "30g coconut flour",
+      "kcal": 129,
+      "protein": 5.7,
+      "carbs": 17.4,
+      "fat": 4.2,
+      "satFat": 3.9
+    },
+    {
+      "text": "50g skimmed milk",
+      "kcal": 18,
+      "protein": 1.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "15g grated coconut",
+      "kcal": 52,
+      "protein": 0.5,
+      "carbs": 2.2,
+      "fat": 5.0,
+      "satFat": 4.3
+    },
+    {
+      "text": "4g coconut oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 3.5
+    },
+    {
+      "text": "10g maple syrup",
+      "kcal": 26,
+      "protein": 0.0,
+      "carbs": 6.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Defrost strawberries; blend or mash until smooth.",
+    "Mix all ingredients together; combine into a dough. Refrigerate 10 minutes.",
+    "Roll into balls (~20g each); coat in extra grated coconut.",
+    "Refrigerate until firm. Can also be frozen."
+  ],
+  "macros": {
+    "kcal": 396,
+    "protein": 24,
+    "carbs": 52,
+    "fat": 10,
+    "satFat": 6,
+    "fibre": 10,
+    "sugar": 14,
+    "iron": 3
+  },
+  "notes": "Balls can be frozen for up to 1 month. Grated coconut coating is optional.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "mp-chicken-roll-ups",
+  "title": "Chicken Roll-Ups",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "Sliced chicken breast rolled with deli meat and mozzarella, seared and baked \u2014 a high-protein finger food great for meal prep.",
+  "cuisine": "International",
+  "category": "Meal Prep",
+  "tags": [
+    "chicken",
+    "roll-ups",
+    "meal prep",
+    "high-protein",
+    "oven"
+  ],
+  "prepTime": 15,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "600g chicken breast",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g lean deli meat",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g shredded mozzarella",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g garlic powder, 2g smoked paprika, salt, pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Butterfly and flatten chicken breasts. Season with garlic powder, paprika, salt and pepper.",
+    "Layer deli meat and mozzarella on each breast; roll tightly and secure with toothpicks.",
+    "Sear rolls in oil on medium-high heat 2 min each side until golden.",
+    "Bake at 180\u00b0C/350\u00b0F 15 min until cooked through. Remove toothpicks; slice and portion."
+  ],
+  "macros": {
+    "kcal": 1200,
+    "protein": 175,
+    "carbs": 5,
+    "fat": 50,
+    "satFat": 18,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 4
+  },
+  "macrosNote": "Whole recipe (4 servings). Per serving: 300 kcal, 44g protein",
+  "notes": "Lasts 3\u20134 days in fridge. Great with cauliflower mash or salad.",
+  "source": "The Felu Cookbook"
+}

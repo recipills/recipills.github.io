@@ -1,0 +1,118 @@
+{
+  "id": "honey-pb-udon",
+  "title": "Honey PB Udon",
+  "description": "Silky udon noodles with chicken in a sweet peanut butter, soy and honey sauce \u2014 deceptively simple and incredibly satisfying.",
+  "cuisine": "Asian Fusion",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "udon",
+    "noodles",
+    "peanut butter",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 chicken breast or 180g",
+      "kcal": 198,
+      "protein": 41.4,
+      "carbs": 0.0,
+      "fat": 2.2,
+      "satFat": 0.5
+    },
+    {
+      "text": "200g udon noodles (fresh)",
+      "kcal": 270,
+      "protein": 8.0,
+      "carbs": 56.0,
+      "fat": 1.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 red bell pepper or 150g",
+      "kcal": 30,
+      "protein": 1.4,
+      "carbs": 7.5,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g peanut butter",
+      "kcal": 130,
+      "protein": 5.0,
+      "carbs": 4.0,
+      "fat": 10.0,
+      "satFat": 1.8
+    },
+    {
+      "text": "20g soy sauce",
+      "kcal": 20,
+      "protein": 2.0,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g honey",
+      "kcal": 45,
+      "protein": 0.0,
+      "carbs": 12.3,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "\u00bd lime juice",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 1.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "6g oil",
+      "kcal": 54,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "satFat": 0.8
+    },
+    {
+      "text": "1g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix peanut butter, soy sauce, honey and lime juice until smooth.",
+    "Slice chicken into thin pieces; chop vegetables.",
+    "Stir-fry vegetables in 2g oil on medium-high 3\u20134 minutes; remove. Add 2g oil; fry chicken with salt, pepper and garlic powder 1 minute per side.",
+    "Boil udon noodles 3 minutes; drain.",
+    "Return empty pan; add sauce with splash of noodle water; simmer 1 minute. Add noodles, chicken and vegetables; toss."
+  ],
+  "macros": {
+    "kcal": 665,
+    "protein": 55,
+    "carbs": 86,
+    "fat": 12,
+    "satFat": 2,
+    "fibre": 6,
+    "sugar": 20,
+    "iron": 4
+  },
+  "notes": "Substitute powdered peanuts (PB2) to reduce fat by ~60 kcal. Works great with pak choi or broccoli.",
+  "source": "The Felu Cookbook"
+}

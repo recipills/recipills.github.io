@@ -1,0 +1,92 @@
+{
+  "id": "carrot-cake-overnight-oats",
+  "title": "Carrot Cake Overnight Oats",
+  "description": "Carrot cake for breakfast \u2014 shredded carrots, chia seeds, vanilla and casein protein in overnight oats.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "carrot",
+    "chia seeds",
+    "casein",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g shredded carrots",
+      "kcal": 20,
+      "protein": 0.5,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g chia seeds",
+      "kcal": 49,
+      "protein": 1.7,
+      "carbs": 4.2,
+      "fat": 3.1,
+      "satFat": 0.3
+    },
+    {
+      "text": "5g vanilla extract",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "If using a whole carrot, grate it with a box grater.",
+    "Add all ingredients to a bowl. Mix until smooth.",
+    "Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 415,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 8,
+    "satFat": 1,
+    "fibre": 8,
+    "sugar": 8,
+    "iron": 3
+  },
+  "notes": "Casein gives creamier oats. The chia seeds add thickness and omega-3s.",
+  "source": "The Felu Cookbook"
+}

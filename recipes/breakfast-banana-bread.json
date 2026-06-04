@@ -1,0 +1,116 @@
+{
+  "id": "breakfast-banana-bread",
+  "title": "Breakfast Banana Bread",
+  "description": "Wholesome high-protein banana bread made with oat flour, whey, skyr and real bananas \u2014 packed with protein and fibre.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "baked",
+    "banana bread",
+    "whey",
+    "oat flour",
+    "high-protein"
+  ],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "120g oats (blended to flour)",
+      "kcal": 456,
+      "protein": 16.8,
+      "carbs": 74.4,
+      "fat": 9.0,
+      "satFat": 1.4
+    },
+    {
+      "text": "60g whey vanilla protein powder",
+      "kcal": 228,
+      "protein": 48.0,
+      "carbs": 4.8,
+      "fat": 2.4,
+      "satFat": 1.2
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 52,
+      "protein": 11.0,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 medium bananas (250g)",
+      "kcal": 222,
+      "protein": 2.8,
+      "carbs": 57.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "30g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Blend oats 60 seconds until oat flour. Whisk all dry ingredients.",
+    "Mash bananas with a fork; add lemon juice. Mix all wet ingredients together.",
+    "Add wet to dry; whisk slowly until smooth.",
+    "Line an 8\u00d722cm (3\u00d79in) tin; pour batter.",
+    "Bake at 180\u00b0C / 350\u00b0F for 35\u201345 minutes. Cool 30 minutes before slicing."
+  ],
+  "macros": {
+    "kcal": 160,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 3,
+    "satFat": 1,
+    "fibre": 2,
+    "sugar": 8,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1118,
+    "protein": 97,
+    "carbs": 139,
+    "fat": 18
+  },
+  "notes": "Whey works better than casein here. Add cinnamon for extra flavour. Add a splash of water if batter is too dry.",
+  "source": "The Felu Cookbook"
+}

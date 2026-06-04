@@ -1,0 +1,103 @@
+{
+  "id": "sauce-mint",
+  "title": "Mint Sauce",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Fresh herb yogurt sauce with basil, mint, mustard and vinegar \u2014 light, vibrant and perfect for wraps and grilled meats.",
+  "cuisine": "International",
+  "category": "Sauce",
+  "tags": [
+    "mint",
+    "sauce",
+    "yogurt",
+    "herbs",
+    "quick"
+  ],
+  "prepTime": 3,
+  "cookTime": 0,
+  "servings": 3,
+  "ingredients": [
+    {
+      "text": "200g skyr or 0.2% Greek yogurt",
+      "kcal": 120,
+      "protein": 20.0,
+      "carbs": 8.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g fresh basil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g fresh mint",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g mustard",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g vinegar",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 clove garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "salt and black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a blender starting with Greek yogurt.",
+    "Blend 30 seconds until smooth.",
+    "Transfer to a squeeze bottle. Refrigerate up to 1 week."
+  ],
+  "macros": {
+    "kcal": 259,
+    "protein": 22,
+    "carbs": 11,
+    "fat": 15,
+    "satFat": 2,
+    "fibre": 1,
+    "sugar": 4,
+    "iron": 1
+  },
+  "macrosNote": "Whole recipe (3 servings)",
+  "notes": "Keep one of these in the fridge at all times. Excellent in burritos and as a dipping sauce.",
+  "source": "The Felu Cookbook"
+}

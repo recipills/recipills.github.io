@@ -1,0 +1,125 @@
+{
+  "id": "chow-mein",
+  "title": "Chow Mein",
+  "description": "Classic Chinese stir-fried chow mein noodles with chicken, asparagus and bell pepper in a soy-oyster-honey sauce.",
+  "cuisine": "Chinese",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "noodles",
+    "Chinese",
+    "stir fry",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 chicken breast or 180g",
+      "kcal": 198,
+      "protein": 41.4,
+      "carbs": 0.0,
+      "fat": 2.2,
+      "satFat": 0.5
+    },
+    {
+      "text": "60g chow mein / egg noodles (dry)",
+      "kcal": 210,
+      "protein": 7.2,
+      "carbs": 42.0,
+      "fat": 0.9,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g asparagus",
+      "kcal": 30,
+      "protein": 3.3,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red bell pepper or 150g",
+      "kcal": 30,
+      "protein": 1.4,
+      "carbs": 7.5,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g soy sauce",
+      "kcal": 20,
+      "protein": 2.0,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g oyster sauce",
+      "kcal": 20,
+      "protein": 0.4,
+      "carbs": 4.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g honey",
+      "kcal": 30,
+      "protein": 0.0,
+      "carbs": 8.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g cornstarch",
+      "kcal": 7,
+      "protein": 0.0,
+      "carbs": 1.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "6g oil",
+      "kcal": 54,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "satFat": 0.8
+    },
+    {
+      "text": "1g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Chop vegetables; slice chicken into strips. Mix soy sauce, oyster sauce, honey and cornstarch.",
+    "Cook noodles 10\u201312 minutes in boiling salted water; drain.",
+    "Fry vegetables in 3g oil on medium-high 3 minutes. Push aside; add 3g oil and chicken with garlic powder, salt and pepper; cook 1 minute per side.",
+    "Stir everything; add noodles and sauce; toss until coated. Done!"
+  ],
+  "macros": {
+    "kcal": 653,
+    "protein": 55,
+    "carbs": 83,
+    "fat": 12,
+    "satFat": 2,
+    "fibre": 7,
+    "sugar": 20,
+    "iron": 4
+  },
+  "notes": "Try hoisin or gochujang to vary the sauce. Great with pak choi or broccoli instead of asparagus.",
+  "source": "The Felu Cookbook"
+}

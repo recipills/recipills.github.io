@@ -1,0 +1,94 @@
+{
+  "id": "choc-pb-oatmeal",
+  "title": "Choc PB Oatmeal",
+  "description": "Felu's most addictive hot oatmeal \u2014 peanut butter, chocolate and casein protein cooked into a rich, thick bowl of oats.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "oatmeal",
+    "chocolate",
+    "peanut butter",
+    "casein",
+    "hot"
+  ],
+  "prepTime": 3,
+  "cookTime": 8,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "200g skyr or 0.2% Greek yogurt",
+      "kcal": 120,
+      "protein": 20.0,
+      "carbs": 8.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g peanut butter",
+      "kcal": 130,
+      "protein": 5.0,
+      "carbs": 4.0,
+      "fat": 10.0,
+      "satFat": 1.8
+    },
+    {
+      "text": "10g cocoa powder",
+      "kcal": 23,
+      "protein": 2.0,
+      "carbs": 3.0,
+      "fat": 1.4,
+      "satFat": 0.8
+    },
+    {
+      "text": "200g skimmed milk",
+      "kcal": 70,
+      "protein": 7.0,
+      "carbs": 10.0,
+      "fat": 0.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "10g chia seeds (optional)",
+      "kcal": 49,
+      "protein": 1.7,
+      "carbs": 4.2,
+      "fat": 3.1,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Add oats and optional chia seeds to a pot with a pinch of salt. Dry toast on medium heat 3 minutes.",
+    "Add milk; simmer stirring 3\u20134 minutes until thick.",
+    "In a bowl, mix yogurt, peanut butter and casein.",
+    "Add cocoa powder to pot; stir until dark brown. Remove from heat; transfer to bowl.",
+    "Top with fresh fruit or whipped cream."
+  ],
+  "macros": {
+    "kcal": 635,
+    "protein": 54,
+    "carbs": 60,
+    "fat": 20,
+    "satFat": 3,
+    "fibre": 9,
+    "sugar": 14,
+    "iron": 4
+  },
+  "notes": "Best eaten slightly warm. Can be meal prepped but tastes best fresh.",
+  "source": "The Felu Cookbook"
+}

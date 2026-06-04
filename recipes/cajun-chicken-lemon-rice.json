@@ -1,0 +1,92 @@
+{
+  "id": "cajun-chicken-lemon-rice",
+  "title": "Cajun Chicken Lemon Rice",
+  "description": "Juicy Cajun-spiced chicken thighs over bright lemon and herb rice \u2014 a simple but deeply satisfying one-pan meal.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "rice",
+    "Cajun",
+    "lemon",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "200g skinless boneless chicken thighs",
+      "kcal": 270,
+      "protein": 40.0,
+      "carbs": 0.0,
+      "fat": 11.0,
+      "satFat": 3.0
+    },
+    {
+      "text": "60g raw rice",
+      "kcal": 210,
+      "protein": 4.2,
+      "carbs": 46.2,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 lemon (juice + zest)",
+      "kcal": 7,
+      "protein": 0.1,
+      "carbs": 2.1,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "2g Cajun spice (paprika, garlic, cayenne, oregano)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "fresh parsley",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook rice in 150g salted water, covered, 12\u201315 minutes. Mix cooked rice with lemon juice, lemon zest and parsley.",
+    "Rub chicken thighs with Cajun spice and salt. Fry in oil on medium-high 3\u20134 minutes per side until cooked through.",
+    "Rest chicken 2 minutes. Slice and serve over lemon rice."
+  ],
+  "macros": {
+    "kcal": 553,
+    "protein": 44,
+    "carbs": 60,
+    "fat": 16,
+    "satFat": 3,
+    "fibre": 2,
+    "sugar": 3,
+    "iron": 3
+  },
+  "notes": "Also great as meal prep \u2014 keeps 3\u20134 days in the fridge.",
+  "source": "The Felu Cookbook"
+}

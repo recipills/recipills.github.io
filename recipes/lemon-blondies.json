@@ -1,0 +1,141 @@
+{
+  "id": "lemon-blondies",
+  "title": "Lemon Blondies",
+  "description": "Refreshing lemon blondies made with cottage cheese and coconut flour, topped with a light whey-cream cheese frosting.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "blondies",
+    "lemon",
+    "coconut flour",
+    "whey",
+    "frosting"
+  ],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "80g all-purpose flour",
+      "kcal": 280,
+      "protein": 8.0,
+      "carbs": 58.4,
+      "fat": 0.8,
+      "satFat": 0.1
+    },
+    {
+      "text": "20g coconut flour",
+      "kcal": 86,
+      "protein": 3.8,
+      "carbs": 11.6,
+      "fat": 2.8,
+      "satFat": 2.6
+    },
+    {
+      "text": "23g whey vanilla protein powder",
+      "kcal": 87,
+      "protein": 18.4,
+      "carbs": 1.8,
+      "fat": 0.9,
+      "satFat": 0.5
+    },
+    {
+      "text": "23g casein vanilla protein powder",
+      "kcal": 85,
+      "protein": 17.2,
+      "carbs": 2.3,
+      "fat": 1.2,
+      "satFat": 0.3
+    },
+    {
+      "text": "200g 1% fat cottage cheese",
+      "kcal": 144,
+      "protein": 24.0,
+      "carbs": 6.0,
+      "fat": 2.0,
+      "satFat": 1.2
+    },
+    {
+      "text": "2 eggs (100g)",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 1.0,
+      "fat": 11.0,
+      "satFat": 3.3
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "zest of 3 lemons + juice of 1 lemon",
+      "kcal": 7,
+      "protein": 0.1,
+      "carbs": 2.1,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g vanilla extract",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "FROSTING: 75g cream cheese + 100g skyr + 15g whey + lemon juice",
+      "kcal": 45,
+      "protein": 8.2,
+      "carbs": 2.2,
+      "fat": 0.4,
+      "satFat": 0.2
+    }
+  ],
+  "steps": [
+    "Preheat oven to 180\u00b0C / 350\u00b0F. Mix all dry ingredients.",
+    "Whisk cottage cheese, eggs, lemon zest and vanilla in a separate bowl.",
+    "Combine wet into dry; whisk until smooth.",
+    "Line a 10\u00d724cm (4\u00d79in) dish; bake 35\u201340 minutes. Cool 30 minutes.",
+    "Whisk frosting ingredients until smooth; spread over cooled blondies."
+  ],
+  "macros": {
+    "kcal": 145,
+    "protein": 17,
+    "carbs": 14,
+    "fat": 3,
+    "satFat": 1,
+    "fibre": 2,
+    "sugar": 4,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1018,
+    "protein": 119,
+    "carbs": 97,
+    "fat": 18,
+    "note": "with frosting"
+  },
+  "notes": "Blend cottage cheese before adding if you don't want lumps. Can substitute lemon with orange.",
+  "source": "The Felu Cookbook"
+}

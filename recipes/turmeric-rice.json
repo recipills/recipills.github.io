@@ -1,0 +1,87 @@
+{
+  "id": "turmeric-rice",
+  "title": "Turmeric Rice",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "Golden turmeric rice toasted with cumin and simmered in broth \u2014 a fragrant, vibrant side that pairs with any protein.",
+  "cuisine": "Middle Eastern",
+  "category": "Side",
+  "tags": [
+    "rice",
+    "turmeric",
+    "cumin",
+    "side",
+    "aromatic"
+  ],
+  "prepTime": 3,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "60g raw rice",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "120g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g vegetable stock powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g turmeric",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g cumin",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix stock powder in 120g water. Wash rice twice under cold water; drain.",
+    "Heat pan (18cm) on medium; add oil. Toast turmeric and cumin 1 minute until fragrant.",
+    "Add rice; toast 1 more minute with a pinch of salt.",
+    "Pour in broth; reduce heat to low; stir once; close lid. Simmer 12 minutes. Done."
+  ],
+  "macros": {
+    "kcal": 247,
+    "protein": 5,
+    "carbs": 46,
+    "fat": 5,
+    "satFat": 1,
+    "fibre": 1,
+    "sugar": 0,
+    "iron": 1
+  },
+  "notes": "Great alongside any grilled meat or as a base for a bowl.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "egg-purgatorio",
+  "title": "Egg Purgatorio",
+  "description": "Italian eggs poached in rich tomato sauce with parmesan and basil.",
+  "cuisine": "Italian",
+  "category": "Breakfast",
+  "tags": [
+    "eggs",
+    "tomato",
+    "italian",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "3 eggs",
+      "kcal": 232.5,
+      "protein": 18.9,
+      "carbs": 1.7,
+      "fat": 15.9,
+      "satFat": 4.7
+    },
+    {
+      "text": "50g onion",
+      "kcal": 20.0,
+      "protein": 0.6,
+      "carbs": 4.7,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g tomato sauce",
+      "kcal": 97.5,
+      "protein": 3.0,
+      "carbs": 18.0,
+      "fat": 2.2,
+      "satFat": 0.3
+    },
+    {
+      "text": "15g parmesan",
+      "kcal": 63.0,
+      "protein": 5.7,
+      "carbs": 0.5,
+      "fat": 4.2,
+      "satFat": 2.7
+    },
+    {
+      "text": "4g olive oil",
+      "kcal": 35.4,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    }
+  ],
+  "steps": [
+    "Chop onion and basil; grate garlic and parmesan.",
+    "Heat oil; fry onion 3 min; add garlic 30 sec.",
+    "Add tomato sauce; season; bring to simmer.",
+    "Crack in 3 eggs; cover; cook 2\u20133 min.",
+    "Remove from heat; sprinkle parmesan and basil."
+  ],
+  "macros": {
+    "kcal": 355,
+    "protein": 27,
+    "carbs": 10,
+    "fat": 24,
+    "satFat": 7,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Serve on toasted baguette slices.",
+  "source": "The Felu Cookbook"
+}

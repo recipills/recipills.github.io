@@ -1,0 +1,171 @@
+{
+  "id": "boston-cream-donuts",
+  "title": "Boston Cream Donuts",
+  "description": "Famous Boston cream donuts with a vanilla pudding-casein filling and chocolate-cocoa frosting \u2014 all high in protein.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "donuts",
+    "boston cream",
+    "casein",
+    "baked",
+    "high-protein"
+  ],
+  "prepTime": 20,
+  "cookTime": 20,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "30g all-purpose flour",
+      "kcal": 105,
+      "protein": 3.0,
+      "carbs": 21.9,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "60g oats (blended to flour)",
+      "kcal": 228,
+      "protein": 8.4,
+      "carbs": 37.2,
+      "fat": 4.5,
+      "satFat": 0.7
+    },
+    {
+      "text": "15g whey vanilla protein powder",
+      "kcal": 57,
+      "protein": 12.0,
+      "carbs": 1.2,
+      "fat": 0.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "25g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g egg whites",
+      "kcal": 26,
+      "protein": 5.5,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "50g skyr or 0.2% Greek yogurt",
+      "kcal": 30,
+      "protein": 5.0,
+      "carbs": 2.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "FILLING: 40g instant vanilla pudding powder",
+      "kcal": 152,
+      "protein": 0.2,
+      "carbs": 36.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "FILLING: 30g casein vanilla protein powder",
+      "kcal": 111,
+      "protein": 22.5,
+      "carbs": 3.0,
+      "fat": 1.5,
+      "satFat": 0.4
+    },
+    {
+      "text": "FILLING: 250g skimmed milk",
+      "kcal": 88,
+      "protein": 8.8,
+      "carbs": 12.5,
+      "fat": 0.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "FROSTING: 10g cocoa powder",
+      "kcal": 23,
+      "protein": 2.0,
+      "carbs": 3.0,
+      "fat": 1.4,
+      "satFat": 0.8
+    },
+    {
+      "text": "FROSTING: 20g casein vanilla protein powder",
+      "kcal": 74,
+      "protein": 15.0,
+      "carbs": 2.0,
+      "fat": 1.0,
+      "satFat": 0.3
+    },
+    {
+      "text": "FROSTING: 100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix dry and wet donut ingredients separately; combine and whisk smooth. Bake in 6 ramekins (8cm) at 160\u00b0C / 320\u00b0F for 16\u201320 minutes.",
+    "Filling: whisk pudding powder and milk with electric mixer until thick; add casein; keep mixing until very thick.",
+    "Frosting: mix cocoa powder, casein and milk until smooth.",
+    "Cut baked donuts in half; make a crater; fill with pudding filling; top with frosting."
+  ],
+  "macros": {
+    "kcal": 201,
+    "protein": 19,
+    "carbs": 22,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 1,
+    "sugar": 5,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1206,
+    "protein": 114,
+    "carbs": 132,
+    "fat": 24
+  },
+  "notes": "Whey/casein blend gives best texture. Add a splash of water if batter is too dry.",
+  "source": "The Felu Cookbook"
+}

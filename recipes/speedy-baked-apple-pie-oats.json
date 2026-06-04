@@ -1,0 +1,92 @@
+{
+  "id": "speedy-baked-apple-pie-oats",
+  "title": "Speedy Baked Apple Pie Oats",
+  "description": "Blend it all, bake for 20 minutes and breakfast is ready \u2014 the easiest single-serving baked apple pie oatmeal you'll ever make.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "baked oatmeal",
+    "apple",
+    "quick",
+    "whey",
+    "single serve"
+  ],
+  "prepTime": 3,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "60g oats",
+      "kcal": 222,
+      "protein": 7.8,
+      "carbs": 36.0,
+      "fat": 4.2,
+      "satFat": 0.7
+    },
+    {
+      "text": "30g whey vanilla protein powder",
+      "kcal": 114,
+      "protein": 24.0,
+      "carbs": 2.4,
+      "fat": 1.2,
+      "satFat": 0.6
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "100g apples",
+      "kcal": 52,
+      "protein": 0.3,
+      "carbs": 14.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g skimmed milk",
+      "kcal": 18,
+      "protein": 1.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "10g maple syrup",
+      "kcal": 26,
+      "protein": 0.0,
+      "carbs": 6.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g cinnamon + 3g baking powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a blender; blend ~30 seconds until smooth.",
+    "Transfer to a 15cm (6in) baking dish lined with parchment.",
+    "Bake at 180\u00b0C / 350\u00b0F for 20\u201325 minutes. Enjoy!"
+  ],
+  "macros": {
+    "kcal": 542,
+    "protein": 40,
+    "carbs": 70,
+    "fat": 11,
+    "satFat": 2,
+    "fibre": 6,
+    "sugar": 22,
+    "iron": 3
+  },
+  "notes": "Mix in toppings before baking \u2014 blueberries, chopped walnuts or raisins all work great.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "sauce-hummus",
+  "title": "Hummus",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "High-protein hummus swapping tahini for Greek yogurt and peanut butter \u2014 much lower in calories, just as creamy.",
+  "cuisine": "Middle Eastern",
+  "category": "Dip",
+  "tags": [
+    "hummus",
+    "dip",
+    "chickpeas",
+    "high-protein",
+    "Middle Eastern"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "200g canned chickpeas (drained)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g skyr or 0.2% Greek yogurt",
+      "kcal": 120,
+      "protein": 20.0,
+      "carbs": 8.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g peanut butter",
+      "kcal": 65,
+      "protein": 2.5,
+      "carbs": 2.0,
+      "fat": 5.0,
+      "satFat": 0.9
+    },
+    {
+      "text": "juice of 1 lemon",
+      "kcal": 7,
+      "protein": 0.1,
+      "carbs": 2.1,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 clove garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g cumin, salt, black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Drain chickpeas; save 20g of can liquid (aquafaba).",
+    "Add chickpeas and 20g aquafaba to blender.",
+    "Add all other ingredients; blend 30 seconds until smooth."
+  ],
+  "macros": {
+    "kcal": 368,
+    "protein": 34,
+    "carbs": 38,
+    "fat": 9,
+    "satFat": 1,
+    "fibre": 8,
+    "sugar": 6,
+    "iron": 4
+  },
+  "macrosNote": "Whole recipe (4 servings)",
+  "notes": "Lasts 3\u20135 days in fridge. Drizzle with a little olive oil to serve.",
+  "source": "The Felu Cookbook"
+}

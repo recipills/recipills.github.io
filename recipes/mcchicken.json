@@ -1,0 +1,109 @@
+{
+  "id": "mcchicken",
+  "title": "McChicken",
+  "description": "Homemade McChicken-style sandwich with a crispy panko chicken patty, shredded lettuce and light mayo in a brioche bun \u2014 all at half the calories.",
+  "cuisine": "American",
+  "category": "Lunch",
+  "tags": [
+    "chicken",
+    "sandwich",
+    "brioche",
+    "panko",
+    "fast food remake"
+  ],
+  "prepTime": 5,
+  "cookTime": 12,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 brioche bun (~80g)",
+      "kcal": 200,
+      "protein": 5.6,
+      "carbs": 35.2,
+      "fat": 4.0,
+      "satFat": 1.2
+    },
+    {
+      "text": "150g chicken breast",
+      "kcal": 165,
+      "protein": 34.5,
+      "carbs": 0.0,
+      "fat": 1.8,
+      "satFat": 0.4
+    },
+    {
+      "text": "20g panko breadcrumbs",
+      "kcal": 70,
+      "protein": 2.4,
+      "carbs": 14.0,
+      "fat": 0.6,
+      "satFat": 0.1
+    },
+    {
+      "text": "10g flour",
+      "kcal": 35,
+      "protein": 1.0,
+      "carbs": 7.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g egg whites",
+      "kcal": 16,
+      "protein": 3.3,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g light mayo",
+      "kcal": 30,
+      "protein": 0.3,
+      "carbs": 1.0,
+      "fat": 2.8,
+      "satFat": 0.4
+    },
+    {
+      "text": "30g lettuce (shredded)",
+      "kcal": 4,
+      "protein": 0.4,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil spray",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    },
+    {
+      "text": "1g onion powder + garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Flatten chicken breast to ~1cm even thickness.",
+    "Season flour with onion powder, garlic powder, salt and pepper. Coat chicken: flour \u2192 egg whites \u2192 panko.",
+    "Air-fry at 200\u00b0C / 400\u00b0F for 10\u201312 minutes, flipping halfway. Or pan-fry in 2g oil on medium 3\u20134 min per side.",
+    "Toast bun. Spread mayo on both halves. Add shredded lettuce then chicken patty."
+  ],
+  "macros": {
+    "kcal": 574,
+    "protein": 49,
+    "carbs": 55,
+    "fat": 17,
+    "satFat": 4,
+    "fibre": 1,
+    "sugar": 4,
+    "iron": 3
+  },
+  "notes": "The original McChicken is ~400 kcal but far lower in protein. This version has ~3\u00d7 the protein.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "sauce-1000-island",
+  "title": "1000 Island",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Classic burger sauce made lighter \u2014 light mayo, ketchup, mustard and pickle juice stirred together in 2 minutes.",
+  "cuisine": "American",
+  "category": "Sauce",
+  "tags": [
+    "1000 island",
+    "burger sauce",
+    "dip",
+    "quick",
+    "low calorie"
+  ],
+  "prepTime": 2,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "10g light mayo",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g zero ketchup",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g mustard",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g pickle juice",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder, salt, black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl.",
+    "Mix until smooth. Done."
+  ],
+  "macros": {
+    "kcal": 30,
+    "protein": 0,
+    "carbs": 2,
+    "fat": 2,
+    "satFat": 0,
+    "fibre": 0,
+    "sugar": 1,
+    "iron": 0
+  },
+  "notes": "If you can't find light mayo, use Greek yogurt with 5\u201310g honey. Lasts 2\u20133 days in fridge.",
+  "source": "The Felu Cookbook"
+}

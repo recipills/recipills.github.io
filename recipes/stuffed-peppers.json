@@ -1,0 +1,108 @@
+{
+  "id": "stuffed-peppers",
+  "title": "Stuffed Peppers",
+  "description": "Bell pepper boats stuffed with a juicy ground beef mixture made with gouda, buttermilk and gelatine, then baked until golden.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "bell pepper",
+    "baked",
+    "meal prep",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "2 medium-large bell peppers (~300g)",
+      "kcal": 60,
+      "protein": 2.7,
+      "carbs": 15.0,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g ground beef 95/5",
+      "kcal": 260,
+      "protein": 44.0,
+      "carbs": 0.0,
+      "fat": 10.0,
+      "satFat": 4.0
+    },
+    {
+      "text": "50g egg whites",
+      "kcal": 28,
+      "protein": 5.5,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g buttermilk 1%",
+      "kcal": 20,
+      "protein": 1.6,
+      "carbs": 2.5,
+      "fat": 0.5,
+      "satFat": 0.3
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 slice sandwich bread (~25g)",
+      "kcal": 62,
+      "protein": 2.0,
+      "carbs": 11.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "30g reduced-fat gouda",
+      "kcal": 75,
+      "protein": 7.2,
+      "carbs": 0.6,
+      "fat": 5.1,
+      "satFat": 3.3
+    },
+    {
+      "text": "5g dry gelatine",
+      "kcal": 20,
+      "protein": 4.4,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g paprika + cayenne",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Dice onion; grate garlic. Cut peppers in half lengthways; remove core. Mix buttermilk and gelatine; set aside. Cut bread into small cubes. Preheat oven to 180\u00b0C / 350\u00b0F.",
+    "Combine beef, onion, garlic, bread, buttermilk\u2013gelatine mixture, egg whites, gouda and seasonings; mix well.",
+    "Stuff pepper halves with meat mixture. Bake 25\u201335 minutes."
+  ],
+  "macros": {
+    "kcal": 600,
+    "protein": 59,
+    "carbs": 38,
+    "fat": 17,
+    "satFat": 7,
+    "fibre": 6,
+    "sugar": 10,
+    "iron": 5
+  },
+  "notes": "Keeps in the fridge 2\u20133 days. Add more cumin or paprika to taste.",
+  "source": "The Felu Cookbook"
+}

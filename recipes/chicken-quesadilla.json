@@ -1,0 +1,93 @@
+{
+  "id": "chicken-quesadilla",
+  "title": "Chicken Quesadilla",
+  "description": "Crispy tortilla filled with chicken breast, bell pepper, onion and melted mozzarella with a peanut butter sauce.",
+  "cuisine": "Mexican",
+  "category": "Dinner",
+  "tags": [
+    "chicken",
+    "quesadilla",
+    "tortilla",
+    "cheese",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 wheat tortilla 20cm (~45g)",
+      "kcal": 135,
+      "protein": 3.1,
+      "carbs": 24.3,
+      "fat": 2.2,
+      "satFat": 0.7
+    },
+    {
+      "text": "100g chicken breast",
+      "kcal": 110,
+      "protein": 23.0,
+      "carbs": 0.0,
+      "fat": 1.2,
+      "satFat": 0.3
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "75g red bell pepper",
+      "kcal": 15,
+      "protein": 0.7,
+      "carbs": 3.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g shredded mozzarella",
+      "kcal": 75,
+      "protein": 5.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 3.2
+    },
+    {
+      "text": "20g peanut butter sauce (see Chapter 9)",
+      "kcal": 65,
+      "protein": 2.5,
+      "carbs": 2.0,
+      "fat": 5.0,
+      "satFat": 0.9
+    },
+    {
+      "text": "2g oil",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Chop all vegetables; cut chicken into bite-sized pieces.",
+    "Fry onion and pepper in oil on medium-high 3\u20134 minutes. Add chicken, season; fry 2 minutes until cooked.",
+    "Add mozzarella to pan; stir until melted. Transfer filling to tortilla on a plate.",
+    "Return tortilla to pan, filling-side down. Add peanut butter sauce on top. Fold in half; press. Fry both sides 30 seconds."
+  ],
+  "macros": {
+    "kcal": 365,
+    "protein": 32,
+    "carbs": 32,
+    "fat": 14,
+    "satFat": 5,
+    "fibre": 2,
+    "sugar": 4,
+    "iron": 2
+  },
+  "notes": "Can use smoked paprika, chilli or cumin for different flavour profiles.",
+  "source": "The Felu Cookbook"
+}

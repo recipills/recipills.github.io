@@ -1,0 +1,109 @@
+{
+  "id": "one-pot-beef-and-mushrooms",
+  "title": "One Pot Beef & Mushrooms",
+  "description": "Deeply savoury one-pot ground beef and mushroom rice \u2014 the mushrooms create a rich umami base that makes this dish extraordinary.",
+  "cuisine": "European",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "mushrooms",
+    "rice",
+    "one pot",
+    "umami"
+  ],
+  "prepTime": 5,
+  "cookTime": 25,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g ground beef 95/5",
+      "kcal": 234,
+      "protein": 39.6,
+      "carbs": 0.0,
+      "fat": 9.0,
+      "satFat": 3.6
+    },
+    {
+      "text": "60g raw rice",
+      "kcal": 210,
+      "protein": 4.2,
+      "carbs": 46.2,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "200g mushrooms",
+      "kcal": 44,
+      "protein": 6.2,
+      "carbs": 6.0,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g soy sauce",
+      "kcal": 20,
+      "protein": 2.0,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g oil",
+      "kcal": 36,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 4.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "2g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g thyme or oregano",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Slice mushrooms; dice onion.",
+    "Fry onion in oil 2 minutes. Add mushrooms with 50g water; saut\u00e9 until collapsed (4\u20135 min); then fry dry until golden (4\u20135 min).",
+    "Add beef; fry 2 minutes. Add garlic powder, thyme and soy sauce; stir.",
+    "Add rice and broth powder dissolved in 200g water. Cover; simmer on low 15\u201318 minutes until rice is cooked."
+  ],
+  "macros": {
+    "kcal": 557,
+    "protein": 49,
+    "carbs": 62,
+    "fat": 14,
+    "satFat": 4,
+    "fibre": 4,
+    "sugar": 5,
+    "iron": 5
+  },
+  "notes": "Do not skip the mushroom cooking step \u2014 letting them go golden is what creates the deep umami flavour.",
+  "source": "The Felu Cookbook"
+}

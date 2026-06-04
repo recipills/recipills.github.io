@@ -1,0 +1,91 @@
+{
+  "id": "apple-pie-overnight-oats",
+  "title": "Apple Pie Overnight Oats",
+  "description": "Warm apple pie flavours in a cold, high-protein overnight oats breakfast \u2014 apple sauce, cinnamon and powdered peanuts.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "apple",
+    "cinnamon",
+    "casein",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g unsweetened applesauce",
+      "kcal": 60,
+      "protein": 0.3,
+      "carbs": 15.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "13g powdered peanuts",
+      "kcal": 52,
+      "protein": 4.5,
+      "carbs": 4.5,
+      "fat": 1.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "50g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g cinnamon",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl. Mix until smooth.",
+    "Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 458,
+    "protein": 39,
+    "carbs": 58,
+    "fat": 6,
+    "satFat": 1,
+    "fibre": 6,
+    "sugar": 14,
+    "iron": 2
+  },
+  "notes": "Use unsweetened applesauce. Fresh apple slices on top in the morning work very well.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "3-ingredient-protein-cheesecake",
+  "title": "3-Ingredient Protein Cheesecake",
+  "description": "Just 3 ingredients \u2014 flavoured Greek yogurt, an egg and pudding powder \u2014 baked into a creamy personal cheesecake.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "cheesecake",
+    "3 ingredients",
+    "easy",
+    "high-protein",
+    "baked"
+  ],
+  "prepTime": 5,
+  "cookTime": 35,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "200g flavoured Greek yogurt or skyr",
+      "kcal": 110,
+      "protein": 18.0,
+      "carbs": 8.0,
+      "fat": 0.4,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "20g instant pudding powder",
+      "kcal": 76,
+      "protein": 0.1,
+      "carbs": 18.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g sweetener (if yogurt is not sweet enough)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat oven to 180\u00b0C / 350\u00b0F.",
+    "Mix yogurt, egg and pudding powder until smooth. Add sweetener if needed.",
+    "Line a 15cm (6in) baking dish with parchment paper; pour in batter.",
+    "Bake 30\u201335 minutes. Cool 15 minutes; refrigerate 1 hour or overnight."
+  ],
+  "macros": {
+    "kcal": 287,
+    "protein": 24,
+    "carbs": 35,
+    "fat": 5,
+    "satFat": 2,
+    "fibre": 0,
+    "sugar": 16,
+    "iron": 1
+  },
+  "notes": "Try strawberry yogurt + vanilla pudding or vice versa. Top with powdered peanuts.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "raspberry-cake",
+  "title": "Raspberry Cake",
+  "description": "High-protein raspberry cake made with oat flour, cottage cheese, egg whites and whey \u2014 studded with fresh raspberries.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "raspberry",
+    "whey",
+    "oat flour",
+    "baked"
+  ],
+  "prepTime": 15,
+  "cookTime": 40,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "100g oats (blended to flour)",
+      "kcal": 380,
+      "protein": 14.0,
+      "carbs": 62.0,
+      "fat": 7.5,
+      "satFat": 1.2
+    },
+    {
+      "text": "30g whey vanilla protein powder",
+      "kcal": 114,
+      "protein": 24.0,
+      "carbs": 2.4,
+      "fat": 1.2,
+      "satFat": 0.6
+    },
+    {
+      "text": "30g casein vanilla protein powder",
+      "kcal": 111,
+      "protein": 22.5,
+      "carbs": 3.0,
+      "fat": 1.5,
+      "satFat": 0.4
+    },
+    {
+      "text": "200g 1% fat cottage cheese",
+      "kcal": 144,
+      "protein": 24.0,
+      "carbs": 6.0,
+      "fat": 2.0,
+      "satFat": 1.2
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "100g egg whites",
+      "kcal": 52,
+      "protein": 11.0,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g butter",
+      "kcal": 182,
+      "protein": 0.2,
+      "carbs": 0.0,
+      "fat": 20.2,
+      "satFat": 12.8
+    },
+    {
+      "text": "100g raspberries (fresh or frozen)",
+      "kcal": 32,
+      "protein": 0.7,
+      "carbs": 8.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking powder + 1.5g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Blend oats into oat flour. Mix all dry ingredients.",
+    "Melt butter. Whisk cottage cheese, egg, egg whites, lemon zest and melted butter.",
+    "Add wet to dry; whisk until smooth. Fold in raspberries.",
+    "Line a 10\u00d724cm (4\u00d79in) dish; bake at 180\u00b0C / 350\u00b0F for 35\u201340 minutes.",
+    "Cool 30 minutes. Cut and serve."
+  ],
+  "macros": {
+    "kcal": 166,
+    "protein": 14,
+    "carbs": 14,
+    "fat": 7,
+    "satFat": 3,
+    "fibre": 2,
+    "sugar": 3,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1162,
+    "protein": 95,
+    "carbs": 98,
+    "fat": 46
+  },
+  "notes": "Cottage cheese can be replaced with the same amount of skyr. Substitute lemon with orange for a different flavour.",
+  "source": "The Felu Cookbook"
+}

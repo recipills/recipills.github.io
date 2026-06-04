@@ -1,0 +1,112 @@
+{
+  "id": "noodle-spicy-black-bean",
+  "title": "Spicy Black Bean Sauce Noodles",
+  "chapter": 10,
+  "chapterName": "Noodle Recipes",
+  "description": "Chinese black bean paste and gochujang sauce over wheat noodles with chicken \u2014 bold, umami-packed and quick.",
+  "cuisine": "Chinese-Korean",
+  "category": "Noodles",
+  "tags": [
+    "black bean",
+    "gochujang",
+    "chicken",
+    "noodles",
+    "umami"
+  ],
+  "prepTime": 10,
+  "cookTime": 12,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "80g dry thin wheat noodles or egg noodles",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 chicken breast (180g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion (50g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g Chinese black bean paste",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g gochujang",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g rice vinegar",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g sesame oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook noodles; drain. Chop onion; cut chicken into strips.",
+    "Mix black bean paste, gochujang, rice vinegar, sesame oil and water in a glass.",
+    "Fry chicken in oil on medium-high 1 min per side; add onions; fry 1.5 min more. Remove.",
+    "Add noodles to pan; stir-fry 1 min. Return chicken and onions.",
+    "Add sauce; toss 30 sec. Done."
+  ],
+  "macros": {
+    "kcal": 590,
+    "protein": 48,
+    "carbs": 81,
+    "fat": 10,
+    "satFat": 2,
+    "fibre": 4,
+    "sugar": 5,
+    "iron": 3
+  },
+  "notes": "Originally made with shirataki noodles (10 kcal/100g). Swapped for 80g dry wheat noodles (~280 kcal). Macros adjusted accordingly. Add cornstarch slurry for a thicker sauce.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "sauce-quick-cheese",
+  "title": "Quick Cheese Sauce",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Protein-rich blender cheese sauce from cottage cheese and cheddar \u2014 no roux needed, ready in 2 minutes.",
+  "cuisine": "International",
+  "category": "Sauce",
+  "tags": [
+    "cheese sauce",
+    "quick",
+    "high-protein",
+    "mac n cheese",
+    "dip"
+  ],
+  "prepTime": 2,
+  "cookTime": 1,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "100g 1% fat cottage cheese",
+      "kcal": 72,
+      "protein": 12.0,
+      "carbs": 3.0,
+      "fat": 1.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "20g cheddar cheese (grated)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g cayenne pepper, salt, black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "optional: 20g parmesan",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl.",
+    "Blend with an immersion blender until smooth. (Or use a blender with a splash of milk.)",
+    "Microwave 10\u201315 seconds. Stir and serve immediately."
+  ],
+  "macros": {
+    "kcal": 147,
+    "protein": 19,
+    "carbs": 1,
+    "fat": 8,
+    "satFat": 4,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "macrosNote": "Whole recipe (2 servings)",
+  "notes": "Don't overheat \u2014 sauce will break without an emulsifier. Great over grilled chicken, pasta or as a dip.",
+  "source": "The Felu Cookbook"
+}

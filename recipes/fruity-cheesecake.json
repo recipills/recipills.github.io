@@ -1,0 +1,123 @@
+{
+  "id": "fruity-cheesecake",
+  "title": "Fruity Cheesecake",
+  "description": "High-protein baked cheesecake with chunks of pineapple baked right into the top \u2014 light, tangy and summery.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "cheesecake",
+    "pineapple",
+    "whey",
+    "baked",
+    "high-protein"
+  ],
+  "prepTime": 10,
+  "cookTime": 45,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "400g 0.2% fat cream cheese",
+      "kcal": 240,
+      "protein": 44.0,
+      "carbs": 12.0,
+      "fat": 2.0,
+      "satFat": 1.2
+    },
+    {
+      "text": "400g skyr or 0.2% Greek yogurt",
+      "kcal": 240,
+      "protein": 40.0,
+      "carbs": 16.0,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 eggs (100g)",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 1.0,
+      "fat": 11.0,
+      "satFat": 3.3
+    },
+    {
+      "text": "30g all-purpose flour",
+      "kcal": 105,
+      "protein": 3.0,
+      "carbs": 21.9,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "60g whey vanilla protein powder",
+      "kcal": 228,
+      "protein": 48.0,
+      "carbs": 4.8,
+      "fat": 2.4,
+      "satFat": 1.2
+    },
+    {
+      "text": "30g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g vanilla extract",
+      "kcal": 45,
+      "protein": 0.0,
+      "carbs": 1.8,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g canned pineapple (cut into pieces)",
+      "kcal": 60,
+      "protein": 0.4,
+      "carbs": 15.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g juice from the fruit can",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g ginger",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cut pineapple into small pieces.",
+    "Whisk all ingredients except fruit until smooth (~60 seconds).",
+    "Line a 12\u00d718cm (5\u00d77in) baking dish; pour batter; top with fruit pieces.",
+    "Bake at 180\u00b0C / 350\u00b0F for 30\u201345 minutes. Cool 15 minutes; refrigerate 4+ hours."
+  ],
+  "macros": {
+    "kcal": 278,
+    "protein": 37,
+    "carbs": 21,
+    "fat": 4,
+    "satFat": 1,
+    "fibre": 0,
+    "sugar": 10,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1110,
+    "protein": 147,
+    "carbs": 84,
+    "fat": 14
+  },
+  "notes": "Works with peaches, mangoes or any canned fruit. Lasts 3\u20134 days in fridge.",
+  "source": "The Felu Cookbook"
+}

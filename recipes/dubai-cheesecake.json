@@ -1,0 +1,124 @@
+{
+  "id": "dubai-cheesecake",
+  "title": "Dubai Cheesecake",
+  "description": "The viral Dubai-style cheesecake \u2014 rich protein cheesecake topped with dark chocolate sauce, pistachio butter and chopped pistachios.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "cheesecake",
+    "whey",
+    "pistachio",
+    "chocolate",
+    "viral"
+  ],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "400g 0.2% fat cream cheese",
+      "kcal": 240,
+      "protein": 44.0,
+      "carbs": 12.0,
+      "fat": 2.0,
+      "satFat": 1.2
+    },
+    {
+      "text": "400g skyr or 0.2% Greek yogurt",
+      "kcal": 240,
+      "protein": 40.0,
+      "carbs": 16.0,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 eggs (100g)",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 1.0,
+      "fat": 11.0,
+      "satFat": 3.3
+    },
+    {
+      "text": "60g whey vanilla protein powder",
+      "kcal": 228,
+      "protein": 48.0,
+      "carbs": 4.8,
+      "fat": 2.4,
+      "satFat": 1.2
+    },
+    {
+      "text": "40g sweetener",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "40g dark chocolate",
+      "kcal": 220,
+      "protein": 2.0,
+      "carbs": 18.0,
+      "fat": 14.0,
+      "satFat": 8.4
+    },
+    {
+      "text": "50g skimmed milk",
+      "kcal": 18,
+      "protein": 1.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "1g cornstarch",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g pistachio butter",
+      "kcal": 180,
+      "protein": 5.4,
+      "carbs": 6.6,
+      "fat": 15.0,
+      "satFat": 1.8
+    },
+    {
+      "text": "30g pistachios (chopped)",
+      "kcal": 168,
+      "protein": 6.0,
+      "carbs": 8.4,
+      "fat": 13.5,
+      "satFat": 1.6
+    }
+  ],
+  "steps": [
+    "Preheat oven to 180\u00b0C / 350\u00b0F. Whisk cream cheese, yogurt, sweetener, eggs and protein powder until smooth.",
+    "Line a 22\u00d718cm (9\u00d77in) baking dish; bake 35\u201345 minutes. Cool 20 minutes.",
+    "Melt dark chocolate with milk and cornstarch in a small pan on medium-low, stirring until thick and creamy.",
+    "Spread chocolate sauce over cheesecake, then pistachio butter. Top with chopped pistachios.",
+    "Refrigerate at least 4 hours or overnight."
+  ],
+  "macros": {
+    "kcal": 388,
+    "protein": 39,
+    "carbs": 17,
+    "fat": 19,
+    "satFat": 6,
+    "fibre": 1,
+    "sugar": 8,
+    "iron": 2
+  },
+  "macrosWholeRecipe": {
+    "kcal": 1554,
+    "protein": 156,
+    "carbs": 66,
+    "fat": 75
+  },
+  "notes": "Swap pistachio butter for peanut butter or blueberries for a different flavour.",
+  "source": "The Felu Cookbook"
+}

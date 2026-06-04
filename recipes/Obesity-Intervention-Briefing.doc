@@ -1,0 +1,34 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:w="urn:schemas-microsoft-com:office:word"
+      xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="UTF-8">
+<style>
+  body { font-family: Calibri, sans-serif; font-size: 11pt; color: #1a1a1a; margin: 0; }
+  h1 { font-size: 20pt; color: #003865; margin-bottom: 2pt; }
+  h2 { font-size: 14pt; color: #003865; border-bottom: 2px solid #003865; padding-bottom: 4pt; margin-top: 20pt; }
+  h3 { font-size: 13pt; color: #003865; margin: 14pt 0 4pt 0; }
+  p  { font-size: 11pt; line-height: 1.6; margin-bottom: 8pt; }
+  .date-sub { font-size: 10pt; color: #666; margin-top: 0; }
+  .prompt-note { font-size: 10pt; color: #555; font-style: italic; margin-bottom: 6pt; }
+  .empty-field { color: #999; font-style: italic; }
+</style>
+</head>
+<body>
+<h1>Obesity Intervention Budget Briefing</h1>
+<p class="date-sub">Prepared: 4 June 2026</p>
+
+<h2>Budget Summary</h2>
+<p><em>No interventions selected.</em></p>
+
+<h2>Interventions Rationale</h2>
+<p class="prompt-note">The learner was asked to explain why they chose these interventions, addressing: public investment value, scale of funding, beneficiaries, and how the package works together.</p>
+<p>asdfasdf</p>
+
+<h2>Trade-Offs</h2>
+<p class="prompt-note">The learner was asked to identify one credible intervention they did not prioritise and briefly explain why it was excluded (2–3 sentences).</p>
+<p>asdfasdf</p>
+
+</body>
+</html>

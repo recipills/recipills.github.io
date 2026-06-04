@@ -1,0 +1,137 @@
+{
+  "id": "mp-minestrone",
+  "title": "Minestrone Vegetable Soup",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "Hearty Italian minestrone packed with vegetables and pasta \u2014 a warming low-calorie meal prep soup that lasts all week.",
+  "cuisine": "Italian",
+  "category": "Meal Prep",
+  "tags": [
+    "minestrone",
+    "soup",
+    "meal prep",
+    "Italian",
+    "vegetarian"
+  ],
+  "prepTime": 15,
+  "cookTime": 30,
+  "servings": 5,
+  "ingredients": [
+    {
+      "text": "2 large onions (200g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 celery stalks (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 carrots (200g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "400g canned kidney or cannellini beans",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "400g crushed tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g dry pasta (small shapes)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g zucchini",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g cabbage",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1500g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oregano, 2g garlic powder, salt, pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Dice all vegetables into bite-sized pieces.",
+    "Fry onion, celery and carrot in oil on medium heat 5 minutes.",
+    "Add crushed tomatoes, broth, water and seasonings; bring to boil.",
+    "Add beans, zucchini, cabbage; simmer 15 minutes.",
+    "Add pasta; cook until al dente (~10 min). Portion into 5 containers."
+  ],
+  "macros": {
+    "kcal": 1050,
+    "protein": 55,
+    "carbs": 180,
+    "fat": 10,
+    "satFat": 1,
+    "fibre": 40,
+    "sugar": 20,
+    "iron": 10
+  },
+  "macrosNote": "Whole recipe. Per serving: ~210 kcal, 11g protein",
+  "notes": "Lasts 4\u20135 days in fridge. Add parmesan on top when serving for extra flavour.",
+  "source": "The Felu Cookbook"
+}

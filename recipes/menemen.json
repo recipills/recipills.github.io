@@ -1,0 +1,77 @@
+{
+  "id": "menemen",
+  "title": "Menemen",
+  "description": "Classic Turkish scrambled eggs cooked with peppers, tomatoes and feta cheese.",
+  "cuisine": "Turkish",
+  "category": "Breakfast",
+  "tags": [
+    "eggs",
+    "feta",
+    "tomato",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "2 eggs",
+      "kcal": 155.0,
+      "protein": 12.6,
+      "carbs": 1.1,
+      "fat": 10.6,
+      "satFat": 3.1
+    },
+    {
+      "text": "75g green pepper",
+      "kcal": 23.2,
+      "protein": 0.8,
+      "carbs": 4.5,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g tomatoes",
+      "kcal": 18.0,
+      "protein": 0.9,
+      "carbs": 3.9,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g light feta cheese",
+      "kcal": 52.5,
+      "protein": 3.6,
+      "carbs": 0.9,
+      "fat": 3.9,
+      "satFat": 2.7
+    },
+    {
+      "text": "5g olive oil",
+      "kcal": 44.2,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 5.0,
+      "satFat": 0.7
+    }
+  ],
+  "steps": [
+    "Chop peppers; grate tomatoes into puree; crumble feta.",
+    "Heat oil on medium; fry peppers 3\u20134 min.",
+    "Add tomatoes, salt, pepper, chilli flakes; simmer 2 min.",
+    "Add feta; stir until melted ~1 min.",
+    "Crack in eggs; stir gently; cook 2 min until set."
+  ],
+  "macros": {
+    "kcal": 317,
+    "protein": 21,
+    "carbs": 12,
+    "fat": 22,
+    "satFat": 8,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Amazing with sandwich bread. Add egg whites for extra protein.",
+  "source": "The Felu Cookbook"
+}

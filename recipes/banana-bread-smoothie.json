@@ -1,0 +1,91 @@
+{
+  "id": "banana-bread-smoothie",
+  "title": "Banana Bread Smoothie",
+  "description": "Thick banana bread-flavored smoothie with peanut butter, skyr and cinnamon.",
+  "cuisine": "American",
+  "category": "Drink",
+  "tags": [
+    "smoothie",
+    "banana",
+    "peanut butter",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "100g ice cubes",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "50g skimmed milk",
+      "kcal": 17.5,
+      "protein": 1.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 banana (125g)",
+      "kcal": 111.2,
+      "protein": 1.4,
+      "carbs": 28.8,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "10g peanut butter",
+      "kcal": 58.8,
+      "protein": 2.5,
+      "carbs": 2.0,
+      "fat": 5.0,
+      "satFat": 1.0
+    },
+    {
+      "text": "13g powdered peanuts",
+      "kcal": 52.0,
+      "protein": 4.8,
+      "carbs": 4.5,
+      "fat": 1.7,
+      "satFat": 0.3
+    },
+    {
+      "text": "170g skyr",
+      "kcal": 102.0,
+      "protein": 17.0,
+      "carbs": 6.8,
+      "fat": 0.3,
+      "satFat": 0.2
+    },
+    {
+      "text": "1g cinnamon",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to blender.",
+    "Blend on high for 60 seconds.",
+    "Pour into glass."
+  ],
+  "macros": {
+    "kcal": 378,
+    "protein": 28,
+    "carbs": 41,
+    "fat": 12,
+    "satFat": 2,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "Add 15g whey protein powder for more protein.",
+  "source": "The Felu Cookbook"
+}

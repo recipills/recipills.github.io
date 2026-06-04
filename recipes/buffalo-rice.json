@@ -1,0 +1,92 @@
+{
+  "id": "buffalo-rice",
+  "title": "Buffalo Rice",
+  "description": "Spicy Buffalo-sauced ground beef over rice with a cool cream cheese swirl \u2014 addictive, fast and high-protein.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [
+    "beef",
+    "rice",
+    "buffalo",
+    "spicy",
+    "quick"
+  ],
+  "prepTime": 3,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "180g ground beef 95/5",
+      "kcal": 234,
+      "protein": 39.6,
+      "carbs": 0.0,
+      "fat": 9.0,
+      "satFat": 3.6
+    },
+    {
+      "text": "125g instant rice (cooked weight)",
+      "kcal": 200,
+      "protein": 3.8,
+      "carbs": 43.8,
+      "fat": 0.6,
+      "satFat": 0.1
+    },
+    {
+      "text": "30g Frank's hot sauce",
+      "kcal": 30,
+      "protein": 0.3,
+      "carbs": 6.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g 0.2% fat cream cheese",
+      "kcal": 30,
+      "protein": 5.5,
+      "carbs": 1.5,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    },
+    {
+      "text": "1g garlic powder + smoked paprika",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Microwave instant rice per package instructions.",
+    "Fry onion in oil 2 minutes. Add beef with garlic powder and smoked paprika; fry 3 minutes.",
+    "Add hot sauce; stir. Serve beef over rice with dollops of cream cheese on top."
+  ],
+  "macros": {
+    "kcal": 548,
+    "protein": 49,
+    "carbs": 50,
+    "fat": 17,
+    "satFat": 7,
+    "fibre": 2,
+    "sugar": 5,
+    "iron": 4
+  },
+  "notes": "The cold cream cheese melting into the hot buffalo beef is the whole point. Don't mix it in before serving.",
+  "source": "The Felu Cookbook"
+}

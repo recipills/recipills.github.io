@@ -1,0 +1,77 @@
+{
+  "id": "3-ingredient-apple-cake",
+  "title": "3-Ingredient Apple Cake",
+  "description": "Just applesauce, gelatine and whey protein \u2014 whipped into a light, mousse-like cake that sets in the fridge. Extraordinarily simple.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "apple",
+    "3 ingredients",
+    "gelatine",
+    "whey",
+    "no bake"
+  ],
+  "prepTime": 20,
+  "cookTime": 5,
+  "servings": 7,
+  "ingredients": [
+    {
+      "text": "500g unsweetened applesauce",
+      "kcal": 200,
+      "protein": 1.0,
+      "carbs": 50.0,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g dry gelatine (30g in US)",
+      "kcal": 80,
+      "protein": 17.4,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "60g whey vanilla protein powder",
+      "kcal": 228,
+      "protein": 48.0,
+      "carbs": 4.8,
+      "fat": 2.4,
+      "satFat": 1.2
+    },
+    {
+      "text": "3g cinnamon (optional)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add applesauce to a pot; heat on medium 1 minute.",
+    "Add gelatine; mix well until fully dissolved.",
+    "Transfer immediately to a large bowl. Beat with a hand mixer 10\u201315 minutes until foamy and whitish.",
+    "Add protein powder and cinnamon; mix 30 seconds.",
+    "Line a 20\u00d720cm (8\u00d78in) container with plastic foil; pour in mixture; spread evenly.",
+    "Refrigerate at least 2 hours until firm. Slice and serve."
+  ],
+  "macros": {
+    "kcal": 87,
+    "protein": 9,
+    "carbs": 11,
+    "fat": 1,
+    "satFat": 0,
+    "fibre": 1,
+    "sugar": 8,
+    "iron": 0
+  },
+  "macrosWholeRecipe": {
+    "kcal": 607,
+    "protein": 65,
+    "carbs": 76,
+    "fat": 2
+  },
+  "notes": "Top with skyr for extra protein. Add 25g sweetener and 1 tsp cinnamon for more flavour. Lasts 2\u20133 days in fridge.",
+  "source": "The Felu Cookbook"
+}

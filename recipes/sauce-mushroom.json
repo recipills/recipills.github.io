@@ -1,0 +1,104 @@
+{
+  "id": "sauce-mushroom",
+  "title": "Mushroom Sauce",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Light and creamy mushroom sauce made without cream \u2014 just mushrooms, broth, garlic and optional Laughing Cow for a rich finish.",
+  "cuisine": "International",
+  "category": "Sauce",
+  "tags": [
+    "mushroom",
+    "sauce",
+    "low calorie",
+    "quick",
+    "creamy"
+  ],
+  "prepTime": 3,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "250g mushrooms",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 clove garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g cornstarch",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "salt and black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "optional: 1 Laughing Cow wedge",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Slice mushrooms. Peel and grate garlic. Mix broth, water and cornstarch.",
+    "Saut\u00e9 mushrooms in dry pan with 50g water until collapsed; add oil; brown 4\u20135 min.",
+    "Add oil, salt, pepper and garlic; fry 20 sec.",
+    "Add broth mixture; stir until thickened, ~20 sec.",
+    "Optional: stir in Laughing Cow wedge at the end."
+  ],
+  "macros": {
+    "kcal": 121,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 3,
+    "satFat": 0,
+    "fibre": 4,
+    "sugar": 5,
+    "iron": 1
+  },
+  "notes": "Add jalape\u00f1o hot sauce for extra kick. Use different broths for different flavours.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "protein-cheesecake",
+  "title": "Protein Cheesecake",
+  "description": "Incredibly simple 4-ingredient high-protein cheesecake \u2014 cream cheese, skyr, egg and whey protein baked into a creamy, tangy dessert.",
+  "cuisine": "International",
+  "category": "Dessert",
+  "tags": [
+    "cheesecake",
+    "whey",
+    "baked",
+    "high-protein",
+    "easy"
+  ],
+  "prepTime": 10,
+  "cookTime": 40,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "200g 0.2% fat cream cheese",
+      "kcal": 120,
+      "protein": 22.0,
+      "carbs": 6.0,
+      "fat": 1.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "200g skyr or 0.2% Greek yogurt",
+      "kcal": 120,
+      "protein": 20.0,
+      "carbs": 8.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg (50g)",
+      "kcal": 75,
+      "protein": 6.5,
+      "carbs": 0.5,
+      "fat": 5.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "30g whey vanilla protein powder",
+      "kcal": 114,
+      "protein": 24.0,
+      "carbs": 2.4,
+      "fat": 1.2,
+      "satFat": 0.6
+    },
+    {
+      "text": "20g sweetener (optional)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat oven to 180\u00b0C / 350\u00b0F.",
+    "Whisk all ingredients together until smooth (~60 seconds).",
+    "Line a 10\u00d710cm baking dish with parchment paper; pour in batter.",
+    "Bake 30\u201345 minutes (check at 30 min). Cool 15 minutes; cut into 2 servings.",
+    "Refrigerate at least 4 hours or overnight before serving."
+  ],
+  "macros": {
+    "kcal": 217,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 3,
+    "satFat": 1,
+    "fibre": 0,
+    "sugar": 6,
+    "iron": 1
+  },
+  "macrosWholeRecipe": {
+    "kcal": 434,
+    "protein": 72,
+    "carbs": 19,
+    "fat": 6
+  },
+  "notes": "Scale up easily: 400g cream cheese + 400g skyr + 2 eggs + 60g whey = 4 servings. Lasts 3\u20134 days in fridge.",
+  "source": "The Felu Cookbook"
+}

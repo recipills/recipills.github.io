@@ -1,0 +1,101 @@
+{
+  "id": "shrimp-risotto",
+  "title": "Shrimp Risotto",
+  "description": "Italian-style tomato shrimp risotto \u2014 rich, protein-packed and surprisingly low in calories.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [
+    "shrimp",
+    "rice",
+    "Italian",
+    "seafood",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "200g frozen shrimp",
+      "kcal": 198,
+      "protein": 48.0,
+      "carbs": 0.0,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "50g raw rice",
+      "kcal": 175,
+      "protein": 3.5,
+      "carbs": 38.5,
+      "fat": 0.5,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 medium onion or 50g",
+      "kcal": 20,
+      "protein": 0.6,
+      "carbs": 4.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g crushed tomatoes",
+      "kcal": 35,
+      "protein": 1.4,
+      "carbs": 7.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g tomato pur\u00e9e",
+      "kcal": 4,
+      "protein": 0.1,
+      "carbs": 0.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g peas",
+      "kcal": 122,
+      "protein": 8.1,
+      "carbs": 21.0,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "2g oil",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 2.0,
+      "satFat": 0.3
+    },
+    {
+      "text": "10g vegetable/fish broth powder + garlic + parsley",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Dice onion. Mix broth powder with 200g water.",
+    "Fry onion in oil 3 minutes. Add rice; fry 2 minutes. Add garlic and tomato pur\u00e9e; fry 20 seconds.",
+    "Add crushed tomatoes, broth and black pepper. Cover; simmer 12\u201315 minutes.",
+    "Increase to medium-high; add frozen shrimp. Cook 2\u20133 minutes. Stir in peas; cook 30 seconds. Top with parsley."
+  ],
+  "macros": {
+    "kcal": 593,
+    "protein": 56,
+    "carbs": 68,
+    "fat": 9,
+    "satFat": 1,
+    "fibre": 10,
+    "sugar": 7,
+    "iron": 5
+  },
+  "notes": "Arborio rice gives the best risotto texture.",
+  "source": "The Felu Cookbook"
+}

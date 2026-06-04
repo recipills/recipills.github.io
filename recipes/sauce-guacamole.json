@@ -1,0 +1,88 @@
+{
+  "id": "sauce-guacamole",
+  "title": "Guacamole",
+  "chapter": 9,
+  "chapterName": "Dips, Sauces & Soups",
+  "description": "Classic guacamole with jalape\u00f1o, lime, tomato and red onion \u2014 ready in 5 minutes.",
+  "cuisine": "Mexican",
+  "category": "Dip",
+  "tags": [
+    "guacamole",
+    "dip",
+    "Mexican",
+    "avocado",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "2 ripe avocados (280g flesh)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g red onion",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 jalape\u00f1o (50g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "juice of 1 lime",
+      "kcal": 7,
+      "protein": 0.1,
+      "carbs": 2.1,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "fresh cilantro, salt, black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Dice tomatoes, onion and jalape\u00f1o into small pieces.",
+    "Halve avocados; scoop flesh into bowl.",
+    "Add lime juice, salt and pepper; mash with fork to desired consistency.",
+    "Add tomatoes, onion, jalape\u00f1o and cilantro; mix gently."
+  ],
+  "macros": {
+    "kcal": 390,
+    "protein": 5,
+    "carbs": 22,
+    "fat": 32,
+    "satFat": 5,
+    "fibre": 13,
+    "sugar": 5,
+    "iron": 1
+  },
+  "macrosNote": "Whole recipe (2 servings)",
+  "notes": "Add garlic for extra flavour. Optional: 1 clove minced garlic.",
+  "source": "The Felu Cookbook"
+}

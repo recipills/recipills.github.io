@@ -1,0 +1,91 @@
+{
+  "id": "blueberry-choc-overnight-oats",
+  "title": "Blueberry Choc Overnight Oats",
+  "description": "Blueberries and chocolate make a brilliant overnight oats combo \u2014 creamy, protein-rich and naturally sweet.",
+  "cuisine": "International",
+  "category": "Breakfast",
+  "tags": [
+    "overnight oats",
+    "blueberry",
+    "chocolate",
+    "casein",
+    "high-protein"
+  ],
+  "prepTime": 5,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g oats",
+      "kcal": 185,
+      "protein": 6.5,
+      "carbs": 30.0,
+      "fat": 3.5,
+      "satFat": 0.6
+    },
+    {
+      "text": "15g casein vanilla protein powder",
+      "kcal": 56,
+      "protein": 11.2,
+      "carbs": 1.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "150g skyr or 0.2% Greek yogurt",
+      "kcal": 90,
+      "protein": 15.0,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g blueberry jam (sugar-free)",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 3.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g cocoa powder",
+      "kcal": 12,
+      "protein": 1.0,
+      "carbs": 1.5,
+      "fat": 0.7,
+      "satFat": 0.4
+    },
+    {
+      "text": "50g blueberries",
+      "kcal": 28,
+      "protein": 0.3,
+      "carbs": 7.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add all ingredients to a bowl. Mix until smooth.",
+    "Refrigerate overnight."
+  ],
+  "macros": {
+    "kcal": 419,
+    "protein": 36,
+    "carbs": 50,
+    "fat": 5,
+    "satFat": 1,
+    "fibre": 6,
+    "sugar": 14,
+    "iron": 2
+  },
+  "notes": "Use unsweetened blueberry jam \u2014 regular jam may be too sweet. Add extra cocoa (10g) for a more chocolatey oats.",
+  "source": "The Felu Cookbook"
+}

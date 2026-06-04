@@ -1,0 +1,69 @@
+{
+  "id": "pb-sweet-crepe",
+  "title": "PB Sweet Crepe",
+  "description": "Light French crepes drizzled with a powdered peanut butter sauce.",
+  "cuisine": "French",
+  "category": "Breakfast",
+  "tags": [
+    "crepe",
+    "sweet",
+    "peanut butter",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "50g all-purpose flour",
+      "kcal": 182.0,
+      "protein": 5.0,
+      "carbs": 38.0,
+      "fat": 0.5,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 egg",
+      "kcal": 77.5,
+      "protein": 6.3,
+      "carbs": 0.6,
+      "fat": 5.3,
+      "satFat": 1.6
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35.0,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "18g powdered peanuts",
+      "kcal": 72.0,
+      "protein": 6.7,
+      "carbs": 6.3,
+      "fat": 2.3,
+      "satFat": 0.4
+    }
+  ],
+  "steps": [
+    "Whisk flour, egg, milk, sweetener and salt until smooth.",
+    "Mix powdered peanuts with a splash of water to thick drizzle.",
+    "Heat oiled pan (24cm) on medium; pour ladle of batter; swirl to cover.",
+    "Cook 30\u201345 sec; flip; cook 2\u20133 min total per crepe.",
+    "Roll crepes; drizzle peanut sauce on top."
+  ],
+  "macros": {
+    "kcal": 379,
+    "protein": 23,
+    "carbs": 50,
+    "fat": 7,
+    "satFat": 1,
+    "fibre": 0,
+    "sugar": 0,
+    "iron": 0
+  },
+  "notes": "100g greek yogurt makes a great topping or filling alternative.",
+  "source": "The Felu Cookbook"
+}

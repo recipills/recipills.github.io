@@ -1,0 +1,72 @@
+{
+  "id": "crispy-air-fryer-potatoes",
+  "title": "Crispy Air Fryer Potatoes",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "The crispiest homemade fries without deep frying \u2014 the baking soda trick makes them perfectly golden and crunchy.",
+  "cuisine": "International",
+  "category": "Side",
+  "tags": [
+    "potatoes",
+    "air fryer",
+    "crispy",
+    "side",
+    "easy"
+  ],
+  "prepTime": 5,
+  "cookTime": 30,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "400g mealy potatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g baking soda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "garlic powder, cayenne pepper, salt, black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Peel and cut potatoes into chunks.",
+    "Bring water to a boil; add baking soda and 2 tsp salt. Add potatoes; simmer 10 minutes.",
+    "Rinse; add to a bowl with oil and pepper. Shake 30 seconds so edges roughen into a slurry.",
+    "Air fry at 180\u00b0C / 350\u00b0F for 15 minutes. Flip; cook 15 more minutes.",
+    "Season with garlic powder, cayenne and salt. Serve."
+  ],
+  "macros": {
+    "kcal": 360,
+    "protein": 8,
+    "carbs": 74,
+    "fat": 5,
+    "satFat": 1,
+    "fibre": 8,
+    "sugar": 3,
+    "iron": 2
+  },
+  "notes": "Avocado Greek yogurt dip is the perfect accompaniment.",
+  "source": "The Felu Cookbook"
+}

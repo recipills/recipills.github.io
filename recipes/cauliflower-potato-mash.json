@@ -1,0 +1,97 @@
+{
+  "id": "cauliflower-potato-mash",
+  "title": "Cauliflower Potato Mash",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "Incredibly creamy mash with half cauliflower and half potato \u2014 blended with cream cheese and caramelised onion for maximum flavour.",
+  "cuisine": "International",
+  "category": "Side",
+  "tags": [
+    "mash",
+    "cauliflower",
+    "potato",
+    "cream cheese",
+    "side"
+  ],
+  "prepTime": 5,
+  "cookTime": 25,
+  "servings": 3,
+  "ingredients": [
+    {
+      "text": "250g cauliflower",
+      "kcal": 62,
+      "protein": 4.8,
+      "carbs": 12.5,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "250g potatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g 0.2% fat cream cheese",
+      "kcal": 60,
+      "protein": 11.0,
+      "carbs": 3.0,
+      "fat": 0.5,
+      "satFat": 0.3
+    },
+    {
+      "text": "100g skimmed milk",
+      "kcal": 35,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 medium onion (50g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 cloves garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cut cauliflower and potatoes into florets/chunks; simmer in salted water 20 minutes until soft.",
+    "Fry diced onion in oil on medium heat 5\u20136 minutes until caramelised; add garlic 20 seconds.",
+    "Drain vegetables; add to food processor without water.",
+    "Add cream cheese, milk, fried onion + garlic, rosemary, thyme, salt and pepper.",
+    "Blend 30\u201360 seconds until smooth and creamy."
+  ],
+  "macros": {
+    "kcal": 428,
+    "protein": 24,
+    "carbs": 73,
+    "fat": 5,
+    "satFat": 1,
+    "fibre": 10,
+    "sugar": 14,
+    "iron": 3
+  },
+  "macrosNote": "Whole recipe (3 servings)",
+  "notes": "Potatoes can be left out for even lower calories. Great alongside grilled chicken or beef.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "cauliflower-rice",
+  "title": "Cauliflower Rice",
+  "chapter": 7,
+  "chapterName": "Side & Others",
+  "description": "The ultimate low-calorie rice substitute \u2014 grated cauliflower stir-fried with garlic and a dash of soy sauce.",
+  "cuisine": "International",
+  "category": "Side",
+  "tags": [
+    "cauliflower",
+    "low carb",
+    "rice substitute",
+    "quick",
+    "side"
+  ],
+  "prepTime": 5,
+  "cookTime": 8,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "400g cauliflower florets",
+      "kcal": 100,
+      "protein": 7.6,
+      "carbs": 20.0,
+      "fat": 1.2,
+      "satFat": 0.4
+    },
+    {
+      "text": "2g garlic powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g soy sauce",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "salt and black pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Grate cauliflower florets into rice using a box grater, or pulse in a food processor.",
+    "Add oil to a pan (24cm) on medium-high heat.",
+    "Add cauliflower rice; stir-fry 5\u20136 minutes until tender and lightly golden.",
+    "Add garlic powder, soy sauce, salt and pepper; stir 1 minute more."
+  ],
+  "macros": {
+    "kcal": 142,
+    "protein": 8,
+    "carbs": 14,
+    "fat": 5,
+    "satFat": 1,
+    "fibre": 7,
+    "sugar": 7,
+    "iron": 2
+  },
+  "notes": "Frozen cauliflower rice also works \u2014 just add directly to the pan from frozen.",
+  "source": "The Felu Cookbook"
+}

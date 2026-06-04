@@ -1,0 +1,120 @@
+{
+  "id": "noodle-spicy-chicken",
+  "title": "Spicy Chicken Noodles",
+  "chapter": 10,
+  "chapterName": "Noodle Recipes",
+  "description": "Felu's most iconic recipe \u2014 gochujang-ginger chicken stir-fried with thin wheat noodles in a sticky Korean sauce.",
+  "cuisine": "Korean",
+  "category": "Noodles",
+  "tags": [
+    "noodles",
+    "chicken",
+    "Korean",
+    "gochujang",
+    "spicy"
+  ],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "80g dry thin wheat noodles or egg noodles",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 chicken breast (180g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion (50g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g gochujang",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g mirin",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g rice vinegar",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 cloves garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 thumb fresh ginger",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2g sesame oil, 2g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook noodles according to packet; drain. Chop onion; cut chicken into strips. Peel and grate garlic and ginger.",
+    "Mix gochujang, mirin, vinegar, water, garlic, ginger and sesame oil in a glass.",
+    "Fry chicken in oil on medium-high 1 min per side; add onions; fry 1\u20131.5 min more. Remove.",
+    "Add noodles to pan; stir-fry 1 min to coat pan. Return chicken and onions.",
+    "Add sauce; stir-fry 1 more minute. Done!"
+  ],
+  "macros": {
+    "kcal": 603,
+    "protein": 47,
+    "carbs": 85,
+    "fat": 10,
+    "satFat": 2,
+    "fibre": 4,
+    "sugar": 8,
+    "iron": 3
+  },
+  "notes": "Originally made with shirataki noodles (10 kcal/100g). Swapped for 80g dry wheat noodles (~280 kcal). Macros adjusted accordingly.",
+  "source": "The Felu Cookbook"
+}

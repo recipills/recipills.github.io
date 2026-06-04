@@ -1,0 +1,137 @@
+{
+  "id": "mp-shepherds-pie",
+  "title": "Shepherd's Pie",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "Classic shepherd's pie made with lean beef/lamb mince, mushroom-pea sauce and a protein-rich cauliflower mash top.",
+  "cuisine": "British",
+  "category": "Meal Prep",
+  "tags": [
+    "shepherd's pie",
+    "beef",
+    "cauliflower mash",
+    "meal prep",
+    "oven"
+  ],
+  "prepTime": 20,
+  "cookTime": 35,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "400g ground beef or lamb 95/5",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "400g mushrooms",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g peas",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 large onion (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 carrot (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g celery root",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g tomato pur\u00e9e",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 cloves garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "400g water + 20g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g dry gelatine",
+      "kcal": 60,
+      "protein": 13.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g fat-reduced gouda",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 batch cauliflower potato mash (see recipe)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Saut\u00e9 mushrooms with water; add oil and brown. Make space; brown beef.",
+    "Add vegetables; fry 7\u20138 min. Add garlic, tomato pur\u00e9e, peas and broth. Simmer 15 min.",
+    "Make cauliflower mash (see recipe). Preheat oven 200\u00b0C/400\u00b0F.",
+    "Fill baking dish with meat sauce; top with cauliflower mash and gouda.",
+    "Bake 10\u201315 min. Portion into 4 containers. Lasts 3\u20135 days in fridge."
+  ],
+  "macros": {
+    "kcal": 1461,
+    "protein": 143,
+    "carbs": 122,
+    "fat": 38,
+    "satFat": 12,
+    "fibre": 20,
+    "sugar": 20,
+    "iron": 8
+  },
+  "macrosNote": "Whole recipe. Per serving: 365 kcal, 35g protein, 30g carbs, 9g fat",
+  "notes": "Can use ground lamb or beef. Cauliflower mash recipe in Ch7.",
+  "source": "The Felu Cookbook"
+}

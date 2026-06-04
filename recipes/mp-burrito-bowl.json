@@ -1,0 +1,129 @@
+{
+  "id": "mp-burrito-bowl",
+  "title": "Burrito Bowl",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "5-serving meal prep burrito bowls with seasoned chicken thighs, curried rice, pico de gallo and avocado cream cheese spread.",
+  "cuisine": "Mexican",
+  "category": "Meal Prep",
+  "tags": [
+    "burrito bowl",
+    "chicken",
+    "meal prep",
+    "Mexican",
+    "avocado"
+  ],
+  "prepTime": 20,
+  "cookTime": 20,
+  "servings": 5,
+  "ingredients": [
+    {
+      "text": "900g chicken thighs (skinless boneless)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "250g raw rice",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "300g tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 limes",
+      "kcal": 13,
+      "protein": 0.2,
+      "carbs": 4.2,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 jalape\u00f1os (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 bell pepper (150g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 medium onions (200g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "fresh cilantro",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 avocados (140g flesh)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g 0.2% cream cheese",
+      "kcal": 90,
+      "protein": 16.5,
+      "carbs": 4.5,
+      "fat": 0.8,
+      "satFat": 0.4
+    },
+    {
+      "text": "9g garlic powder, 6g smoked paprika, cumin, cayenne",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook rice. Season chicken; bake at 200\u00b0C/400\u00b0F 15 min.",
+    "Make pico de gallo: dice tomatoes, onion, peppers, jalape\u00f1os; toss with lime and cilantro.",
+    "Make avo spread: mash avocado with cream cheese, lime, salt, garlic powder.",
+    "Dice cooked chicken into bite-size pieces.",
+    "Distribute rice, chicken, pico de gallo and avo spread into 5 airtight containers."
+  ],
+  "macros": {
+    "kcal": 3060,
+    "protein": 225,
+    "carbs": 290,
+    "fat": 120,
+    "satFat": 25,
+    "fibre": 30,
+    "sugar": 15,
+    "iron": 10
+  },
+  "macrosNote": "Whole recipe. Per serving: 612 kcal, 45g protein, 58g carbs, 24g fat",
+  "notes": "Avo spread won't brown in airtight containers. Lasts 3\u20135 days.",
+  "source": "The Felu Cookbook"
+}
