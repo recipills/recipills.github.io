@@ -1,0 +1,138 @@
+{
+  "id": "honey-and-mustard-pork",
+  "title": "Honey and Mustard Pork",
+  "description": "SWAP THIS: Use a drained, rinsed tin of green lentils instead of Quorn, or make it meaty with 250g 5%-fat minced beef and beef stock, adjusting the calories. HONEY and MUSTARD PORK 10 MINS 30 MINS SERVES 4",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 onion, peeled and finely chopped",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium leek, trimmed, washed, halved lengthways and thinly sliced",
+      "kcal": 46,
+      "protein": 2.2,
+      "carbs": 9.0,
+      "fat": 0.4,
+      "satFat": 0.2
+    },
+    {
+      "text": "2 garlic cloves, peeled and crushed",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 lean pork loin steaks, trimmed of all visible fat (about 100g each after removing fat)",
+      "kcal": 560,
+      "protein": 88.0,
+      "carbs": 0.0,
+      "fat": 22.0,
+      "satFat": 8.0
+    },
+    {
+      "text": "½ tsp dried thyme",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp dried sage",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 tbsp clear honey",
+      "kcal": 256,
+      "protein": 0.0,
+      "carbs": 68.0,
+      "fat": 68.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 tbsp wholegrain mustard",
+      "kcal": 135,
+      "protein": 7.2,
+      "carbs": 9.0,
+      "fat": 8.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp Henderson’s relish or Worcestershire sauce",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 3.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp balsamic vinegar",
+      "kcal": 2,
+      "protein": 0.0,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 tbsp apple juice",
+      "kcal": 165,
+      "protein": 0.9,
+      "carbs": 39.0,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper (optional)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a large frying pan with low-calorie cooking spray and place over a medium heat.",
+    "Add the onion, leek and garlic and fry for about 10 minutes until softened and golden. Move the vegetables to the edges of the frying pan and add the pork. Seal the pork for 2 minutes on each side until lightly golden.",
+    "In a small mixing bowl, mix together the thyme, sage, honey, wholegrain mustard, Henderson’s relish or Worcestershire sauce, balsamic vinegar and apple juice.",
+    "Reduce the heat, add the honey and mustard mixture and cook gently for 10–15 minutes, stirring occasionally, until the pork is cooked through.",
+    "When the meat is cooked, the juices will run clear and it will no longer be pink in the middle.",
+    "Taste and season with salt and pepper if needed.",
+    "Serve at once, with your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 252,
+    "fat": 6.7,
+    "satFat": 1.6,
+    "carbs": 22,
+    "sugar": 21,
+    "fibre": 2.5,
+    "protein": 25,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

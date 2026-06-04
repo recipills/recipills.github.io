@@ -1,0 +1,255 @@
+{
+  "id": "garlic-mushroom-biryani",
+  "title": "Garlic Mushroom Biryani",
+  "description": "TIP: You can serve this with the chicken hot or cold.",
+  "cuisine": "Indian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "2 onions, peeled and thinly sliced",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "6 garlic cloves, peeled and crushed",
+      "kcal": 24,
+      "protein": 1.2,
+      "carbs": 6.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4cm (1½in) piece of root ginger, peeled and grated",
+      "kcal": 96,
+      "protein": 2.2,
+      "carbs": 21.6,
+      "fat": 1.0,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 chilli (any colour), deseeded and finely chopped",
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tsp garam masala",
+      "kcal": 14,
+      "protein": 0.6,
+      "carbs": 2.0,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 tsp ground coriander",
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp ground cinnamon",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp tomato puree",
+      "kcal": 30,
+      "protein": 1.6,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "200ml coconut dairy-free milk alternative",
+      "kcal": 70,
+      "protein": 2.4,
+      "carbs": 5.0,
+      "fat": 4.0,
+      "satFat": 3.0
+    },
+    {
+      "text": "juice of ½ lemon",
+      "kcal": 3,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "450g white mushrooms, quartered",
+      "kcal": 58,
+      "protein": 8.1,
+      "carbs": 1.8,
+      "fat": 2.2,
+      "satFat": 0.5
+    },
+    {
+      "text": "a handful of fresh coriander leaves, chopped",
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "a handful of fresh mint leaves, chopped",
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300g basmati rice",
+      "kcal": 1050,
+      "protein": 24.0,
+      "carbs": 231.0,
+      "fat": 2.7,
+      "satFat": 0.6
+    },
+    {
+      "text": "8 cloves",
+      "kcal": 8,
+      "protein": 1.6,
+      "carbs": 8,
+      "fat": 0.8,
+      "satFat": 0
+    },
+    {
+      "text": "8 green cardamom pods",
+      "kcal": 8,
+      "protein": 0.8,
+      "carbs": 1.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 bay leaves",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 cinnamon stick",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "600ml vegetable stock (1 vegetable stock cube dissolved in 600ml boiling water)",
+      "kcal": 24,
+      "protein": 1.2,
+      "carbs": 3.0,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp ground turmeric",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "a good pinch of salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 lemon, cut into wedges, to serve",
+      "kcal": 12,
+      "protein": 0.4,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g fat-free natural yoghurt",
+      "kcal": 81,
+      "protein": 8.6,
+      "carbs": 12.0,
+      "fat": 0.3,
+      "satFat": 0.2
+    },
+    {
+      "text": "½ cucumber, peeled, deseeded and finely diced",
+      "kcal": 22,
+      "protein": 1.0,
+      "carbs": 2.2,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "10 mint leaves, finely chopped",
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp granulated sweetener",
+      "kcal": 2,
+      "protein": 0.0,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "First mix the raita ingredients in a small bowl, cover and refrigerate until later.",
+    "Spray a large, heavy pan with a tight-fitting lid (a deep casserole dish is ideal) with low-calorie cooking spray and place over a medium heat.",
+    "Add the onions and sauté for 8–10 minutes, until softened and lightly browned.",
+    "Add the garlic, ginger, chilli, garam masala, ground coriander and cinnamon and cook for a further minute until fragrant, then stir in the tomato puree, coconut milk alternative and lemon juice.",
+    "Add the mushrooms and cook for 3–4 minutes, then stir in half of the chopped coriander and mint.",
+    "Reduce the heat to low.",
+    "Give the rice a quick rinse, then add it to the pan on top of the mushrooms in an even layer. Do not stir.",
+    "Scatter the cloves, cardamom, bay leaves and cinnamon stick on top of the rice, then pour over the stock.",
+    "Sprinkle the turmeric over the rice and add the salt, then cover and cook over the lowest heat for 25 minutes.",
+    "After 25 minutes most of the liquid should have been absorbed and the rice should be fluffy.",
+    "Leave to stand, covered, for 10 minutes, then remove the lid and sprinkle the remaining mint and coriander over the top.",
+    "Spoon into bowls, digging down deep to the bottom layer of mushrooms,  and serve topped with raita and lemon wedges."
+  ],
+  "macros": {
+    "kcal": 404,
+    "fat": 2.7,
+    "satFat": 0.7,
+    "carbs": 78,
+    "sugar": 13,
+    "fibre": 5.8,
+    "protein": 15,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

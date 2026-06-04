@@ -1,0 +1,165 @@
+{
+  "id": "smoky-chickpea-stew",
+  "title": "Smoky Chickpea Stew",
+  "description": "Serve sprinkled with a few chopped chives.",
+  "cuisine": "Middle Eastern",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 35,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "2 onions, peeled and diced",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 carrots, peeled and cut into 5mm (¼in)-thick slices",
+      "kcal": 56,
+      "protein": 1.1,
+      "carbs": 12.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 celery sticks, sliced",
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 2.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp smoked sweet paprika",
+      "kcal": 18,
+      "protein": 0.9,
+      "carbs": 3.6,
+      "fat": 0.9,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 garlic cloves, peeled and crushed",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp tomato puree",
+      "kcal": 15,
+      "protein": 0.8,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1.3 litres vegetable stock (1 vegetable stock cube dissolved in 1.3 litres boiling water) (use",
+      "kcal": 5,
+      "protein": 0.3,
+      "carbs": 0.7,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "600ml water for slow-cooker method)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 red wine stock pot",
+      "kcal": 20,
+      "protein": 0.3,
+      "carbs": 3.0,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "2 bay leaves",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "500g potatoes, peeled and cut into 2.5cm (1in) dice",
+      "kcal": 385,
+      "protein": 10.0,
+      "carbs": 85.0,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 × 400g tin chickpeas, drained and rinsed",
+      "kcal": 312,
+      "protein": 16.0,
+      "carbs": 44.0,
+      "fat": 0.6,
+      "satFat": 12.0
+    },
+    {
+      "text": "1 tsp red wine vinegar",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "small handful of fresh flat-leaf parsley, chopped",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a saucepan with low-calorie cooking spray and place over a medium heat.",
+    "Add the onions, carrots and celery and sauté for 8–10 minutes, then add the smoked paprika and garlic and cook for a further minute to release the aromas.",
+    "Stir in the tomato puree, then add the 1.3 litres of stock, red wine stock pot and bay leaves.",
+    "Bring to the boil, cover, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Add the potatoes, chickpeas and red wine vinegar and cook for a further 50 minutes–1 hour, uncovered, until the vegetables are soft and the sauce is thick.",
+    "Season to taste with salt and pepper, remove the bay leaves and serve sprinkled with chopped parsley.",
+    "SLOW-COOKER METHOD   HIGH: ABOUT 4 HOURS LOW: 7–8 HOURS",
+    "Put all the ingredients (600ml stock), except the parsley, into the slow- cooker bowl and stir well. It might look as if there is not enough liquid, but don’t worry, the vegetables will release liquid as they cook, producing a rich sauce.",
+    "Cook on high for 4 hours or low for 7–8 hours.",
+    "Remove the bay leaves, stir, season with salt and pepper and serve sprinkled with the chopped parsley."
+  ],
+  "macros": {
+    "kcal": 253,
+    "fat": 3,
+    "satFat": 0.3,
+    "carbs": 42,
+    "sugar": 11,
+    "fibre": 9.9,
+    "protein": 8.9,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

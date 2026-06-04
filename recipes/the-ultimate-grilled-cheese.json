@@ -1,0 +1,100 @@
+{
+  "id": "the-ultimate-grilled-cheese",
+  "title": "The Ultimate Grilled Cheese",
+  "description": "SWAP THIS: Swap the ham for cooked bacon or cooked chicken. The ULTIMATE GRILLED CHEESE 5 MINS 22 MINS SERVES 1",
+  "cuisine": "American",
+  "category": "Lunch",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 small red onion, peeled and sliced",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 tbsp balsamic vinegar",
+      "kcal": 42,
+      "protein": 0.3,
+      "carbs": 8.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp reduced-fat mayonnaise",
+      "kcal": 45,
+      "protein": 0.2,
+      "carbs": 2,
+      "fat": 4,
+      "satFat": 0.6
+    },
+    {
+      "text": "2 medium slices of bread (we use wholemeal)",
+      "kcal": 150,
+      "protein": 7,
+      "carbs": 26,
+      "fat": 2,
+      "satFat": 1
+    },
+    {
+      "text": "1½ slices gouda cheese (37.5g)",
+      "kcal": 356,
+      "protein": 27.0,
+      "carbs": 2.2,
+      "fat": 26.0,
+      "satFat": 17.0
+    },
+    {
+      "text": "HOB-TOP METHOD",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a frying pan with low-calorie cooking spray and place over a medium heat.",
+    "Add the onion and fry gently for 2 minutes until it starts to  soften.",
+    "Reduce the heat to low, stir in the balsamic vinegar and cook for a further 10 minutes, stirring often.",
+    "While the onion is cooking, spread the mayonnaise on both sides of each piece of bread.",
+    "When the onion is cooked, take one of the pieces of bread and place the cheese on top.",
+    "Spread the onion across the cheese and cover with the other piece of bread.",
+    "Transfer to a hot frying pan and cook over a high heat for 5 minutes on each side, keeping a close eye on it while it’s cooking to make sure it doesn’t burn.",
+    "Remove from the pan, slice and serve.",
+    "Preheat the air fryer to 200°C.",
+    "Spray a frying pan with low-calorie cooking spray and place over a medium heat.",
+    "Add the onion and fry gently for 2 minutes until it starts to soften.",
+    "Reduce the heat to low, stir in the balsamic vinegar and cook for a further 10 minutes, stirring often.",
+    "While the onion is cooking, spread the mayonnaise on both sides of each piece of bread.",
+    "When the onion is cooked, take one of the pieces of bread and place the cheese on top.",
+    "Spread the onion across the cheese and cover with the other piece of bread.",
+    "Transfer to the air fryer and cook for 8–10 minutes.",
+    "Remove from the air fryer, slice and serve.   “Just WOW. The most incredible meal. Thank you!”                                             HOPE"
+  ],
+  "macros": {
+    "kcal": 451,
+    "fat": 20,
+    "satFat": 8.5,
+    "carbs": 45,
+    "sugar": 14,
+    "fibre": 6.2,
+    "protein": 19,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

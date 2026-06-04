@@ -1,0 +1,132 @@
+{
+  "id": "sweet-potato-brownies",
+  "title": "Sweet Potato Brownies",
+  "description": "melted. Remove from the heat immediately.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "200g sweet potatoes, peeled",
+      "kcal": 172,
+      "protein": 3.2,
+      "carbs": 40.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "and cut into small chunks",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g reduced-fat spread, plus",
+      "kcal": 365,
+      "protein": 39.0,
+      "carbs": 10.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "a little extra for greasing",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "125g brown granulated sweetener",
+      "kcal": 250,
+      "protein": 0.0,
+      "carbs": 62.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g plain flour",
+      "kcal": 364,
+      "protein": 10.0,
+      "carbs": 77.0,
+      "fat": 2.0,
+      "satFat": 0.5
+    },
+    {
+      "text": "2 medium eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
+    },
+    {
+      "text": "½ tsp vanilla extract",
+      "kcal": 6,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp baking powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g cocoa powder",
+      "kcal": 600,
+      "protein": 50.0,
+      "carbs": 100.0,
+      "fat": 5.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1½ tbsp maple syrup",
+      "kcal": 78,
+      "protein": 0.0,
+      "carbs": 19.5,
+      "fat": 18.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp cocoa powder",
+      "kcal": 12,
+      "protein": 1.0,
+      "carbs": 2.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180ºC (fan 160ºC/gas mark 4). Grease and line an 18cm x 18cm (7in x 7in) square cake tin with greaseproof paper.",
+    "Place the sweet potatoes in a pan of boiling water. Lower the heat and simmer, covered, for 10–15 minutes until tender.",
+    "Leave to cool completely.",
+    "When the sweet potatoes are cool, place them in a mixing bowl along with all the other brownie ingredients. Using an electric hand whisk, beat together for 2–3 minutes. Tip into the prepared tin and  spread out, levelling the surface with a knife.",
+    "Place in the preheated oven and bake for 25 minutes.",
+    "Remove from the oven and leave in the tin to cool completely.",
+    "In a small bowl, mix the maple syrup with the cocoa powder until smooth.",
+    "Remove the brownies and greaseproof paper from the tin, drizzle with the chocolate topping and cut into sixteen squares.",
+    "Remove carefully from the greaseproof paper. (You can also choose to freeze"
+  ],
+  "macros": {
+    "kcal": 96,
+    "fat": 5.3,
+    "satFat": 1.6,
+    "carbs": 8.8,
+    "sugar": 1.8,
+    "fibre": 1.1,
+    "protein": 2.6,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

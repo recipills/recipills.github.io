@@ -1,0 +1,63 @@
+{
+  "id": "slow-cooker-oats",
+  "title": "Slow-cooker Oats",
+  "description": "Pop the bread in the toaster and return the pan to the hob over a low heat. Stir in the cream cheese until well combined and heated through.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 5,
+  "cookTime": 240,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "80g porridge oats",
+      "kcal": 303,
+      "protein": 7.2,
+      "carbs": 53.6,
+      "fat": 0.8,
+      "satFat": 5.6
+    },
+    {
+      "text": "350ml skimmed milk",
+      "kcal": 119,
+      "protein": 11.9,
+      "carbs": 17.5,
+      "fat": 0.4,
+      "satFat": 0.4
+    },
+    {
+      "text": "350ml water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "a pinch of salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Put all the ingredients for the oats into the heatproof bowl, jug or dish and stir well.",
+    "Place the bowl in the slow-cooker bowl and fill the slow-cooker insert with enough water to come halfway up the bowl.",
+    "Put the lid on the slow cooker and cook overnight on low. It will be ready to eat after 4–5 hours but will happily sit for 7 or even 8 hours until everyone has woken up!",
+    "Serve with your own topping or one of our delicious topping recipes."
+  ],
+  "macros": {
+    "kcal": 109,
+    "fat": 1.9,
+    "satFat": 0.4,
+    "carbs": 17,
+    "sugar": 4.1,
+    "fibre": 1.6,
+    "protein": 5.3,
+    "iron": 2.0
+  },
+  "notes": "Serve with the Blueberry and Apple Oats topping (169 kcal) or Peanut Butter and Banana Oats topping (267 kcal).",
+  "source": "Pinch of Nom: Comfort Food"
+}

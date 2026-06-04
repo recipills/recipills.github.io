@@ -1,0 +1,102 @@
+{
+  "id": "peanut-butter-and-banana-oats",
+  "title": "Peanut Butter and Banana Oats",
+  "description": "Enjoy waking up to a warming bowl of porridge fresh from the slow cooker! We’ve used a water-bath method to cook them overnight.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 5,
+  "cookTime": 5,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "80g porridge oats",
+      "kcal": 303,
+      "protein": 7.2,
+      "carbs": 53.6,
+      "fat": 0.8,
+      "satFat": 5.6
+    },
+    {
+      "text": "350ml skimmed milk",
+      "kcal": 119,
+      "protein": 11.9,
+      "carbs": 17.5,
+      "fat": 0.4,
+      "satFat": 0.4
+    },
+    {
+      "text": "350ml water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "a pinch of salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp peanut butter powder",
+      "kcal": 90,
+      "protein": 5.0,
+      "carbs": 6.0,
+      "fat": 2.0,
+      "satFat": 1.0
+    },
+    {
+      "text": "2 tsp granulated sweetener or caster sugar",
+      "kcal": 4,
+      "protein": 0.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 bananas, peeled and sliced",
+      "kcal": 228,
+      "protein": 2.9,
+      "carbs": 55.2,
+      "fat": 0.7,
+      "satFat": 0.2
+    },
+    {
+      "text": "6 pecan halves, chopped",
+      "kcal": 83,
+      "protein": 8.6,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 1.1
+    },
+    {
+      "text": "4 tsp maple syrup",
+      "kcal": 69,
+      "protein": 0.0,
+      "carbs": 17.3,
+      "fat": 16.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Put all the ingredients for the oats into a heatproof bowl and stir. Place in slow cooker and cook on low overnight (4–8 hours).",
+    "Stir the peanut butter powder and sweetener or sugar into the cooked oats until well combined.",
+    "Spoon into bowls and top with the sliced bananas and chopped pecans, then drizzle with maple syrup."
+  ],
+  "macros": {
+    "kcal": 267,
+    "fat": 7.5,
+    "satFat": 0.7,
+    "carbs": 37,
+    "sugar": 18,
+    "fibre": 4.4,
+    "protein": 11,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

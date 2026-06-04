@@ -1,0 +1,159 @@
+{
+  "id": "cobb-salad",
+  "title": "Cobb Salad",
+  "description": "the reserved stock over, season the potatoes with salt and freshly ground black pepper, then spray with low-calorie cooking spray. Place in the oven and cook for 30 minutes until the top is golden and the potatoes are soft enough to slide a knife easily through.",
+  "cuisine": "American",
+  "category": "Lunch",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 10,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "4 eggs",
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20.0,
+      "satFat": 6.4
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "240g chicken breast (skin and visible fat removed), diced",
+      "kcal": 254,
+      "protein": 57.6,
+      "carbs": 0.0,
+      "fat": 3.6,
+      "satFat": 1.0
+    },
+    {
+      "text": "4 smoked bacon medallions, diced",
+      "kcal": 100,
+      "protein": 18.0,
+      "carbs": 0.8,
+      "fat": 3.2,
+      "satFat": 1.2
+    },
+    {
+      "text": "4 tomatoes, diced",
+      "kcal": 58,
+      "protein": 2.9,
+      "carbs": 9.9,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 x 200g tin sweetcorn, drained",
+      "kcal": 160,
+      "protein": 4.9,
+      "carbs": 32.0,
+      "fat": 1.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 medium avocado, peeled and thinly sliced",
+      "kcal": 234,
+      "protein": 21.0,
+      "carbs": 5.0,
+      "fat": 1.1,
+      "satFat": 1.9
+    },
+    {
+      "text": "1 small red onion, peeled and thinly sliced",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 small head of iceberg lettuce, washed and roughly diced",
+      "kcal": 63,
+      "protein": 4.5,
+      "carbs": 9.0,
+      "fat": 9.0,
+      "satFat": 4.5
+    },
+    {
+      "text": "35g blue cheese",
+      "kcal": 122,
+      "protein": 10.5,
+      "carbs": 0.2,
+      "fat": 7.3,
+      "satFat": 5.2
+    },
+    {
+      "text": "3 tbsp fat-free Greek or natural yoghurt",
+      "kcal": 54,
+      "protein": 5.7,
+      "carbs": 8.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 tsp white wine vinegar",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp mustard powder",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 0.5,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Put the eggs in a medium saucepan.",
+    "Cover with water and bring to the boil.",
+    "Once the water is bubbling cook for 6 minutes.",
+    "Remove the eggs from the pan with a slotted spoon and leave to cool in a bowl of cold water.",
+    "Once the eggs are cooled peel them carefully. You can  do this under a running tap to make it easier.",
+    "Slice into quarters and set aside.",
+    "While the eggs are cooking, spray a large frying pan with low-calorie cooking spray and add the chicken and bacon.",
+    "Cook over a medium heat for 7–10 minutes, stirring occasionally, until the chicken is white throughout.",
+    "While the other ingredients are cooking, make the dressing. Crumble the blue cheese into a small bowl.",
+    "Mix it together with the yoghurt, vinegar and mustard powder. If you find it is too thick, add a little splash of water and season with salt and pepper to taste.",
+    "Set aside. To assemble the salad, you can either mix all the ingredients together in a serving bowl or place the lettuce in the bottom of a bowl and arrange the remaining ingredients on top.",
+    "Serve with a drizzle of dressing."
+  ],
+  "macros": {
+    "kcal": 368,
+    "fat": 18,
+    "satFat": 5.5,
+    "carbs": 11,
+    "sugar": 6.8,
+    "fibre": 4.1,
+    "protein": 38,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

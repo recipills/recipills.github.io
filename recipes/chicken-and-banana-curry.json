@@ -1,0 +1,157 @@
+{
+  "id": "chicken-and-banana-curry",
+  "title": "Chicken and Banana Curry",
+  "description": "pile the larb into the leaves and build their own wraps. SWAP THIS: Swap the pork mince for turkey mince.",
+  "cuisine": "Indian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 40,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "1 onion, peeled and quartered",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 garlic cloves, peeled",
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red chilli, deseeded",
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5cm (2in) piece of root ginger, peeled",
+      "kcal": 120,
+      "protein": 2.7,
+      "carbs": 27.0,
+      "fat": 1.2,
+      "satFat": 0.3
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp garam masala",
+      "kcal": 21,
+      "protein": 0.9,
+      "carbs": 3.0,
+      "fat": 0.9,
+      "satFat": 0.3
+    },
+    {
+      "text": "50g ground almonds",
+      "kcal": 306,
+      "protein": 27.5,
+      "carbs": 3.2,
+      "fat": 0.7,
+      "satFat": 3.4
+    },
+    {
+      "text": "500ml chicken stock (1 chicken stock cube, dissolved in 500ml boiling water)",
+      "kcal": 20,
+      "protein": 1.5,
+      "carbs": 2.0,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "500g chicken breasts (skin and visible fat removed), cut into chunks",
+      "kcal": 530,
+      "protein": 120.0,
+      "carbs": 0.0,
+      "fat": 7.5,
+      "satFat": 2.0
+    },
+    {
+      "text": "2 tsp cornflour",
+      "kcal": 20,
+      "protein": 0.0,
+      "carbs": 4.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "140g fat-free Greek yoghurt",
+      "kcal": 80,
+      "protein": 12.6,
+      "carbs": 5.6,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "3 bananas, peeled and sliced",
+      "kcal": 342,
+      "protein": 4.3,
+      "carbs": 82.8,
+      "fat": 1.1,
+      "satFat": 0.4
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "4g fresh coriander, chopped",
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "50g uncooked basmati rice per portion, cooked according to packet instructions (+",
+      "kcal": 175,
+      "protein": 4.0,
+      "carbs": 38.5,
+      "fat": 0.5,
+      "satFat": 0.1
+    }
+  ],
+  "steps": [
+    "Place the onion, garlic, chilli and ginger in a food processor and blend to a paste. Alternatively, chop very finely.",
+    "Spray a large frying pan with low-calorie cooking spray and place over a medium heat.",
+    "Add the paste and fry for 10 minutes, stirring to  avoid sticking.",
+    "Add the garam masala, ground almonds and chicken stock and mix.",
+    "Add the chicken and simmer for 25 minutes, or until the chicken is cooked right through.",
+    "Mix the cornflour with the yoghurt and add to the frying pan.",
+    "Simmer for 2 minutes until it starts to thicken, stirring well.",
+    "Add the banana and cook for a further 2 minutes to heat through.",
+    "Season with salt and pepper to taste.",
+    "Sprinkle with the chopped coriander and serve. The curry can also be frozen once cooled (make sure the dish is defrosted completely before reheating)."
+  ],
+  "macros": {
+    "kcal": 346,
+    "fat": 9.4,
+    "satFat": 1,
+    "carbs": 24,
+    "sugar": 18,
+    "fibre": 3.9,
+    "protein": 39,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

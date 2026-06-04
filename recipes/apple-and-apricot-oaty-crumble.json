@@ -1,0 +1,106 @@
+{
+  "id": "apple-and-apricot-oaty-crumble",
+  "title": "Apple and Apricot Oaty Crumble",
+  "description": "serve. It will keep well for up to 2–3 months in the freezer.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 55,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "1 x 411g tin apricot halves, drained",
+      "kcal": 164,
+      "protein": 1.0,
+      "carbs": 38.0,
+      "fat": 38.0,
+      "satFat": 2.6
+    },
+    {
+      "text": "25g white granulated sweetener",
+      "kcal": 50,
+      "protein": 0.0,
+      "carbs": 12.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "grated zest of ½ lemon",
+      "kcal": 12,
+      "protein": 0.4,
+      "carbs": 3,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "150g plain flour",
+      "kcal": 546,
+      "protein": 15.0,
+      "carbs": 115.5,
+      "fat": 3.0,
+      "satFat": 0.8
+    },
+    {
+      "text": "75g reduced-fat spread",
+      "kcal": 274,
+      "protein": 29.2,
+      "carbs": 7.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g oats",
+      "kcal": 190,
+      "protein": 4.5,
+      "carbs": 33.5,
+      "fat": 0.5,
+      "satFat": 3.5
+    },
+    {
+      "text": "30g brown granulated sweetener",
+      "kcal": 60,
+      "protein": 0.0,
+      "carbs": 15.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp ground cinnamon",
+      "kcal": 2,
+      "protein": 0.0,
+      "carbs": 0.3,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "the reduced-fat spread into the flour until it resembles breadcrumbs.",
+      "kcal": 365,
+      "protein": 39.0,
+      "carbs": 10.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200ºC (fan 180ºC/gas mark 6).",
+    "Mix together the apples, apricots, white sweetener and lemon zest.",
+    "Place in an 18cm x 27cm (roughly 7in x 10½in) ovenproof dish.",
+    "Place the flour in a large bowl and add the reduced-fat spread. Rub the reduced-fat spread into the flour until it resembles breadcrumbs.",
+    "Stir in the oats, brown sweetener and cinnamon.",
+    "Spread the oat mixture over the apples and apricots and place the dish on a baking tray.",
+    "Place in the preheated oven and bake for 50–  55 minutes, until the fruit is tender and the topping is golden. (Or you can cool and freeze to have later.)"
+  ],
+  "macros": {
+    "kcal": 246,
+    "fat": 8.7,
+    "satFat": 2,
+    "carbs": 36,
+    "sugar": 11,
+    "fibre": 3.7,
+    "protein": 4,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

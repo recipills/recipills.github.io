@@ -1,0 +1,144 @@
+{
+  "id": "cheesy-aubergine-bake",
+  "title": "Cheesy Aubergine Bake",
+  "description": "Tip your ham back into the slow cooker and turn it off. Mix to coat the meat with the sauce and serve.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 40,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "3 aubergines (750–800g), cut into 1cm (½in)-thick chunks",
+      "kcal": 188,
+      "protein": 7.5,
+      "carbs": 22.5,
+      "fat": 3.0,
+      "satFat": 0.8
+    },
+    {
+      "text": "2 red onions, peeled and thickly sliced",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 garlic cloves, peeled and crushed",
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "2 × 400g tins chopped tomatoes",
+      "kcal": 160,
+      "protein": 8.0,
+      "carbs": 24.0,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "2 tbsp balsamic vinegar",
+      "kcal": 28,
+      "protein": 0.2,
+      "carbs": 5.4,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp dried basil",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.2,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp dried oregano",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp sweet smoked paprika",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "pinch of granulated sweetener",
+      "kcal": 2,
+      "protein": 0,
+      "carbs": 0.5,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "45g feta cheese, crumbled",
+      "kcal": 113,
+      "protein": 6.8,
+      "carbs": 0.9,
+      "fat": 9,
+      "satFat": 5.9
+    },
+    {
+      "text": "40g reduced-fat mature Cheddar, finely grated",
+      "kcal": 109,
+      "protein": 13.2,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "satFat": 3.8
+    },
+    {
+      "text": "basil leaves, to garnish",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Put the aubergine, onions and garlic in a large roasting dish, spray well with low-calorie cooking spray and toss to make sure everything’s well coated.",
+    "Place the dish in the oven and roast the vegetables for 25 minutes.",
+    "Remove the dish from the oven, add the tinned tomatoes, balsamic vinegar, basil, oregano, paprika, sweetener and some salt and pepper, and mix well.",
+    "Sprinkle the crumbled feta and the grated Cheddar over the top and place the dish back in the oven for 25–30 minutes, or until the aubergines are soft and tender and the top is melted.",
+    "Remove from the oven, garnish with basil and serve with your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 188,
+    "fat": 5.8,
+    "satFat": 3.2,
+    "carbs": 19,
+    "sugar": 17,
+    "fibre": 6.4,
+    "protein": 9.5,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

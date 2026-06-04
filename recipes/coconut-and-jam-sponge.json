@@ -1,0 +1,106 @@
+{
+  "id": "coconut-and-jam-sponge",
+  "title": "Coconut and Jam Sponge",
+  "description": "Serve at once, alone, or with a dollop of low-fat Greek-style yoghurt or a small scoop of low-calorie ice cream (scoop the banana flesh out of the skins if you’ve baked them skin on). COCONUT and JAM SPONGE 10 MINS 25 MINS MAKES 16 SQUARES",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 35,
+  "servings": 16,
+  "ingredients": [
+    {
+      "text": "100g self-raising flour",
+      "kcal": 357,
+      "protein": 10.0,
+      "carbs": 74.0,
+      "fat": 2.0,
+      "satFat": 0.5
+    },
+    {
+      "text": "100g reduced-fat spread, plus a little extra for greasing",
+      "kcal": 365,
+      "protein": 39.0,
+      "carbs": 10.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g granulated sweetener",
+      "kcal": 100,
+      "protein": 0.0,
+      "carbs": 25.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g caster sugar",
+      "kcal": 2300,
+      "protein": 0.0,
+      "carbs": 600.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp baking powder",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 medium eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
+    },
+    {
+      "text": "1 tsp vanilla extract",
+      "kcal": 12,
+      "protein": 0.0,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 tbsp reduced-sugar raspberry or other red jam",
+      "kcal": 100,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 22,
+      "satFat": 0.4
+    },
+    {
+      "text": "15g desiccated coconut",
+      "kcal": 93,
+      "protein": 2.5,
+      "carbs": 2.8,
+      "fat": 8.5,
+      "satFat": 7.3
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180ºC (fan 160ºC/gas mark 4) and grease the ovenproof dish well with the reduced-fat spread.",
+    "Put the flour, reduced-fat spread, granulated sweetener, caster sugar, baking powder, eggs and vanilla extract in a medium mixing bowl and beat together for 1–2 minutes with an electric hand whisk. Alternatively you can use a wooden spoon, but it will take more effort.",
+    "Use a rubber spatula to scrape the mixture from the mixing bowl and into the greased ovenproof dish and level the surface with a knife.",
+    "Bake in the preheated oven for 20–25 minutes, until risen and golden all over. To test if it’s ready, insert a small sharp knife into the centre of the sponge: when the sponge is cooked the knife will come out clean.",
+    "Put the jam in a small bowl and stir until smooth, then spread it all over the top of the warm sponge.",
+    "Sprinkle the desiccated coconut all over the jam.",
+    "Cut into sixteen squares and serve alone or with your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 103,
+    "fat": 5.4,
+    "satFat": 1.6,
+    "carbs": 13,
+    "sugar": 5.1,
+    "fibre": 0.6,
+    "protein": 1.6,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

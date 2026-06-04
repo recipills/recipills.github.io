@@ -1,0 +1,113 @@
+{
+  "id": "baked-apple-with-a-cheesy-crumble",
+  "title": "Baked Apple with a Cheesy Crumble",
+  "description": "Put the jam in a small bowl and stir until smooth, then spread it all over the top of the warm sponge. Sprinkle the desiccated coconut all over the jam.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "1-litre ovenproof dish",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3–4 Bramley apples, peeled, cored and cut into 2cm (¾in) dice (about 450g peeled weight)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3 tbsp plus 1 tsp granulated sweetener (or sugar)",
+      "kcal": 18,
+      "protein": 0.0,
+      "carbs": 4.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp ground cinnamon",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "juice of ½ lemon",
+      "kcal": 3,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "60g plain flour",
+      "kcal": 218,
+      "protein": 6.0,
+      "carbs": 46.2,
+      "fat": 1.2,
+      "satFat": 0.3
+    },
+    {
+      "text": "pinch of salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "30g reduced-fat spread",
+      "kcal": 110,
+      "protein": 11.7,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g rolled oats",
+      "kcal": 95,
+      "protein": 2.3,
+      "carbs": 16.8,
+      "fat": 0.3,
+      "satFat": 1.8
+    },
+    {
+      "text": "40g reduced-fat mild or medium Cheddar, finely grated",
+      "kcal": 109,
+      "protein": 13.2,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "satFat": 3.8
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200ºC (fan 180ºC/gas mark 6).",
+    "Place the diced apples in the ovenproof dish, sprinkle over the 3 tablespoons of granulated sweetener (or sugar), cinnamon and lemon juice and toss everything around until well combined.",
+    "Put the flour in a bowl with the pinch of salt. Rub the reduced-fat spread into the flour with your fingertips until the mixture resembles breadcrumbs, then stir in the rolled oats and remaining 1 teaspoon of granulated sweetener.",
+    "Add the grated Cheddar and rub through lightly.",
+    "Scatter the crumble on top of the apples and bake in the preheated oven for 40–45 minutes until the topping is golden and the apples are soft.",
+    "Serve each portion with your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 207,
+    "fat": 7.7,
+    "satFat": 2.6,
+    "carbs": 28,
+    "sugar": 11,
+    "fibre": 3.3,
+    "protein": 5.4,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

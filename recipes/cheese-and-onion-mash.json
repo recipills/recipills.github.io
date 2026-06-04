@@ -1,0 +1,87 @@
+{
+  "id": "cheese-and-onion-mash",
+  "title": "Cheese and Onion Mash",
+  "description": "SWAP THIS: You can make this as spicy or as mild as you like by adding more or fewer dried chilli flakes. CHEESE and ONION MASH 10 MINS 25 MINS SERVES 4",
+  "cuisine": "British",
+  "category": "Side",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "750g potatoes, peeled and cut into chunks",
+      "kcal": 578,
+      "protein": 15.0,
+      "carbs": 127.5,
+      "fat": 0.8,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "2 red onions, peeled and thinly sliced",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp balsamic vinegar",
+      "kcal": 5,
+      "protein": 0.0,
+      "carbs": 0.9,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "80g reduced-fat mature Cheddar, grated",
+      "kcal": 218,
+      "protein": 26.4,
+      "carbs": 0.1,
+      "fat": 12.0,
+      "satFat": 7.6
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Put the potatoes in a saucepan with enough water to cover, add a pinch of salt and bring to the boil.",
+    "Cook for 15–20 minutes until soft.",
+    "While the potatoes are cooking, cook the onions.",
+    "Spray a frying pan with  low-calorie cooking spray, place over a low heat, add the onions and sauté for about 10 minutes until soft and starting to brown.",
+    "Add a pinch of salt and the balsamic vinegar towards the end of cooking.",
+    "Preheat your grill.",
+    "When the potatoes are cooked, drain and mash them.",
+    "Stir in the cooked onions and three-quarters of the grated cheese.",
+    "Taste and season with salt and pepper.",
+    "Pile the mashed potato into an ovenproof dish and sprinkle over the rest of the cheese.",
+    "Place under the hot grill for 3–4 minutes until the cheese is melted and golden.",
+    "Serve with your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 252,
+    "fat": 4.9,
+    "satFat": 2.9,
+    "carbs": 40,
+    "sugar": 5.8,
+    "fibre": 4.4,
+    "protein": 9.9,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

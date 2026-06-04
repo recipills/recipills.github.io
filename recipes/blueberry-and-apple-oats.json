@@ -1,0 +1,112 @@
+{
+  "id": "blueberry-and-apple-oats",
+  "title": "Blueberry and Apple Oats",
+  "description": "Enjoy waking up to a warming bowl of porridge fresh from the slow cooker! We’ve used a water-bath method to cook them overnight.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "80g porridge oats",
+      "kcal": 303,
+      "protein": 7.2,
+      "carbs": 53.6,
+      "fat": 0.8,
+      "satFat": 5.6
+    },
+    {
+      "text": "350ml skimmed milk",
+      "kcal": 119,
+      "protein": 11.9,
+      "carbs": 17.5,
+      "fat": 0.4,
+      "satFat": 0.4
+    },
+    {
+      "text": "350ml water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "a pinch of salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 small dessert apples, peeled and cut into 1cm dice",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "200g frozen blueberries",
+      "kcal": 114,
+      "protein": 1.4,
+      "carbs": 28.0,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "juice of ½ lemon",
+      "kcal": 3,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tbsp granulated sweetener or caster sugar",
+      "kcal": 6,
+      "protein": 0.0,
+      "carbs": 1.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp ground cinnamon",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Put all the ingredients for the oats into a heatproof bowl and stir. Place in slow cooker and cook on low overnight (4–8 hours).",
+    "For the compote: put apples, blueberries, lemon juice, sweetener, cinnamon and water in a small saucepan over a medium-high heat and stir until it begins to bubble.",
+    "Reduce the heat and simmer for 10–15 minutes until the apples soften.",
+    "Remove from the heat, leave to cool, cover and store in the fridge overnight.",
+    "In the morning, divide the oats among bowls, top with the compote and serve."
+  ],
+  "macros": {
+    "kcal": 169,
+    "fat": 2.3,
+    "satFat": 0.4,
+    "carbs": 30,
+    "sugar": 9.5,
+    "fibre": 4.3,
+    "protein": 5.8,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

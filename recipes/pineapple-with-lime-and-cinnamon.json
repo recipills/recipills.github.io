@@ -1,0 +1,83 @@
+{
+  "id": "pineapple-with-lime-and-cinnamon",
+  "title": "Pineapple with Lime and Cinnamon",
+  "description": "the tin to cool completely. In a small bowl, mix the maple syrup with the cocoa powder until smooth.",
+  "cuisine": "Caribbean",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 5,
+  "cookTime": 5,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "juice of 2 limes, made up to 125ml with water",
+      "kcal": 8,
+      "protein": 0.2,
+      "carbs": 2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "finely grated zest of 2 limes",
+      "kcal": 8,
+      "protein": 0.2,
+      "carbs": 2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tsp brown granulated sweetener",
+      "kcal": 4,
+      "protein": 0.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp ground cinnamon",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 x 1cm (½in) thick slices fresh ripe pineapple, cored and skin removed",
+      "kcal": 200,
+      "protein": 1.6,
+      "carbs": 52.0,
+      "fat": 52.0,
+      "satFat": 5.6
+    },
+    {
+      "text": "lime wedges, to serve",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Mix together the lime juice, water, lime zest, sweetener and cinnamon in a small bowl.",
+    "Pour into a medium ovenproof frying pan and add the pineapple slices.",
+    "Turn the pineapple slices a few times to coat in the mixture.",
+    "Place over a high heat and bring to a boil.",
+    "Cover and reduce the heat to medium.",
+    "Simmer for 20–25 minutes, turning occasionally, until tender and the liquid has reduced down to form a sticky coating.",
+    "Preheat the grill to high.  Take the pan off the heat and put it under the grill to brown lightly.",
+    "Serve with lime wedges and some Greek yoghurt, if you like."
+  ],
+  "macros": {
+    "kcal": 91,
+    "fat": 0.5,
+    "satFat": 0,
+    "carbs": 18,
+    "sugar": 17,
+    "fibre": 3.5,
+    "protein": 0.7,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

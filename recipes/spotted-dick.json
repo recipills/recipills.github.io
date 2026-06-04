@@ -1,0 +1,118 @@
+{
+  "id": "spotted-dick",
+  "title": "Spotted Dick",
+  "description": "Add the cream to a small pan and slowly bring to the boil. Take off the heat and tip the chocolate into the pan, stirring until glossy and combined.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "150g plain flour",
+      "kcal": 546,
+      "protein": 15.0,
+      "carbs": 115.5,
+      "fat": 3.0,
+      "satFat": 0.8
+    },
+    {
+      "text": "2 tsp baking powder",
+      "kcal": 4,
+      "protein": 0.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "pinch of salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp mixed spice",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "75g reduced-fat spread, plus a little extra for greasing",
+      "kcal": 274,
+      "protein": 29.2,
+      "carbs": 7.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "40g raisins",
+      "kcal": 109,
+      "protein": 0.2,
+      "carbs": 27.6,
+      "fat": 26.8,
+      "satFat": 1.2
+    },
+    {
+      "text": "2 tbsp brown granulated sweetener",
+      "kcal": 12,
+      "protein": 0.0,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "finely grated zest of ½ lemon",
+      "kcal": 12,
+      "protein": 0.4,
+      "carbs": 3,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "100ml semi-skimmed milk",
+      "kcal": 34,
+      "protein": 3.4,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "Custard, here (+ 58 kcals per serving)",
+      "kcal": 58,
+      "protein": 2.1,
+      "carbs": 5.8,
+      "fat": 2.1,
+      "satFat": 0.6
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 190ºC (fan 170ºC/gas mark 5). Thoroughly grease a 1-litre ovenproof pudding basin.",
+    "Place a greased disc of greaseproof paper in the bottom of the basin. Sift together the flour, baking powder, salt and mixed spice in a medium bowl.",
+    "Add the reduced-fat spread and rub into the flour mixture until it resembles breadcrumbs.",
+    "Stir in the raisins, sweetener and lemon zest.",
+    "Add the milk and stir in using a round-bladed knife until well combined. Scrape into the prepared pudding basin and level the surface.",
+    "Place a disc of greased greaseproof paper on the surface of the pudding. This should be large enough to cover the whole surface.",
+    "Cut a circle of foil to cover the top of the pudding. This should overlap the rim of the pudding basin by about 5cm (2in) all the way round.",
+    "Fold the foil down around the whole pudding basin and secure by tying with string around the rim.",
+    "Place in the oven and bake for 50–55 minutes, or until cooked. Test to see if the pudding is cooked by inserting a small sharp knife into the centre. The knife will come out clean when the pudding is cooked.",
+    "Remove from the oven and remove the foil lid and the greaseproof paper.",
+    "Turn out onto a serving plate and remove the disc of greaseproof paper."
+  ],
+  "macros": {
+    "kcal": 285,
+    "fat": 13,
+    "satFat": 3.1,
+    "carbs": 37,
+    "sugar": 8.3,
+    "fibre": 2.2,
+    "protein": 4.9,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

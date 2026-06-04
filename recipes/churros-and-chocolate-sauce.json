@@ -1,0 +1,126 @@
+{
+  "id": "churros-and-chocolate-sauce",
+  "title": "Churros and Chocolate Sauce",
+  "description": "saucepan. Return the saucepan to a medium heat and cook slowly, stirring with a whisk, for 5–10 minutes.",
+  "cuisine": "Spanish",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 25,
+  "cookTime": 5,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "1½ tbsp brown granulated sweetener",
+      "kcal": 9,
+      "protein": 0.0,
+      "carbs": 2.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "55g unsalted reduced-fat butter",
+      "kcal": 201,
+      "protein": 22.0,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "125ml water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "90g plain flour",
+      "kcal": 328,
+      "protein": 9.0,
+      "carbs": 69.3,
+      "fat": 1.8,
+      "satFat": 0.5
+    },
+    {
+      "text": "½ tsp vanilla extract",
+      "kcal": 6,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
+    },
+    {
+      "text": "1 tbsp granulated sweetener",
+      "kcal": 6,
+      "protein": 0.0,
+      "carbs": 1.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp ground cinnamon",
+      "kcal": 6,
+      "protein": 0.1,
+      "carbs": 1.2,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "60ml reduced-fat cream alternative",
+      "kcal": 36,
+      "protein": 2.4,
+      "carbs": 3.0,
+      "fat": 1.8,
+      "satFat": 1.5
+    },
+    {
+      "text": "50g dark chocolate, broken into pieces",
+      "kcal": 280,
+      "protein": 16.5,
+      "carbs": 27.5,
+      "fat": 14.0,
+      "satFat": 2.0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220ºC (fan 200ºC/gas mark 7).",
+    "In a small saucepan combine the brown granulated sweetener, reduced-fat butter, water and salt.",
+    "Heat slowly over a medium heat until the butter has melted.",
+    "Bring to the boil and take off the heat. Tip in the flour and beat until it forms a ball and comes away from the sides of the pan.",
+    "Add the vanilla extract and egg. The mixture will look like it has separated at first, but carry on mixing and it will come back together and turn glossy.",
+    "Line two baking sheets with greaseproof paper and pour the mixture into a piping bag fitted with a star-shaped nozzle. It’s sometimes best to fill the bag with half the mixture at a time so that it isn’t too full and  difficult to handle when piping the churro shapes. Pipe thirty churros, approximately 10cm (4in) in length, onto the baking sheets, leaving room for them to spread slightly.",
+    "Bake in the oven for 20 minutes until they are crispy and golden brown in colour.",
+    "Mix the sweetener and ground cinnamon in a small bowl and dip each churro in the mix, coating them on all sides.",
+    "Leave them on the baking sheets and keep warm in the oven.",
+    "Add the cream to a small pan and slowly bring to the boil. Take off the heat and tip the chocolate into the pan, stirring until glossy and combined.",
+    "Pour the sauce into a small bowl and serve with the warm churros."
+  ],
+  "macros": {
+    "kcal": 178,
+    "fat": 11,
+    "satFat": 5.4,
+    "carbs": 14,
+    "sugar": 2.8,
+    "fibre": 1.9,
+    "protein": 3.8,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "salted-caramel-rice-krispie-bars",
+  "title": "Salted Caramel Rice Krispie Bars",
+  "description": "your milk too hot, then this may cause your eggs to scramble!). Stir the chocolate into the milk and allow it to melt.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "135g sugar-free chewy caramels",
+      "kcal": 675,
+      "protein": 13.5,
+      "carbs": 135.0,
+      "fat": 67.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 tbsp semi-skimmed milk",
+      "kcal": 15,
+      "protein": 1.5,
+      "carbs": 2.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp sea salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "80g puffed rice cereal",
+      "kcal": 312,
+      "protein": 0.8,
+      "carbs": 71.2,
+      "fat": 2.4,
+      "satFat": 0.4
+    }
+  ],
+  "steps": [
+    "Spray an 18cm (7in) square cake tin with a little low-calorie cooking spray and use to grease the tin.",
+    "Line the tin with greaseproof paper.",
+    "Place the caramels, milk and ¼ tsp of salt in a small saucepan and place over a low heat, stirring continuously for 7–10 minutes until just melted.",
+    "Remove from the heat immediately.",
+    "Place the puffed rice cereal in a large bowl and pour in the caramel mixture.",
+    "Stir until well combined and tip into the prepared tin.",
+    "Spread the mixture out evenly and press down slightly.",
+    "Sprinkle with the remaining ¼ tsp of salt.",
+    "Chill for a minimum of 2 hours, but preferably overnight to give a"
+  ],
+  "macros": {
+    "kcal": 115,
+    "fat": 3.1,
+    "satFat": 1.7,
+    "carbs": 20,
+    "sugar": 0.5,
+    "fibre": 0.5,
+    "protein": 1,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

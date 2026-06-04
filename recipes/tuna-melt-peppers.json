@@ -1,0 +1,127 @@
+{
+  "id": "tuna-melt-peppers",
+  "title": "Tuna Melt Peppers",
+  "description": "the fish and vegetables. Scrunch up each sheet of filo and place on top of the pie.",
+  "cuisine": "American",
+  "category": "Lunch",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 x 200g tin tuna in spring water or brine, drained",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "125g cooked long-grain rice",
+      "kcal": 438,
+      "protein": 8.8,
+      "carbs": 97.5,
+      "fat": 0.8,
+      "satFat": 0.1
+    },
+    {
+      "text": "½ red onion, peeled and finely diced",
+      "kcal": 20,
+      "protein": 0.7,
+      "carbs": 4.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 x 100g tin sweetcorn (or cook and use frozen)",
+      "kcal": 80,
+      "protein": 2.5,
+      "carbs": 16.0,
+      "fat": 0.6,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 tsp garlic granules",
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "small handful of fresh parsley, finely chopped",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "juice of ½ lemon",
+      "kcal": 3,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "120g reduced-fat spreadable cheese",
+      "kcal": 180,
+      "protein": 15.6,
+      "carbs": 3.6,
+      "fat": 10.8,
+      "satFat": 6.6
+    },
+    {
+      "text": "80g reduced-fat Cheddar, finely grated",
+      "kcal": 218,
+      "protein": 26.4,
+      "carbs": 0.1,
+      "fat": 12.0,
+      "satFat": 7.6
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 red or orange peppers, sliced in half lengthways and the seeds removed",
+      "kcal": 99,
+      "protein": 3.2,
+      "carbs": 19.2,
+      "fat": 1.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200ºC (fan 180ºC/gas mark 6) and spray a baking sheet with low-calorie cooking spray.",
+    "Put the tuna, rice, onion, sweetcorn, garlic granules, parsley, lemon juice and cheese spread in a bowl along with half of the grated Cheddar, season with a little salt and pepper and mix well.  Stuff each half-pepper with the tuna mix and place on the baking sheet.",
+    "Sprinkle with the remaining cheese, and place in the oven for 20 minutes, until the cheese is golden.",
+    "Serve with your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 243,
+    "fat": 7.8,
+    "satFat": 4.4,
+    "carbs": 21,
+    "sugar": 8.5,
+    "fibre": 3.3,
+    "protein": 20,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

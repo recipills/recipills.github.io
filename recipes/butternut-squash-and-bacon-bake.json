@@ -1,0 +1,157 @@
+{
+  "id": "butternut-squash-and-bacon-bake",
+  "title": "Butternut Squash and Bacon Bake",
+  "description": "Bright and colourful, this hearty bake is perfect for dishing up on a cold autumn or winter’s day! It’s packed with tender vegetables and bacon, with a drizzling of light cheese sauce to keep you feeling full and satisfied.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 20,
+  "cookTime": 50,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "600g butternut squash, peeled, deseeded and cut into 2cm (¾in) chunks",
+      "kcal": 240,
+      "protein": 6.0,
+      "carbs": 54.0,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "2 onions, peeled and chopped",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 garlic cloves, peeled and crushed",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "250g chestnut mushrooms, thickly sliced",
+      "kcal": 32,
+      "protein": 4.5,
+      "carbs": 1.0,
+      "fat": 1.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "2 smoked bacon medallions, cut into 2cm (¾in) pieces",
+      "kcal": 50,
+      "protein": 9.0,
+      "carbs": 0.4,
+      "fat": 1.6,
+      "satFat": 0.6
+    },
+    {
+      "text": "2 tsp thyme leaves, chopped",
+      "kcal": 6,
+      "protein": 0.2,
+      "carbs": 1.2,
+      "fat": 0.2,
+      "satFat": 0
+    },
+    {
+      "text": "2 tsp oregano leaves, chopped",
+      "kcal": 6,
+      "protein": 0.2,
+      "carbs": 1.2,
+      "fat": 0.2,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "400ml skimmed milk",
+      "kcal": 136,
+      "protein": 13.6,
+      "carbs": 20.0,
+      "fat": 0.4,
+      "satFat": 0.4
+    },
+    {
+      "text": "25g reduced-fat spread",
+      "kcal": 91,
+      "protein": 9.8,
+      "carbs": 2.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp cornflour",
+      "kcal": 354,
+      "protein": 0.3,
+      "carbs": 87.0,
+      "fat": 0.7,
+      "satFat": 0.1
+    },
+    {
+      "text": "60g reduced-fat mature Cheddar, finely grated, plus 20g for the top",
+      "kcal": 164,
+      "protein": 19.8,
+      "carbs": 0.1,
+      "fat": 9.0,
+      "satFat": 5.7
+    },
+    {
+      "text": "¼ tsp English mustard powder",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 0.2,
+      "fat": 0.2,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Put the squash in a large saucepan and cover with water.",
+    "Place over a high heat, cover and bring to the boil (taking care not to let the water boil over), then reduce the heat and simmer for 20 minutes, until tender.",
+    "While the butternut squash is cooking, spray a large frying pan with low- calorie cooking spray and place over a medium heat.",
+    "Add the onions and fry for 10 minutes until softened and golden, then add the garlic, mushrooms, bacon, thyme and oregano leaves, stir and cook for a further 10 minutes, until the bacon is cooked.",
+    "Remove from the heat.",
+    "Stir the squash into the vegetable and bacon mixture in the pan and season.",
+    "Set aside while you make the sauce.",
+    "Preheat the oven to 200ºC (fan 180ºC/gas mark 6).",
+    "To make the cheese sauce, put the milk and reduced-fat spread in a saucepan and place over a medium heat.",
+    "Heat until steaming, taking care not to let the milk boil over.",
+    "Mix the cornflour in a bowl with 2 tablespoons of water until smooth, then add it to the hot milk, stirring continuously with a wooden spoon or a balloon whisk.",
+    "Simmer for 4–5 minutes, until the sauce has thickened slightly.",
+    "Add the 60g grated cheese and the mustard powder and stir until the cheese has melted.",
+    "Season to taste with salt and pepper.",
+    "Spread out the vegetable mixture in the ovenproof dish.",
+    "Pour the sauce evenly over the veg and sprinkle the remaining cheese on top.",
+    "Place on a baking tray and bake in the oven for 15–20 minutes, until golden brown.",
+    "Serve with your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 301,
+    "fat": 10,
+    "satFat": 4,
+    "carbs": 34,
+    "sugar": 16,
+    "fibre": 5.5,
+    "protein": 17,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

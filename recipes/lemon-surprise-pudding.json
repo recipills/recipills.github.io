@@ -1,0 +1,106 @@
+{
+  "id": "lemon-surprise-pudding",
+  "title": "Lemon Surprise Pudding",
+  "description": "the centre. The knife will come out clean when the pudding is cooked.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 30,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "75g reduced-fat spread, plus a little extra for greasing",
+      "kcal": 274,
+      "protein": 29.2,
+      "carbs": 7.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "85g caster sugar",
+      "kcal": 3910,
+      "protein": 0.0,
+      "carbs": 1020.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "85g white granulated sweetener",
+      "kcal": 170,
+      "protein": 0.0,
+      "carbs": 42.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "grated zest and juice of 3 lemons",
+      "kcal": 12,
+      "protein": 0.4,
+      "carbs": 3,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "3 egg yolks",
+      "kcal": 165,
+      "protein": 8.1,
+      "carbs": 1.8,
+      "fat": 13.5,
+      "satFat": 4.8
+    },
+    {
+      "text": "75g self-raising flour",
+      "kcal": 268,
+      "protein": 7.5,
+      "carbs": 55.5,
+      "fat": 1.5,
+      "satFat": 0.4
+    },
+    {
+      "text": "250ml semi-skimmed milk",
+      "kcal": 85,
+      "protein": 8.5,
+      "carbs": 12.5,
+      "fat": 0.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "3 egg whites",
+      "kcal": 45,
+      "protein": 10.8,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp icing sugar, for dusting",
+      "kcal": 2,
+      "protein": 0.0,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180ºC (fan 160ºC/gas mark 4). Grease a 1.3-litre ovenproof dish with a little reduced-fat spread.",
+    "Place the reduced-fat spread, caster sugar, sweetener and lemon zest in a large bowl and beat using an electric whisk for 2–3 minutes until creamed together.",
+    "Add the lemon juice, egg yolks, flour and milk, then mix until smooth.",
+    "Place the egg whites in a large bowl. Wash the whisk heads in hot, soapy water and dry well.",
+    "Whisk the egg whites until they form soft peaks. Using a large metal spoon, carefully fold the whisked egg whites into the flour mixture until just combined. Take care not to  over mix, otherwise you may knock out the air. Tip the mixture into the prepared ovenproof dish.",
+    "Place in the preheated oven and bake for 35–40 minutes until golden. The pudding will be slightly wobbly in the centre.",
+    "Remove from the oven and leave to stand for 10 minutes before serving. Dust the top with the icing sugar and serve."
+  ],
+  "macros": {
+    "kcal": 235,
+    "fat": 12,
+    "satFat": 3.1,
+    "carbs": 26,
+    "sugar": 17,
+    "fibre": 0.9,
+    "protein": 5.9,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

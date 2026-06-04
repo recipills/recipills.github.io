@@ -1,0 +1,91 @@
+{
+  "id": "lotus-biscoff-american-pancakes",
+  "title": "Lotus Biscoff American Pancakes",
+  "description": "‘Pinch of Nom has shown me that even a busy mum of two can cook delicious, hearty, healthy family meals… and with all the amazing recipes on Pinch of Nom I’ve managed to lose 3 stone so far on my weight-loss journey.’ KATIE LOTUS BISCOFF AMERICAN PANCAKES 8 MINS 10 MINS SERVES 2",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 8,
+  "cookTime": 10,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "40g instant oat cereal",
+      "kcal": 152,
+      "protein": 3.6,
+      "carbs": 26.8,
+      "fat": 0.4,
+      "satFat": 2.8
+    },
+    {
+      "text": "100ml skimmed milk",
+      "kcal": 34,
+      "protein": 3.4,
+      "carbs": 5.0,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "2 medium eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
+    },
+    {
+      "text": "2 tbsp Lotus Biscoff spread",
+      "kcal": 194,
+      "protein": 11.0,
+      "carbs": 22.0,
+      "fat": 12.0,
+      "satFat": 2.0
+    },
+    {
+      "text": "2 tsp low-calorie caramel syrup",
+      "kcal": 4,
+      "protein": 0.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 Lotus Biscoff biscuit, crushed",
+      "kcal": 30,
+      "protein": 1.5,
+      "carbs": 3.8,
+      "fat": 2.2,
+      "satFat": 0.5
+    }
+  ],
+  "steps": [
+    "Add the instant oat cereal, milk and eggs to a bowl and whisk until combined.",
+    "Add 1 tbsp of Lotus Biscoff spread and the caramel syrup and mix again.",
+    "Leave to rest for 5 minutes.",
+    "Spray a frying pan with low-calorie cooking spray and place over a medium heat.",
+    "When the pan is hot, spoon 2 tbsp of mixture into the pan and spread into little pancake shapes. Don’t spread the mixture out too far as you want them to be nice and fluffy. It’s best to cook two pancakes at once, if your pan is big enough.",
+    "Cook the first side for 2 minutes until little bubbles appear on the surface, then flip over to cook the other side. The pancakes should be a golden colour.",
+    "Once the first batch is cooked, stack them on a plate and cover in foil to keep them warm. Move onto the next batch until all of the mixture is used up.",
+    "Spread a little of the rest of the Lotus Biscoff spread onto each pancake. Stack them up and top with the crushed biscuit."
+  ],
+  "macros": {
+    "kcal": 307,
+    "fat": 15,
+    "satFat": 3.6,
+    "carbs": 29,
+    "sugar": 11,
+    "fibre": 2.8,
+    "protein": 12,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "spiced-edamame-bean-dip",
+  "title": "Spiced Edamame Bean Dip",
+  "description": "When the fries are golden and cooked through, remove from the air fryer and place on a baking tray. Top with the beans, grated cheese and bacon pieces.",
+  "cuisine": "Asian",
+  "category": "Side",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 0,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "300g edamame beans, frozen or fresh",
+      "kcal": 363,
+      "protein": 33.0,
+      "carbs": 27.0,
+      "fat": 15.0,
+      "satFat": 33.0
+    },
+    {
+      "text": "150g tinned cannellini beans, drained and rinsed",
+      "kcal": 150,
+      "protein": 12.0,
+      "carbs": 27.0,
+      "fat": 0.8,
+      "satFat": 4.5
+    },
+    {
+      "text": "½–1 tsp Chinese 5-spice",
+      "kcal": 4,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "pinch of dried chilli flakes",
+      "kcal": 6,
+      "protein": 0.2,
+      "carbs": 1,
+      "fat": 0.3,
+      "satFat": 0
+    },
+    {
+      "text": "2 tsp lemon juice",
+      "kcal": 4,
+      "protein": 0,
+      "carbs": 1.3,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp soy sauce",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Cook the edamame beans according to packet instructions, then rinse in cold water and drain well.",
+    "Put all of the ingredients into a food processor and blitz until smooth. If you feel the dip is too thick, add a little boiling water and blitz again until it reaches the consistency you prefer.",
+    "Season to taste with salt and pepper.",
+    "Serve with carrot sticks and other crudités if desired."
+  ],
+  "macros": {
+    "kcal": 80,
+    "fat": 2.5,
+    "satFat": 0,
+    "carbs": 5.2,
+    "sugar": 1.3,
+    "fibre": 4,
+    "protein": 7,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

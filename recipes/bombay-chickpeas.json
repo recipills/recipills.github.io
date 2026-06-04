@@ -1,0 +1,75 @@
+{
+  "id": "bombay-chickpeas",
+  "title": "Bombay Chickpeas",
+  "description": "turn the heat to low. Allow to simmer for 15 minutes until all of the liquid has been absorbed.",
+  "cuisine": "Indian",
+  "category": "Side",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "1 x 400g tin chickpeas, drained and rinsed",
+      "kcal": 312,
+      "protein": 16.0,
+      "carbs": 44.0,
+      "fat": 0.6,
+      "satFat": 12.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp garam masala",
+      "kcal": 7,
+      "protein": 0.3,
+      "carbs": 1.0,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 tsp onion salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp garlic granules",
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200ºC (fan 180ºC/gas mark 6).",
+    "Spread the chickpeas out on a clean tea towel or absorbent cloth.",
+    "Place another clean towel on top and roll gently around for a couple of minutes to dry the chickpeas. This will also remove some shells, so pick them out.",
+    "Line a baking sheet with baking parchment and scatter the chickpeas on it.",
+    "Spray with low-calorie cooking spray and spread out evenly in a thin layer. You want plenty of space between the chickpeas to make sure they crisp up.",
+    "Place in the oven for 25 minutes, giving the tray a shake halfway through. Now mix the garam masala, onion salt and garlic granules in a bowl.",
+    "After 25 minutes, remove the chickpeas from the oven and give them another spray with low-calorie cooking spray. Tip into the bowl and mix with the spices until well coated. Scatter back onto the baking sheet and return to the oven for another 10–15 minutes until crisp.",
+    "Serve either straight from the oven while warm, or cool and store in an airtight jar for later."
+  ],
+  "macros": {
+    "kcal": 78,
+    "fat": 2,
+    "satFat": 0.2,
+    "carbs": 9.2,
+    "sugar": 0.5,
+    "fibre": 2.8,
+    "protein": 4.4,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

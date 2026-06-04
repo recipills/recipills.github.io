@@ -1,0 +1,81 @@
+{
+  "id": "marmite-mushrooms-on-toast",
+  "title": "Marmite Mushrooms on Toast",
+  "description": "A measuring jug is essential for measuring out wet ingredients. We recommend getting a heatproof version that you can stick in the microwave when needed.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "100g mushrooms, halved or quartered, depending on size",
+      "kcal": 13,
+      "protein": 1.8,
+      "carbs": 0.4,
+      "fat": 0.5,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 tsp Marmite",
+      "kcal": 9,
+      "protein": 2,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 slice wholemeal bread",
+      "kcal": 75,
+      "protein": 3.5,
+      "carbs": 13.0,
+      "fat": 1.0,
+      "satFat": 0.2
+    },
+    {
+      "text": "40g reduced-fat cream cheese",
+      "kcal": 60,
+      "protein": 5.2,
+      "carbs": 1.2,
+      "fat": 3.6,
+      "satFat": 2.2
+    },
+    {
+      "text": "a few chopped chives, to garnish (optional)",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a frying pan with low-calorie cooking spray and place over a medium heat.",
+    "Add the mushrooms and sauté for 5–6 minutes until soft, then remove from the heat and add 2 tablespoons of water and the Marmite.",
+    "Stir well – the residual heat in the pan will help the Marmite dissolve.",
+    "Pop the bread in the toaster and return the pan to the hob over a low heat.",
+    "Stir in the cream cheese until well combined and heated through.",
+    "Serve the mushrooms on the toast, sprinkled with chopped chives if desired."
+  ],
+  "macros": {
+    "kcal": 187,
+    "fat": 5.8,
+    "satFat": 3.2,
+    "carbs": 20,
+    "sugar": 3.6,
+    "fibre": 3.5,
+    "protein": 13,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

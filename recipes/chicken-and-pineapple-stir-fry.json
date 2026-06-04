@@ -1,0 +1,146 @@
+{
+  "id": "chicken-and-pineapple-stir-fry",
+  "title": "Chicken and Pineapple Stir-Fry",
+  "description": "frying pan and stir well. Add the meatballs to the sauce and simmer for a further 8–10 minutes.",
+  "cuisine": "Asian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "500g diced chicken breast (skin and visible fat removed)",
+      "kcal": 530,
+      "protein": 120.0,
+      "carbs": 0.0,
+      "fat": 7.5,
+      "satFat": 2.0
+    },
+    {
+      "text": "½ red onion, peeled and sliced",
+      "kcal": 20,
+      "protein": 0.7,
+      "carbs": 4.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ red pepper, deseeded and sliced",
+      "kcal": 25,
+      "protein": 0.8,
+      "carbs": 4.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ green pepper, deseeded and sliced",
+      "kcal": 16,
+      "protein": 0.7,
+      "carbs": 2.4,
+      "fat": 2.1,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 tbsp soy sauce",
+      "kcal": 9,
+      "protein": 1.0,
+      "carbs": 0.8,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp rice vinegar",
+      "kcal": 5,
+      "protein": 0.0,
+      "carbs": 0.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp garlic granules",
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp Sriracha sauce",
+      "kcal": 5,
+      "protein": 0.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tsp granulated sweetener",
+      "kcal": 4,
+      "protein": 0.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "320g fresh pineapple, cored, skin removed and chopped",
+      "kcal": 160,
+      "protein": 1.3,
+      "carbs": 41.6,
+      "fat": 41.6,
+      "satFat": 4.5
+    },
+    {
+      "text": "4 spring onions, trimmed and sliced",
+      "kcal": 20,
+      "protein": 1.2,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "50g uncooked basmati rice per portion, cooked according to packet instructions (+",
+      "kcal": 175,
+      "protein": 4.0,
+      "carbs": 38.5,
+      "fat": 0.5,
+      "satFat": 0.1
+    }
+  ],
+  "steps": [
+    "Spray a large frying pan with low-calorie cooking spray and place over a medium heat.",
+    "Add the diced chicken and fry for 5 minutes until it is browned on all sides.",
+    "Add the red onion and peppers and fry for a further 5 minutes until softened.",
+    "Place the soy sauce, rice vinegar, garlic granules, sriracha and granulated sweetener into a small bowl and mix until combined.",
+    "Add the pineapple to the frying pan and pour over the sauce.",
+    "Stir until the chicken and vegetables are coated in the sauce and cook  for 4–5 minutes until the sauce has thickened and become sticky.",
+    "Stir the spring onions through, season to taste and serve. You can also freeze the dish once cooled for another day – just remember to defrost thoroughly before reheating."
+  ],
+  "macros": {
+    "kcal": 211,
+    "fat": 2,
+    "satFat": 0.5,
+    "carbs": 14,
+    "sugar": 13,
+    "fibre": 3.6,
+    "protein": 31,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

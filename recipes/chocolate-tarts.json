@@ -1,0 +1,100 @@
+{
+  "id": "chocolate-tarts",
+  "title": "Chocolate Tarts",
+  "description": "Make up gelatine with 4 tbsp of cold water and whisk into the cheesecake mix until fully incorporated. Pour the mix equally into ten 100ml ramekin dishes and refrigerate for at least 2 hours.",
+  "cuisine": "French",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 sheet of light, ready-rolled puff pastry",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100ml milk",
+      "kcal": 48,
+      "protein": 3.5,
+      "carbs": 5.0,
+      "fat": 1.8,
+      "satFat": 1.2
+    },
+    {
+      "text": "30g dark chocolate, grated",
+      "kcal": 168,
+      "protein": 9.9,
+      "carbs": 16.5,
+      "fat": 8.4,
+      "satFat": 1.2
+    },
+    {
+      "text": "1 large egg",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
+    },
+    {
+      "text": "1 egg yolk",
+      "kcal": 55,
+      "protein": 2.7,
+      "carbs": 0.6,
+      "fat": 4.5,
+      "satFat": 1.6
+    },
+    {
+      "text": "2 tbsp granulated brown sweetener",
+      "kcal": 12,
+      "protein": 0.0,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp icing sugar",
+      "kcal": 5,
+      "protein": 0.0,
+      "carbs": 1.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180ºC (fan 160ºC/gas mark 4).",
+    "Spray the moulds of a shallow muffin tray with low-calorie cooking spray.",
+    "Cut out twelve circles of pastry with a 10cm (4in) pastry cutter.",
+    "Line each mould of the muffin tray with a pastry circle, pressing carefully into the sides.",
+    "Heat the milk in a microwave in a microwaveable jug. Don’t boil it, it just needs to be warm enough to melt the chocolate (if you make your milk too hot, then this may cause your eggs to scramble!).",
+    "Stir the chocolate into the milk and allow it to melt.",
+    "Beat together the egg, egg yolk and sweetener in a bowl.",
+    "When it is well combined, stir in the chocolate milk.",
+    "Pour the chocolate custard into the pastry cases, and place in the oven for 20–25 minutes, until the pastry is golden, and the custard is set."
+  ],
+  "macros": {
+    "kcal": 74,
+    "fat": 4.3,
+    "satFat": 2.1,
+    "carbs": 6.3,
+    "sugar": 1.3,
+    "fibre": 0.5,
+    "protein": 2.2,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

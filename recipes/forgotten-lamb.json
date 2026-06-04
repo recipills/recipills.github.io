@@ -1,0 +1,93 @@
+{
+  "id": "forgotten-lamb",
+  "title": "Forgotten Lamb",
+  "description": "Transfer the cooked chicken to an ovenproof dish. Top it with the mash and use a fork to fluff up the top.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 180,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "100g reduced-fat natural yoghurt",
+      "kcal": 60,
+      "protein": 5.5,
+      "carbs": 8.0,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 tbsp tomato puree",
+      "kcal": 15,
+      "protein": 0.8,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "juice of 1 lemon",
+      "kcal": 6,
+      "protein": 0.1,
+      "carbs": 2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp sweet smoked paprika",
+      "kcal": 6,
+      "protein": 0.3,
+      "carbs": 1.2,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp dried oregano",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp ground turmeric",
+      "kcal": 4,
+      "protein": 0.1,
+      "carbs": 0.7,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1kg half leg of lamb",
+      "kcal": 1600,
+      "protein": 90.0,
+      "carbs": 0.0,
+      "fat": 190.0,
+      "satFat": 45.0
+    }
+  ],
+  "steps": [
+    "Transfer the lamb to a roasting tin and cook for 1 hour, or according to the instructions indicated on the lamb packaging.",
+    "“Thank you for creating such a wonderful recipe book!”"
+  ],
+  "macros": {
+    "kcal": 424,
+    "fat": 31,
+    "satFat": 16,
+    "carbs": 3.6,
+    "sugar": 3.3,
+    "fibre": 1.5,
+    "protein": 30,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "pizza-topped-omelette",
+  "title": "Pizza-topped Omelette",
+  "description": "Pizza for breakfast, anyone? Transform a simple omelette into your favourite pizza: use classic toppings like we have, or add in other veggies and whatever leftovers you have in the fridge.",
+  "cuisine": "Italian",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 tbsp tomato puree",
+      "kcal": 15,
+      "protein": 0.8,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp passata",
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 1.8,
+      "fat": 0.1,
+      "satFat": 0.1
+    },
+    {
+      "text": "¼ tsp dried mixed herbs",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp garlic granules",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp Henderson’s relish or Worcestershire sauce",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.3,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "¼ pepper (about 40g) – we used a mixture of colours – deseeded and thinly sliced",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "4 mushrooms, thinly sliced",
+      "kcal": 8,
+      "protein": 1.1,
+      "carbs": 0.2,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "2 medium eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
+    },
+    {
+      "text": "3 cherry tomatoes, quartered",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 0.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g reduced-fat mature Cheddar, finely grated",
+      "kcal": 82,
+      "protein": 9.9,
+      "carbs": 0.0,
+      "fat": 4.5,
+      "satFat": 2.9
+    },
+    {
+      "text": "1 spring onion, trimmed and thinly sliced",
+      "kcal": 5,
+      "protein": 0.3,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Combine the tomato puree, passata, dried mixed herbs, garlic granules and Henderson’s relish or Worcestershire sauce in a small saucepan and heat over a low heat for 2 minutes.",
+    "Spray a frying pan with low-calorie cooking spray and set over a medium heat.",
+    "Add the pepper and mushrooms and cook for 2 minutes until they are just starting to go soft, then remove from the pan and set to one side.",
+    "Preheat the grill.",
+    "Whisk the eggs with 3 tablespoons of water in a mixing bowl or jug until combined, and season with salt and pepper.",
+    "Spray the frying pan again and set back over a low-medium heat.",
+    "Pour the whisked eggs into the pan and swirl. Use a spatula to push the eggs around the pan, allowing the egg mixture to run into the gaps, and continue to move the eggs around the pan until there is no runny egg left and you have a solid omelette.",
+    "Add the tomato mixture to the top of the omelette and spread it out to cover the surface.",
+    "Arrange the peppers, mushrooms and cherry tomatoes on top of the omelette base and top with the grated Cheddar.",
+    "Place the pan under the preheated grill for 3 minutes until the cheese is bubbly and golden.",
+    "Remove from the grill, sprinkle the spring onion on top and serve."
+  ],
+  "macros": {
+    "kcal": 370,
+    "fat": 18,
+    "satFat": 7.6,
+    "carbs": 18,
+    "sugar": 14,
+    "fibre": 5.4,
+    "protein": 29,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

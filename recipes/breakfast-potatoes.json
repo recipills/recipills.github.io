@@ -1,0 +1,117 @@
+{
+  "id": "breakfast-potatoes",
+  "title": "Breakfast Potatoes",
+  "description": "SWAP THIS: Use half a standard bagel or wholemeal toast instead of the wholemeal bagel thin or swap the fresh dill for fresh chives. ‘Pinch of Nom takes the stress out of cooking!",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 40,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "600g potatoes, with skin left on, washed and cut into 2cm (¾in) cubes",
+      "kcal": 462,
+      "protein": 12.0,
+      "carbs": 102.0,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 mixed peppers, halved, deseeded and thinly sliced",
+      "kcal": 149,
+      "protein": 4.8,
+      "carbs": 28.8,
+      "fat": 1.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 onions, peeled and thinly sliced",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp Worcestershire sauce",
+      "kcal": 5,
+      "protein": 0.0,
+      "carbs": 1.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp onion granules",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 1.8,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp smoked paprika",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp garlic granules",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 spring onions, trimmed and sliced",
+      "kcal": 10,
+      "protein": 0.6,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Add the diced potatoes to a medium saucepan of cold water.",
+    "Bring to the boil then reduce the heat to a simmer for 7 minutes.",
+    "When ready, the potatoes should still be firm but starting to become tender.",
+    "While the potatoes are cooking, place the peppers and onions in a large frying pan which has been coated in low-calorie cooking spray.",
+    "Cook over a medium heat for 15 minutes until softened.",
+    "Drain the potatoes and add them to the frying pan with the onions and peppers.",
+    "Stir in the Worcestershire sauce, onion granules, paprika and garlic granules.",
+    "Spray with some more low-calorie cooking spray and season well with salt and pepper.",
+    "Cook for another 10–15 minutes over a medium heat, or until the potatoes are cooked through but still hold their shape.",
+    "Serve with a fried egg or a quarter of an avocado for a slimming but filling breakfast, scattered with spring onions. You can also cool and freeze any leftover potatoes."
+  ],
+  "macros": {
+    "kcal": 200,
+    "fat": 0.8,
+    "satFat": 0.2,
+    "carbs": 40,
+    "sugar": 12,
+    "fibre": 7.2,
+    "protein": 5,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

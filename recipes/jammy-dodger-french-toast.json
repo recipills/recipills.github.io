@@ -1,0 +1,99 @@
+{
+  "id": "jammy-dodger-french-toast",
+  "title": "Jammy Dodger French Toast",
+  "description": "mixture until coated, then place into the hot frying pan. Cook each dipper for 2–3 minutes on each side, until golden brown in colour and a little crispy round the edges.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 2,
+  "ingredients": [
+    {
+      "text": "3 tbsp reduced-sugar strawberry jam",
+      "kcal": 75,
+      "protein": 0.0,
+      "carbs": 18.0,
+      "fat": 16.5,
+      "satFat": 0.3
+    },
+    {
+      "text": "2 eggs, beaten with a fork",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
+    },
+    {
+      "text": "10ml semi-skimmed milk",
+      "kcal": 3,
+      "protein": 0.3,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp granulated sweetener",
+      "kcal": 12,
+      "protein": 0.0,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tsp ground cinnamon",
+      "kcal": 12,
+      "protein": 0.2,
+      "carbs": 2.4,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp icing sugar",
+      "kcal": 10,
+      "protein": 0.0,
+      "carbs": 2.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 tbsp fat-free Greek yoghurt sweetened with ½–1 tsp granulated sweetener and 4",
+      "kcal": 57,
+      "protein": 9.0,
+      "carbs": 4.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C (fan 180°C/gas mark 6). Using a 12cm (4in)-wide heart-shaped cutter, cut all the pieces of bread into heart shapes. Using a 5cm (2in) circle cutter, cut out a circle on two of the slices of bread. Discard the excess bread.",
+    "Spread half of the jam on the two plain, heart-shaped slices of bread, then place the slices with the circles cut out on top.",
+    "In a deep dish add the beaten egg and milk along with 1 tbsp of the granulated sweetener and 1 tsp of the cinnamon.",
+    "Mix well. Carefully dip the bread into the egg mix, coating both sides.",
+    "Spray a frying pan with low-calorie cooking spray and fry the bread for 5 minutes on both sides until golden brown.",
+    "Place the bread on a  baking tray with the circle side face up, add the remaining jam to the circle and put into the oven for 10 minutes.",
+    "In a small bowl mix the remaining cinnamon and granulated sweetener together and sprinkle over the cooked toast.",
+    "Serve with a light dusting of icing sugar."
+  ],
+  "macros": {
+    "kcal": 273,
+    "fat": 7,
+    "satFat": 1.8,
+    "carbs": 35,
+    "sugar": 13,
+    "fibre": 6.9,
+    "protein": 14,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

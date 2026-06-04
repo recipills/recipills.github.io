@@ -1,0 +1,107 @@
+{
+  "id": "bakewell-rice-pudding",
+  "title": "Bakewell Rice Pudding",
+  "description": "SWAP THIS: We’ve used unsweetened almond milk to keep the calories down, but you can use whichever milk or milk alternative you prefer. Using semi-skimmed milk will increase the calories to 167 kcal",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 50,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "100g short-grain pudding rice",
+      "kcal": 350,
+      "protein": 7,
+      "carbs": 78,
+      "fat": 0.6,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 litre unsweetened almond milk",
+      "kcal": 130,
+      "protein": 4,
+      "carbs": 2,
+      "fat": 12,
+      "satFat": 4
+    },
+    {
+      "text": "1 tsp almond essence",
+      "kcal": 12,
+      "protein": 0,
+      "carbs": 0.5,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp granulated sweetener or sugar",
+      "kcal": 12,
+      "protein": 0.0,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g toasted flaked almonds",
+      "kcal": 92,
+      "protein": 3.1,
+      "carbs": 1.1,
+      "fat": 7.9,
+      "satFat": 0.6
+    },
+    {
+      "text": "200g frozen cherries, defrosted",
+      "kcal": 80,
+      "protein": 1.6,
+      "carbs": 18.0,
+      "fat": 16.0,
+      "satFat": 2.4
+    },
+    {
+      "text": "3 tbsp orange juice",
+      "kcal": 48,
+      "protein": 1.2,
+      "carbs": 11.1,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp granulated sweetener",
+      "kcal": 6,
+      "protein": 0.0,
+      "carbs": 1.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Put the rice and unsweetened almond milk in a saucepan and bring to the boil, stirring occasionally, then turn the heat down to the lowest setting, cover loosely with a lid and simmer gently for 50 minutes, stirring frequently.",
+    "While the rice pudding cooks, prepare the compote topping.",
+    "Put the defrosted cherries (including any juices that have been released) in a small saucepan, along with the orange juice and sweetener.",
+    "Bring to the boil and cook rapidly for about 10 minutes or until the juices become syrupy.",
+    "Remove from the heat.",
+    "When the rice pudding is cooked, take it off the heat and stir in the almond essence and sweetener (or sugar).",
+    "Leave it in the pan for 10 minutes before spooning into bowls.",
+    "Top with the cherry compote (warm or cold) and a sprinkle of flaked almonds.",
+    "SLOW-COOKER METHOD",
+    "Put the rice and almond milk in the slow cooker and cook on low for 6 hours.",
+    "Prepare the compote ahead of time, or just before serving.",
+    "Put the defrosted cherries (including any juices that have been released) in a small saucepan, along with the orange juice and sweetener.",
+    "Bring to the boil and cook rapidly for about 10 minutes or until the juices become syrupy.",
+    "Remove from the heat.",
+    "When the rice pudding is cooked, stir in the almond essence and sweetener (or sugar).",
+    "Spoon into bowls and top with the cherry compote (warm or cold) and a"
+  ],
+  "macros": {
+    "kcal": 188,
+    "fat": 5.3,
+    "satFat": 0.5,
+    "carbs": 28,
+    "sugar": 7.7,
+    "fibre": 1.8,
+    "protein": 5.3,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

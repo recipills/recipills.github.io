@@ -1,0 +1,148 @@
+{
+  "id": "chocolate-espresso-cheesecakes",
+  "title": "Chocolate Espresso Cheesecakes",
+  "description": "Transfer to the air fryer and cook for 8–10 minutes.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 0,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "1 tbsp cocoa powder",
+      "kcal": 12,
+      "protein": 1.0,
+      "carbs": 2.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp espresso powder",
+      "kcal": 15,
+      "protein": 0.9,
+      "carbs": 2.4,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp boiling water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "8 Oreo biscuits",
+      "kcal": 424,
+      "protein": 18.4,
+      "carbs": 60,
+      "fat": 40,
+      "satFat": 5.6
+    },
+    {
+      "text": "1 tbsp reduced-fat spread",
+      "kcal": 365,
+      "protein": 39.0,
+      "carbs": 10.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g low-fat cream cheese",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 3.0,
+      "fat": 9.0,
+      "satFat": 5.5
+    },
+    {
+      "text": "100g ricotta cheese",
+      "kcal": 144,
+      "protein": 11.0,
+      "carbs": 3.0,
+      "fat": 11.0,
+      "satFat": 7.0
+    },
+    {
+      "text": "100g fat-free Greek-style yoghurt",
+      "kcal": 54,
+      "protein": 5.7,
+      "carbs": 8.0,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "3 tsp granulated sweetener",
+      "kcal": 6,
+      "protein": 0.0,
+      "carbs": 1.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "FOR THE TOPPING",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 Oreo biscuit",
+      "kcal": 53,
+      "protein": 2.3,
+      "carbs": 7.5,
+      "fat": 5,
+      "satFat": 0.7
+    },
+    {
+      "text": "1 tsp espresso powder",
+      "kcal": 5,
+      "protein": 0.3,
+      "carbs": 0.8,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 tsp cocoa powder",
+      "kcal": 4,
+      "protein": 0.3,
+      "carbs": 0.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-fat aerosol cream",
+      "kcal": 10,
+      "protein": 0.7,
+      "carbs": 0.6,
+      "fat": 0.8,
+      "satFat": 0.5
+    }
+  ],
+  "steps": [
+    "Combine the cocoa, espresso powder and boiling water in a small bowl and mix until smooth. Set to one side to cool.",
+    "Blitz the eight Oreo biscuits in a food processor to fine crumbs, or crush them in a food bag by bashing them with a rolling pin.",
+    "Melt the reduced-fat spread in a small saucepan over a very low heat or in a small bowl in the microwave, then tip in the Oreo crumbs and 1 teaspoon of the espresso and cocoa mix and stir until combined.",
+    "Tip into four small serving dishes and press down firmly to make an even layer. Pop in the fridge while making the cheesecake mixture.",
+    "Combine the cream cheese, ricotta, yoghurt and sweetener in a bowl, then beat with an electric hand whisk until smooth.",
+    "Pour in the remaining espresso and cocoa mixture and whisk until fully incorporated.",
+    "Spoon the cheesecake mixture into each serving dish, on top of the biscuit base. Smooth the top with the back of a spoon and pop the dishes back in the fridge for an hour until chilled and set.",
+    "To make the topping, crush the Oreo biscuit to fine crumbs, stir in the espresso powder and cocoa and set to one side.",
+    "Remove the cheesecakes from the fridge and serve with a swirl of low- fat aerosol cream (about 1 tablespoon) and a sprinkling of the crushed Oreo topping."
+  ],
+  "macros": {
+    "kcal": 276,
+    "fat": 15,
+    "satFat": 7.9,
+    "carbs": 24,
+    "sugar": 14,
+    "fibre": 3.2,
+    "protein": 11,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}
