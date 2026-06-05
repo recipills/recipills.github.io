@@ -1,0 +1,37 @@
+{
+  "id": "brunch-hash",
+  "title": "Brunch Hash",
+  "chapter": "Breakfast",
+  "page": 29,
+  "calories_per_serving": 360,
+  "servings": 2,
+  "prepTime_mins": 10,
+  "cookTime_mins": 30,
+  "tags": [
+    "one pan",
+    "eggs",
+    "bacon",
+    "potato",
+    "weekend brunch"
+  ],
+  "ingredients": [
+    "low-calorie cooking spray",
+    "1 medium white potato (about 200g), peeled and cubed",
+    "1 red onion, finely chopped",
+    "2 smoked back bacon rashers, fat removed, finely chopped",
+    "1 medium sweet potato (about 200g), peeled and cubed",
+    "½ red pepper, deseeded and cubed",
+    "2 eggs",
+    "salt and pepper"
+  ],
+  "steps": [
+    "Spray a sauté pan with cooking spray over high heat. Add white potato and stir-fry 5 minutes until starting to brown.",
+    "Add onion and bacon; reduce heat slightly; stir-fry 5 more minutes.",
+    "Add sweet potato and pepper; spray top with more cooking spray; cook on medium for 20 minutes, stirring regularly.",
+    "Push vegetables aside to create 2 hollows. Crack an egg into each.",
+    "Season; cover with a lid and fry 4 minutes until whites are set and yolks still runny.",
+    "Serve immediately with your favourite sauce."
+  ],
+  "notes": "Make vegetarian by omitting bacon and adding mushrooms and tomatoes. Torn mozzarella added with the eggs also works well.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "slow-cooker-creamy-overnight-porridge",
+  "title": "Slow-cooker Creamy Overnight Porridge",
+  "chapter": "Breakfast",
+  "page": 24,
+  "calories_per_serving": 185,
+  "servings": 6,
+  "prepTime_mins": 5,
+  "cookTime_mins": 480,
+  "tags": [
+    "slow cooker",
+    "vegetarian",
+    "oats",
+    "make ahead",
+    "high-fibre"
+  ],
+  "ingredients": [
+    "low-calorie cooking spray",
+    "240g jumbo porridge oats",
+    "500ml semi-skimmed milk",
+    "1.2 litres water",
+    "salt"
+  ],
+  "steps": [
+    "Spray the slow-cooker bowl with cooking spray.",
+    "Add oats, milk, water and a pinch of salt. Stir, lid on, dial to low.",
+    "Cook on low for 8 hours.",
+    "Remove lid, stir well to break up crusty edges, and serve with your favourite toppings."
+  ],
+  "notes": "If too thick, loosen with a splash of milk. Leftovers keep in fridge; reheat in microwave. Toppings not included in calorie count.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

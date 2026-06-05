@@ -1,0 +1,45 @@
+{
+  "id": "singapore-noodles",
+  "title": "Singapore Noodles",
+  "chapter": "Friday Night Specials",
+  "page": 176,
+  "calories_per_serving": 437,
+  "servings": 4,
+  "prepTime_mins": 15,
+  "cookTime_mins": 10,
+  "tags": [
+    "pork",
+    "prawns",
+    "noodles",
+    "stir-fry",
+    "Friday night"
+  ],
+  "ingredients": [
+    "2 nests (125g) fine egg noodles",
+    "2 pork loin steaks (~250g total), fat trimmed, finely sliced",
+    "1 tsp Chinese 5 spice powder",
+    "1 tbsp soy sauce",
+    "1 tbsp rice wine",
+    "2 tsp curry powder",
+    "½ tsp ground turmeric",
+    "½ tsp honey",
+    "low-calorie cooking spray",
+    "80g frozen cold-water prawns, defrosted",
+    "2 garlic cloves, crushed",
+    "3 spring onions, trimmed and finely sliced",
+    "½ red pepper, deseeded and finely sliced",
+    "60g mangetout",
+    "1 red chilli, deseeded and finely sliced, to serve"
+  ],
+  "steps": [
+    "Cook noodles per package instructions; drain; run under cold water; set aside.",
+    "Mix sliced pork with Chinese 5 spice powder.",
+    "Mix soy sauce, rice wine, curry powder, turmeric and honey together to make the sauce.",
+    "Set wok or sauté pan over high heat; fry pork in cooking spray for 2 minutes. Add prawns; stir-fry 30 seconds.",
+    "Add garlic, spring onions, red pepper and mangetout; stir-fry 1½ minutes.",
+    "Stir in sauce; tip in noodles; toss everything together; stir-fry 1–2 minutes to heat through.",
+    "Serve immediately, sprinkled with sliced red chilli."
+  ],
+  "notes": "Use rice vermicelli noodles if available. Great way to use up leftover veg — julienned carrot, broccoli, baby corn, courgette or sugarsnaps.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

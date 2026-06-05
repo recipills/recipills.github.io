@@ -1,0 +1,46 @@
+{
+  "id": "zesty-chicken-chorizo-paella",
+  "title": "Zesty Chicken & Chorizo Paella",
+  "chapter": "One-Pot Wonders",
+  "page": 69,
+  "calories_per_serving": 490,
+  "servings": 4,
+  "prepTime_mins": 10,
+  "cookTime_mins": 25,
+  "tags": [
+    "chicken",
+    "chorizo",
+    "paella",
+    "Spanish",
+    "one pan"
+  ],
+  "ingredients": [
+    "1 tsp rapeseed oil",
+    "35g chorizo, finely chopped",
+    "3 chicken breasts, chopped into chunks",
+    "1 onion, finely chopped",
+    "2 garlic cloves, finely chopped",
+    "15g parsley (leaves separated, stalks chopped)",
+    "1 carrot, peeled and grated",
+    "1 red pepper, deseeded and chopped",
+    "1 tsp smoked paprika",
+    "½ tsp cayenne pepper",
+    "½ tsp ground turmeric",
+    "1 chicken stock cube",
+    "300g paella rice (or Arborio)",
+    "750ml boiling water",
+    "100g frozen peas",
+    "1 lemon",
+    "salt and pepper"
+  ],
+  "steps": [
+    "Heat oil in a large wok or pan. Add chorizo, chicken, onion, garlic, parsley stalks and grated carrot; stir-fry 5 minutes.",
+    "Add red pepper, paprika, cayenne and turmeric; stir-fry 3 more minutes.",
+    "Crumble in stock cube; stir in rice until combined. Pour in boiling water; simmer 5 minutes.",
+    "Stir; simmer 10 more minutes, stirring regularly to prevent sticking.",
+    "Add peas; season; stir-fry 5 more minutes. Check rice is cooked.",
+    "Grate lemon zest over; scatter with parsley leaves; serve with lemon wedges."
+  ],
+  "notes": "Add fried prawns stirred in once the paella is cooked.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

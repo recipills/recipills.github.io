@@ -1,0 +1,35 @@
+{
+  "id": "sweet-chilli-mushroom-omelette",
+  "title": "Sweet Chilli Mushroom Omelette",
+  "chapter": "Breakfast",
+  "page": 33,
+  "calories_per_serving": 275,
+  "servings": 1,
+  "prepTime_mins": 5,
+  "cookTime_mins": 8,
+  "tags": [
+    "vegetarian",
+    "eggs",
+    "mushrooms",
+    "quick"
+  ],
+  "ingredients": [
+    "1 large flat mushroom, very finely sliced",
+    "low-calorie cooking spray",
+    "1 tbsp sweet chilli sauce",
+    "3 eggs",
+    "salt and pepper",
+    "parsley, finely chopped, to serve"
+  ],
+  "steps": [
+    "Fry mushroom slices over high heat in cooking spray for 2–3 minutes. Stir in sweet chilli sauce and remove from heat.",
+    "Beat eggs with salt and pepper.",
+    "Spray a medium nonstick frying pan and place over high heat. Pour in the egg.",
+    "As edges set, bring cooked edges into the middle; tilt pan to swirl runny egg to edges.",
+    "Keep heat low until no liquid egg remains on top.",
+    "Spoon mushroom mixture over one half; fold the other half over.",
+    "Slide onto a plate and scatter with parsley."
+  ],
+  "notes": "A good nonstick frying pan is essential.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

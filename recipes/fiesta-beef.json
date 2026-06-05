@@ -1,0 +1,46 @@
+{
+  "id": "fiesta-beef",
+  "title": "Fiesta Beef",
+  "chapter": "One-Pot Wonders",
+  "page": 73,
+  "calories_per_serving": 432,
+  "servings": 4,
+  "prepTime_mins": 10,
+  "cookTime_mins": 30,
+  "tags": [
+    "beef",
+    "one pot",
+    "Mexican-inspired",
+    "rice",
+    "freezer-friendly"
+  ],
+  "ingredients": [
+    "low-calorie cooking spray",
+    "1 onion, finely chopped",
+    "2 garlic cloves, crushed",
+    "500g lean minced beef (less than 5% fat)",
+    "1 red pepper, chopped",
+    "1 yellow pepper, chopped",
+    "2 tbsp Taco spice mix (see p.212)",
+    "160g long-grain white rice",
+    "500ml beef stock",
+    "400g can chopped tomatoes",
+    "400g can pinto beans, drained and rinsed",
+    "juice of 1 lime (plus lime wedges to serve)",
+    "100g frozen sweetcorn",
+    "125ml semi-skimmed milk",
+    "100g Cheddar cheese, grated",
+    "To serve: sliced spring onions, chopped red chilli"
+  ],
+  "steps": [
+    "Spray a large casserole with cooking spray; fry onion, garlic and beef gently for 8 minutes, breaking up the meat.",
+    "Stir in spice mix; cook 1 minute. Stir in peppers.",
+    "Add rice; stir through; pour in stock.",
+    "Tip in tomatoes, beans, lime juice and sweetcorn; simmer 20 minutes, stirring occasionally. Preheat grill to highest setting.",
+    "Check rice is cooked; stir in milk with three-quarters of the cheese.",
+    "Sprinkle remaining cheese on top; grill 4 minutes until golden and bubbling.",
+    "Serve sprinkled with spring onions and red chilli, with lime wedges."
+  ],
+  "notes": "Make vegetarian by swapping beef for black beans and beef stock for vegetable stock.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

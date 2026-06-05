@@ -1,0 +1,34 @@
+{
+  "id": "devonish-scones",
+  "title": "Devonish Scones",
+  "chapter": "Simple Bakes & Desserts",
+  "page": 197,
+  "calories_per_serving": 65,
+  "servings": 11,
+  "prepTime_mins": 15,
+  "cookTime_mins": 12,
+  "tags": [
+    "baking",
+    "scones",
+    "vegetarian",
+    "afternoon tea"
+  ],
+  "ingredients": [
+    "150g plain flour (plus extra to dust)",
+    "1 tsp caster sugar",
+    "1 tsp baking powder",
+    "100g fat-free Greek yogurt",
+    "¼ tsp vanilla extract",
+    "1 egg, lightly beaten",
+    "pinch of salt"
+  ],
+  "steps": [
+    "Preheat oven to 220°C/200°C fan.",
+    "Combine dry ingredients in a bowl; add yogurt and vanilla extract; mix with a metal spoon then knead briefly into a dough. Rest 10 minutes.",
+    "Roll out on floured surface to ~1cm thick; cut out 11 rounds with a 5cm fluted cutter.",
+    "Place on lined baking tray; brush tops with beaten egg.",
+    "Bake on middle shelf 10–12 minutes until risen and golden."
+  ],
+  "notes": "For cheese scones: omit sugar and vanilla, add 40g grated mature Cheddar. Serve with Easy Chia Seed Summer Fruit Jam (p.25).",
+  "source": "The Slimming Foodie by Pip Payne (2021, Aster/Octopus)"
+}

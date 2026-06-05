@@ -1,0 +1,36 @@
+{
+  "id": "cheddar-onion-baked-irish-boxty",
+  "title": "Cheddar & Onion Baked Irish Boxty",
+  "chapter": "Breakfast",
+  "page": 30,
+  "calories_per_serving": 214,
+  "servings": 4,
+  "prepTime_mins": 20,
+  "cookTime_mins": 35,
+  "tags": [
+    "vegetarian",
+    "potato",
+    "baked",
+    "Irish"
+  ],
+  "ingredients": [
+    "600g floury white potatoes (e.g. Roosters), peeled",
+    "1 onion, finely chopped",
+    "low-calorie cooking spray",
+    "1 tbsp semi-skimmed milk",
+    "¼ tsp salt",
+    "2 tbsp self-raising flour",
+    "60g Cheddar cheese, grated"
+  ],
+  "steps": [
+    "Preheat oven to 220°C/200°C fan.",
+    "Boil half the potatoes (cut into chunks) for 15 minutes. Gently fry onion in cooking spray until lightly browned.",
+    "Grate remaining raw potatoes into a sieve; squeeze out liquid with kitchen paper.",
+    "Drain boiled potatoes; mash with milk and salt until smooth.",
+    "Stir in grated raw potato, flour, then fried onion and cheese until combined.",
+    "Line a flan dish with parchment; spray. Add mixture; smooth top; score into quarters; spray.",
+    "Bake 35 minutes until golden and crisp. Slice into quarters and serve hot."
+  ],
+  "notes": "Try adding herbs or spring onions for extra flavour. Serve with a fried egg or beans.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

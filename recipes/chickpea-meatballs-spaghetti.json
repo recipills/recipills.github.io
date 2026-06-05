@@ -1,0 +1,43 @@
+{
+  "id": "chickpea-meatballs-spaghetti",
+  "title": "Chickpea Meatballs & Spaghetti",
+  "chapter": "Family Favourites",
+  "page": 103,
+  "calories_per_serving": 516,
+  "servings": 4,
+  "prepTime_mins": 15,
+  "cookTime_mins": 25,
+  "tags": [
+    "vegetarian",
+    "pasta",
+    "meatballs",
+    "high-protein"
+  ],
+  "ingredients": [
+    "400g can chickpeas, drained and rinsed",
+    "2 small slices wholemeal bread, torn into pieces",
+    "2 tsp Italian seasoning",
+    "1 tsp onion granules",
+    "1 tsp garlic granules",
+    "10g parsley (stalks and leaves)",
+    "low-calorie cooking spray",
+    "4 whole roasted red peppers in brine (~320g), drained",
+    "2 garlic cloves, peeled",
+    "small handful of basil leaves (~5g), plus extra to serve",
+    "1 tsp dried oregano",
+    "60g blanched almonds",
+    "300g wholewheat or regular dried spaghetti",
+    "salt and pepper",
+    "grated Parmesan, to serve"
+  ],
+  "steps": [
+    "Preheat oven to 220°C/200°C fan.",
+    "Pulse chickpeas in a food processor with bread, Italian seasoning, onion granules, garlic granules, parsley and seasoning until blended and starting to clump.",
+    "Shape into 20 small balls; place on a lined, sprayed baking tray; spray with cooking spray. Bake 20 minutes until golden and slightly crispy.",
+    "Make sauce: blend roasted red peppers, garlic, basil, oregano, almonds and seasoning until smooth.",
+    "Cook spaghetti according to package instructions. Heat sauce; stir in baked meatballs.",
+    "Stir spaghetti through sauce; serve with Parmesan, torn basil and more pepper."
+  ],
+  "notes": "These meatballs also work with the Garlicky Meatball Pasta Bake (p.92).",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

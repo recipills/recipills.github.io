@@ -1,0 +1,43 @@
+{
+  "id": "cowgirls-stew",
+  "title": "Cowgirl's Stew",
+  "chapter": "One-Pot Wonders",
+  "page": 70,
+  "calories_per_serving": 369,
+  "servings": 4,
+  "prepTime_mins": 10,
+  "cookTime_mins": 480,
+  "tags": [
+    "pork",
+    "slow cooker",
+    "one pot",
+    "smoky",
+    "barbecue",
+    "freezer-friendly"
+  ],
+  "ingredients": [
+    "1 red onion, finely chopped",
+    "2 garlic cloves, crushed",
+    "2 celery sticks, finely chopped",
+    "1 red pepper, deseeded and chopped",
+    "1 green pepper, deseeded and chopped",
+    "400g can chopped tomatoes",
+    "400g can haricot beans, drained and rinsed",
+    "400g can cannellini beans, drained and rinsed",
+    "1 beef stock cube",
+    "150ml boiling water",
+    "6 tbsp tomato purée",
+    "6 tbsp shop-bought barbecue sauce",
+    "1 tbsp smoked paprika",
+    "1 tsp salt",
+    "¼ tsp pepper",
+    "1 pork fillet (about 450g)"
+  ],
+  "steps": [
+    "Put all ingredients except the pork into the slow-cooker bowl and stir together.",
+    "Place pork fillet in the pot; lid on; cook on high for 6–8 hours, or low for 10–12 hours.",
+    "Once cooked, use 2 forks to pull apart and mix the pork through the stew. Serve immediately."
+  ],
+  "notes": "Add finely chopped pickled jalapeños for spice. Oven method: place all in a lidded casserole; cook at 200°C/180°C fan for 1½ hours.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

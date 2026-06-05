@@ -1,0 +1,29 @@
+{
+  "id": "lime-chilli-dressing",
+  "title": "Lime & Chilli Dressing",
+  "chapter": "Dips, Dressings, Spice Mixes & Staples",
+  "page": 210,
+  "calories_per_serving": 18,
+  "servings": 4,
+  "prepTime_mins": 2,
+  "cookTime_mins": 0,
+  "tags": [
+    "vegan",
+    "dressing",
+    "Mexican-inspired",
+    "quick",
+    "5-minute"
+  ],
+  "ingredients": [
+    "1 tsp hot sauce (e.g. sriracha)",
+    "juice of 2 limes",
+    "1 garlic clove, crushed",
+    "½ tsp ground cumin",
+    "½ tsp salt"
+  ],
+  "steps": [
+    "Mix all ingredients in a small bowl."
+  ],
+  "notes": "Pairs with Smoky Mexican Black Bean Sweet Potato Stew, Fiesta Beef, Flaming Fajita Traybake, and the Mexican-style Bounty Bowl.",
+  "source": "The Slimming Foodie by Pip Payne (2021, Aster/Octopus)"
+}

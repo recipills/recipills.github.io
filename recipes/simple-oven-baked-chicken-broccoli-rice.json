@@ -1,0 +1,40 @@
+{
+  "id": "simple-oven-baked-chicken-broccoli-rice",
+  "title": "Simple Oven-baked Chicken, Broccoli & Rice",
+  "chapter": "Family Favourites",
+  "page": 117,
+  "calories_per_serving": 429,
+  "servings": 4,
+  "prepTime_mins": 5,
+  "cookTime_mins": 45,
+  "tags": [
+    "chicken",
+    "rice",
+    "bake",
+    "one pot",
+    "family",
+    "simple"
+  ],
+  "ingredients": [
+    "3 chicken breasts, chopped",
+    "2 tsp dried parsley",
+    "1 tsp garlic granules",
+    "1 tsp onion granules",
+    "½ tsp salt",
+    "¼ tsp pepper",
+    "low-calorie cooking spray",
+    "250g long-grain rice",
+    "650ml hot chicken stock",
+    "1 head of broccoli (~200g), broken into florets"
+  ],
+  "steps": [
+    "Preheat oven to 220°C/200°C fan.",
+    "In a large ovenproof dish, mix chicken with dried parsley, garlic granules, onion granules and seasoning. Spray with cooking spray; mix in rice.",
+    "Pour hot stock over rice; ensure everything is submerged; cover tightly with foil.",
+    "Bake on middle shelf for 30 minutes.",
+    "Remove; fluff up rice with a fork; scatter broccoli florets over top in a single layer.",
+    "Replace foil; bake for further 15 minutes until stock is absorbed, rice is fluffy and broccoli is steamed."
+  ],
+  "notes": "Jazz up with peas, green beans, cauliflower or asparagus. Add finely grated lemon zest and juice for more flavour.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

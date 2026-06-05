@@ -1,0 +1,37 @@
+{
+  "id": "empty-the-fridge-frittata",
+  "title": "Empty-the-Fridge Frittata",
+  "chapter": "Savoury Traybakes",
+  "page": 82,
+  "calories_per_serving": 250,
+  "servings": 4,
+  "prepTime_mins": 10,
+  "cookTime_mins": 20,
+  "tags": [
+    "vegetarian",
+    "eggs",
+    "traybake",
+    "light",
+    "make ahead"
+  ],
+  "ingredients": [
+    "1 onion, finely chopped",
+    "1 red pepper, deseeded and finely chopped",
+    "100g cherry tomatoes, halved",
+    "low-calorie cooking spray",
+    "large handful (~40g) baby spinach",
+    "8 eggs",
+    "125ml semi-skimmed milk",
+    "40g Cheddar cheese, grated",
+    "salt and pepper"
+  ],
+  "steps": [
+    "Preheat oven to 200°C/180°C fan.",
+    "Fry onion, pepper and tomatoes in cooking spray for 7 minutes until softened. Remove from heat; stir in spinach to wilt. Season.",
+    "Line a 30 × 20cm roasting tin with parchment; spread cooked vegetables in.",
+    "Whisk eggs and milk; stir in half the cheese. Pour over vegetables; sprinkle with remaining cheese.",
+    "Bake 20 minutes until light golden brown on top and set in the middle."
+  ],
+  "notes": "Adapt with whatever you have. Veg needing more cooking (mushrooms, leeks, courgettes, broccoli) should be fried first. Quick-cook veg (green beans, peas, asparagus) can go straight in with the egg mixture. Try different cheeses — feta, goat's cheese, mozzarella or Parmesan.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

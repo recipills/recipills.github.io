@@ -1,0 +1,35 @@
+{
+  "id": "jeera-aloo",
+  "title": "Jeera Aloo",
+  "chapter": "Friday Night Specials",
+  "page": 172,
+  "calories_per_serving": 145,
+  "servings": 4,
+  "prepTime_mins": 5,
+  "cookTime_mins": 20,
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "Indian",
+    "side dish",
+    "quick"
+  ],
+  "ingredients": [
+    "750g potatoes, peeled and cut into chunks",
+    "2 tsp cumin seeds",
+    "2 green chillies, deseeded and finely chopped",
+    "5cm piece of fresh root ginger, peeled and grated",
+    "½ tsp ground turmeric",
+    "4 tbsp water",
+    "½ tsp salt",
+    "juice of 1 lemon"
+  ],
+  "steps": [
+    "Boil potato chunks for 15 minutes until cooked through; drain; allow to steam.",
+    "Set a dry frying pan over medium heat; add cumin seeds, green chillies, ginger and turmeric; stir-fry 1 minute.",
+    "Add water to spices; mix in; add potatoes, salt and lemon juice; stir-fry 2–3 minutes.",
+    "Serve immediately."
+  ],
+  "notes": "Replace potato with cauliflower for a lighter option — simmer cauliflower 5 minutes, rinse with cold water, then add to fried spices.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mini-bramble-crumbles",
+  "title": "Mini Bramble Crumbles",
+  "chapter": "Simple Bakes & Desserts",
+  "page": 193,
+  "calories_per_serving": 187,
+  "servings": 4,
+  "prepTime_mins": 10,
+  "cookTime_mins": 40,
+  "tags": [
+    "dessert",
+    "vegetarian",
+    "crumble",
+    "apple",
+    "blackberry",
+    "autumn"
+  ],
+  "ingredients": [
+    "Filling: 4 apples (sweet variety e.g. Gala, peeled and chopped), 150g blackberries, 1 tsp vanilla extract, ½ tsp ground cinnamon, 100ml water",
+    "Crumble: 1 egg white, 80g oats, 1 tbsp maple syrup, ½ tsp ground cinnamon, 2 tsp demerara sugar",
+    "low-calorie cooking spray"
+  ],
+  "steps": [
+    "Preheat oven to 200°C/180°C fan.",
+    "Put all filling ingredients in a small saucepan; bring to boil; simmer gently 20 minutes.",
+    "Whisk egg white 1 minute until soft and fluffy; stir in oats, maple syrup and cinnamon.",
+    "Spread oat mixture as thinly as possible on a lined baking tray; bake on top shelf 10 minutes.",
+    "Cool crumble slightly; break up with hands into crumble pieces.",
+    "Mash filling slightly; divide between 4 ramekins. Sprinkle crumble and ½ tsp demerara sugar over each.",
+    "Bake all 4 ramekins on a tray for 10 minutes until golden and crunchy. Serve warm."
+  ],
+  "notes": "Substitute with apple & raspberry, apple & blueberry, or just apples if blackberries unavailable.",
+  "source": "The Slimming Foodie by Pip Payne (2021, Aster/Octopus)"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "fajita-spice-mix",
+  "title": "Fajita Spice Mix",
+  "chapter": "Dips, Dressings, Spice Mixes & Staples",
+  "page": 212,
+  "calories_per_serving": null,
+  "servings": 13,
+  "prepTime_mins": 2,
+  "cookTime_mins": 0,
+  "tags": [
+    "spice mix",
+    "vegan",
+    "Mexican-inspired",
+    "make ahead",
+    "pantry staple"
+  ],
+  "ingredients": [
+    "2 tbsp chilli powder",
+    "2 tbsp smoked paprika",
+    "2 tbsp ground cumin",
+    "2 tbsp dried oregano",
+    "2 tbsp garlic granules",
+    "2 tbsp onion granules",
+    "1 tbsp salt"
+  ],
+  "steps": [
+    "Combine all ingredients; store in a jam jar or airtight container."
+  ],
+  "notes": "Use in Flaming Fajita Traybake (p.88) and Slow-cooker Mexican Beef (p.180).",
+  "source": "The Slimming Foodie by Pip Payne (2021, Aster/Octopus)"
+}

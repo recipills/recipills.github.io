@@ -1,0 +1,35 @@
+{
+  "id": "make-ahead-marinara-sauce",
+  "title": "Make-ahead Marinara Sauce",
+  "chapter": "Dips, Dressings, Spice Mixes & Staples",
+  "page": 214,
+  "calories_per_serving": 85,
+  "servings": 6,
+  "prepTime_mins": 5,
+  "cookTime_mins": 40,
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "sauce",
+    "make ahead",
+    "freezer-friendly"
+  ],
+  "ingredients": [
+    "4 garlic cloves, crushed",
+    "2 × 400g cans chopped tomatoes",
+    "1 tbsp tomato purée",
+    "1 carrot, roughly chopped",
+    "2 tsp dried basil",
+    "1 tsp dried oregano",
+    "1 tsp salt",
+    "¼ tsp pepper",
+    "200ml water"
+  ],
+  "steps": [
+    "Put all ingredients into a deep saucepan; bring to boil; stir; simmer 40 minutes.",
+    "Blitz with a hand blender until smooth; pour into a large 1-litre jar.",
+    "Cool; keep in fridge up to 5 days, or freeze in portions."
+  ],
+  "notes": "Use as pasta sauce, pizza sauce, or stir into cooked mince and onions for a quick Bolognese. Slow cooker: all ingredients in, cook on high 4 hours or low 8 hours.",
+  "source": "The Slimming Foodie by Pip Payne (2021, Aster/Octopus)"
+}

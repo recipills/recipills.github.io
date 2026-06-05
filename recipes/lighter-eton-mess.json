@@ -1,0 +1,30 @@
+{
+  "id": "lighter-eton-mess",
+  "title": "Lighter Eton Mess",
+  "chapter": "Simple Bakes & Desserts",
+  "page": 190,
+  "calories_per_serving": 183,
+  "servings": 1,
+  "prepTime_mins": 5,
+  "cookTime_mins": 0,
+  "tags": [
+    "dessert",
+    "vegetarian",
+    "quick",
+    "5-minute",
+    "summer"
+  ],
+  "ingredients": [
+    "50g reduced-fat vanilla ice cream",
+    "50g fat-free Greek yogurt",
+    "1 meringue nest, broken into small pieces",
+    "100g strawberries, hulled and quartered"
+  ],
+  "steps": [
+    "Put ice cream and yogurt in a small bowl; mash with a fork until smooth and whippy.",
+    "Layer the ice cream mix, meringue and strawberries in a pretty glass or bowl.",
+    "Serve immediately."
+  ],
+  "notes": "Also great with blueberries, raspberries or diced mango.",
+  "source": "The Slimming Foodie by Pip Payne (2021, Aster/Octopus)"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "taco-spice-mix",
+  "title": "Taco Spice Mix",
+  "chapter": "Dips, Dressings, Spice Mixes & Staples",
+  "page": 212,
+  "calories_per_serving": null,
+  "servings": 10,
+  "prepTime_mins": 2,
+  "cookTime_mins": 0,
+  "tags": [
+    "spice mix",
+    "vegan",
+    "Mexican-inspired",
+    "make ahead",
+    "pantry staple"
+  ],
+  "ingredients": [
+    "2 tbsp garlic granules",
+    "2 tbsp onion granules",
+    "2 tbsp paprika",
+    "1 tbsp chilli powder",
+    "1 tbsp dried oregano",
+    "1 tbsp ground cumin",
+    "1 tbsp salt",
+    "½ tbsp pepper"
+  ],
+  "steps": [
+    "Combine all ingredients; store in a jam jar or airtight container."
+  ],
+  "notes": "Use in Fiesta Beef (p.73).",
+  "source": "The Slimming Foodie by Pip Payne (2021, Aster/Octopus)"
+}

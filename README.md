@@ -1,116 +1,4 @@
-# ReciPills Recipe Library (also check archived readme below)
-
-A structured collection of high-protein, low-calorie recipes extracted from cookbooks and stored as machine-readable JSON.
-
----
-
-## File Structure
-/recipes/ → Individual recipe JSON files (one per recipe)
-/recipes/index.json → Lightweight index of all recipes (no steps/ingredients)
-/ingredient-macros.json → Canonical macro reference per ingredient key (per 100g)
-
-text
-
----
-
-## Recipe JSON Schema
-
-Each recipe file follows this structure:
-
-```json
-{
-  "id": "unique-slug",
-  "title": "Recipe Title",
-  "chapter": 5,
-  "chapterName": "Lunch / Dinner",
-  "description": "Short description.",
-  "cuisine": "Italian",
-  "category": "Dinner",
-  "tags": ["chicken", "pasta", "quick"],
-  "prepTime": 10,
-  "cookTime": 20,
-  "servings": 1,
-  "ingredients": [
-    {
-      "text": "180g chicken breast",
-      "kcal": 198,
-      "protein": 41.4,
-      "carbs": 0,
-      "fat": 1.8,
-      "satFat": 0.4
-    }
-  ],
-  "steps": ["Step 1...", "Step 2..."],
-  "macros": {
-    "kcal": 550,
-    "protein": 48,
-    "carbs": 55,
-    "fat": 12,
-    "satFat": 3,
-    "fibre": 4,
-    "sugar": 5,
-    "iron": 2
-  },
-  "macrosNote": "Whole recipe (1 serving)",
-  "notes": "Optional substitution tips.",
-  "source": "Cookbook Name"
-}
-```
-
-**All weights are raw/uncooked unless otherwise stated.**  
-**Macros are estimates** — always re-verify with your own calorie tracker.
-
----
-
-## Ingredient Macros (`ingredient-macros.json`)
-
-A lookup table of standardised ingredients used across recipes. Each entry uses a stable key and provides macros per 100g:
-
-```json
-"chicken_breast": {
-  "name": "Chicken Breast (skinless/boneless)",
-  "kcal_per_100g": 110,
-  "protein_per_100g": 23,
-  "carbs_per_100g": 0,
-  "fat_per_100g": 1
-}
-```
-
-Use this to recalculate macros when substituting ingredients or scaling recipes.
-
----
-
-## Recipe Index (`recipes/index.json`)
-
-A flat array of all recipes, each containing metadata and macros only (no steps or ingredients). Use this for search, filtering and browsing without loading full recipe files.
-
----
-
-## Filtering Recipes
-
-Common filter fields available in the index:
-
-| Field | Example values |
-|---|---|
-| `chapter` | 4–10 |
-| `chapterName` | `"Breakfast"`, `"Lunch / Dinner"`, `"Meal Prep"` |
-| `cuisine` | `"Italian"`, `"Korean"`, `"Mexican"` |
-| `category` | `"Breakfast"`, `"Dessert"`, `"Sauce"`, `"Soup"` |
-| `tags` | `"quick"`, `"high-protein"`, `"freezer"`, `"meal prep"` |
-| `macros.kcal` | numeric, whole recipe |
-| `macros.protein` | numeric, grams |
-
----
-
-## Notes
-
-- **Ingredient substitutions** are noted in the `notes` field of each recipe.
-- **Noodle recipes** (Chapter 10) use 80g dry wheat noodles as the base; macros are adjusted accordingly.
-- **Meal prep recipes** (Chapter 8) include multi-serving macros; per-serving values are noted in `macrosNote`.
-- All baking temperatures are given in both °C and °F.
-- Air fryer baking: subtract 20°C from oven temperature.
-
-# ARCHIVED README - Recipe Library
+# Recipe Library
 
 A static recipe website — no build step, no dependencies. Hosted on GitHub Pages.
 
@@ -405,3 +293,91 @@ every one.
 - Per-ingredient macros: kcal · P · C · F · sat fat (ballpark estimates)
 - Recipe macros panel: kcal, protein, carbs, fat, sat fat, fibre, sugar, iron
 - Serving multiplier (½× 1× 2× 3×) scales all macros and ingredient quantities
+
+## Claude Instructions for Recipe Extraction
+
+Use this protocol when extracting recipes from a cookbook or recipe book with Claude.
+
+### Recommended workflow
+1. Read the table of contents or recipe index first.
+2. Build a manifest of all recipes before extracting any full recipe text.
+3. Extract raw text page by page or recipe block by recipe block.
+4. Preserve page numbers, headings, and line breaks in the raw text output.
+5. Use a second pass to convert each recipe into JSON.
+6. Validate each JSON object and retry only failed recipes.
+
+### Why this works
+- It reduces token usage by avoiding repeated reasoning over the entire book.
+- It reduces boundary errors where ingredients or steps bleed into the wrong recipe.
+- It makes truncation easier to detect because each request is smaller.
+- It is more reliable than asking Claude to OCR, interpret, and structure everything in one pass.
+
+### Extraction strategy
+- Prefer text extraction or OCR first, then semantic structuring second.
+- Process one recipe at a time whenever possible.
+- If a page contains multiple recipes, split them using headings, page layout, and nearby text cues.
+- If a recipe spans multiple pages, keep the raw text for the full span before generating JSON.
+- Do not ask Claude to infer missing ingredients from context unless the source is clearly damaged or incomplete.
+
+### Suggested JSON schema
+```json
+{
+  "id": "unique-slug",
+  "title": "Recipe Title",
+  "description": "Short summary",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": ["chicken", "high-protein"],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "200g chicken breast",
+      "kcal": 198,
+      "protein": 41.4,
+      "carbs": 0,
+      "fat": 1.8,
+      "satFat": 0.4
+    }
+  ],
+  "steps": ["Step 1", "Step 2"],
+  "macros": {
+    "kcal": 550,
+    "protein": 48,
+    "carbs": 55,
+    "fat": 12,
+    "satFat": 3,
+    "fibre": 4,
+    "sugar": 5,
+    "iron": 2
+  },
+  "notes": null,
+  "source": "Cookbook Name"
+}
+```
+
+### Prompt guidance for Claude
+- Give Claude one clear task per pass.
+- For the first pass, ask only for raw transcription or recipe boundaries.
+- For the second pass, ask only for JSON conversion of one recipe at a time.
+- Require strict JSON output with no extra commentary.
+- Ask Claude to return `null` for missing fields instead of guessing.
+- Ask Claude to preserve source wording in ingredient lines and step text.
+- Ask Claude to stop and mark a recipe incomplete if the text is cut off.
+
+### Validation checks
+- Confirm that every recipe has a title, ingredients, and steps.
+- Confirm that no ingredient list appears to borrow text from the next recipe.
+- Confirm that page ranges or recipe boundaries are consistent with the manifest.
+- Confirm that truncated outputs are re-run at a smaller chunk size.
+- Confirm JSON parses cleanly before storing it.
+
+### Practical recommendation
+For most cookbook workflows, the best setup is:
+- OCR or text extraction first.
+- Boundary detection second.
+- JSON structuring third.
+- Validation and repair last.
+
+This is usually better than trying to have Claude extract full recipes directly from the scanned pages in a single pass.

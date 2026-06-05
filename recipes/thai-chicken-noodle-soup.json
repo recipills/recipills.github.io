@@ -1,0 +1,42 @@
+{
+  "id": "thai-chicken-noodle-soup",
+  "title": "Thai Chicken Noodle Soup",
+  "chapter": "Quick & Easy Midweek Meals",
+  "page": 52,
+  "calories_per_serving": 445,
+  "servings": 4,
+  "prepTime_mins": 10,
+  "cookTime_mins": 20,
+  "tags": [
+    "chicken",
+    "soup",
+    "noodles",
+    "Thai"
+  ],
+  "ingredients": [
+    "2 chicken breasts, cut into strips",
+    "low-calorie cooking spray",
+    "3 garlic cloves, crushed",
+    "2 chillies (ideally 1 red, 1 green), finely chopped",
+    "4 spring onions, trimmed and finely sliced",
+    "1.4 litres hot chicken stock",
+    "3 tbsp light soy sauce",
+    "1 large carrot, peeled and cut into matchsticks",
+    "300g rice stick noodles",
+    "150g broccoli florets",
+    "50g fine green beans, halved",
+    "1 head pak choi, trimmed and leaves separated",
+    "juice of 1 lime; 1 lime cut into wedges",
+    "coriander leaves, to serve"
+  ],
+  "steps": [
+    "Fry chicken in cooking spray in a large deep saucepan until no pink showing outside. Add garlic, chillies and spring onions; stir-fry 1 minute.",
+    "Pour in hot stock; add soy sauce and carrots; simmer 5 minutes.",
+    "Add noodles, submerged; simmer 5 minutes.",
+    "Add broccoli, green beans and pak choi; simmer 3 minutes.",
+    "Check noodles are cooked; stir in lime juice.",
+    "Serve immediately scattered with coriander and with lime wedges."
+  ],
+  "notes": "Great with homemade chicken stock and leftover roast chicken. Also works with mushrooms, peppers, sugarsnaps, beansprouts and spinach.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}
