@@ -1,0 +1,62 @@
+{
+  "id": "cheesy-crepes",
+  "title": "Cheesy Crêpes",
+  "description": "Half pancake, half omelette — light, easy crêpes made from eggs, low-fat cream cheese and spring onions. A super-quick midweek supper.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [
+    "savoury",
+    "crepes",
+    "eggs",
+    "spring onion",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "prepTime": 35,
+  "cookTime": 10,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "2 eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10,
+      "satFat": 3.2
+    },
+    {
+      "text": "120g low-fat cream cheese",
+      "kcal": 180,
+      "protein": 15.6,
+      "carbs": 4.8,
+      "fat": 10.8,
+      "satFat": 6.8
+    },
+    {
+      "text": "3 spring onions, finely chopped",
+      "kcal": 15,
+      "protein": 0.9,
+      "carbs": 3,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Lightly whisk the eggs, add 100g of the cream cheese and whisk until smooth and pale. Stir in the spring onions (holding back a tablespoon to serve). Let the batter stand for 30 minutes.",
+    "Heat 0.5 teaspoon of oil in a frying pan over medium heat. Test heat with a tiny drop of batter — if it sizzles, it's ready.",
+    "Pour in half the batter, cook for 2–3 minutes, flip carefully and cook the other side for the same time. Repeat.",
+    "Arrange both crêpes on a plate, top with remaining cream cheese and spring onions."
+  ],
+  "macros": {
+    "kcal": 339,
+    "protein": 29,
+    "carbs": 9,
+    "fat": 21,
+    "satFat": 10,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Each batch (2 crêpes) serves 1. Multiply as needed. Swap spring onions for mushrooms, tomatoes or sliced peppers.",
+  "source": "Three Ingredient Baking"
+}

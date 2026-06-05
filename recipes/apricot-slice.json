@@ -1,0 +1,63 @@
+{
+  "id": "apricot-slice",
+  "title": "Apricot Slice",
+  "description": "A crumbly traybake made with fresh apricots blended with coconut oil and topped with toasted flaked almonds.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "apricot",
+    "coconut oil",
+    "dairy-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "prepTime": 15,
+  "cookTime": 35,
+  "servings": 16,
+  "ingredients": [
+    {
+      "text": "250g fresh apricots",
+      "kcal": 100,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 0.8,
+      "satFat": 0
+    },
+    {
+      "text": "3 tablespoons coconut oil",
+      "kcal": 360,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 40,
+      "satFat": 35
+    },
+    {
+      "text": "100g flaked almonds",
+      "kcal": 613,
+      "protein": 21,
+      "carbs": 7,
+      "fat": 53,
+      "satFat": 4.3
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 195°C/175°C fan. Line a 25cm x 18cm baking tray with greaseproof paper.",
+    "Chop the apricots into tiny pieces. Transfer to a food processor, add the coconut oil and blitz to a rough purée.",
+    "Add three-quarters of the flaked almonds and pulse several times to combine.",
+    "Tip the mixture into the baking tray, flatten down with the back of a spoon. Scatter remaining almonds over the top.",
+    "Bake for 30–35 minutes until the almonds on top turn brown. Leave to cool completely before cutting into squares."
+  ],
+  "macros": {
+    "kcal": 70,
+    "protein": 1.5,
+    "carbs": 3,
+    "fat": 6,
+    "satFat": 3.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 16 pieces. Keeps for a week in an airtight tin.",
+  "source": "Three Ingredient Baking"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ginger-muffins",
+  "title": "Ginger Muffins",
+  "description": "Light, airy muffins with a warming gingery kick, made from self-raising flour, golden caster sugar and a can of ginger beer.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "traybake",
+    "muffins",
+    "ginger beer",
+    "dairy-free",
+    "vegan"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "300g self-raising flour",
+      "kcal": 1071,
+      "protein": 30,
+      "carbs": 222,
+      "fat": 6,
+      "satFat": 1.5
+    },
+    {
+      "text": "150g golden caster sugar",
+      "kcal": 600,
+      "protein": 0,
+      "carbs": 150,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 x 330ml can of ginger beer",
+      "kcal": 115,
+      "protein": 0,
+      "carbs": 29,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Put paper muffin cases in ten holes of a 12-hole tray.",
+    "Sift the flour into a bowl and stir in the sugar.",
+    "Slowly pour the ginger beer into the flour mixture (it will fizz). Beat thoroughly until smooth but not too thick — like pancake batter.",
+    "Pour into the muffin cases, filling each around two-thirds full.",
+    "Bake for 30 minutes, or until risen and just starting to brown. Eat hot or cold."
+  ],
+  "macros": {
+    "kcal": 178,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 0.6,
+    "satFat": 0.2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 10 muffins. Per muffin estimate. Use the most intensely flavoured ginger beer you can find.",
+  "source": "Three Ingredient Baking"
+}

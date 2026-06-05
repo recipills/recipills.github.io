@@ -1,0 +1,62 @@
+{
+  "id": "peach-melba-sorbet",
+  "title": "Peach Melba Sorbet",
+  "description": "A peachy, honey-sweetened sorbet with Greek yoghurt for creaminess. Half sorbet, half slushie — refreshing and lighter than dairy ice cream.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "sorbet",
+    "peach",
+    "honey",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "6 whole peaches (or 2 x 415g tins, drained)",
+      "kcal": 240,
+      "protein": 5.4,
+      "carbs": 60,
+      "fat": 1.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "4 dessert spoons runny honey",
+      "kcal": 192,
+      "protein": 0,
+      "carbs": 51,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "220g Greek yoghurt",
+      "kcal": 125,
+      "protein": 19.8,
+      "carbs": 8.8,
+      "fat": 0.4,
+      "satFat": 0.2
+    }
+  ],
+  "steps": [
+    "Peel, de-stone and halve the peaches (or drain tinned). Blitz in a food processor with the honey until smooth.",
+    "Add the yoghurt and blend again until completely lump-free.",
+    "Decant into a 500ml freezer-safe container and freeze for 5 hours or overnight.",
+    "Allow to soften at room temperature for 20 minutes before serving. Top with flaked almonds or raspberry coulis."
+  ],
+  "macros": {
+    "kcal": 70,
+    "protein": 3.1,
+    "carbs": 15,
+    "fat": 0.2,
+    "satFat": 0,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. The texture is intentionally quite icy.",
+  "source": "Three Ingredient Baking"
+}

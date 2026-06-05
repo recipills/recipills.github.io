@@ -1,0 +1,62 @@
+{
+  "id": "gooey-chocolate-orange-cake",
+  "title": "Gooey Chocolate Orange Cake",
+  "description": "Densely chocolaty and flourless, this cake uses three Terry's Chocolate Oranges, butter and eggs for a mousse-like, squidgy interior.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "chocolate",
+    "flourless",
+    "gluten-free"
+  ],
+  "prepTime": 20,
+  "cookTime": 45,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "3 x 175g Terry's Chocolate Oranges (525g total)",
+      "kcal": 2888,
+      "protein": 29,
+      "carbs": 346,
+      "fat": 157,
+      "satFat": 94
+    },
+    {
+      "text": "110g unsalted butter",
+      "kcal": 820,
+      "protein": 0.8,
+      "carbs": 1.2,
+      "fat": 91,
+      "satFat": 57
+    },
+    {
+      "text": "8 eggs",
+      "kcal": 576,
+      "protein": 50,
+      "carbs": 3.2,
+      "fat": 40,
+      "satFat": 12.8
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 195°C/175°C fan. Grease and line a 23cm round cake tin.",
+    "Put 450g of the chocolate orange and all the butter in a heatproof bowl over boiling water. Heat until melted. Mix sparingly.",
+    "Break the eggs into a large bowl and whisk for at least 5 minutes until pale and fluffy — all the air comes from the eggs.",
+    "Allow the chocolate mixture to cool slightly, then slowly add the whisked egg a spoonful at a time, folding in gently.",
+    "Pour into the tin and bake for 40–45 minutes, or until the top is just set. Don't over-bake — you want it squidgy inside.",
+    "Allow to cool completely in the tin. Decorate with remaining chocolate orange segments."
+  ],
+  "macros": {
+    "kcal": 428,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 29,
+    "satFat": 16,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Tastes best slightly chilled. Keeps in the fridge for up to 5 days.",
+  "source": "Three Ingredient Baking"
+}

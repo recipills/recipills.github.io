@@ -1,0 +1,61 @@
+{
+  "id": "healthy-energy-bars",
+  "title": "Healthy Energy Bars",
+  "description": "No-bake energy bars made from dried mixed fruit, nuts and pitted dates. Great for an elevenses snack and freezable for up to 2 months.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "no-bake",
+    "energy bars",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 18,
+  "ingredients": [
+    {
+      "text": "200g dried mixed fruit (sultanas, raisins, currants or cranberries)",
+      "kcal": 544,
+      "protein": 2.4,
+      "carbs": 136,
+      "fat": 0.8,
+      "satFat": 0
+    },
+    {
+      "text": "250g mixed nuts (cashews, walnuts, Brazil nuts, pecans)",
+      "kcal": 1570,
+      "protein": 37,
+      "carbs": 40,
+      "fat": 140,
+      "satFat": 20
+    },
+    {
+      "text": "150g pitted dates",
+      "kcal": 413,
+      "protein": 3,
+      "carbs": 100,
+      "fat": 0.5,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Put all the ingredients in a food processor. Pulse a few times to make crumbs, then process for another minute until the mixture starts to come together into a ball.",
+    "Line a 25cm square baking tray with greaseproof paper and transfer the mixture to the tray. Spread into the corners and flatten with a palette knife.",
+    "Refrigerate for a couple of hours, then remove and cut into bars or squares."
+  ],
+  "macros": {
+    "kcal": 140,
+    "protein": 2.5,
+    "carbs": 17,
+    "fat": 8,
+    "satFat": 1.2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 18 bars. Per bar estimate. Freeze for up to 2 months.",
+  "source": "Three Ingredient Baking"
+}

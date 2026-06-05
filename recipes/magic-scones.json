@@ -1,0 +1,61 @@
+{
+  "id": "magic-scones",
+  "title": "Magic Scones",
+  "description": "Fluffy scones made from self-raising flour, double cream and a can of lemonade. Virtually indistinguishable from traditional scones — defy anyone to spot the difference.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "scones",
+    "afternoon tea",
+    "vegetarian"
+  ],
+  "prepTime": 15,
+  "cookTime": 20,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "600g self-raising flour, plus extra for dusting",
+      "kcal": 2142,
+      "protein": 60,
+      "carbs": 444,
+      "fat": 12,
+      "satFat": 3
+    },
+    {
+      "text": "300ml double cream",
+      "kcal": 1281,
+      "protein": 4,
+      "carbs": 5,
+      "fat": 135,
+      "satFat": 84
+    },
+    {
+      "text": "1 x 330ml can of lemonade",
+      "kcal": 130,
+      "protein": 0,
+      "carbs": 33,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan.",
+    "Sift the flour into a bowl. Add the cream slowly, then the lemonade. Stir with a metal spoon.",
+    "Use your hands to bring the dough together into a ball, adding more flour if too sticky. Turn on to a floured surface and knead lightly.",
+    "Pat to about 4cm thick and cut into circles with a 7cm fluted cutter (or the rim of a glass). Place on a baking sheet lined with greaseproof paper, 3cm apart.",
+    "Bake for 20 minutes until golden on top. Cool on a wire rack."
+  ],
+  "macros": {
+    "kcal": 355,
+    "protein": 6.4,
+    "carbs": 48,
+    "fat": 15,
+    "satFat": 9,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 10 large scones. Serve with jam and clotted cream.",
+  "source": "Three Ingredient Baking"
+}

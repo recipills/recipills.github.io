@@ -1,0 +1,62 @@
+{
+  "id": "lemon-posset",
+  "title": "Lemon Posset",
+  "description": "A classical British posset — rich double cream simmered with caster sugar and set with fresh lemon juice. Silky and tangy.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "lemon",
+    "cream",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "prepTime": 15,
+  "cookTime": 5,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "2 x 284ml cartons of double cream (568ml total)",
+      "kcal": 2433,
+      "protein": 9.1,
+      "carbs": 11.4,
+      "fat": 256,
+      "satFat": 160
+    },
+    {
+      "text": "160g caster sugar",
+      "kcal": 640,
+      "protein": 0,
+      "carbs": 160,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3 lemons",
+      "kcal": 36,
+      "protein": 1.2,
+      "carbs": 9,
+      "fat": 0.3,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Place 6 serving glasses or ramekins in the fridge to chill.",
+    "Put the cream and sugar in a saucepan and bring to the boil slowly, whisking. Simmer for 2–3 minutes until the mixture turns rich yellow.",
+    "Grate the zest from all 3 lemons; squeeze the juice from 2. Add the juice and two-thirds of the zest to the cream, whisking until smooth.",
+    "Pour into the serving dishes and scatter remaining zest on top.",
+    "Chill in the fridge for at least 3 hours before serving."
+  ],
+  "macros": {
+    "kcal": 512,
+    "protein": 1.7,
+    "carbs": 30,
+    "fat": 43,
+    "satFat": 27,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 6 possets. Serve with a ginger biscuit or shortbread round on the side.",
+  "source": "Three Ingredient Baking"
+}

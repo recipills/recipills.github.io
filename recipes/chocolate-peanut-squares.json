@@ -1,0 +1,63 @@
+{
+  "id": "chocolate-peanut-squares",
+  "title": "Chocolate Peanut Squares",
+  "description": "A no-bake traybake of dark chocolate, roasted peanuts and pitted dates. Sweet, nutty and surprisingly good for you.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "no-bake",
+    "chocolate",
+    "peanut",
+    "dates",
+    "vegan",
+    "gluten-free"
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "servings": 25,
+  "ingredients": [
+    {
+      "text": "125g dark chocolate (over 70% cocoa)",
+      "kcal": 700,
+      "protein": 8.75,
+      "carbs": 52,
+      "fat": 42,
+      "satFat": 9
+    },
+    {
+      "text": "200g unsalted roasted peanuts",
+      "kcal": 1228,
+      "protein": 104,
+      "carbs": 26,
+      "fat": 54,
+      "satFat": 50
+    },
+    {
+      "text": "200g pitted dates",
+      "kcal": 550,
+      "protein": 4,
+      "carbs": 133,
+      "fat": 0.7,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Chop the chocolate into small pieces. Put the peanuts and dates in a food processor and pulse until crumbly. Add 40g of the chopped chocolate and pulse to combine.",
+    "Line a 25cm square baking tray with greaseproof paper, tip in the mixture and smooth the top with a palette knife.",
+    "Melt the remaining chocolate and pour over the mixture. Smooth the top with a warmed palette knife.",
+    "Cover with cling film and refrigerate for 2–3 hours until firm. Cut into squares to serve."
+  ],
+  "macros": {
+    "kcal": 101,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 6,
+    "satFat": 2.4,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 25 squares. Per square estimate.",
+  "source": "Three Ingredient Baking"
+}

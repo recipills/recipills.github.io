@@ -1,0 +1,63 @@
+{
+  "id": "crustless-quiche",
+  "title": "Crustless Quiche",
+  "description": "A quick dinner of fresh spinach, eggs and double cream baked in a pie dish — essentially a glorified frittata without the pastry.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [
+    "savoury",
+    "quiche",
+    "spinach",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "260g fresh spinach",
+      "kcal": 60,
+      "protein": 7.3,
+      "carbs": 4.2,
+      "fat": 1,
+      "satFat": 0.3
+    },
+    {
+      "text": "8 eggs",
+      "kcal": 576,
+      "protein": 50.4,
+      "carbs": 3.2,
+      "fat": 40,
+      "satFat": 12.8
+    },
+    {
+      "text": "175ml double cream",
+      "kcal": 746,
+      "protein": 2.5,
+      "carbs": 2.5,
+      "fat": 79,
+      "satFat": 49
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Grease a 20cm round pie dish.",
+    "Cook the spinach (microwave in the bag for 1 minute, piercing first). Drain thoroughly in a colander, pressing out all water.",
+    "Chop the cooked spinach roughly. Arrange three-quarters in the pie dish.",
+    "Whisk the eggs and mix in the cream in a jug. Pour over the spinach. Arrange the remaining spinach on top.",
+    "Bake for 45 minutes until a skewer inserted into the centre comes out clean.",
+    "Serve hot or cold. Keeps 3–4 days in the fridge."
+  ],
+  "macros": {
+    "kcal": 237,
+    "protein": 10.7,
+    "carbs": 1.7,
+    "fat": 20,
+    "satFat": 12.2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6. Use stock instead of cream for a lighter version.",
+  "source": "Three Ingredient Baking"
+}

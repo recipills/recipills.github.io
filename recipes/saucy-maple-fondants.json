@@ -1,0 +1,62 @@
+{
+  "id": "saucy-maple-fondants",
+  "title": "Saucy Maple Fondants",
+  "description": "Straightforward fondant puddings with a nutty, sweet maple centre that oozes out when cut. Don't overcook — the sauce needs to stay liquid.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "fondant",
+    "maple syrup",
+    "dinner party"
+  ],
+  "prepTime": 135,
+  "cookTime": 22,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "200g good-quality maple syrup",
+      "kcal": 868,
+      "protein": 0,
+      "carbs": 225,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "100g plain flour",
+      "kcal": 364,
+      "protein": 10,
+      "carbs": 77,
+      "fat": 2,
+      "satFat": 0.5
+    },
+    {
+      "text": "4 eggs (2 whole eggs and 2 yolks)",
+      "kcal": 254,
+      "protein": 19.6,
+      "carbs": 1,
+      "fat": 18,
+      "satFat": 5.9
+    }
+  ],
+  "steps": [
+    "Grease 4 ramekins and line bases with greaseproof paper circles.",
+    "Mix 150g of the maple syrup with the sifted flour. In a separate bowl whisk the whole eggs and yolks together for a couple of minutes. Add to the maple mixture and whisk.",
+    "Divide between the ramekins (about two-thirds full) and refrigerate for 2 hours.",
+    "Meanwhile, spoon remaining 50g syrup into 4 ice-cube tray squares and freeze.",
+    "Preheat oven to 200°C/180°C fan. Drop a frozen maple syrup cube into the centre of each ramekin.",
+    "Bake for 20–22 minutes until just set on top. Turn out on to plates immediately and serve with whipped cream."
+  ],
+  "macros": {
+    "kcal": 307,
+    "protein": 6,
+    "carbs": 53,
+    "fat": 6.5,
+    "satFat": 2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 4 fondants. Eat while hot to see the syrupy centre flow out.",
+  "source": "Three Ingredient Baking"
+}

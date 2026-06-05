@@ -1,0 +1,61 @@
+{
+  "id": "peanut-butter-cookies",
+  "title": "Peanut Butter Cookies",
+  "description": "Crispy, nutty cookies made from just peanut butter, caster sugar and egg. Perfect dunkers for tea or served American-style with cold milk.",
+  "cuisine": "American",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "peanut butter",
+    "gluten-free",
+    "no flour"
+  ],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 25,
+  "ingredients": [
+    {
+      "text": "260g crunchy peanut butter",
+      "kcal": 1534,
+      "protein": 63,
+      "carbs": 43,
+      "fat": 134,
+      "satFat": 28
+    },
+    {
+      "text": "200g caster sugar",
+      "kcal": 800,
+      "protein": 0,
+      "carbs": 200,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 egg",
+      "kcal": 72,
+      "protein": 6,
+      "carbs": 0,
+      "fat": 5,
+      "satFat": 1.6
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 195°C/175°C fan.",
+    "Put the ingredients in a large bowl and mix well until combined. It should all come together into a ball of dough. If the mixture is still quite gooey, use a pair of teaspoons to complete the next step.",
+    "Take chunks of the dough and roll them into balls the size of a 50p piece. Place on a baking sheet lined with greaseproof paper, around 5cm apart. Use a fork to flatten each ball to around 1cm thick.",
+    "Bake for approximately 20 minutes (a few minutes less if you prefer them squidgy).",
+    "Cool on a wire rack before serving."
+  ],
+  "macros": {
+    "kcal": 96,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 6,
+    "satFat": 1.2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 25 cookies. Per cookie estimate. Try with almond or cashew butter for a less nutty flavour.",
+  "source": "Three Ingredient Baking"
+}

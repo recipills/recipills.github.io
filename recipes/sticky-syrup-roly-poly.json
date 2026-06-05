@@ -1,0 +1,64 @@
+{
+  "id": "sticky-syrup-roly-poly",
+  "title": "Sticky Syrup Roly-Poly",
+  "description": "Golden puff pastry rolled with an entire tin of golden syrup, baked in milk. A gloriously sticky, comforting British pudding.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "roly-poly",
+    "golden syrup",
+    "puff pastry",
+    "comfort food"
+  ],
+  "prepTime": 20,
+  "cookTime": 30,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "2 x 215g ready-rolled frozen puff pastry (430g total)",
+      "kcal": 1204,
+      "protein": 17.2,
+      "carbs": 128,
+      "fat": 72,
+      "satFat": 36
+    },
+    {
+      "text": "420g golden syrup (1 full tin)",
+      "kcal": 1260,
+      "protein": 0,
+      "carbs": 336,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300ml semi-skimmed milk",
+      "kcal": 144,
+      "protein": 10.2,
+      "carbs": 14.4,
+      "fat": 5.4,
+      "satFat": 3.6
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan. Grease a large rectangular crumble dish (38cm x 25cm).",
+    "Defrost the pastry rolls and unfurl each into a flat rectangle.",
+    "Spread the syrup evenly over each piece of pastry, leaving about 2.5cm border. Hold back a couple of teaspoons.",
+    "Starting in the bottom left corner, fold each pastry into the centre a few times to make two long diagonal rolls.",
+    "Lift rolls into the baking tray, side by side at a slant. Pour the milk over the top and drizzle remaining syrup.",
+    "Bake for 30 minutes until pastry is puffed and golden.",
+    "Serve straight from the dish with dollops of crème fraîche."
+  ],
+  "macros": {
+    "kcal": 326,
+    "protein": 3.4,
+    "carbs": 54,
+    "fat": 11,
+    "satFat": 5.9,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. Contains an entire tin of golden syrup.",
+  "source": "Three Ingredient Baking"
+}

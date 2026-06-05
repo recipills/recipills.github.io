@@ -1,0 +1,64 @@
+{
+  "id": "banana-bites",
+  "title": "Banana Bites",
+  "description": "Half banana bread, half flapjack — these bite-sized treats are made from mashed bananas, rolled oats and raisins. Healthy and comfortingly squidgy.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "banana",
+    "oats",
+    "raisins",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 26,
+  "ingredients": [
+    {
+      "text": "3 ripe bananas, peeled",
+      "kcal": 285,
+      "protein": 3.6,
+      "carbs": 69,
+      "fat": 0.9,
+      "satFat": 0.3
+    },
+    {
+      "text": "200g rolled oats",
+      "kcal": 758,
+      "protein": 23,
+      "carbs": 134,
+      "fat": 8,
+      "satFat": 1.4
+    },
+    {
+      "text": "150g raisins",
+      "kcal": 408,
+      "protein": 0.75,
+      "carbs": 104,
+      "fat": 0.75,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan.",
+    "Mash the bananas in a bowl until they form a gooey thick liquid. Stir in the rolled oats and raisins, mixing thoroughly.",
+    "Arrange heaped teaspoonfuls of the mixture in rows around 2cm apart on a baking sheet lined with greaseproof paper.",
+    "Bake for approximately 20 minutes until just turning golden brown. If using two baking sheets, swap them halfway through.",
+    "Allow to cool on the baking sheet before prising off. Serve in paper petit-four cases."
+  ],
+  "macros": {
+    "kcal": 56,
+    "protein": 1,
+    "carbs": 11,
+    "fat": 0.4,
+    "satFat": 0.1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 26 bites. Per bite estimate. Keep for several days in a tin.",
+  "source": "Three Ingredient Baking"
+}

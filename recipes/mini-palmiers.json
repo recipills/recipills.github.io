@@ -1,0 +1,62 @@
+{
+  "id": "mini-palmiers",
+  "title": "Mini Palmiers",
+  "description": "Crisp, light pastries filled with cinnamon sugar and baked until flaky and golden. Inspired by the Madrid bakery classic.",
+  "cuisine": "French",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "puff pastry",
+    "cinnamon",
+    "vegetarian"
+  ],
+  "prepTime": 40,
+  "cookTime": 20,
+  "servings": 28,
+  "ingredients": [
+    {
+      "text": "1 x 215g ready-rolled frozen puff pastry",
+      "kcal": 602,
+      "protein": 8.6,
+      "carbs": 64,
+      "fat": 36,
+      "satFat": 18
+    },
+    {
+      "text": "50g golden caster sugar",
+      "kcal": 200,
+      "protein": 0,
+      "carbs": 50,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 teaspoons ground cinnamon",
+      "kcal": 12,
+      "protein": 0.2,
+      "carbs": 2.4,
+      "fat": 0.2,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Leave the pastry out of the freezer for several hours to soften. Unroll one roll and flatten slightly with a rolling pin.",
+    "Mix the sugar and cinnamon together. Sprinkle evenly across the pastry.",
+    "Starting on one longer side, roll the edge in towards the centre, stopping in the middle. Do the same on the other side so the two rolls meet in the middle. Wrap in paper and freeze for at least 30 minutes.",
+    "Preheat the oven to 240°C/220°C fan.",
+    "Slice the roll into 1cm slices. Arrange flat on baking sheets lined with greaseproof paper, 5cm apart.",
+    "Bake for 15–20 minutes until flaky and golden. Cool on a wire rack."
+  ],
+  "macros": {
+    "kcal": 29,
+    "protein": 0.3,
+    "carbs": 4,
+    "fat": 1.3,
+    "satFat": 0.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 28 palmiers. Per palmier estimate. Can also make savoury with tapenade or cream cheese fillings.",
+  "source": "Three Ingredient Baking"
+}

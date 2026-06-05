@@ -1,0 +1,62 @@
+{
+  "id": "malteser-traybake",
+  "title": "Malteser Traybake",
+  "description": "A childhood party classic — white chocolate and butter melted together with crushed Maltesers, set in a tray and cut into sweet squares.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "no-bake",
+    "chocolate",
+    "malteser",
+    "kids"
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "servings": 25,
+  "ingredients": [
+    {
+      "text": "300g white chocolate (such as Milkybar)",
+      "kcal": 1590,
+      "protein": 18,
+      "carbs": 177,
+      "fat": 90,
+      "satFat": 55
+    },
+    {
+      "text": "100g unsalted butter",
+      "kcal": 745,
+      "protein": 0.7,
+      "carbs": 1,
+      "fat": 83,
+      "satFat": 52
+    },
+    {
+      "text": "200g Maltesers",
+      "kcal": 982,
+      "protein": 12,
+      "carbs": 126,
+      "fat": 48,
+      "satFat": 26
+    }
+  ],
+  "steps": [
+    "Grease and line a 25cm x 18cm baking tray.",
+    "Melt the white chocolate over a saucepan of boiling water or in the microwave in 20-second bursts. Add the butter and let it melt in, stirring regularly.",
+    "Crush two-thirds of the Maltesers in a ziplock bag and tip into a big bowl. Allow the melted chocolate mixture to cool slightly before pouring over the Maltesers. Stir quickly.",
+    "Tip into the baking tray, press remaining whole Maltesers into the top.",
+    "Refrigerate for 2–3 hours before slicing into small squares."
+  ],
+  "macros": {
+    "kcal": 133,
+    "protein": 1.2,
+    "carbs": 13,
+    "fat": 9,
+    "satFat": 5.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 25 squares. Per square estimate.",
+  "source": "Three Ingredient Baking"
+}

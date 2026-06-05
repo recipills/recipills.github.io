@@ -1,0 +1,62 @@
+{
+  "id": "bubbly-beer-bread",
+  "title": "Bubbly Beer Bread",
+  "description": "A hands-on, rich and malty loaf made from self-raising flour, caster sugar and dark beer. Goes perfectly with butter and a hearty stew.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "beer",
+    "loaf",
+    "dairy-free",
+    "vegan"
+  ],
+  "prepTime": 10,
+  "cookTime": 50,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "380g self-raising flour, plus a pinch for dusting",
+      "kcal": 1357,
+      "protein": 38,
+      "carbs": 283,
+      "fat": 7.6,
+      "satFat": 2
+    },
+    {
+      "text": "100g caster sugar",
+      "kcal": 400,
+      "protein": 0,
+      "carbs": 100,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 x 330ml can of dark beer",
+      "kcal": 140,
+      "protein": 1.3,
+      "carbs": 11,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Grease and line a standard loaf tin.",
+    "Sift the flour into a bowl and add the sugar then the beer gradually so it doesn't froth too much. Mix with a wooden spoon and transfer to the tin.",
+    "Dust the top with a little flour before putting in the oven.",
+    "Bake for 45–50 minutes until the crust is golden and a skewer comes out clean.",
+    "Turn out on to a wire rack to cool."
+  ],
+  "macros": {
+    "kcal": 190,
+    "protein": 4,
+    "carbs": 39,
+    "fat": 0.8,
+    "satFat": 0.2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Pale ale works as a substitute. Even lemonade makes a sweet, salty loaf good with cheese.",
+  "source": "Three Ingredient Baking"
+}

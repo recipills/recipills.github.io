@@ -1,0 +1,63 @@
+{
+  "id": "cauliflower-wraps",
+  "title": "Cauliflower Wraps",
+  "description": "Guilt-free mini tortilla-style wraps made from blitzed cauliflower, eggs and garlic. Light and versatile — serve alongside spicy dishes or use as a naan substitute.",
+  "cuisine": "British",
+  "category": "Side",
+  "tags": [
+    "savoury",
+    "cauliflower",
+    "gluten-free",
+    "low-carb",
+    "vegetarian"
+  ],
+  "prepTime": 20,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "1 whole cauliflower",
+      "kcal": 112,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 2,
+      "satFat": 0.4
+    },
+    {
+      "text": "3 eggs",
+      "kcal": 216,
+      "protein": 18.9,
+      "carbs": 1.2,
+      "fat": 15,
+      "satFat": 4.8
+    },
+    {
+      "text": "2 teaspoons mashed garlic (about 3 cloves)",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan. Line two large baking sheets with greaseproof paper.",
+    "Blitz the cauliflower florets into crumbs in a blender. Microwave on full power for 2 minutes, stirring every 30 seconds.",
+    "Mix the cauliflower with the eggs and garlic, whisking until smooth and thick.",
+    "Dollop 2 dessert spoons per wrap on to baking sheets, at least 10cm apart. Spread into flat circles about 0.5cm thick.",
+    "Bake for 10 minutes, flip with a fish slice, bake for another 6 minutes until just colouring.",
+    "Sear in a hot buttered frying pan for 2–3 minutes each side before serving."
+  ],
+  "macros": {
+    "kcal": 84,
+    "protein": 7.4,
+    "carbs": 3.8,
+    "fat": 4.8,
+    "satFat": 1.4,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 8 wraps, serves 4. Swap garlic for curry powder, paprika or za'atar.",
+  "source": "Three Ingredient Baking"
+}

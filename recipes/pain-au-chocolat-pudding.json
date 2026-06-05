@@ -1,0 +1,63 @@
+{
+  "id": "pain-au-chocolat-pudding",
+  "title": "Pain au Chocolat Pudding",
+  "description": "A bread and butter pudding using pains au chocolat, double cream and eggs for a sweet, stodgy, chocolatey bake — perfect on a wintry afternoon.",
+  "cuisine": "French",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "bread and butter pudding",
+    "chocolate",
+    "cream",
+    "comfort food"
+  ],
+  "prepTime": 55,
+  "cookTime": 35,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "6 cooked pains au chocolat, cold",
+      "kcal": 1680,
+      "protein": 36,
+      "carbs": 198,
+      "fat": 85,
+      "satFat": 49
+    },
+    {
+      "text": "400ml double cream",
+      "kcal": 1709,
+      "protein": 5.6,
+      "carbs": 6.8,
+      "fat": 180,
+      "satFat": 113
+    },
+    {
+      "text": "4 eggs",
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20,
+      "satFat": 6.4
+    }
+  ],
+  "steps": [
+    "Lightly grease a large rectangular crumble dish. Slice the cold pains au chocolat into four pieces and arrange chocolate-side up, packing tightly in a single layer.",
+    "Heat the cream in a saucepan until just bubbling (about 5 minutes).",
+    "Lightly whisk the eggs in a bowl. Add to the hot cream, whisking vigorously. Immediately pour over the pains au chocolat.",
+    "Leave to soak for 40 minutes.",
+    "Preheat the oven to 200°C/180°C fan. Bake for 35 minutes until golden, puffed and bubbling with eggy custard.",
+    "Serve hot, with lemon zest over the top if you like."
+  ],
+  "macros": {
+    "kcal": 368,
+    "protein": 6.7,
+    "carbs": 20,
+    "fat": 29,
+    "satFat": 17,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Delicious drizzled with Mars bar sauce (heat 3 chopped Mars bars with 120ml water and half a teaspoon instant coffee).",
+  "source": "Three Ingredient Baking"
+}

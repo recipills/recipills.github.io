@@ -1,0 +1,60 @@
+{
+  "id": "squidgy-chocolate-truffles",
+  "title": "Squidgy Chocolate Truffles",
+  "description": "Decadent dark chocolate truffles with a tang from low-fat cream cheese and a coating of cocoa powder. Slightly healthier than classic cream truffles.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "truffles",
+    "chocolate",
+    "no-bake"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 24,
+  "ingredients": [
+    {
+      "text": "230g dark chocolate",
+      "kcal": 1288,
+      "protein": 13.8,
+      "carbs": 126.5,
+      "fat": 64.4,
+      "satFat": 18
+    },
+    {
+      "text": "1 x 180g tub of low-fat cream cheese",
+      "kcal": 270,
+      "protein": 19.8,
+      "carbs": 7.2,
+      "fat": 18,
+      "satFat": 10
+    },
+    {
+      "text": "10g cocoa powder",
+      "kcal": 37,
+      "protein": 3,
+      "carbs": 6,
+      "fat": 0.5,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Melt the chocolate in 20-second microwave bursts. In a separate bowl, whisk the cream cheese with a fork until soft.",
+    "Add a spoonful of melted chocolate to the cream cheese, stir, then add the whole cream cheese mixture to the chocolate bowl. Cover with cling film and refrigerate for 1–2 hours.",
+    "Sift the cocoa powder on to a plate. Roll fingerfuls of truffle mixture into grape-sized balls between your palms. Roll in cocoa powder until fully coated.",
+    "Place on greaseproof paper. Chill or leave in a cool place for an hour to set. Keeps in a tin for a week."
+  ],
+  "macros": {
+    "kcal": 67,
+    "protein": 1.5,
+    "carbs": 6,
+    "fat": 4,
+    "satFat": 1.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 24 truffles. Per truffle estimate. Coat in desiccated coconut, chocolate sprinkles or chopped pistachios instead of cocoa.",
+  "source": "Three Ingredient Baking"
+}

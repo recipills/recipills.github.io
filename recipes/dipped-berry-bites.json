@@ -1,0 +1,63 @@
+{
+  "id": "dipped-berry-bites",
+  "title": "Dipped Berry Bites",
+  "description": "Freeze-dried raspberry powder mixed into white almond butter, rolled into balls and dipped in white chocolate for an elegant petit-four.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "no-bake",
+    "raspberry",
+    "white chocolate",
+    "almond butter",
+    "gluten-free"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 14,
+  "ingredients": [
+    {
+      "text": "20g freeze-dried raspberries",
+      "kcal": 68,
+      "protein": 1.4,
+      "carbs": 16,
+      "fat": 0.8,
+      "satFat": 0
+    },
+    {
+      "text": "170g white almond butter",
+      "kcal": 1040,
+      "protein": 37,
+      "carbs": 29,
+      "fat": 90,
+      "satFat": 7
+    },
+    {
+      "text": "100g white chocolate",
+      "kcal": 530,
+      "protein": 6,
+      "carbs": 59,
+      "fat": 30,
+      "satFat": 19
+    }
+  ],
+  "steps": [
+    "Blitz the freeze-dried raspberries to a fine powder in a blender. Stir into the almond butter until fully combined.",
+    "Roll into small balls (20p-piece size) and arrange on greaseproof paper. Freeze for 90 minutes to harden.",
+    "Melt the white chocolate over boiling water or in the microwave. Allow to cool slightly.",
+    "Remove bites from the freezer, re-roll into spheres. Dip each one in the chocolate, place on greaseproof paper.",
+    "Freeze for another 90 minutes to set. Keeps for a week in the fridge."
+  ],
+  "macros": {
+    "kcal": 131,
+    "protein": 3.3,
+    "carbs": 7.4,
+    "fat": 10,
+    "satFat": 2.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 14 bites. Per bite estimate. Work fast when dipping so the filling stays firm.",
+  "source": "Three Ingredient Baking"
+}

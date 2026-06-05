@@ -1,0 +1,62 @@
+{
+  "id": "honeycomb",
+  "title": "Honeycomb",
+  "description": "Classic honeycomb (cinder toffee, hokey pokey) made with caster sugar, golden syrup and bicarbonate of soda. Light, bubbly, golden shards.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "honeycomb",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "200g caster sugar",
+      "kcal": 800,
+      "protein": 0,
+      "carbs": 200,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "5 tablespoons golden syrup",
+      "kcal": 375,
+      "protein": 0,
+      "carbs": 100,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 teaspoons bicarbonate of soda",
+      "kcal": 4,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Line a 25cm square baking tray, greasing both under and on top of the greaseproof paper.",
+    "Pour the sugar and syrup into a large deep saucepan. Stir over gentle heat until sugar dissolves.",
+    "Turn up the heat and let the mixture bubble until amber. Turn off the heat immediately.",
+    "Add the bicarbonate of soda and stir quickly — it will foam and expand rapidly. Tip into the tray immediately.",
+    "Handle gently to preserve the light bubbly texture. Leave to cool for 1–2 hours, then break into pieces."
+  ],
+  "macros": {
+    "kcal": 147,
+    "protein": 0,
+    "carbs": 38,
+    "fat": 0,
+    "satFat": 0,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. Keeps 2–3 days in a sealed tin. Dip in chocolate for a month-long shelf life.",
+  "source": "Three Ingredient Baking"
+}

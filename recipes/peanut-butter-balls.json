@@ -1,0 +1,61 @@
+{
+  "id": "peanut-butter-balls",
+  "title": "Peanut Butter Balls",
+  "description": "Simple balls of peanut butter and icing sugar, dipped in dark chocolate. A healthy-ish treat that uses up storecupboard ingredients.",
+  "cuisine": "American",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "no-bake",
+    "peanut butter",
+    "chocolate",
+    "gluten-free"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 28,
+  "ingredients": [
+    {
+      "text": "240g icing sugar",
+      "kcal": 936,
+      "protein": 0,
+      "carbs": 240,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "340g smooth peanut butter",
+      "kcal": 2040,
+      "protein": 84,
+      "carbs": 84,
+      "fat": 168,
+      "satFat": 35
+    },
+    {
+      "text": "170g dark chocolate for dipping",
+      "kcal": 952,
+      "protein": 9,
+      "carbs": 95,
+      "fat": 48,
+      "satFat": 14
+    }
+  ],
+  "steps": [
+    "Sift the icing sugar into a bowl and slowly add the peanut butter. Bring together with your hands. Cover with cling film and refrigerate for 30 minutes.",
+    "Roll into 50p-sized balls between your palms. Place on greaseproof paper and chill for another 30 minutes.",
+    "Melt the chocolate in a heatproof bowl over boiling water or in the microwave. Allow to cool slightly.",
+    "Dip the balls one by one in chocolate until fully covered. Allow excess to drip off and place on a wire rack to harden."
+  ],
+  "macros": {
+    "kcal": 141,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 8.5,
+    "satFat": 2.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 25–30 balls. Per ball estimate.",
+  "source": "Three Ingredient Baking"
+}

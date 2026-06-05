@@ -1,0 +1,63 @@
+{
+  "id": "rise-and-shine-pancakes",
+  "title": "Rise and Shine Pancakes",
+  "description": "Paleo pancakes made from egg, ground cinnamon and grated apple. The ultimate quick breakfast — mixed and cooked in minutes.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "pancakes",
+    "paleo",
+    "gluten-free",
+    "dairy-free",
+    "low carb"
+  ],
+  "prepTime": 35,
+  "cookTime": 6,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 large egg",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5,
+      "satFat": 1.6
+    },
+    {
+      "text": "1/2 teaspoon ground cinnamon",
+      "kcal": 3,
+      "protein": 0.05,
+      "carbs": 0.6,
+      "fat": 0.05,
+      "satFat": 0
+    },
+    {
+      "text": "1 red apple",
+      "kcal": 60,
+      "protein": 0.3,
+      "carbs": 14,
+      "fat": 0.2,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Beat the egg in a medium bowl and add the cinnamon.",
+    "Peel and very finely grate the apple into the egg mixture. Blend well. Cover tightly with cling film and leave for at least 30 minutes to thicken.",
+    "Heat a knob of butter in a medium frying pan. Drop the batter in blobs of 2 heaped tablespoons, a few centimetres apart.",
+    "Cook over medium heat for 2–3 minutes until lightly browned underneath. Flip and cook for another few minutes.",
+    "Serve with natural yoghurt, more grated apple, icing sugar or chopped nuts."
+  ],
+  "macros": {
+    "kcal": 135,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 5,
+    "satFat": 1.7,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Each batch (2 pancakes) serves 1. Multiply as needed. Also works with mashed banana instead of apple.",
+  "source": "Three Ingredient Baking"
+}

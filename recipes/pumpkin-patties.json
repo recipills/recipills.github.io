@@ -1,0 +1,62 @@
+{
+  "id": "pumpkin-patties",
+  "title": "Pumpkin Patties",
+  "description": "Savoury patties made from roasted pumpkin or butternut squash, fresh thyme and rolled oats. Crispy on top, tender inside — serve alongside soup or salad.",
+  "cuisine": "British",
+  "category": "Side",
+  "tags": [
+    "savoury",
+    "pumpkin",
+    "oats",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "prepTime": 15,
+  "cookTime": 50,
+  "servings": 18,
+  "ingredients": [
+    {
+      "text": "800g peeled, deseeded and chopped pumpkin (or butternut squash)",
+      "kcal": 320,
+      "protein": 8,
+      "carbs": 72,
+      "fat": 0.8,
+      "satFat": 0.2
+    },
+    {
+      "text": "Handful of fresh thyme, leaves picked and finely chopped",
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 1,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "150g rolled oats",
+      "kcal": 569,
+      "protein": 17.3,
+      "carbs": 101,
+      "fat": 6,
+      "satFat": 1.1
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Spread the pumpkin on a foil-lined tray, sprinkle with thyme and roast for 30 minutes.",
+    "Leave the oven on. Tip the roasted pumpkin into a bowl and mash. Add the oats and mix until rollable — add more oats if too runny.",
+    "Roll into 50p-piece-sized balls and spread on a baking sheet lined with greaseproof paper.",
+    "Flatten with a fork and bake for 20 more minutes until just crispy on top.",
+    "Use a fish slice to remove from the sheet and serve."
+  ],
+  "macros": {
+    "kcal": 54,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0.7,
+    "satFat": 0.1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 18 patties. Per patty estimate.",
+  "source": "Three Ingredient Baking"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "microwave-meringues",
+  "title": "Microwave Meringues",
+  "description": "Magical microwave meringues made from icing sugar and egg white — watch them puff up in the microwave in under a minute. Serve with passion fruit or berries.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "meringues",
+    "microwave",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 15,
+  "cookTime": 1,
+  "servings": 15,
+  "ingredients": [
+    {
+      "text": "280g icing sugar",
+      "kcal": 1092,
+      "protein": 0,
+      "carbs": 280,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "30g egg white (roughly 1 large egg)",
+      "kcal": 15,
+      "protein": 3.6,
+      "carbs": 0.2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3 passion fruit or a punnet of fresh berries, to serve",
+      "kcal": 60,
+      "protein": 1.5,
+      "carbs": 12,
+      "fat": 0.5,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Sift the icing sugar into the egg white and mix roughly with a wooden spoon (do not whisk). Knead with your hands until combined and even — texture should be thick paste.",
+    "Divide into walnut-sized balls (around 20g each).",
+    "Cut a circle of greaseproof paper to fit the microwave turntable.",
+    "Arrange 2 balls on the paper, well spaced. Heat for 40–60 seconds, watching closely — stop when they look big enough.",
+    "Cool on a wire rack. Repeat for the rest of the batch.",
+    "Serve drizzled with passion fruit seeds and juice, or crumbled into whipped cream and berries."
+  ],
+  "macros": {
+    "kcal": 72,
+    "protein": 0.3,
+    "carbs": 18,
+    "fat": 0,
+    "satFat": 0,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 15 large meringues. Per meringue estimate (excluding berries). Handle carefully — the intense heat makes them very fragile.",
+  "source": "Three Ingredient Baking"
+}

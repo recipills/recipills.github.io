@@ -1,0 +1,63 @@
+{
+  "id": "cornflake-crunch",
+  "title": "Cornflake Crunch",
+  "description": "Crunchy squares of caramelised cornflakes bound with condensed milk. Incredibly moreish party food for children and adults alike.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "no-bake",
+    "cornflake",
+    "caramel",
+    "kids"
+  ],
+  "prepTime": 20,
+  "cookTime": 25,
+  "servings": 25,
+  "ingredients": [
+    {
+      "text": "175g caster sugar",
+      "kcal": 700,
+      "protein": 0,
+      "carbs": 175,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300g cornflakes",
+      "kcal": 1116,
+      "protein": 21,
+      "carbs": 249,
+      "fat": 3,
+      "satFat": 0.6
+    },
+    {
+      "text": "1 x 397g tin of sweetened condensed milk",
+      "kcal": 1297,
+      "protein": 32,
+      "carbs": 221,
+      "fat": 35,
+      "satFat": 22
+    }
+  ],
+  "steps": [
+    "Line a large baking tray (32cm x 25cm) with greaseproof paper.",
+    "Heat the sugar in a saucepan over medium heat until it caramelises (5–10 minutes). Don't stir — swirl the pan instead.",
+    "Crush the cornflakes slightly between your fingers in a bowl.",
+    "Add the condensed milk to the caramelised sugar — it may solidify but keep stirring over heat until dissolved and golden (up to 15 minutes).",
+    "Pour over the cornflakes, mix well with a wooden spoon, tip into the tin and press down.",
+    "Set aside to cool before cutting into squares."
+  ],
+  "macros": {
+    "kcal": 125,
+    "protein": 2,
+    "carbs": 26,
+    "fat": 1.5,
+    "satFat": 0.9,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 25 squares. Per square estimate. Can use Rice Krispies or Crunchy Nut Cornflakes instead.",
+  "source": "Three Ingredient Baking"
+}

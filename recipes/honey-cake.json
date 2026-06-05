@@ -1,0 +1,63 @@
+{
+  "id": "honey-cake",
+  "title": "Honey Cake",
+  "description": "A dense, moist one-layer cake using ground flaked almonds instead of flour, with whisked egg whites for height and a drizzle of honey on top.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "honey",
+    "almond",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 20,
+  "cookTime": 25,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "4 eggs",
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20,
+      "satFat": 6.4
+    },
+    {
+      "text": "5 tablespoons runny honey",
+      "kcal": 320,
+      "protein": 0,
+      "carbs": 85,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "150g flaked almonds",
+      "kcal": 920,
+      "protein": 31.5,
+      "carbs": 10.5,
+      "fat": 80,
+      "satFat": 6.5
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 190°C/170°C fan. Grease and line a 20cm round cake tin.",
+    "Separate the eggs and whisk the whites to stiff peaks. Beat the yolks with 4 tablespoons of the honey.",
+    "Blitz 125g of the flaked almonds in a food processor to grind them. Toast the remaining 25g in the oven for 5–10 minutes.",
+    "Mix the ground almonds with the egg yolks and honey, then gradually fold in the egg whites with a metal spoon.",
+    "Transfer to the cake tin and bake for 25 minutes, lowering the temperature to 180°C/160°C fan for the final 10 minutes.",
+    "Allow to cool completely before turning out. Drizzle the final tablespoon of honey over the top and scatter with toasted almonds."
+  ],
+  "macros": {
+    "kcal": 153,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 10,
+    "satFat": 1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Keeps 1–2 days in an airtight tin.",
+  "source": "Three Ingredient Baking"
+}

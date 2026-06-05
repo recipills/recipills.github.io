@@ -1,0 +1,63 @@
+{
+  "id": "white-bread-plait",
+  "title": "White Bread Plait",
+  "description": "A simple three-ingredient loaf of strong white flour, fast-action yeast and water, plaited and baked to golden perfection.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "plait",
+    "yeast",
+    "dairy-free",
+    "vegan"
+  ],
+  "prepTime": 240,
+  "cookTime": 40,
+  "servings": 14,
+  "ingredients": [
+    {
+      "text": "600g strong white bread flour",
+      "kcal": 2100,
+      "protein": 60,
+      "carbs": 432,
+      "fat": 6,
+      "satFat": 1
+    },
+    {
+      "text": "14g fast-action dried yeast (2 x 7g sachets)",
+      "kcal": 40,
+      "protein": 7,
+      "carbs": 5,
+      "fat": 0.5,
+      "satFat": 0
+    },
+    {
+      "text": "400ml cool water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Sift the flour into a bowl, add the yeast, stir. Add half the water and mix with your hands, then add the rest gradually until the dough is tacky.",
+    "Knead on an oiled surface for 5–10 minutes until smooth and elastic. Place in a greased bowl, cover with oiled cling film and leave in a warm place for up to 3 hours until doubled in size.",
+    "Knock the air out, divide into three equal pieces and roll each into a 40cm sausage. Plait the three strands, securing both ends.",
+    "Place on a lined baking sheet, cover and prove for another hour until springy.",
+    "Preheat oven to 240°C/220°C fan. Place a tray of boiling water on the lower shelf for steam.",
+    "Bake for 40 minutes until golden and hollow-sounding when tapped. Cool on a wire rack."
+  ],
+  "macros": {
+    "kcal": 155,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 0.6,
+    "satFat": 0.1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 12–14. The steam from the water tray helps crisp the crust.",
+  "source": "Three Ingredient Baking"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "sesame-slab",
+  "title": "Sesame Slab",
+  "description": "A super-sweet, nutty slab made from caramelised sugar, coconut oil and tahini. Sets quickly and cuts into squares. Serve on the side of an espresso.",
+  "cuisine": "Middle Eastern",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "tahini",
+    "sesame",
+    "no-bake",
+    "vegan",
+    "gluten-free"
+  ],
+  "prepTime": 15,
+  "cookTime": 10,
+  "servings": 18,
+  "ingredients": [
+    {
+      "text": "150g granulated sugar",
+      "kcal": 600,
+      "protein": 0,
+      "carbs": 150,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 teaspoons coconut oil",
+      "kcal": 80,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 9,
+      "satFat": 8
+    },
+    {
+      "text": "100g tahini",
+      "kcal": 595,
+      "protein": 17,
+      "carbs": 21,
+      "fat": 54,
+      "satFat": 8
+    }
+  ],
+  "steps": [
+    "Line a 25cm x 18cm baking tray with greaseproof paper pressed firmly into the corners.",
+    "Heat the sugar in a saucepan over medium heat until it caramelises and turns amber (about 6 minutes, or 118–120°C on a sugar thermometer). Add the coconut oil and mix.",
+    "Take off the heat and add the tahini (stir the jar first), stirring constantly. Work quickly as it sets fast.",
+    "Scrape into the baking tray, smooth the top with a palette knife. Refrigerate for 30 minutes before cutting into squares."
+  ],
+  "macros": {
+    "kcal": 72,
+    "protein": 0.9,
+    "carbs": 9.5,
+    "fat": 3.5,
+    "satFat": 0.9,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 18 squares. Per square estimate. Sprinkle with toasted coconut or sesame seeds for added crunch.",
+  "source": "Three Ingredient Baking"
+}

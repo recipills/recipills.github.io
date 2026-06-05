@@ -1,0 +1,65 @@
+{
+  "id": "baklava",
+  "title": "Baklava",
+  "description": "A simplified version of the Middle Eastern classic — layers of filo pastry with crunchy mixed nuts (including pistachios) drenched in warm honey.",
+  "cuisine": "Middle Eastern",
+  "category": "Dessert",
+  "tags": [
+    "traybake",
+    "baklava",
+    "filo",
+    "honey",
+    "nuts",
+    "vegan"
+  ],
+  "prepTime": 30,
+  "cookTime": 60,
+  "servings": 20,
+  "ingredients": [
+    {
+      "text": "1 x 270g ready-rolled filo pastry sheets",
+      "kcal": 540,
+      "protein": 14,
+      "carbs": 100,
+      "fat": 6,
+      "satFat": 1.5
+    },
+    {
+      "text": "300g mixed nuts including pistachios",
+      "kcal": 1885,
+      "protein": 46,
+      "carbs": 61,
+      "fat": 166,
+      "satFat": 22
+    },
+    {
+      "text": "6 tablespoons runny honey",
+      "kcal": 384,
+      "protein": 0,
+      "carbs": 102,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 160°C/140°C fan. Grease a 25cm square baking tray.",
+    "Cut the filo into sheets exactly the size of the tray base. Cover with a damp tea towel to stop drying.",
+    "Chop the nuts into coarse chunks.",
+    "Assemble the baklava: start with 2 sheets of filo, scatter a quarter of the nuts, sprinkle with cold water. Repeat 3 more times, ending with a single sheet of filo.",
+    "Cut the baklava into diamonds with a sharp knife before baking. Bake for 50 minutes until the top is crisp and brown.",
+    "Heat the honey in a saucepan for 5–10 minutes until thin. Spoon over the baked baklava and return to oven for 10 minutes.",
+    "Cool completely in the dish before serving."
+  ],
+  "macros": {
+    "kcal": 141,
+    "protein": 3,
+    "carbs": 13,
+    "fat": 9,
+    "satFat": 1.3,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 20 pieces. Per piece estimate. Pistachios are crucial. Use flavoured honey (cinnamon or lavender) for a more authentic taste.",
+  "source": "Three Ingredient Baking"
+}

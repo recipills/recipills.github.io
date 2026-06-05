@@ -1,0 +1,64 @@
+{
+  "id": "mango-roll-ups",
+  "title": "Mango Roll-Ups",
+  "description": "Retro fruit roll-ups made from blended fresh mango, lemon juice and honey, dried in a low oven for 3–4 hours. No added sugar.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "mango",
+    "fruit leather",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no sugar"
+  ],
+  "prepTime": 15,
+  "cookTime": 240,
+  "servings": 5,
+  "ingredients": [
+    {
+      "text": "1 large ripe mango (around 500g)",
+      "kcal": 300,
+      "protein": 4,
+      "carbs": 75,
+      "fat": 2,
+      "satFat": 0.5
+    },
+    {
+      "text": "2 teaspoons lemon juice",
+      "kcal": 2,
+      "protein": 0,
+      "carbs": 0.7,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 teaspoons runny honey",
+      "kcal": 43,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 100°C/80°C fan. Line a large baking sheet with greaseproof paper pressed into corners.",
+    "Peel and de-stone the mango, blending all the fruit with the lemon juice and honey until smooth.",
+    "Tip on to the lined sheet and smooth to a thin even layer (2–3mm thick) with a palette knife.",
+    "Bake at low heat for 3–4 hours until fully dried out and pliable.",
+    "While still warm, place another sheet of greaseproof paper on top and peel the mixture off the base sheet. Trim edges with a knife, then roll into a cylinder and snip into 5 pieces."
+  ],
+  "macros": {
+    "kcal": 69,
+    "protein": 0.8,
+    "carbs": 17,
+    "fat": 0.5,
+    "satFat": 0.1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 5 roll-ups. Per roll-up estimate. Keeps for around a week. Also works with pineapple, apple or mixed berries.",
+  "source": "Three Ingredient Baking"
+}

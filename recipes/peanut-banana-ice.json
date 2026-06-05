@@ -1,0 +1,62 @@
+{
+  "id": "peanut-banana-ice",
+  "title": "Peanut Banana Ice",
+  "description": "A healthy frozen dessert made from blended bananas, smooth peanut butter and salted peanuts. Creamy and satisfying.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "banana",
+    "peanut butter",
+    "gluten-free",
+    "dairy-free",
+    "vegan"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "4 ripe bananas, peeled",
+      "kcal": 380,
+      "protein": 4.8,
+      "carbs": 92,
+      "fat": 1.2,
+      "satFat": 0.4
+    },
+    {
+      "text": "340g smooth peanut butter",
+      "kcal": 2210,
+      "protein": 91,
+      "carbs": 91,
+      "fat": 182,
+      "satFat": 38
+    },
+    {
+      "text": "100g salted peanuts",
+      "kcal": 614,
+      "protein": 52,
+      "carbs": 13,
+      "fat": 27,
+      "satFat": 25
+    }
+  ],
+  "steps": [
+    "Line a 500ml freezer-safe container with cling film.",
+    "Purée the bananas in a blender until smooth. Slowly add the peanut butter, blending between each addition.",
+    "Add two-thirds of the peanuts and stir in by hand. Tip into the container and flatten the top. Scatter remaining peanuts on top.",
+    "Freeze for around 4 hours for soft-serve consistency, or 6 hours for a harder scoop."
+  ],
+  "macros": {
+    "kcal": 535,
+    "protein": 25,
+    "carbs": 33,
+    "fat": 37,
+    "satFat": 7.8,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6.",
+  "source": "Three Ingredient Baking"
+}

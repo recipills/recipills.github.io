@@ -1,0 +1,62 @@
+{
+  "id": "coconut-ice-cream",
+  "title": "Coconut Ice Cream",
+  "description": "A tropical light ice cream made from chilled tinned coconut milk, caster sugar and vanilla extract. Whisked repeatedly while freezing for a creamy result.",
+  "cuisine": "Caribbean",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "coconut",
+    "vegan",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "2 x 400ml tins of coconut milk, chilled overnight",
+      "kcal": 880,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 88,
+      "satFat": 78
+    },
+    {
+      "text": "325g caster sugar",
+      "kcal": 1300,
+      "protein": 0,
+      "carbs": 325,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 teaspoons vanilla extract",
+      "kcal": 24,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Line a standard loaf tin or 1-litre container with cling film, leaving flaps to cover the top.",
+    "Whisk the chilled coconut milk in a large bowl until smooth and bubbly. Add the sugar, whisk thoroughly, then add the vanilla and repeat.",
+    "Pour into the lined tin. Cover and place in the lowest part of the freezer.",
+    "Remove every 30 minutes and whisk thoroughly. Repeat at least 6 times over 3 hours, then leave to set completely.",
+    "The ice cream will keep for up to 2 months in the freezer."
+  ],
+  "macros": {
+    "kcal": 276,
+    "protein": 1,
+    "carbs": 43,
+    "fat": 12,
+    "satFat": 11,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. The repeated whisking replaces the need for an ice cream maker.",
+  "source": "Three Ingredient Baking"
+}

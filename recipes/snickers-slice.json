@@ -1,0 +1,62 @@
+{
+  "id": "snickers-slice",
+  "title": "Snickers Slice",
+  "description": "A simple traybake made by melting Snickers bars, adding eggs and flour to create a peanut-caramel sponge — who said baking was difficult?",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "chocolate",
+    "snickers",
+    "caramel",
+    "peanut"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 18,
+  "ingredients": [
+    {
+      "text": "8 x 48g Snickers bars (384g total)",
+      "kcal": 1996,
+      "protein": 45,
+      "carbs": 255,
+      "fat": 92,
+      "satFat": 35
+    },
+    {
+      "text": "2 eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10,
+      "satFat": 3.2
+    },
+    {
+      "text": "75g self-raising flour",
+      "kcal": 268,
+      "protein": 7.5,
+      "carbs": 55.5,
+      "fat": 1.5,
+      "satFat": 0.4
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 195°C/175°C fan. Line a 25cm square baking tray with greaseproof paper.",
+    "Break seven of the Snickers bars into a heatproof bowl and melt in the microwave, stirring every 20 seconds.",
+    "Once fully melted, whisk to get rid of lumps. Add the eggs, sift in the flour and beat until fully combined.",
+    "Pour into the tin and bake for 30 minutes, or until spongy to the touch.",
+    "Allow to cool in the tin. Before slicing, decorate with the remaining Snickers bar chopped into chunks."
+  ],
+  "macros": {
+    "kcal": 136,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 7,
+    "satFat": 2.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 18 pieces. Per piece estimate. Also works with Mars or Boost bars.",
+  "source": "Three Ingredient Baking"
+}

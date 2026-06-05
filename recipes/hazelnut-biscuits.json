@@ -1,0 +1,61 @@
+{
+  "id": "hazelnut-biscuits",
+  "title": "Hazelnut Biscuits",
+  "description": "Italian 'brutti ma buoni' — ugly but good. Toasted hazelnuts blended into whisked egg whites and sugar for a chewy, nutty biscuit.",
+  "cuisine": "Italian",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "hazelnuts",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 20,
+  "cookTime": 25,
+  "servings": 20,
+  "ingredients": [
+    {
+      "text": "200g whole hazelnuts, skin on",
+      "kcal": 1256,
+      "protein": 30,
+      "carbs": 20,
+      "fat": 122,
+      "satFat": 9
+    },
+    {
+      "text": "3 egg whites",
+      "kcal": 45,
+      "protein": 10.8,
+      "carbs": 0.6,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "175g caster sugar",
+      "kcal": 700,
+      "protein": 0,
+      "carbs": 175,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 195°C/175°C fan.",
+    "Tip the hazelnuts on to a baking sheet and roast for 12–15 minutes until toasty brown. Allow to cool, then blitz in a food processor to breadcrumb consistency.",
+    "In a separate bowl, whisk the egg whites to stiff peaks, then slowly stir in the sugar a spoonful at a time, followed by the ground nuts. You should end up with a thick, crumbly paste.",
+    "Arrange heaped teaspoons of the mixture on two baking sheets lined with greaseproof paper, leaving around 3cm between.",
+    "Bake for 25 minutes or until just crisp, switching the trays halfway through. The biscuits should still be slightly soft inside."
+  ],
+  "macros": {
+    "kcal": 100,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6,
+    "satFat": 0.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 20 biscuits. Per biscuit estimate.",
+  "source": "Three Ingredient Baking"
+}

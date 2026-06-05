@@ -1,0 +1,62 @@
+{
+  "id": "flapjacks",
+  "title": "Flapjacks",
+  "description": "Traditional British flapjacks made with just oats, golden syrup and butter — toffee-like on top and crumbly in the middle. Sliced into chunky triangles.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "oats",
+    "golden syrup",
+    "classic",
+    "vegetarian"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 24,
+  "ingredients": [
+    {
+      "text": "200g unsalted butter",
+      "kcal": 1490,
+      "protein": 1.4,
+      "carbs": 2,
+      "fat": 166,
+      "satFat": 104
+    },
+    {
+      "text": "300g golden syrup",
+      "kcal": 900,
+      "protein": 0,
+      "carbs": 240,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "350g rolled oats",
+      "kcal": 1328,
+      "protein": 40,
+      "carbs": 243,
+      "fat": 21,
+      "satFat": 3.5
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180°C/160°C fan, and butter and line two small round cake tins (20cm across).",
+    "Melt the butter with the syrup in a saucepan over a medium heat, removing from the hob before the mixture starts to bubble. Pour over the oats in a large bowl and mix thoroughly.",
+    "Press the mixture down into the cake tins tightly with the back of a spoon until flat and even.",
+    "Bake for approximately 30 minutes until golden on top.",
+    "While still hot, use a sharp knife to score each tin into twelve triangular pieces. Allow to cool completely in the tins before removing."
+  ],
+  "macros": {
+    "kcal": 155,
+    "protein": 2,
+    "carbs": 21,
+    "fat": 8,
+    "satFat": 5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 24 flapjacks. Per flapjack estimate. For dairy-free, replace butter with the same weight of melted coconut oil.",
+  "source": "Three Ingredient Baking"
+}

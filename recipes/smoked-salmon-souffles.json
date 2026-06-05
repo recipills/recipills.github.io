@@ -1,0 +1,62 @@
+{
+  "id": "smoked-salmon-souffles",
+  "title": "Smoked Salmon Soufflés",
+  "description": "Fluffy cheat's soufflés using shop-bought fresh custard as the secret ingredient — they rise perfectly every time. A stunning dinner-party starter.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [
+    "savoury",
+    "souffle",
+    "salmon",
+    "dinner party"
+  ],
+  "prepTime": 40,
+  "cookTime": 18,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "5 egg whites",
+      "kcal": 75,
+      "protein": 18,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g smoked salmon",
+      "kcal": 180,
+      "protein": 25,
+      "carbs": 0,
+      "fat": 9,
+      "satFat": 2
+    },
+    {
+      "text": "150g shop-bought fresh custard (savoury, not sweet)",
+      "kcal": 87,
+      "protein": 3.2,
+      "carbs": 8.7,
+      "fat": 3.2,
+      "satFat": 0.9
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan. Grease 6 small ramekins and arrange in a deep baking tray.",
+    "Whisk the egg whites until stiff peaks form.",
+    "Break 80g of the salmon into small pieces in a bowl. Add the custard, mix and leave to infuse for 30 minutes.",
+    "Fold the egg whites into the custard mixture a spoonful at a time. Fill the ramekins two-thirds full.",
+    "Make a bain-marie by pouring boiling water into the tray to a third of the way up the ramekins.",
+    "Bake for 15–18 minutes until risen at least 2.5cm above the rim and golden. Serve immediately, scattered with remaining salmon."
+  ],
+  "macros": {
+    "kcal": 57,
+    "protein": 7.7,
+    "carbs": 1.5,
+    "fat": 2,
+    "satFat": 0.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 6 soufflés. Can be made ahead and kept in the fridge for up to 3 days; reheat at 240°C for 10 minutes.",
+  "source": "Three Ingredient Baking"
+}

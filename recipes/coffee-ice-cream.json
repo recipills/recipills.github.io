@@ -1,0 +1,62 @@
+{
+  "id": "coffee-ice-cream",
+  "title": "Coffee Ice Cream",
+  "description": "A smooth, creamy no-churn coffee ice cream made from espresso, condensed milk and evaporated milk. Whisked and frozen for a scoopable result.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "coffee",
+    "no-churn",
+    "gluten-free"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "1 espresso (3 tsp instant coffee + 2 tsp boiling water)",
+      "kcal": 5,
+      "protein": 0.3,
+      "carbs": 0.8,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "200g sweetened condensed milk (roughly half a tin)",
+      "kcal": 652,
+      "protein": 16,
+      "carbs": 111,
+      "fat": 17.5,
+      "satFat": 11
+    },
+    {
+      "text": "610g evaporated milk (roughly 1.5 tins)",
+      "kcal": 878,
+      "protein": 55,
+      "carbs": 75,
+      "fat": 40,
+      "satFat": 26
+    }
+  ],
+  "steps": [
+    "Line a 1-litre freezer-safe container with cling film.",
+    "Make the espresso and allow to cool slightly. Stir into the condensed milk in a large bowl.",
+    "Pour in the evaporated milk. Whisk on the highest setting for 5–6 minutes until bubbly and pale.",
+    "Tip into the container, fold the cling film over and seal.",
+    "Freeze for 3 hours, then take out and stir through. Return to freezer for another 3 hours or overnight.",
+    "Take out 20 minutes before serving to soften slightly."
+  ],
+  "macros": {
+    "kcal": 256,
+    "protein": 12,
+    "carbs": 31,
+    "fat": 10,
+    "satFat": 6.2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6. Keeps in the freezer for a few months.",
+  "source": "Three Ingredient Baking"
+}

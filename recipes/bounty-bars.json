@@ -1,0 +1,62 @@
+{
+  "id": "bounty-bars",
+  "title": "Bounty Bars",
+  "description": "Homemade coconut bars dipped in dark chocolate — a gooey coconut filling made with condensed milk, coated in bittersweet chocolate.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "no-bake",
+    "coconut",
+    "chocolate",
+    "dairy"
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "servings": 16,
+  "ingredients": [
+    {
+      "text": "200g desiccated coconut",
+      "kcal": 1237,
+      "protein": 13,
+      "carbs": 22,
+      "fat": 127,
+      "satFat": 114
+    },
+    {
+      "text": "1 x 397g tin of sweetened condensed milk",
+      "kcal": 1297,
+      "protein": 32,
+      "carbs": 221,
+      "fat": 35,
+      "satFat": 22
+    },
+    {
+      "text": "300g dark chocolate for dipping",
+      "kcal": 1680,
+      "protein": 16,
+      "carbs": 168,
+      "fat": 84,
+      "satFat": 25
+    }
+  ],
+  "steps": [
+    "Mix the coconut and condensed milk into a thick paste. Cover and chill for 2 hours until hardened.",
+    "Dampen your palms and flatten the coconut filling into a rectangle around 1.3cm thick. Slice into bars. Chill for another hour.",
+    "Melt 250g of the dark chocolate. Allow to cool slightly, then tip on to a plate.",
+    "Dip the bars in chocolate, covering top and four sides. Place on a wire rack and refrigerate for 10 minutes.",
+    "Melt remaining 50g chocolate and drizzle over the top of each bar for a glossy finish. Allow to set."
+  ],
+  "macros": {
+    "kcal": 202,
+    "protein": 3,
+    "carbs": 21,
+    "fat": 12,
+    "satFat": 8.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 14–16 bars. Per bar estimate. Work quickly — the filling can soften.",
+  "source": "Three Ingredient Baking"
+}

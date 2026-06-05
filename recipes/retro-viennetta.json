@@ -1,0 +1,64 @@
+{
+  "id": "retro-viennetta",
+  "title": "Retro Viennetta",
+  "description": "A layered frozen dessert of soured cream ice cream and chocolate-dipped wafers — a homemade tribute to the classic shop-bought Viennetta.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "viennetta",
+    "wafer",
+    "chocolate",
+    "retro",
+    "vegetarian"
+  ],
+  "prepTime": 60,
+  "cookTime": null,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "440ml soured cream",
+      "kcal": 918,
+      "protein": 7.5,
+      "carbs": 12.8,
+      "fat": 93,
+      "satFat": 60
+    },
+    {
+      "text": "1 x 397g tin of sweetened condensed milk",
+      "kcal": 1297,
+      "protein": 32,
+      "carbs": 221,
+      "fat": 35,
+      "satFat": 22
+    },
+    {
+      "text": "250g chocolate-dipped wafers (e.g. Kit Kats or Tunnock's caramel wafers)",
+      "kcal": 1250,
+      "protein": 15,
+      "carbs": 175,
+      "fat": 55,
+      "satFat": 30
+    }
+  ],
+  "steps": [
+    "Line a standard loaf tin with greaseproof paper, leaving enough overhang to cover the top.",
+    "Whisk the soured cream and condensed milk together until smooth.",
+    "Chop each wafer in half horizontally to make thin rectangles. Starting at the bottom, lay wafers in a neat layer covering the tin base. Pour in a layer of cream. Freeze for 1 hour.",
+    "Repeat with another layer of wafer and cream, and re-freeze. Continue until all ingredients are used, finishing with cream topped with finely chopped wafer.",
+    "Freeze for at least 6 hours or overnight.",
+    "Soften for 20 minutes before serving, then slice into chunky wedges with a serrated knife."
+  ],
+  "macros": {
+    "kcal": 458,
+    "protein": 7,
+    "carbs": 52,
+    "fat": 24,
+    "satFat": 14,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Slices into at least 8 pieces. Per slice estimate.",
+  "source": "Three Ingredient Baking"
+}

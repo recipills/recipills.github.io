@@ -1,0 +1,64 @@
+{
+  "id": "raspberry-ripple-mousse",
+  "title": "Raspberry Ripple Mousse",
+  "description": "A light, tropical coconut cream mousse with fresh raspberries swirled through in a ripple effect, set with gelatine.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "mousse",
+    "coconut",
+    "raspberry",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 180,
+  "cookTime": 10,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "500ml coconut cream, chilled overnight",
+      "kcal": 1085,
+      "protein": 10,
+      "carbs": 14,
+      "fat": 112,
+      "satFat": 99
+    },
+    {
+      "text": "1 punnet fresh raspberries (around 150g)",
+      "kcal": 78,
+      "protein": 1.8,
+      "carbs": 18,
+      "fat": 1.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 x 12g sachet of gelatine",
+      "kcal": 42,
+      "protein": 9,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Whisk the chilled coconut cream until smooth and frothy. Refrigerate.",
+    "Heat most of the raspberries in a saucepan until the juice bubbles. Mash through a sieve to make a smooth coulis.",
+    "Dissolve the gelatine sachet in hot water per packet instructions. Add 40ml of the mixture to the coconut cream and whisk.",
+    "Transfer the mousse to a large serving bowl (or ramekins). Refrigerate for 30 minutes until slightly firmer.",
+    "Swirl spoonfuls of raspberry coulis through the mousse gently for a visible ripple. Scatter sliced remaining raspberries on top.",
+    "Refrigerate for at least 2 more hours before serving."
+  ],
+  "macros": {
+    "kcal": 301,
+    "protein": 5.2,
+    "carbs": 8,
+    "fat": 28,
+    "satFat": 25,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 4. Plan ahead — the coconut cream must be chilled overnight. Pairs well with chopped chocolate sprinkled on top.",
+  "source": "Three Ingredient Baking"
+}

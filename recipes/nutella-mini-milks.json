@@ -1,0 +1,64 @@
+{
+  "id": "nutella-mini-milks",
+  "title": "Nutella Mini Milks",
+  "description": "Indulgent chocolate ice lollies made from coconut cream, Nutella and dark chocolate — a homemade tribute to the classic Mini Milk lolly.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "lollies",
+    "nutella",
+    "coconut",
+    "chocolate",
+    "dairy-free option",
+    "vegetarian"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 12,
+  "ingredients": [
+    {
+      "text": "225g coconut cream, chilled overnight",
+      "kcal": 507,
+      "protein": 5,
+      "carbs": 7,
+      "fat": 54,
+      "satFat": 48
+    },
+    {
+      "text": "150g Nutella",
+      "kcal": 855,
+      "protein": 9,
+      "carbs": 90,
+      "fat": 49.5,
+      "satFat": 17.3
+    },
+    {
+      "text": "90g dark chocolate",
+      "kcal": 504,
+      "protein": 5.4,
+      "carbs": 49.5,
+      "fat": 25.2,
+      "satFat": 7.2
+    }
+  ],
+  "steps": [
+    "Clean and dry lolly moulds. Lightly grease the inside with sunflower oil.",
+    "Blitz the chilled coconut cream with the Nutella in a blender on high for a few minutes.",
+    "Melt the chocolate in the microwave in 20-second bursts. Allow to cool, then add to the blender and blend everything together.",
+    "Pour into the moulds to about three-quarters full. Freeze overnight.",
+    "Run under a hot tap for 20 seconds to release."
+  ],
+  "macros": {
+    "kcal": 164,
+    "protein": 1.6,
+    "carbs": 12,
+    "fat": 12,
+    "satFat": 9.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 12 mini milks or 6 normal-sized lollies. For an adult twist, swap the dark chocolate for a slug of Baileys.",
+  "source": "Three Ingredient Baking"
+}

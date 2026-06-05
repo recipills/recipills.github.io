@@ -1,0 +1,63 @@
+{
+  "id": "asparagus-tartlets",
+  "title": "Asparagus Tartlets",
+  "description": "Light, summery puff pastry tartlets topped with Gruyère cheese and chargrilled asparagus tips — a dinner-party staple.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "savoury",
+    "tartlets",
+    "asparagus",
+    "puff pastry",
+    "vegetarian"
+  ],
+  "prepTime": 25,
+  "cookTime": 35,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "1 x 215g ready-rolled frozen puff pastry",
+      "kcal": 602,
+      "protein": 8.6,
+      "carbs": 64,
+      "fat": 36,
+      "satFat": 18
+    },
+    {
+      "text": "100g fresh asparagus tips",
+      "kcal": 20,
+      "protein": 2.2,
+      "carbs": 2,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "90g Gruyère cheese",
+      "kcal": 333,
+      "protein": 25.2,
+      "carbs": 0,
+      "fat": 26.1,
+      "satFat": 16.2
+    }
+  ],
+  "steps": [
+    "Defrost the pastry. Cook the asparagus tips in a griddle pan with seasoning and olive oil for about 8 minutes until tender and slightly charred. Reserve the pan liquid.",
+    "Roll out the defrosted pastry to about 0.5cm thick. Divide into 4 portions on fresh greaseproof paper on a baking sheet.",
+    "Score a smaller rectangle 1.5cm inside the edge of each tartlet (the border will puff up in the oven). Brush with the pan oil.",
+    "Grate the cheese and pile even portions in the inner rectangle of each tartlet. Arrange the asparagus on top.",
+    "Refrigerate for 10 minutes. Preheat the oven to 195°C/175°C fan.",
+    "Bake for 35 minutes until pastry is puffed and golden. Serve hot or cold."
+  ],
+  "macros": {
+    "kcal": 244,
+    "protein": 11,
+    "carbs": 16,
+    "fat": 15,
+    "satFat": 8.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 4 tartlets. Serve with a few green leaves on the side.",
+  "source": "Three Ingredient Baking"
+}

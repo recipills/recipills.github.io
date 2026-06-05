@@ -1,0 +1,62 @@
+{
+  "id": "popcorn-clusters",
+  "title": "Popcorn Clusters",
+  "description": "Salty, sweet pink-and-white clusters of popcorn bound together with melted marshmallows and butter. Perfect party food.",
+  "cuisine": "American",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "no-bake",
+    "popcorn",
+    "marshmallow",
+    "kids"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 25,
+  "ingredients": [
+    {
+      "text": "100g mixed marshmallows (pink and white)",
+      "kcal": 330,
+      "protein": 0,
+      "carbs": 80,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "50g unsalted butter",
+      "kcal": 373,
+      "protein": 0.35,
+      "carbs": 0.5,
+      "fat": 41.5,
+      "satFat": 26
+    },
+    {
+      "text": "100g salted popcorn",
+      "kcal": 490,
+      "protein": 10,
+      "carbs": 70,
+      "fat": 20,
+      "satFat": 3
+    }
+  ],
+  "steps": [
+    "Line two baking sheets with greaseproof paper.",
+    "Melt the marshmallows and butter in a saucepan, stirring constantly so it doesn't stick.",
+    "Tip the popcorn into a large bowl and pour the marshmallow mixture over the top. Coat well with a wooden spoon.",
+    "Allow to cool slightly. Wet your hands, take palm-sized blobs and roll into balls. Space out on the greaseproof paper.",
+    "Let set for around 30 minutes before eating."
+  ],
+  "macros": {
+    "kcal": 48,
+    "protein": 0.4,
+    "carbs": 6,
+    "fat": 2.5,
+    "satFat": 1.2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 25 clusters. Per cluster estimate.",
+  "source": "Three Ingredient Baking"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "cinnamon-rice-pud",
+  "title": "Cinnamon Rice Pud",
+  "description": "A comforting rice pudding made with semi-skimmed milk, pudding rice and cinnamon cereal — the cereal flavours the milk and adds a crunchy topping.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "rice pudding",
+    "cinnamon",
+    "comfort food",
+    "vegetarian"
+  ],
+  "prepTime": 10,
+  "cookTime": 80,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "900ml semi-skimmed milk",
+      "kcal": 432,
+      "protein": 30.6,
+      "carbs": 43.2,
+      "fat": 16.2,
+      "satFat": 10.8
+    },
+    {
+      "text": "130g pudding rice (or short-grain rice)",
+      "kcal": 455,
+      "protein": 9.1,
+      "carbs": 101,
+      "fat": 0.8,
+      "satFat": 0.1
+    },
+    {
+      "text": "160g cinnamon cereal (e.g. Golden Grahams or Curiously Cinnamon)",
+      "kcal": 576,
+      "protein": 7.2,
+      "carbs": 118,
+      "fat": 5.6,
+      "satFat": 1.1
+    }
+  ],
+  "steps": [
+    "Grease a deep pudding dish (at least 2 litres) with butter.",
+    "Heat the milk gently in a saucepan until just bubbling.",
+    "Measure out the rice and crush 140g of the cereal in a bag with a rolling pin (keep some texture).",
+    "Take the milk off the heat, add the rice and cereal, stir and leave to infuse for a couple of minutes.",
+    "Pour into the dish and bake uncovered for 1 hour 20 minutes until golden skin on top and bubbling at the edges.",
+    "Serve straight from the dish, topped with the remaining 20g cereal crumbled over."
+  ],
+  "macros": {
+    "kcal": 245,
+    "protein": 7.8,
+    "carbs": 43,
+    "fat": 3.8,
+    "satFat": 2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6. Keep extra hot milk on hand to stir in if you prefer it runnier.",
+  "source": "Three Ingredient Baking"
+}

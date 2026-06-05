@@ -1,0 +1,63 @@
+{
+  "id": "slow-and-steady-banana-bread",
+  "title": "Slow and Steady Banana Bread",
+  "description": "Banana bread made in a slow cooker for an incredibly dense, squidgy texture, then blasted in the oven for a crispy crust. Made with bananas, self-raising flour and condensed milk.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "banana",
+    "slow cooker",
+    "loaf"
+  ],
+  "prepTime": 15,
+  "cookTime": 165,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "3 ripe bananas, peeled",
+      "kcal": 285,
+      "protein": 3.6,
+      "carbs": 69,
+      "fat": 0.9,
+      "satFat": 0.3
+    },
+    {
+      "text": "280g self-raising flour",
+      "kcal": 1000,
+      "protein": 28,
+      "carbs": 207,
+      "fat": 5.6,
+      "satFat": 1.5
+    },
+    {
+      "text": "1 x 397g tin of sweetened condensed milk",
+      "kcal": 1297,
+      "protein": 32,
+      "carbs": 221,
+      "fat": 35,
+      "satFat": 22
+    }
+  ],
+  "steps": [
+    "Pour a cup of cold water into the slow cooker and set to high. Grease and line a standard loaf tin.",
+    "Mash the bananas in a bowl with a fork.",
+    "Sift the flour and fold in the mashed bananas. Pour in the condensed milk and stir until just combined.",
+    "Pour batter into the loaf tin. Place the tin inside the slow cooker and cover with a sheet of greaseproof paper. Put the lid on to seal.",
+    "Leave for around 2 hours 30 minutes until the loaf has stopped rising but still has a slight wobble.",
+    "Remove from slow cooker and blast in a hot oven (240°C/220°C fan) for 10–15 minutes to get a crispy crust.",
+    "Allow to cool in the tin, then slice generously."
+  ],
+  "macros": {
+    "kcal": 258,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 4,
+    "satFat": 2.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Requires a large slow cooker (at least 3.5 litres) to fit the loaf tin inside.",
+  "source": "Three Ingredient Baking"
+}

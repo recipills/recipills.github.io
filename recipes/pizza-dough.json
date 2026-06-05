@@ -1,0 +1,61 @@
+{
+  "id": "pizza-dough",
+  "title": "Pizza Dough",
+  "description": "A simple pizza dough made from self-raising flour, low-fat Greek yoghurt and olive oil. Ready in under 10 minutes of mixing, then chilled before rolling.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [
+    "bread",
+    "pizza",
+    "dough",
+    "vegetarian"
+  ],
+  "prepTime": 75,
+  "cookTime": 30,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "210g self-raising flour, plus extra for dusting",
+      "kcal": 750,
+      "protein": 21,
+      "carbs": 155,
+      "fat": 4.2,
+      "satFat": 1.1
+    },
+    {
+      "text": "220g low-fat Greek yoghurt",
+      "kcal": 125,
+      "protein": 19.8,
+      "carbs": 8.8,
+      "fat": 0.4,
+      "satFat": 0.2
+    },
+    {
+      "text": "2 tablespoons olive oil",
+      "kcal": 180,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 20,
+      "satFat": 3
+    }
+  ],
+  "steps": [
+    "Sift the flour into a bowl, add the Greek yoghurt and olive oil. Mix with a wooden spoon until it starts to come together, then use your hands to form a smooth ball.",
+    "Knead on a floured surface for 5–10 minutes, adding flour if sticky. Refrigerate for at least an hour.",
+    "Preheat oven to 220°C/200°C fan with a baking tray or pizza stone inside.",
+    "Roll out on baking paper to a 0.5cm circle. Add toppings.",
+    "Slide on to the preheated tray/stone and cook for 25–30 minutes. Remove the tray for the last 10 minutes to crisp the base."
+  ],
+  "macros": {
+    "kcal": 264,
+    "protein": 10,
+    "carbs": 41,
+    "fat": 6,
+    "satFat": 1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 1 large pizza (serves 4). For a dessert version, omit the olive oil and top with Nutella before baking.",
+  "source": "Three Ingredient Baking"
+}

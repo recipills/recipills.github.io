@@ -1,0 +1,62 @@
+{
+  "id": "naan-bread",
+  "title": "Naan Bread",
+  "description": "Buttery, puffed naan bread made from self-raising flour, semi-skimmed milk and melted butter. Grilled until brown — perfect for soaking up curries.",
+  "cuisine": "Indian",
+  "category": "Side",
+  "tags": [
+    "bread",
+    "naan",
+    "indian",
+    "vegetarian"
+  ],
+  "prepTime": 75,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "250g self-raising flour, plus extra for kneading",
+      "kcal": 893,
+      "protein": 25,
+      "carbs": 185,
+      "fat": 5,
+      "satFat": 1.3
+    },
+    {
+      "text": "130ml semi-skimmed milk",
+      "kcal": 62,
+      "protein": 4.4,
+      "carbs": 6.2,
+      "fat": 2.3,
+      "satFat": 1.6
+    },
+    {
+      "text": "3 tablespoons salted butter, melted",
+      "kcal": 223,
+      "protein": 0.2,
+      "carbs": 0.15,
+      "fat": 24.8,
+      "satFat": 15.6
+    }
+  ],
+  "steps": [
+    "Sift the flour into a bowl and slowly add the milk, then 2 tablespoons of the butter. Mix and bring together into a firm dough.",
+    "Knead on a floured surface for about 10 minutes until smooth and elastic. Leave in an oiled bowl covered with a tea towel for an hour.",
+    "Split into 4 balls and roll out to about 0.5cm thick in teardrop shapes.",
+    "Preheat the grill to medium with a baking sheet underneath to heat up.",
+    "Transfer naans to the sheet, brush with the remaining butter and grill for 15 minutes until brown and puffed. Flip and grill for 5 more minutes.",
+    "Eat hot."
+  ],
+  "macros": {
+    "kcal": 298,
+    "protein": 7.4,
+    "carbs": 47,
+    "fat": 8,
+    "satFat": 4.8,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 4 small naans. Flavour with garlic paste, desiccated coconut or chopped herbs.",
+  "source": "Three Ingredient Baking"
+}

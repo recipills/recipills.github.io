@@ -1,0 +1,61 @@
+{
+  "id": "giant-caramel-cookie",
+  "title": "Giant Caramel Cookie",
+  "description": "A crumbly, cakey giant cookie made with salted butter, golden syrup and self-raising flour. Served whole like a pie or sliced into wedges.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "biscuits",
+    "caramel",
+    "golden syrup",
+    "shareable"
+  ],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "115g salted butter, softened",
+      "kcal": 858,
+      "protein": 0.8,
+      "carbs": 1.2,
+      "fat": 96,
+      "satFat": 60
+    },
+    {
+      "text": "6 tablespoons golden syrup",
+      "kcal": 450,
+      "protein": 0,
+      "carbs": 120,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "170g self-raising flour",
+      "kcal": 607,
+      "protein": 17,
+      "carbs": 126,
+      "fat": 3.4,
+      "satFat": 0.9
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan and grease a 20cm round pie dish.",
+    "Cream the butter and 5 tablespoons of the syrup together in a bowl until pale and fluffy. Sift in the flour and mix well.",
+    "Put the cookie dough into the pie dish and use the back of a spoon to spread it to the edge. Drizzle the remaining tablespoon of golden syrup over the top.",
+    "Bake for 25 minutes until golden brown.",
+    "Allow to cool completely in the dish before sliding out and slicing like a pie."
+  ],
+  "macros": {
+    "kcal": 323,
+    "protein": 3,
+    "carbs": 41,
+    "fat": 16,
+    "satFat": 10,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6, or one very hungry person! Uses a 20cm round pie dish.",
+  "source": "Three Ingredient Baking"
+}

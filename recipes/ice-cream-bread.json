@@ -1,0 +1,62 @@
+{
+  "id": "ice-cream-bread",
+  "title": "Ice Cream Bread",
+  "description": "A fun, simple bread made from melted vanilla ice cream, self-raising flour and multicoloured sprinkles. Great for children.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "ice cream",
+    "fun",
+    "kids"
+  ],
+  "prepTime": 15,
+  "cookTime": 30,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "300g good-quality vanilla ice cream",
+      "kcal": 540,
+      "protein": 8,
+      "carbs": 70,
+      "fat": 24,
+      "satFat": 15
+    },
+    {
+      "text": "225g self-raising flour",
+      "kcal": 804,
+      "protein": 22.5,
+      "carbs": 167,
+      "fat": 4.5,
+      "satFat": 1.1
+    },
+    {
+      "text": "2 tablespoons multicoloured sprinkles",
+      "kcal": 80,
+      "protein": 0,
+      "carbs": 16,
+      "fat": 1.5,
+      "satFat": 0.5
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 205°C/185°C fan. Grease and line a standard loaf tin.",
+    "Weigh the ice cream into a heatproof bowl and melt in 10-second microwave bursts until just melted (not hot).",
+    "Use an electric whisk to beat the ice cream until fluffy. Sift in the flour and stir through quickly.",
+    "Ensure the mixture is at room temperature before stirring in the sprinkles (or they'll melt and lose colour).",
+    "Pour into the loaf tin. Bake for 30 minutes until golden brown on top.",
+    "Leave in the tin for 5 minutes before turning out on to a wire rack to cool."
+  ],
+  "macros": {
+    "kcal": 143,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 3,
+    "satFat": 1.7,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Slices into 8–10 pieces. Try with chocolate chips instead of sprinkles, or different ice cream flavours.",
+  "source": "Three Ingredient Baking"
+}

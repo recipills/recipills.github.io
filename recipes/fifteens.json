@@ -1,0 +1,62 @@
+{
+  "id": "fifteens",
+  "title": "Fifteens",
+  "description": "A Northern Irish no-bake classic — crushed caramel digestives, condensed milk and marshmallows rolled into a log and sliced. So called because the originals contain fifteen of everything.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "no-bake",
+    "northern irish",
+    "caramel"
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "servings": 12,
+  "ingredients": [
+    {
+      "text": "1 x 300g packet of caramel digestives",
+      "kcal": 1430,
+      "protein": 19,
+      "carbs": 197,
+      "fat": 63,
+      "satFat": 28
+    },
+    {
+      "text": "300g condensed milk (around ¾ of a tin)",
+      "kcal": 978,
+      "protein": 24,
+      "carbs": 166,
+      "fat": 26,
+      "satFat": 17
+    },
+    {
+      "text": "15 marshmallows",
+      "kcal": 165,
+      "protein": 1.5,
+      "carbs": 40,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Put 15 digestives in a ziplock bag and bash with a rolling pin until crushed into crumbs. Tip into a bowl and add the condensed milk.",
+    "Chop the marshmallows into quarters (scissors work better than a knife) and add to the biscuit mix. Stir until combined.",
+    "Lay a large rectangle of cling film on a flat surface. Put the remaining digestives in a bag and crush. Scatter them over the central area of the cling film.",
+    "Spoon the mixture on to the cling film over the crushed digestives. Fold the cling film over, twist the ends like a cracker, then roll into a fat log around 10cm in diameter.",
+    "Put on a plate or baking tray and refrigerate overnight.",
+    "When set, slice into 1cm-thick slices to serve."
+  ],
+  "macros": {
+    "kcal": 215,
+    "protein": 4,
+    "carbs": 34,
+    "fat": 7,
+    "satFat": 4,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 10–12 slices. No baking required. Store in an airtight tin once set — no need to keep in fridge.",
+  "source": "Three Ingredient Baking"
+}

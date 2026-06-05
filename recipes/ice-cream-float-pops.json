@@ -1,0 +1,63 @@
+{
+  "id": "ice-cream-float-pops",
+  "title": "Ice Cream Float Pops",
+  "description": "Frozen float lollies made from popping candy, vanilla ice cream and cola — recreating the magic of an ice cream float in a lolly.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "lollies",
+    "cola",
+    "popping candy",
+    "kids",
+    "fun"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "6 teaspoons popping candy",
+      "kcal": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "500ml vanilla ice cream",
+      "kcal": 900,
+      "protein": 10,
+      "carbs": 110,
+      "fat": 44,
+      "satFat": 28
+    },
+    {
+      "text": "400ml cola",
+      "kcal": 168,
+      "protein": 0,
+      "carbs": 43,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Put half a teaspoon of popping candy in each of 6 polystyrene cups. Add a tablespoon of ice cream and a glug of cola to each. Stir and freeze for 1 hour.",
+    "Leave the remaining ice cream out to go runny.",
+    "Insert sticks into the semi-frozen pops. Add another half teaspoon of popping candy to each. Fill each cup two-thirds full with the remaining ice cream. Level and clean the inside edges. Freeze for another hour.",
+    "Fill almost to the brim with the remaining cola. Freeze for 3 more hours.",
+    "Run the outside of each cup under a hot tap for 10 seconds to release."
+  ],
+  "macros": {
+    "kcal": 198,
+    "protein": 1.7,
+    "carbs": 30,
+    "fat": 7.3,
+    "satFat": 4.7,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 6 pops. Roll in popping candy before eating for one final kick.",
+  "source": "Three Ingredient Baking"
+}

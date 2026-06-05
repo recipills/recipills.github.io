@@ -1,0 +1,61 @@
+{
+  "id": "madeira-sponge",
+  "title": "Madeira Sponge",
+  "description": "A British classic — slightly heavier than Victoria sponge but with the same lovely flavour. Made with eggs, caster sugar and cornflour for a light, golden-crusted sponge.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "classic",
+    "light",
+    "dairy-free"
+  ],
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "4 eggs",
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20,
+      "satFat": 6.4
+    },
+    {
+      "text": "140g caster sugar, plus extra for dusting",
+      "kcal": 560,
+      "protein": 0,
+      "carbs": 140,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "130g cornflour",
+      "kcal": 460,
+      "protein": 0.4,
+      "carbs": 113,
+      "fat": 0.9,
+      "satFat": 0.1
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Grease and line a 20cm round cake tin.",
+    "Whisk the eggs with an electric whisk for 3–4 minutes until doubled in size and creamy yellow.",
+    "Add the sugar and whisk again until combined. Sift in the cornflour and stir roughly, then whisk the whole mixture for another couple of minutes until thick and smooth.",
+    "Pour into the cake tin and tap on a table to remove air bubbles. Bake for 25 minutes until a skewer comes out clean.",
+    "Cool in the tin over a wire rack. Once cool, ease the cake out and dust with caster sugar."
+  ],
+  "macros": {
+    "kcal": 163,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 3,
+    "satFat": 0.9,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8. Top with fresh fruit, poached pears or maraschino cherries, or sandwich with jam and cream.",
+  "source": "Three Ingredient Baking"
+}

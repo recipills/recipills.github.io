@@ -1,0 +1,62 @@
+{
+  "id": "broccoli-falafels",
+  "title": "Broccoli Falafels",
+  "description": "Baked vegetable balls made from blitzed broccoli, herby breadcrumbs and eggs. Serve with hummus and tomato sauce as a starter.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "savoury",
+    "broccoli",
+    "falafels",
+    "vegetarian",
+    "healthy"
+  ],
+  "prepTime": 20,
+  "cookTime": 25,
+  "servings": 15,
+  "ingredients": [
+    {
+      "text": "1 head of broccoli (around 300g)",
+      "kcal": 102,
+      "protein": 8.4,
+      "carbs": 9,
+      "fat": 1.2,
+      "satFat": 0.3
+    },
+    {
+      "text": "100g dried herby breadcrumbs",
+      "kcal": 380,
+      "protein": 10,
+      "carbs": 72,
+      "fat": 5,
+      "satFat": 1
+    },
+    {
+      "text": "2 eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10,
+      "satFat": 3.2
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan. Line a baking sheet with foil.",
+    "Simmer broccoli florets in salted water for 8–10 minutes until bright green. Drain.",
+    "Blitz the broccoli in a blender. Add to a bowl with the breadcrumbs and mix. Crack in the eggs and stir until combined.",
+    "Slightly dampen your hands and roll dessert spoon-sized balls from the mixture. Arrange on the baking sheet.",
+    "Bake for 20–25 minutes until crisp and golden. Serve hot or cold."
+  ],
+  "macros": {
+    "kcal": 42,
+    "protein": 2.1,
+    "carbs": 5.5,
+    "fat": 1.1,
+    "satFat": 0.3,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 15 falafels. Keeps in fridge for up to 3 days.",
+  "source": "Three Ingredient Baking"
+}

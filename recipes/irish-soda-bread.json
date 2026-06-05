@@ -1,0 +1,63 @@
+{
+  "id": "irish-soda-bread",
+  "title": "Irish Soda Bread",
+  "description": "Warming, fluffy soda bread made with just self-raising flour, bicarbonate of soda and buttermilk. A childhood staple — perfect alongside an Ulster fry.",
+  "cuisine": "Irish",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "soda bread",
+    "irish",
+    "dairy",
+    "vegetarian"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "450g self-raising flour",
+      "kcal": 1607,
+      "protein": 45,
+      "carbs": 333,
+      "fat": 9,
+      "satFat": 2.3
+    },
+    {
+      "text": "2 teaspoons bicarbonate of soda",
+      "kcal": 4,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300ml buttermilk",
+      "kcal": 141,
+      "protein": 9.9,
+      "carbs": 14.4,
+      "fat": 3,
+      "satFat": 1.8
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 240°C/220°C fan.",
+    "Sift the flour and bicarbonate of soda into a bowl. Add the buttermilk and mix, avoiding over-working.",
+    "Turn on to a floured surface, shape into a round and flatten to about 5cm thick.",
+    "Transfer to a greased baking tray and score a large cross on top (0.5cm deep).",
+    "Bake at full temperature for 10 minutes, then lower to 190°C/170°C fan for 20 more minutes.",
+    "Test with a skewer — if clean, it's done. Cool on a rack."
+  ],
+  "macros": {
+    "kcal": 176,
+    "protein": 5.5,
+    "carbs": 35,
+    "fat": 1.2,
+    "satFat": 0.4,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Serve with butter, cheese or jam. To make your own buttermilk: 285ml milk + 1 tbsp lemon juice, whisk.",
+  "source": "Three Ingredient Baking"
+}

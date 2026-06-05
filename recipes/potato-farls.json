@@ -1,0 +1,62 @@
+{
+  "id": "potato-farls",
+  "title": "Potato Farls",
+  "description": "Traditional Irish potato farls — starchy mashed potato, plain flour and melted butter, rolled thin and cooked in a dry pan. A childhood staple for breakfast or alongside soup.",
+  "cuisine": "Irish",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "potato",
+    "irish",
+    "pan-fried",
+    "vegetarian"
+  ],
+  "prepTime": 30,
+  "cookTime": 10,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "2 large potatoes (roughly 350g), peeled and chopped",
+      "kcal": 270,
+      "protein": 7,
+      "carbs": 60,
+      "fat": 0.35,
+      "satFat": 0
+    },
+    {
+      "text": "100g plain flour, plus extra for cooking",
+      "kcal": 364,
+      "protein": 10,
+      "carbs": 77,
+      "fat": 2,
+      "satFat": 0.5
+    },
+    {
+      "text": "1 tablespoon salted butter, melted",
+      "kcal": 74,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 8.3,
+      "satFat": 5.2
+    }
+  ],
+  "steps": [
+    "Parboil the potatoes for about 20 minutes until soft. Drain, dry in a colander, then mash until smooth. Allow to cool slightly.",
+    "Sift the flour into a bowl, add the mashed potatoes and melted butter. Mix into a firm dough.",
+    "Roll out on baking paper to a circle about 0.5cm thick. Slice into 8 wedges.",
+    "Heat a frying pan over medium heat and sprinkle with a little flour. Cook the farls 2 at a time for 3–4 minutes each side until they puff up. Replace the flour between batches.",
+    "Eat immediately or reheat in the pan or toaster."
+  ],
+  "macros": {
+    "kcal": 89,
+    "protein": 2,
+    "carbs": 17,
+    "fat": 1.3,
+    "satFat": 0.7,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 8 farls. Store wrapped in foil or covered in fridge for up to 4 days.",
+  "source": "Three Ingredient Baking"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "yoghurt-jelly-pie",
+  "title": "Yoghurt Jelly Pie",
+  "description": "A fun, wobbly pie with a digestive biscuit base and a Greek yoghurt and strawberry jelly filling that turns candy pink. Set overnight in the fridge.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "no-bake",
+    "jelly",
+    "yoghurt",
+    "kids",
+    "vegetarian"
+  ],
+  "prepTime": 30,
+  "cookTime": 10,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "175g digestive biscuits (11-12 biscuits)",
+      "kcal": 1138,
+      "protein": 18,
+      "carbs": 163,
+      "fat": 46,
+      "satFat": 16
+    },
+    {
+      "text": "1 x 135g packet of strawberry jelly cubes",
+      "kcal": 473,
+      "protein": 25,
+      "carbs": 90,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "340g low-fat Greek yoghurt",
+      "kcal": 194,
+      "protein": 37.4,
+      "carbs": 13.6,
+      "fat": 0.7,
+      "satFat": 0.5
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan. Line a 20cm round cake tin. Crush the digestives in a ziplock bag (hold back a small handful for topping).",
+    "Dissolve the jelly in boiling water only (half the liquid stated on the packet). Add 3–4 teaspoons of jelly mixture to the biscuit crumbs to bind. Press into the tin and bake for 10 minutes. Cool.",
+    "Add the yoghurt to the remaining jelly and whisk until lump-free. Refrigerate for 1–2 hours to thicken to custard consistency.",
+    "Pour the thickened jelly over the cooled base. Refrigerate overnight to set.",
+    "Before serving, sprinkle remaining biscuit crumbs over the top. Slice with a sharp warmed knife."
+  ],
+  "macros": {
+    "kcal": 225,
+    "protein": 10,
+    "carbs": 34,
+    "fat": 5.8,
+    "satFat": 2.1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. Try different jelly flavours for a colourful jelly rainbow effect.",
+  "source": "Three Ingredient Baking"
+}

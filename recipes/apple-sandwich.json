@@ -1,0 +1,62 @@
+{
+  "id": "apple-sandwich",
+  "title": "Apple Sandwich",
+  "description": "A light, feathery sponge cake sandwiched with apple sauce — the sweetness comes entirely from the fruit with no added sugar.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "apple",
+    "low sugar",
+    "light"
+  ],
+  "prepTime": 20,
+  "cookTime": 15,
+  "servings": 12,
+  "ingredients": [
+    {
+      "text": "150g self-raising flour",
+      "kcal": 536,
+      "protein": 15,
+      "carbs": 111,
+      "fat": 3,
+      "satFat": 0.8
+    },
+    {
+      "text": "4 eggs",
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20,
+      "satFat": 6.4
+    },
+    {
+      "text": "250g apple sauce",
+      "kcal": 135,
+      "protein": 0.5,
+      "carbs": 32,
+      "fat": 0.5,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Grease and line two 20cm round cake tins.",
+    "Sift the flour. Separate the eggs into two large bowls. Whisk the egg whites to stiff peaks.",
+    "Beat the egg yolks with a wooden spoon and add 150g of the apple sauce. Beat for at least 2 minutes until pale yellow.",
+    "Fold in the flour carefully with a metal spoon, followed by the egg whites. Split between the two tins.",
+    "Bake for approximately 15 minutes, until pale golden on top. Remove and cool slightly, then turn out on to a rack.",
+    "When cold, sandwich the cakes together with the remaining apple sauce."
+  ],
+  "macros": {
+    "kcal": 80,
+    "protein": 3,
+    "carbs": 13,
+    "fat": 2,
+    "satFat": 0.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 10–12. Per slice estimate.",
+  "source": "Three Ingredient Baking"
+}

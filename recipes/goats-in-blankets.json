@@ -1,0 +1,63 @@
+{
+  "id": "goats-in-blankets",
+  "title": "Goats in Blankets",
+  "description": "Bacon-wrapped, goat's cheese-stuffed dates — half pigs in blankets, half devils on horseback. Perfect party snack or festive nibble.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "savoury",
+    "bacon",
+    "dates",
+    "goats cheese",
+    "party food"
+  ],
+  "prepTime": 15,
+  "cookTime": 10,
+  "servings": 12,
+  "ingredients": [
+    {
+      "text": "6 rashers smoked streaky bacon",
+      "kcal": 276,
+      "protein": 21,
+      "carbs": 0.6,
+      "fat": 21,
+      "satFat": 7.2
+    },
+    {
+      "text": "100g soft goat's cheese",
+      "kcal": 190,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 16,
+      "satFat": 11
+    },
+    {
+      "text": "12 Medjool dates",
+      "kcal": 330,
+      "protein": 1.5,
+      "carbs": 80,
+      "fat": 0.6,
+      "satFat": 0.2
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan.",
+    "Cut each slice of bacon in half lengthways.",
+    "Whip the goat's cheese gently with a fork to soften.",
+    "Remove the date stones if not already pitted. Widen the hole with the back of a teaspoon.",
+    "Stuff each date with a generous teaspoonful of cheese. Wrap a strip of bacon around it, stretching as needed, and secure with a cocktail stick.",
+    "Place on a baking sheet and bake for 8–10 minutes, turning halfway. Rest on kitchen paper briefly to drain, then serve."
+  ],
+  "macros": {
+    "kcal": 66,
+    "protein": 2.9,
+    "carbs": 7,
+    "fat": 3.2,
+    "satFat": 1.7,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 12 pieces. Per piece estimate. Keeps a few days in the fridge.",
+  "source": "Three Ingredient Baking"
+}

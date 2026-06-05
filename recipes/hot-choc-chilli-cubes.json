@@ -1,0 +1,62 @@
+{
+  "id": "hot-choc-chilli-cubes",
+  "title": "Hot Choc Chilli Cubes",
+  "description": "Dark chocolate and cream set into ice cube moulds with chilli oil to create instant hot chocolate cubes — just dunk in hot milk and stir.",
+  "cuisine": "British",
+  "category": "Drink",
+  "tags": [
+    "sweet treats",
+    "hot chocolate",
+    "chilli",
+    "dairy"
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "servings": 18,
+  "ingredients": [
+    {
+      "text": "150g good-quality dark chocolate",
+      "kcal": 840,
+      "protein": 10,
+      "carbs": 75,
+      "fat": 48,
+      "satFat": 14
+    },
+    {
+      "text": "1 tablespoon chilli oil",
+      "kcal": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 14,
+      "satFat": 2
+    },
+    {
+      "text": "150ml double cream",
+      "kcal": 641,
+      "protein": 2,
+      "carbs": 2,
+      "fat": 68,
+      "satFat": 43
+    }
+  ],
+  "steps": [
+    "Wash and dry an 18-cube silicone ice-cube tray.",
+    "Chop the chocolate into small pieces and mix with the chilli oil in a heatproof bowl.",
+    "Heat the cream in a saucepan until it starts to bubble. Remove and pour over the chocolate mixture. Whisk vigorously until all chocolate has melted.",
+    "Fill the ice-cube moulds with the hot chocolate mixture. Refrigerate for an hour until starting to set, then insert lolly sticks.",
+    "Freeze for 2 hours to set. Store in the fridge or freezer.",
+    "To serve: heat full-fat milk with a whisk, then dunk a cube and stir until dissolved."
+  ],
+  "macros": {
+    "kcal": 93,
+    "protein": 0.7,
+    "carbs": 4.3,
+    "fat": 7.7,
+    "satFat": 3.9,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 18 cubes. Per cube estimate. Keep in fridge or freezer between uses.",
+  "source": "Three Ingredient Baking"
+}

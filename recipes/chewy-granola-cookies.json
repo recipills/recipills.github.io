@@ -1,0 +1,61 @@
+{
+  "id": "chewy-granola-cookies",
+  "title": "Chewy Granola Cookies",
+  "description": "Throw-together cookies made from granola, Biscoff spread and eggs. Chewy in the middle, crisp on the outside.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "granola",
+    "biscoff",
+    "easy"
+  ],
+  "prepTime": 10,
+  "cookTime": 30,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "225g granola",
+      "kcal": 945,
+      "protein": 20,
+      "carbs": 146,
+      "fat": 34,
+      "satFat": 3
+    },
+    {
+      "text": "200g Biscoff biscuit spread",
+      "kcal": 1100,
+      "protein": 9,
+      "carbs": 140,
+      "fat": 56,
+      "satFat": 14
+    },
+    {
+      "text": "2 eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10,
+      "satFat": 3.2
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180°C/160°C fan.",
+    "Pour the granola into a large bowl. In a separate bowl, mix the Biscoff spread with the eggs until combined, then pour over the granola and stir well.",
+    "Use a pair of teaspoons to place dollops of the mixture on two baking sheets lined with greaseproof paper, spaced 2–3cm apart. Press down the tops with a fork.",
+    "Bake for 25–30 minutes or until just starting to brown on top, switching the trays halfway through.",
+    "Cool for 5 minutes on the baking sheets, then transfer to a wire rack. Keep for 3–4 days in an airtight container."
+  ],
+  "macros": {
+    "kcal": 219,
+    "protein": 4,
+    "carbs": 29,
+    "fat": 10,
+    "satFat": 2,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 10 medium-sized cookies. Per cookie estimate. Can substitute with peanut butter or chocolate hazelnut spread.",
+  "source": "Three Ingredient Baking"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "no-bake-coco-balls",
+  "title": "No-Bake Coco Balls",
+  "description": "Rich, tropical petit-fours made from dark chocolate, pitted dates and desiccated coconut — rolled into balls and drizzled with melted chocolate. No baking required.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "no-bake",
+    "coconut",
+    "dates",
+    "chocolate",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "servings": 24,
+  "ingredients": [
+    {
+      "text": "100g dark chocolate",
+      "kcal": 560,
+      "protein": 6,
+      "carbs": 55,
+      "fat": 28,
+      "satFat": 8
+    },
+    {
+      "text": "180g pitted dates",
+      "kcal": 496,
+      "protein": 3.6,
+      "carbs": 120,
+      "fat": 0.6,
+      "satFat": 0
+    },
+    {
+      "text": "4 tablespoons desiccated coconut",
+      "kcal": 148,
+      "protein": 4,
+      "carbs": 4.4,
+      "fat": 13.6,
+      "satFat": 11.6
+    }
+  ],
+  "steps": [
+    "Weigh out half the chocolate and chop into chunks. Put in a food processor with the dates and coconut. Blitz until the mixture comes together into a crumbly ball.",
+    "Roll small balls (50p-piece size) between your palms and place on greaseproof paper.",
+    "Melt the remaining chocolate in the microwave in 20-second bursts. Allow to cool slightly.",
+    "Transfer cooled chocolate to a piping bag (or drizzle from a spoon) and drizzle over the coco balls.",
+    "Once the chocolate has set, put in paper petit-four cases to serve."
+  ],
+  "macros": {
+    "kcal": 56,
+    "protein": 0.8,
+    "carbs": 8,
+    "fat": 2.6,
+    "satFat": 1.8,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 24 balls. Per ball estimate.",
+  "source": "Three Ingredient Baking"
+}

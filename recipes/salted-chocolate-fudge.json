@@ -1,0 +1,61 @@
+{
+  "id": "salted-chocolate-fudge",
+  "title": "Salted Chocolate Fudge",
+  "description": "Rich, bittersweet fudge made from salted butter, dark chocolate chips and condensed milk. Makes a great gift wrapped in baking paper.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "fudge",
+    "chocolate",
+    "salted",
+    "no-bake"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 40,
+  "ingredients": [
+    {
+      "text": "50g salted butter, cubed",
+      "kcal": 373,
+      "protein": 0.35,
+      "carbs": 0.5,
+      "fat": 41.5,
+      "satFat": 26
+    },
+    {
+      "text": "360g dark chocolate chips or chopped chocolate",
+      "kcal": 2016,
+      "protein": 22,
+      "carbs": 218,
+      "fat": 112,
+      "satFat": 33
+    },
+    {
+      "text": "1 x 397ml tin of sweetened condensed milk",
+      "kcal": 1297,
+      "protein": 32,
+      "carbs": 221,
+      "fat": 35,
+      "satFat": 22
+    }
+  ],
+  "steps": [
+    "Put the butter and chocolate chips in a heatproof bowl. Microwave for 2 minutes on high, stirring every 30 seconds, until melted.",
+    "Pour in the condensed milk and heat for another 2 minutes, stirring halfway. Stir the thick mixture thoroughly.",
+    "Line a 25cm square baking tray with aluminium foil and pour in the fudge. Refrigerate for 3–4 hours to set.",
+    "Cut into small squares. Store in an airtight tin for up to a week."
+  ],
+  "macros": {
+    "kcal": 93,
+    "protein": 1.4,
+    "carbs": 11,
+    "fat": 5,
+    "satFat": 3,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 40 pieces. Per piece estimate. Sprinkle sea salt over the top for extra saltiness.",
+  "source": "Three Ingredient Baking"
+}

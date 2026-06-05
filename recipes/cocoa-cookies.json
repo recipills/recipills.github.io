@@ -1,0 +1,64 @@
+{
+  "id": "cocoa-cookies",
+  "title": "Cocoa Cookies",
+  "description": "Vegan, sugar-free cookies made from ripe bananas, cocoa powder and almond butter. Rich and bittersweet with a texture between a biscuit and a brownie.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "vegan",
+    "gluten-free",
+    "no sugar",
+    "dairy-free"
+  ],
+  "prepTime": 30,
+  "cookTime": 20,
+  "servings": 16,
+  "ingredients": [
+    {
+      "text": "2 ripe bananas, peeled",
+      "kcal": 190,
+      "protein": 2.4,
+      "carbs": 46,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "80g cocoa powder",
+      "kcal": 160,
+      "protein": 13,
+      "carbs": 32,
+      "fat": 5,
+      "satFat": 3
+    },
+    {
+      "text": "120g crunchy almond butter",
+      "kcal": 734,
+      "protein": 26,
+      "carbs": 17,
+      "fat": 65,
+      "satFat": 5
+    }
+  ],
+  "steps": [
+    "Mash the bananas in a bowl using a fork. In a separate bowl, mix together the cocoa powder and almond butter.",
+    "Add the bananas to the cocoa mixture a spoonful at a time and gradually blend into a thick dough.",
+    "Lay a sheet of cling film on a flat surface and place the dough on top. Wrap and roll into a cylinder around 5cm in diameter. Place flat in the freezer for 25 minutes to harden.",
+    "Preheat the oven to 200°C/180°C fan.",
+    "Remove the cylinder from the freezer, remove the cling film, and use a serrated knife to slice into 1cm discs.",
+    "Space the cookies out on a baking sheet lined with greaseproof paper and bake for around 20 minutes or until they begin to crisp up.",
+    "Transfer to a wire rack and allow to cool completely before eating — they will harden as they cool."
+  ],
+  "macros": {
+    "kcal": 68,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 4,
+    "satFat": 0.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 16 cookies. Per cookie estimate. Dust with icing sugar to make them look smarter.",
+  "source": "Three Ingredient Baking"
+}

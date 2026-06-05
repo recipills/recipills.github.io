@@ -1,0 +1,64 @@
+{
+  "id": "peppermint-shards",
+  "title": "Peppermint Shards",
+  "description": "Sugary boiled-sweet shards made from caramelised sugar, corn syrup and peppermint extract. Smashed with a rolling pin into glass-like pieces.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "peppermint",
+    "boiled sweet",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "140g granulated sugar",
+      "kcal": 560,
+      "protein": 0,
+      "carbs": 140,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "7 tablespoons corn syrup or agave nectar",
+      "kcal": 420,
+      "protein": 0,
+      "carbs": 112,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "3 teaspoons peppermint extract",
+      "kcal": 15,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Prepare a board or baking tray with a sheet of foil under a sheet of greaseproof paper, edges turned up.",
+    "Put sugar and syrup/nectar in a saucepan over medium heat. Stir constantly to stop sticking. Heat to 150–180°C (hard crack stage) — about 7 minutes of bubbling.",
+    "Remove from heat, add the peppermint extract and mix thoroughly.",
+    "Tip on to the greaseproof paper and spread to a few millimetres thick with a palette knife.",
+    "Leave to set for a couple of hours, then cover with another sheet and bash with a rolling pin to split into shards.",
+    "Store in an airtight tin lined with greaseproof paper."
+  ],
+  "macros": {
+    "kcal": 125,
+    "protein": 0,
+    "carbs": 32,
+    "fat": 0,
+    "satFat": 0,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. Use corn syrup for a clear finish, agave for an amber colour. Dip in dark chocolate for a homemade After Eight effect.",
+  "source": "Three Ingredient Baking"
+}

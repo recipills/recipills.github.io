@@ -1,0 +1,62 @@
+{
+  "id": "cardamom-custard-ice-cream",
+  "title": "Cardamom Custard Ice Cream",
+  "description": "A delicately spiced ice cream made from cardamom-infused milk and custard powder. Perfect alongside a fruity dessert or rhubarb crumble.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "cardamom",
+    "custard",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "prepTime": 30,
+  "cookTime": 15,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "400ml semi-skimmed milk",
+      "kcal": 192,
+      "protein": 13.6,
+      "carbs": 19.2,
+      "fat": 7.2,
+      "satFat": 4.8
+    },
+    {
+      "text": "6 cardamom pods",
+      "kcal": 6,
+      "protein": 0.2,
+      "carbs": 1.2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 teaspoons custard powder",
+      "kcal": 60,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Line a 500ml freezer-safe container with cling film.",
+    "Put the milk and cardamom pods in a saucepan and heat slowly over medium heat for 5–10 minutes to infuse.",
+    "Mix the custard powder with a few tablespoons of the warm milk to form a paste. Pour the rest of the milk over the paste, stirring. Return to the saucepan and heat until thickened.",
+    "Remove from heat, fish out the cardamom pods, and beat with an electric whisk until light and fluffy.",
+    "Pour into the container. Freeze for 30 minutes, stir, and return. Repeat at least 6 times over 3 hours, then leave to set completely."
+  ],
+  "macros": {
+    "kcal": 43,
+    "protein": 2.3,
+    "carbs": 5.7,
+    "fat": 1.2,
+    "satFat": 0.8,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6. The repeated stirring replaces an ice cream maker.",
+  "source": "Three Ingredient Baking"
+}

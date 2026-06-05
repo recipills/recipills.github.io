@@ -1,0 +1,63 @@
+{
+  "id": "ginger-lemon-freezer-cake",
+  "title": "Ginger Lemon Freezer Cake",
+  "description": "Layers of ginger nut biscuits and lemon cream, frozen overnight. The biscuits turn soft and cake-like, giving this dessert the consistency of a frozen sponge.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "freezer",
+    "ginger",
+    "lemon",
+    "no-bake"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "400ml whipping cream",
+      "kcal": 1360,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 144,
+      "satFat": 90
+    },
+    {
+      "text": "280g ginger nut biscuits (roughly a whole packet)",
+      "kcal": 1232,
+      "protein": 14,
+      "carbs": 190,
+      "fat": 45,
+      "satFat": 22
+    },
+    {
+      "text": "3 heaped dessert spoons lemon curd",
+      "kcal": 120,
+      "protein": 0.6,
+      "carbs": 26,
+      "fat": 3,
+      "satFat": 0.9
+    }
+  ],
+  "steps": [
+    "Line a 23cm round cake tin with cling film, covering the base and sides with about 2.5cm overhang.",
+    "Whip the cream to soft peaks (3 minutes with electric whisk). Add 2 dessert spoons of lemon curd and whisk to combine.",
+    "Lay one layer of ginger biscuits over the bottom of the tin (8 per layer — one in the middle, seven in a circle). Spoon a third of the cream on top and spread to cover.",
+    "Repeat with two more layers of biscuit and cream, leaving 4 biscuits to crumble on top.",
+    "Microwave the remaining lemon curd for 10–15 seconds, pour over the top in a zigzag pattern. Crush the leftover biscuits and scatter over.",
+    "Freeze for at least 4 hours or overnight. Take out 20 minutes before serving."
+  ],
+  "macros": {
+    "kcal": 272,
+    "protein": 2,
+    "carbs": 21,
+    "fat": 20,
+    "satFat": 12,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Can keep in the freezer for up to 3 months.",
+  "source": "Three Ingredient Baking"
+}

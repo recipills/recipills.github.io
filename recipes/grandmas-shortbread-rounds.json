@@ -1,0 +1,62 @@
+{
+  "id": "grandmas-shortbread-rounds",
+  "title": "Grandma's Shortbread Rounds",
+  "description": "A cherished family recipe — light, buttery, melt-in-the-mouth shortbread rounds made with just butter, icing sugar and plain flour.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "shortbread",
+    "classic",
+    "vegetarian"
+  ],
+  "prepTime": 30,
+  "cookTime": 35,
+  "servings": 24,
+  "ingredients": [
+    {
+      "text": "200g unsalted butter, softened",
+      "kcal": 1490,
+      "protein": 1.4,
+      "carbs": 2,
+      "fat": 166,
+      "satFat": 104
+    },
+    {
+      "text": "125g icing sugar, plus extra to sprinkle",
+      "kcal": 488,
+      "protein": 0,
+      "carbs": 125,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "225g plain flour, plus extra for dusting",
+      "kcal": 819,
+      "protein": 22.5,
+      "carbs": 173,
+      "fat": 4.5,
+      "satFat": 1.1
+    }
+  ],
+  "steps": [
+    "Cream the butter and icing sugar together, covering the bowl with a tea towel to begin with so the icing sugar doesn't fly everywhere. When fully combined, sift in the flour and mix to a soft dough.",
+    "Bring the dough together in your hands and place it in a bowl in the fridge for 20 minutes.",
+    "Take the dough out of the fridge, dust a clean worktop and rolling pin with flour, and roll out to around 1cm thick. Using a 5cm round cutter, cut circles and place on two baking sheets lined with greaseproof paper, around 3cm apart.",
+    "Prick each round a few times with a fork, then put the trays back in the fridge for another 30 minutes.",
+    "Preheat the oven to 170°C/150°C fan. Bake for 35 minutes, switching the trays halfway through.",
+    "Take out when pale golden. Allow to cool on a wire rack before dusting with icing sugar."
+  ],
+  "macros": {
+    "kcal": 117,
+    "protein": 1,
+    "carbs": 13,
+    "fat": 7,
+    "satFat": 4.4,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 24 rounds. Per round estimate. Uses a 5cm round cutter.",
+  "source": "Three Ingredient Baking"
+}

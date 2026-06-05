@@ -1,0 +1,63 @@
+{
+  "id": "ham-and-cheese-pinwheels",
+  "title": "Ham and Cheese Pinwheels",
+  "description": "Pizza dough rolled with smoked bacon lardons and grated Cheddar, sliced and baked into crispy pinwheels. Great as a snack or light meal.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "savoury",
+    "pizza dough",
+    "bacon",
+    "cheese",
+    "pinwheels"
+  ],
+  "prepTime": 50,
+  "cookTime": 30,
+  "servings": 12,
+  "ingredients": [
+    {
+      "text": "450g pizza dough (homemade or shop-bought)",
+      "kcal": 1188,
+      "protein": 40,
+      "carbs": 226,
+      "fat": 14,
+      "satFat": 4
+    },
+    {
+      "text": "200g smoked bacon lardons or pancetta",
+      "kcal": 560,
+      "protein": 42,
+      "carbs": 0,
+      "fat": 44,
+      "satFat": 16
+    },
+    {
+      "text": "100g Cheddar or hard cheese",
+      "kcal": 400,
+      "protein": 25,
+      "carbs": 0.1,
+      "fat": 33,
+      "satFat": 20
+    }
+  ],
+  "steps": [
+    "Roll the pizza dough into a large rectangle, around 30cm x 40cm.",
+    "Cook the lardons/pancetta and allow to cool before scattering over the dough. Grate the cheese and scatter over too, leaving a few cm free at top and bottom.",
+    "Starting at the bottom edge, roll the dough upwards into a tight cylinder. Seal the outer edge by squeezing. Refrigerate for 30 minutes.",
+    "Preheat the oven to 200°C/180°C fan. Line a baking sheet with greaseproof paper.",
+    "Cut the chilled dough into 1cm-thick slices. Lay flat on the sheet and bake for 30 minutes until crisp and cheese has melted.",
+    "Serve hot with plenty of ketchup."
+  ],
+  "macros": {
+    "kcal": 180,
+    "protein": 9,
+    "carbs": 19,
+    "fat": 7.6,
+    "satFat": 3.3,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 10–12 pinwheels. Per pinwheel estimate.",
+  "source": "Three Ingredient Baking"
+}

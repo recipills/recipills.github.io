@@ -1,0 +1,63 @@
+{
+  "id": "avo-ice-lollies",
+  "title": "Avo Ice Lollies",
+  "description": "A healthy, chocolatey ice lolly made from blended avocado, condensed milk and cocoa powder. Doubles as a chocolate mousse pot if not frozen.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "lollies",
+    "avocado",
+    "chocolate",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "2 ripe avocados",
+      "kcal": 468,
+      "protein": 5.8,
+      "carbs": 17,
+      "fat": 42,
+      "satFat": 8.7
+    },
+    {
+      "text": "300g sweetened condensed milk (roughly 3/4 of a tin)",
+      "kcal": 978,
+      "protein": 24,
+      "carbs": 166,
+      "fat": 26,
+      "satFat": 17
+    },
+    {
+      "text": "3 tablespoons cocoa powder",
+      "kcal": 60,
+      "protein": 4,
+      "carbs": 9,
+      "fat": 1.5,
+      "satFat": 0.9
+    }
+  ],
+  "steps": [
+    "Clean and dry 6 lolly moulds.",
+    "Peel and de-stone the avocados. Blitz in a blender to a smooth green paste. Add the condensed milk gradually and blend until fully combined.",
+    "Transfer to a bowl with the cocoa powder and stir until rich brown.",
+    "Spoon into lolly moulds (about three-quarters full), banging the moulds down to remove air bubbles.",
+    "Freeze for at least 6 hours."
+  ],
+  "macros": {
+    "kcal": 252,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 12,
+    "satFat": 4.4,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 6 lollies. If no time to freeze, pour into ramekins and chill for a chocolate mousse pot.",
+  "source": "Three Ingredient Baking"
+}

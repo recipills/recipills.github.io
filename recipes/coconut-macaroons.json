@@ -1,0 +1,62 @@
+{
+  "id": "coconut-macaroons",
+  "title": "Coconut Macaroons",
+  "description": "Crisp and golden on the outside, slightly chewy in the centre. Classic coconut macaroons made from egg whites, icing sugar and desiccated coconut.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "coconut",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 14,
+  "ingredients": [
+    {
+      "text": "3 egg whites",
+      "kcal": 45,
+      "protein": 10.8,
+      "carbs": 0.6,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "115g icing sugar",
+      "kcal": 449,
+      "protein": 0,
+      "carbs": 115,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "250g desiccated coconut",
+      "kcal": 1542,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 151,
+      "satFat": 134
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 190°C/170°C fan.",
+    "In a large bowl, whisk the egg whites with the icing sugar for around 8 minutes until very pale and thick.",
+    "Stir in the desiccated coconut and mix thoroughly. Test consistency by rolling a teaspoonful into a ball — adjust with more egg white if too dry or more coconut if too wet.",
+    "Use an ice cream scoop or dessert spoons to drop blobs on to a baking sheet lined with greaseproof paper, around 3cm apart.",
+    "Bake for around 25 minutes, or until the tops are just starting to brown. Rotate the tray halfway through.",
+    "Transfer to a cooling rack to crisp up, then serve."
+  ],
+  "macros": {
+    "kcal": 146,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 11,
+    "satFat": 9.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 14 large macaroons. Per macaroon estimate.",
+  "source": "Three Ingredient Baking"
+}

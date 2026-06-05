@@ -1,0 +1,63 @@
+{
+  "id": "fizzy-orange-sherbets",
+  "title": "Fizzy Orange Sherbets",
+  "description": "Fizzy, juicy orange lollies with bicarbonate of soda for a sherbet-like kick — like a frozen Dip Dab. Great for kids on a sunny day.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "lollies",
+    "orange",
+    "sherbet",
+    "vegan",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "prepTime": 25,
+  "cookTime": null,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "500ml orange juice",
+      "kcal": 210,
+      "protein": 3,
+      "carbs": 50,
+      "fat": 0.5,
+      "satFat": 0
+    },
+    {
+      "text": "30g caster sugar",
+      "kcal": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1.5 teaspoons bicarbonate of soda",
+      "kcal": 3,
+      "protein": 0,
+      "carbs": 0.75,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Measure the orange juice into a large jug. Add the caster sugar and whisk thoroughly.",
+    "Add the bicarbonate of soda a little at a time and watch it fizz — be careful not to let it overflow. Whisk until combined.",
+    "Leave for 15–20 minutes to let the fizzing subside.",
+    "Decant into 6 lolly moulds, filling about three-quarters full. Freeze for at least 4 hours."
+  ],
+  "macros": {
+    "kcal": 55,
+    "protein": 0.5,
+    "carbs": 13.5,
+    "fat": 0.1,
+    "satFat": 0,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 6 lollies. Save for a balmy afternoon.",
+  "source": "Three Ingredient Baking"
+}

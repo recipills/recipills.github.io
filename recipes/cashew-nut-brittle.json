@@ -1,0 +1,64 @@
+{
+  "id": "cashew-nut-brittle",
+  "title": "Cashew Nut Brittle",
+  "description": "Caramelised sugar with salted butter and raw cashew nuts, set into a brittle slab and smashed into shards. Rich, crunchy and satisfying.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "brittle",
+    "cashew",
+    "caramel",
+    "vegan option",
+    "gluten-free"
+  ],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "150g caster sugar",
+      "kcal": 600,
+      "protein": 0,
+      "carbs": 150,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tablespoons salted butter",
+      "kcal": 149,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 16.5,
+      "satFat": 10.4
+    },
+    {
+      "text": "100g raw unsalted cashews",
+      "kcal": 553,
+      "protein": 18,
+      "carbs": 30,
+      "fat": 44,
+      "satFat": 8.7
+    }
+  ],
+  "steps": [
+    "Prepare a chopping board covered with greaseproof paper.",
+    "Put the sugar in a pan over a low heat and caramelise without stirring, tilting the pan to even the heat (about 6 minutes, or 150°C on a sugar thermometer).",
+    "Add the butter — it will sizzle. Keep on low heat until the foaming stops.",
+    "Add the cashews and stir until fully coated in caramel. Cook for another 3–4 minutes.",
+    "Tip on to the prepared surface, spread out the nuts evenly with a spatula.",
+    "Leave to set for 1–2 hours, then smash into pieces with a rolling pin."
+  ],
+  "macros": {
+    "kcal": 163,
+    "protein": 2.3,
+    "carbs": 22,
+    "fat": 7.6,
+    "satFat": 2.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. Keeps crunchy for 4 days in a sealed tin. Sprinkle with coarse sea salt when finished.",
+  "source": "Three Ingredient Baking"
+}

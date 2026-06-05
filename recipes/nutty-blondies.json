@@ -1,0 +1,63 @@
+{
+  "id": "nutty-blondies",
+  "title": "Nutty Blondies",
+  "description": "Fudgy, gooey blondies made from sweet potato, white hot chocolate powder and almond butter. The sweet potato mimics eggs, sugar and flour while sneaking in your five-a-day.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "blondies",
+    "sweet potato",
+    "almond butter",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 20,
+  "cookTime": 30,
+  "servings": 16,
+  "ingredients": [
+    {
+      "text": "350g sweet potato (peeled and diced)",
+      "kcal": 301,
+      "protein": 5.6,
+      "carbs": 70,
+      "fat": 0.35,
+      "satFat": 0
+    },
+    {
+      "text": "4 tablespoons white hot chocolate powder",
+      "kcal": 200,
+      "protein": 2,
+      "carbs": 40,
+      "fat": 4,
+      "satFat": 2
+    },
+    {
+      "text": "160g almond butter",
+      "kcal": 978,
+      "protein": 35,
+      "carbs": 22,
+      "fat": 87,
+      "satFat": 7
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Line a 25cm square baking tray.",
+    "Boil the sweet potato for 7 minutes until softened. Drain and mash over the heat to evaporate excess water.",
+    "Mix the hot chocolate powder and almond butter in a bowl. Add the sweet potato a spoonful at a time and mix thoroughly.",
+    "Tip into the baking tray, spread out with a palette knife and bake for 30 minutes until the top is set and edges are browning.",
+    "Cool in the tin before slicing."
+  ],
+  "macros": {
+    "kcal": 93,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 6,
+    "satFat": 0.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 16 blondies. Per blondie estimate. Drizzle with melted white chocolate if you have some.",
+  "source": "Three Ingredient Baking"
+}

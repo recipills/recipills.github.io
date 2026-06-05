@@ -1,0 +1,62 @@
+{
+  "id": "crumbly-caramels",
+  "title": "Crumbly Caramels",
+  "description": "Old-fashioned caramels made with just dark brown sugar, semi-skimmed milk and salted butter. Crumbly and fudge-like in texture.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "caramel",
+    "fudge",
+    "dairy"
+  ],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 24,
+  "ingredients": [
+    {
+      "text": "350g dark brown soft sugar",
+      "kcal": 1330,
+      "protein": 0,
+      "carbs": 350,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "300ml semi-skimmed milk",
+      "kcal": 144,
+      "protein": 10.2,
+      "carbs": 15,
+      "fat": 5.4,
+      "satFat": 3.6
+    },
+    {
+      "text": "100g salted butter",
+      "kcal": 745,
+      "protein": 0.7,
+      "carbs": 1,
+      "fat": 83,
+      "satFat": 52
+    }
+  ],
+  "steps": [
+    "Line a 25cm square baking tray with greaseproof paper.",
+    "Put all the ingredients in a heavy-bottomed saucepan and heat slowly, stirring constantly until the sugar and butter dissolve.",
+    "Turn the heat up and bring to the boil. Simmer for 20–25 minutes, removing from heat and stirring vigorously when the mixture rises, then replacing. Repeat until it reaches 'soft ball' stage (112–116°C).",
+    "To test without a thermometer: drop a small amount on a teaspoon into cold water — it's done if it forms a pliable ball.",
+    "Take off the heat, stand for 1–2 minutes, then whisk for 5 minutes until it loses its gloss. Pour into the tray and leave to set at room temperature for about 2 hours.",
+    "Cut into small squares once set."
+  ],
+  "macros": {
+    "kcal": 94,
+    "protein": 0.5,
+    "carbs": 15,
+    "fat": 4,
+    "satFat": 2.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 24 pieces. Per piece estimate. Add a pinch of chilli flakes, cardamom or sea salt for extra kick.",
+  "source": "Three Ingredient Baking"
+}

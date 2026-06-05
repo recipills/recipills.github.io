@@ -1,0 +1,64 @@
+{
+  "id": "bacon-breakfast-cups",
+  "title": "Bacon Breakfast Cups",
+  "description": "Toast circles pressed into a muffin tin, topped with crispy bacon and a baked egg. The ultimate student breakfast with a gourmet twist.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "savoury",
+    "breakfast",
+    "bacon",
+    "eggs",
+    "toast"
+  ],
+  "prepTime": 15,
+  "cookTime": 20,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "3 rashers of smoked streaky bacon",
+      "kcal": 138,
+      "protein": 10.5,
+      "carbs": 0.3,
+      "fat": 10.5,
+      "satFat": 3.6
+    },
+    {
+      "text": "2 slices of wholemeal bread",
+      "kcal": 150,
+      "protein": 7,
+      "carbs": 26,
+      "fat": 2,
+      "satFat": 0.5
+    },
+    {
+      "text": "2 eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10,
+      "satFat": 3.2
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan.",
+    "Cook the bacon until crispy (4 minutes each side in a hot frying pan). Set aside on kitchen paper.",
+    "Very lightly toast the bread. Using a pint glass, cut a large circle from the centre of each slice.",
+    "Grease two holes of a muffin tray and press the bread circles down into the holes.",
+    "Cut the cooled bacon into large chunks and layer in the bread cups. Crack an egg on top of each.",
+    "Bake for approximately 20 minutes until the egg whites are set.",
+    "Remove carefully and serve with the bread off-cuts for dunking."
+  ],
+  "macros": {
+    "kcal": 432,
+    "protein": 30,
+    "carbs": 27,
+    "fat": 22,
+    "satFat": 7.3,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Each batch (2 cups) serves 1. Multiply as needed.",
+  "source": "Three Ingredient Baking"
+}

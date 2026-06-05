@@ -1,0 +1,62 @@
+{
+  "id": "cinnamon-crispies",
+  "title": "Cinnamon Crispies",
+  "description": "Spicy, sugar-free biscuits made from ripe bananas, ground cinnamon and desiccated coconut. Best eaten warm, straight out of the oven.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "vegan",
+    "gluten-free",
+    "no sugar",
+    "dairy-free"
+  ],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 16,
+  "ingredients": [
+    {
+      "text": "2 ripe bananas, peeled",
+      "kcal": 190,
+      "protein": 2.4,
+      "carbs": 46,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "3 teaspoons ground cinnamon",
+      "kcal": 18,
+      "protein": 0.3,
+      "carbs": 3.6,
+      "fat": 0.3,
+      "satFat": 0
+    },
+    {
+      "text": "80g desiccated coconut",
+      "kcal": 493,
+      "protein": 5,
+      "carbs": 9,
+      "fat": 48,
+      "satFat": 43
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan.",
+    "Gently mash the bananas in a bowl with a fork, then put them in a food processor along with the cinnamon. Blitz for 5 minutes until fragrant.",
+    "Add half the coconut, blitz, then add the rest. Continue to mix until fully blended. The dough should be stiff but still moist.",
+    "Use a pair of teaspoons to drop small blobs of the dough on to a baking sheet lined with greaseproof paper, around 2cm apart. Press down with a fork making a criss-cross pattern.",
+    "Bake for 20–25 minutes until golden brown, rotating the tray halfway through."
+  ],
+  "macros": {
+    "kcal": 44,
+    "protein": 0.5,
+    "carbs": 4,
+    "fat": 3,
+    "satFat": 2.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 16 crispies. Per crispie estimate.",
+  "source": "Three Ingredient Baking"
+}

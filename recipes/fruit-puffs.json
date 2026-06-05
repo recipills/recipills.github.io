@@ -1,0 +1,64 @@
+{
+  "id": "fruit-puffs",
+  "title": "Fruit Puffs",
+  "description": "Light, golden muffins made with blackberries, ripe bananas and eggs. No flour, no sugar — the fruit juices burst throughout the sponge as they bake.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "traybake",
+    "muffins",
+    "blackberry",
+    "banana",
+    "gluten-free",
+    "dairy-free",
+    "no sugar"
+  ],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "1 punnet fresh blackberries (around 225g)",
+      "kcal": 81,
+      "protein": 2.7,
+      "carbs": 15,
+      "fat": 0.9,
+      "satFat": 0
+    },
+    {
+      "text": "2 ripe bananas, peeled",
+      "kcal": 190,
+      "protein": 2.4,
+      "carbs": 46,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "4 eggs",
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20,
+      "satFat": 6.4
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 210°C/190°C fan. Line a muffin tray with 10 paper cases. Place 3–4 blackberries in the bottom of each case.",
+    "Mash the bananas together. In a separate bowl whisk the eggs, then add the mashed bananas. Beat with an electric whisk for several minutes until light and fluffy.",
+    "Divide the mixture between the muffin cases, filling each almost to the top.",
+    "Bake for 15–20 minutes, or until risen and golden.",
+    "Allow to cool fully in the tin before eating."
+  ],
+  "macros": {
+    "kcal": 56,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 2,
+    "satFat": 0.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 10 puffs. Eat within 2 days as the fruit makes them very moist. Try raspberries or blueberries.",
+  "source": "Three Ingredient Baking"
+}

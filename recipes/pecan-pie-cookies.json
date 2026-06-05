@@ -1,0 +1,63 @@
+{
+  "id": "pecan-pie-cookies",
+  "title": "Pecan Pie Cookies",
+  "description": "Sweet, nutty cookies inspired by pecan pie — dehydrated at low heat for a delicious toffee-like chewy texture. Made with pecans, Medjool dates and maple syrup.",
+  "cuisine": "American",
+  "category": "Snack",
+  "tags": [
+    "biscuits",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "no-bake option"
+  ],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 13,
+  "ingredients": [
+    {
+      "text": "150g pecan halves",
+      "kcal": 994,
+      "protein": 13,
+      "carbs": 14,
+      "fat": 101,
+      "satFat": 8.7
+    },
+    {
+      "text": "150g pitted dates (Medjool)",
+      "kcal": 413,
+      "protein": 3,
+      "carbs": 100,
+      "fat": 0.5,
+      "satFat": 0
+    },
+    {
+      "text": "3 tablespoons maple syrup",
+      "kcal": 156,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 170°C/150°C fan.",
+    "Hold back 12–14 pecan halves; blitz the remainder in a blender to tiny pieces.",
+    "Blitz the dates in the blender until finely chopped (chop by hand if needed to avoid clogging the blender).",
+    "Mix the nuts and dates together until combined, then stir in the maple syrup.",
+    "Use teaspoons to place small heaps of the mixture on a baking sheet lined with greaseproof paper, a few centimetres apart. Flatten with the back of a spoon or fork, and press a pecan half on top of each.",
+    "Bake for around 45 minutes, or until the cookies are just holding together. Let them cool completely on the baking sheet."
+  ],
+  "macros": {
+    "kcal": 120,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 8,
+    "satFat": 0.7,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 12–14 cookies. Per cookie estimate. Can be left raw — chill in the fridge for 2–3 hours to set instead of baking.",
+  "source": "Three Ingredient Baking"
+}

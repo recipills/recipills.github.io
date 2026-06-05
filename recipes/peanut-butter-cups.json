@@ -1,0 +1,62 @@
+{
+  "id": "peanut-butter-cups",
+  "title": "Peanut Butter Cups",
+  "description": "Homemade bite-sized salted peanut butter cups inspired by the American candy — a chocolate shell filled with peanut butter and finished with sea salt.",
+  "cuisine": "American",
+  "category": "Snack",
+  "tags": [
+    "traybake",
+    "chocolate",
+    "peanut butter",
+    "salted",
+    "no-bake"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 12,
+  "ingredients": [
+    {
+      "text": "400g milk chocolate",
+      "kcal": 2120,
+      "protein": 28,
+      "carbs": 236,
+      "fat": 116,
+      "satFat": 70
+    },
+    {
+      "text": "280g peanut butter",
+      "kcal": 1764,
+      "protein": 70,
+      "carbs": 70,
+      "fat": 140,
+      "satFat": 29
+    },
+    {
+      "text": "5g sea salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Line a 12-hole muffin tray with paper cases.",
+    "Melt half the chocolate in a heatproof jug in the microwave in 20-second bursts. Pour into the cases and use a pastry brush to spread chocolate halfway up each case. Refrigerate for 30 minutes.",
+    "Put a heaped teaspoon of peanut butter into each chocolate mould. Sprinkle with half the salt and freeze for 15 minutes.",
+    "Melt the remaining chocolate and pour over each cup, smoothing the top. Sprinkle with remaining salt.",
+    "Refrigerate for 2 hours to set. Take out of cases to serve. Keep in the fridge."
+  ],
+  "macros": {
+    "kcal": 330,
+    "protein": 8,
+    "carbs": 26,
+    "fat": 22,
+    "satFat": 8,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 12 cups. Per cup estimate. Keeps in fridge for a week.",
+  "source": "Three Ingredient Baking"
+}

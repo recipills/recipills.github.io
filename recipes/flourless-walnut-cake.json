@@ -1,0 +1,62 @@
+{
+  "id": "flourless-walnut-cake",
+  "title": "Flourless Walnut Cake",
+  "description": "A light-as-a-feather sponge using ground walnuts instead of flour and icing sugar instead of caster sugar for a cloud-like texture.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "walnut",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 25,
+  "cookTime": 35,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "250g whole walnuts",
+      "kcal": 1630,
+      "protein": 38,
+      "carbs": 14,
+      "fat": 163,
+      "satFat": 15
+    },
+    {
+      "text": "6 eggs",
+      "kcal": 432,
+      "protein": 37.8,
+      "carbs": 2.4,
+      "fat": 30,
+      "satFat": 9.6
+    },
+    {
+      "text": "250g icing sugar, plus extra to decorate",
+      "kcal": 975,
+      "protein": 0,
+      "carbs": 250,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 210°C/190°C fan. Grease and line a 23cm round cake tin.",
+    "Separate out 30g walnuts and set aside. Blitz the rest in a blender to fine crumbs.",
+    "Separate the eggs. Beat the icing sugar and yolks together until light and fluffy (10 minutes by hand, 3–4 minutes with electric whisk). Stir in the ground walnuts.",
+    "Whisk the egg whites to soft peaks. Fold the whites into the sugar and yolk mixture a little at a time with a metal spoon.",
+    "Pour the batter into the lined tin. Bake for 35 minutes until a skewer comes out clean.",
+    "Allow to cool, then sift icing sugar over the top and top with the reserved walnuts, chopped."
+  ],
+  "macros": {
+    "kcal": 303,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 19,
+    "satFat": 1.8,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 10. Serve with freshly whipped cream.",
+  "source": "Three Ingredient Baking"
+}

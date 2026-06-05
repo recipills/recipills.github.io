@@ -1,0 +1,62 @@
+{
+  "id": "oreo-fudge",
+  "title": "Oreo Fudge",
+  "description": "A sweet, decadent fudge made from white chocolate, condensed milk and crushed Oreo cookies. Set in a tray and cut into bite-sized squares.",
+  "cuisine": "American",
+  "category": "Snack",
+  "tags": [
+    "sweet treats",
+    "fudge",
+    "oreo",
+    "white chocolate",
+    "no-bake"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 36,
+  "ingredients": [
+    {
+      "text": "400g white chocolate chips or chopped white chocolate",
+      "kcal": 2120,
+      "protein": 24,
+      "carbs": 236,
+      "fat": 120,
+      "satFat": 75
+    },
+    {
+      "text": "1 x 397g tin of sweetened condensed milk",
+      "kcal": 1297,
+      "protein": 32,
+      "carbs": 221,
+      "fat": 35,
+      "satFat": 22
+    },
+    {
+      "text": "14 Oreo cookies, crushed into small chunks",
+      "kcal": 742,
+      "protein": 8,
+      "carbs": 105,
+      "fat": 35,
+      "satFat": 10
+    }
+  ],
+  "steps": [
+    "Line a 25cm square baking tray with aluminium foil, pressing firmly into corners.",
+    "Put the white chocolate in a heatproof bowl, pour in the condensed milk and microwave for 30 seconds. Stir and heat in 20-second bursts until all the chocolate has melted and the mixture is thick and smooth.",
+    "Spread half the crushed Oreos over the bottom of the tray. Allow the chocolate mixture to cool slightly before pouring over the cookies and spreading evenly.",
+    "Press the remaining Oreos on top. Smooth the surface with a knife dipped in boiling water.",
+    "Refrigerate for 4–5 hours to set, then cut into bite-sized pieces."
+  ],
+  "macros": {
+    "kcal": 116,
+    "protein": 1.8,
+    "carbs": 16,
+    "fat": 5.3,
+    "satFat": 3,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 36 squares. Per square estimate. Works with chocolate digestives, Hobnobs or bourbon biscuits.",
+  "source": "Three Ingredient Baking"
+}

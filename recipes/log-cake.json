@@ -1,0 +1,61 @@
+{
+  "id": "log-cake",
+  "title": "Log Cake",
+  "description": "A decadent no-bake chocolate log made with butter, dark chocolate and digestive biscuits. Rich, indulgent and perfect for a special occasion.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "chocolate",
+    "no-bake",
+    "biscuit"
+  ],
+  "prepTime": 15,
+  "cookTime": null,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "100g unsalted butter",
+      "kcal": 745,
+      "protein": 0.7,
+      "carbs": 1,
+      "fat": 83,
+      "satFat": 52
+    },
+    {
+      "text": "200g dark chocolate",
+      "kcal": 1120,
+      "protein": 66,
+      "carbs": 110,
+      "fat": 56,
+      "satFat": 8
+    },
+    {
+      "text": "16 plain digestive biscuits (around 250g)",
+      "kcal": 1072,
+      "protein": 46,
+      "carbs": 158,
+      "fat": 93,
+      "satFat": 16
+    }
+  ],
+  "steps": [
+    "Grease and line a standard loaf tin.",
+    "Melt the butter and chocolate together in a heatproof bowl in the microwave in 20-second bursts, or over a saucepan of boiling water. Mix with a wooden spoon.",
+    "Put half the digestives in a bag and bash into crumbs. Add to the chocolate mixture and mix thoroughly.",
+    "Crumble the other half into the mixture keeping the chunks big. Mix, then transfer to the loaf tin, packing tightly into all the corners and levelling the top.",
+    "Refrigerate for an hour to set, then turn out on to a board and slice into thick pieces."
+  ],
+  "macros": {
+    "kcal": 293,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 20,
+    "satFat": 11,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Slices into 8–10 pieces. Keeps in the fridge for a week. Can use Hobnobs or different chocolate.",
+  "source": "Three Ingredient Baking"
+}

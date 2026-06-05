@@ -1,0 +1,64 @@
+{
+  "id": "apple-roses",
+  "title": "Apple Roses",
+  "description": "Beautiful pastry roses made from puff pastry strips, apricot jam and thin-sliced red apples. Impressive as a dessert but surprisingly simple to make.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "pastry",
+    "apple",
+    "roses",
+    "dinner party",
+    "vegetarian"
+  ],
+  "prepTime": 20,
+  "cookTime": 45,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "1 x 215g ready-rolled frozen puff pastry",
+      "kcal": 602,
+      "protein": 8.6,
+      "carbs": 64,
+      "fat": 36,
+      "satFat": 18
+    },
+    {
+      "text": "3 red apples",
+      "kcal": 180,
+      "protein": 0.9,
+      "carbs": 42,
+      "fat": 0.6,
+      "satFat": 0.1
+    },
+    {
+      "text": "6 tablespoons apricot jam",
+      "kcal": 300,
+      "protein": 0.6,
+      "carbs": 75,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Grease 6 holes of a muffin tray with plenty of butter.",
+    "Defrost the pastry and roll into a neat rectangle. Slice into 6 long strips.",
+    "Core the apples, halve, and cut into super-thin segments (no more than 2mm thick).",
+    "Spread a tablespoon of apricot jam along the first strip. Lay apple segments lengthways along the top edge, slightly overlapping, with the curved side overhanging.",
+    "Starting at one end, gently roll the pastry into a cylinder gathering the apple. Secure with the end of the pastry and place apple-end up in a muffin case. Repeat for all 6.",
+    "Bake for about 45 minutes until pastry is puffed and golden and apples just starting to singe."
+  ],
+  "macros": {
+    "kcal": 180,
+    "protein": 1.8,
+    "carbs": 30,
+    "fat": 6,
+    "satFat": 3.1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 6 roses. Remove from tray immediately after baking — they can stick if left to cool inside.",
+  "source": "Three Ingredient Baking"
+}

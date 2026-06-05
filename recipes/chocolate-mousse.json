@@ -1,0 +1,62 @@
+{
+  "id": "chocolate-mousse",
+  "title": "Chocolate Mousse",
+  "description": "Heston Blumenthal-inspired waterganache mousse — chocolate melted with water, then whisked over ice until light and creamy. No cream, no eggs.",
+  "cuisine": "French",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "mousse",
+    "chocolate",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "prepTime": 25,
+  "cookTime": 10,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "300g chocolate (half milk, half dark)",
+      "kcal": 1560,
+      "protein": 19.5,
+      "carbs": 167,
+      "fat": 84,
+      "satFat": 28
+    },
+    {
+      "text": "170ml water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 punnet fresh raspberries (around 150g)",
+      "kcal": 78,
+      "protein": 1.8,
+      "carbs": 18,
+      "fat": 1.1,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Roughly chop the chocolate (holding a few chunks back). Place in a saucepan with the water and heat until melted.",
+    "Make a cold bath by filling a large bowl with cold water (and ice if available). Place a smaller bowl inside.",
+    "Pour the melted chocolate mixture into the smaller bowl. Whisk with an electric whisk on high for around 15 minutes until pale and creamy and a dollop sits on the surface without sinking.",
+    "Spoon into ramekins and smooth the tops with a wet spoon.",
+    "Top with raspberries and remaining chocolate chunks."
+  ],
+  "macros": {
+    "kcal": 273,
+    "protein": 4,
+    "carbs": 29,
+    "fat": 15,
+    "satFat": 5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 6 mini mousses. Can be eaten immediately or chilled. Add a few shakes of dried chilli to the melted chocolate for a spicy kick.",
+  "source": "Three Ingredient Baking"
+}

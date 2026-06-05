@@ -1,0 +1,63 @@
+{
+  "id": "rhubarb-crumble",
+  "title": "Rhubarb Crumble",
+  "description": "A classic British crumble — tart rhubarb roasted with sugar, topped with a caramelised granola crumble. Easy to assemble and deeply comforting.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "crumble",
+    "rhubarb",
+    "granola",
+    "vegetarian"
+  ],
+  "prepTime": 10,
+  "cookTime": 40,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "400g fresh rhubarb",
+      "kcal": 68,
+      "protein": 3.2,
+      "carbs": 12,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "100g caster sugar",
+      "kcal": 400,
+      "protein": 0,
+      "carbs": 100,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "200g favourite granola",
+      "kcal": 840,
+      "protein": 17.8,
+      "carbs": 130,
+      "fat": 30,
+      "satFat": 3
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan.",
+    "Chop the rhubarb into 4cm chunks and place in a crumble dish. Sprinkle with half the sugar and roast for 20 minutes.",
+    "Meanwhile, caramelise the other half of the sugar in a saucepan over low heat until golden brown.",
+    "Remove the rhubarb from the oven. Add a few spoonfuls of rhubarb juice to the caramelised sugar, stirring constantly.",
+    "Take off the heat and mix in the granola until coated and sticky. Spread over the roasted rhubarb.",
+    "Bake for another 20 minutes until the topping is brown. Serve with ice cream."
+  ],
+  "macros": {
+    "kcal": 164,
+    "protein": 2.6,
+    "carbs": 30,
+    "fat": 3.8,
+    "satFat": 0.4,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. Great with cardamom custard ice cream.",
+  "source": "Three Ingredient Baking"
+}

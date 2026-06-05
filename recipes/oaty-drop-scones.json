@@ -1,0 +1,63 @@
+{
+  "id": "oaty-drop-scones",
+  "title": "Oaty Drop Scones",
+  "description": "Healthy blueberry drop scones made from whisked egg whites, rolled oats and fresh blueberries — a high-protein, gluten-free alternative to American pancakes.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "pancakes",
+    "oats",
+    "blueberry",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 3,
+  "ingredients": [
+    {
+      "text": "6 egg whites",
+      "kcal": 90,
+      "protein": 21.6,
+      "carbs": 1.2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "200g rolled oats",
+      "kcal": 758,
+      "protein": 23,
+      "carbs": 134,
+      "fat": 8,
+      "satFat": 1.4
+    },
+    {
+      "text": "1 punnet fresh blueberries (around 200g)",
+      "kcal": 114,
+      "protein": 1.4,
+      "carbs": 28,
+      "fat": 0.6,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Whisk the egg whites gently by hand for a couple of minutes until they start to froth.",
+    "Pour in the oats and stir to combine. Add more egg white if too dry. Stir in three-quarters of the blueberries.",
+    "Heat a knob of butter in a large frying pan. Spoon the mix in 1cm-thick circles, fitting about three at a time.",
+    "Cook for 4–5 minutes until golden brown underneath, then flip and repeat.",
+    "Serve hot topped with the remaining blueberries."
+  ],
+  "macros": {
+    "kcal": 320,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 3.2,
+    "satFat": 0.6,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Each batch (6 drop scones) serves 2–3. Multiply as needed.",
+  "source": "Three Ingredient Baking"
+}

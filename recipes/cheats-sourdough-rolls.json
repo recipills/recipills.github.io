@@ -1,0 +1,61 @@
+{
+  "id": "cheats-sourdough-rolls",
+  "title": "Cheat's Sourdough Rolls",
+  "description": "Quick store-cupboard rolls made from self-raising flour, semi-skimmed milk and mayonnaise. Ready in under half an hour with a rustic, knobbly finish.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "bread",
+    "rolls",
+    "quick",
+    "vegetarian"
+  ],
+  "prepTime": 10,
+  "cookTime": 35,
+  "servings": 12,
+  "ingredients": [
+    {
+      "text": "240g self-raising flour",
+      "kcal": 857,
+      "protein": 24,
+      "carbs": 178,
+      "fat": 4.8,
+      "satFat": 1.2
+    },
+    {
+      "text": "200ml semi-skimmed milk",
+      "kcal": 96,
+      "protein": 6.8,
+      "carbs": 9.6,
+      "fat": 3.6,
+      "satFat": 2.4
+    },
+    {
+      "text": "5 tablespoons mayonnaise",
+      "kcal": 335,
+      "protein": 0.5,
+      "carbs": 2.5,
+      "fat": 36,
+      "satFat": 5
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Grease and line two baking sheets.",
+    "Sift the flour into a bowl and slowly add the milk, stirring constantly. Add the mayonnaise and mix vigorously — the batter should be thick but runny with elastic threads.",
+    "Drop heaped dessert spoons of the mixture on to the baking sheets, spaced 4–5cm apart. Neaten the tops.",
+    "Bake for 30–35 minutes until risen and just starting to brown. Swap trays halfway through.",
+    "Cool on a wire rack before serving."
+  ],
+  "macros": {
+    "kcal": 117,
+    "protein": 2.5,
+    "carbs": 16,
+    "fat": 4.5,
+    "satFat": 0.7,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 12 rolls. Keeps for up to 4 days; can be frozen (use within 1 month).",
+  "source": "Three Ingredient Baking"
+}

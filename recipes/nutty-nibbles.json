@@ -1,0 +1,62 @@
+{
+  "id": "nutty-nibbles",
+  "title": "Nutty Nibbles",
+  "description": "Crackers made from blitzed mixed nuts and seeds, bound with egg and water. Failsafe party nibbles that work beautifully with dips or cheese.",
+  "cuisine": "British",
+  "category": "Snack",
+  "tags": [
+    "savoury",
+    "crackers",
+    "nuts",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 40,
+  "cookTime": 25,
+  "servings": 14,
+  "ingredients": [
+    {
+      "text": "350g salted mixed nuts and seeds (Brazil nuts, hazelnuts, walnuts, sesame seeds, sunflower seeds)",
+      "kcal": 2170,
+      "protein": 63,
+      "carbs": 45,
+      "fat": 197,
+      "satFat": 26
+    },
+    {
+      "text": "1 egg",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5,
+      "satFat": 1.6
+    },
+    {
+      "text": "2 tablespoons cold water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan. Line two large baking sheets with greaseproof paper.",
+    "Blitz 330g of the nuts and seeds in a blender until fine. Pour into a bowl, add the egg and water and mix into a stiff dough. Refrigerate for 30 minutes.",
+    "Roll the chilled dough between two sheets of greaseproof paper to about 0.5cm thick. Cut into long triangles and place 2cm apart on the sheets.",
+    "Wet your hands and lightly scatter water over the crackers. Finely chop the remaining 20g of nuts and sprinkle on top.",
+    "Bake for 25 minutes, swapping trays halfway through. Cool until crisp."
+  ],
+  "macros": {
+    "kcal": 168,
+    "protein": 5,
+    "carbs": 3.9,
+    "fat": 15,
+    "satFat": 2.1,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes around 14 nibbles. Keeps 3–4 days in an airtight tin.",
+  "source": "Three Ingredient Baking"
+}

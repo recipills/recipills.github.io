@@ -1,0 +1,61 @@
+{
+  "id": "peanut-butter-mug-cake",
+  "title": "Peanut Butter Mug Cake",
+  "description": "A quick single-serve microwave cake made from peanut butter, granulated sugar and eggs. Ready in under 2 minutes.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "cake",
+    "microwave",
+    "quick",
+    "peanut butter",
+    "gluten-free"
+  ],
+  "prepTime": 3,
+  "cookTime": 2,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "140g crunchy peanut butter",
+      "kcal": 826,
+      "protein": 34,
+      "carbs": 23,
+      "fat": 72,
+      "satFat": 15
+    },
+    {
+      "text": "30g granulated sugar",
+      "kcal": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10,
+      "satFat": 3.2
+    }
+  ],
+  "steps": [
+    "Measure the peanut butter and sugar into a microwave-proof mug. Crack in the eggs and whisk everything together with a fork.",
+    "Once the batter is fully combined (it should go about three-quarters up the mug), put in the microwave and heat on high for 1–2 minutes.",
+    "Watch through the glass — the cake will rise around 2.5cm over the edge of the mug and sink slightly when done.",
+    "Use an oven glove on the handle to remove. Let the cake cool for a minute before eating."
+  ],
+  "macros": {
+    "kcal": 1090,
+    "protein": 47,
+    "carbs": 54,
+    "fat": 82,
+    "satFat": 18,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 1. In a 700W microwave it takes exactly 1 minute 45 seconds. Try cashew or almond butter, or chocolate hazelnut spread.",
+  "source": "Three Ingredient Baking"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "white-choc-cheesecake",
+  "title": "White Choc Cheesecake",
+  "description": "A light, soufflé-like Japanese-inspired cheesecake made from white chocolate, cream cheese and eggs. Tastes like a giant marshmallow.",
+  "cuisine": "Japanese",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "cheesecake",
+    "white chocolate",
+    "gluten-free"
+  ],
+  "prepTime": 20,
+  "cookTime": 40,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "270g white chocolate",
+      "kcal": 1431,
+      "protein": 16.2,
+      "carbs": 158.7,
+      "fat": 81,
+      "satFat": 50.4
+    },
+    {
+      "text": "240g low-fat cream cheese, at room temperature",
+      "kcal": 360,
+      "protein": 31.2,
+      "carbs": 9.6,
+      "fat": 24,
+      "satFat": 15.2
+    },
+    {
+      "text": "6 eggs",
+      "kcal": 432,
+      "protein": 37.8,
+      "carbs": 2.4,
+      "fat": 30,
+      "satFat": 9.6
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 195°C/175°C fan. Line the sides and base of a 23cm round cake tin with baking paper.",
+    "Melt 240g of the white chocolate in the microwave in 20-second bursts. Add the cream cheese and stir. Blast for another 10 seconds if lumpy.",
+    "Separate the eggs. Add the yolks to the cheese and chocolate mixture and combine. Whisk the egg whites to stiff peaks.",
+    "Slowly fold the egg whites into the chocolate mixture a spoonful at a time using a metal spoon.",
+    "Pour into the cake tin. Set in a baking tray and pour boiling water to a third of the way up to make a bain-marie.",
+    "Bake for 30 minutes, turn oven off, leave for 10 more minutes. Cool completely in the tin.",
+    "Melt remaining chocolate and drizzle over the top."
+  ],
+  "macros": {
+    "kcal": 222,
+    "protein": 8.5,
+    "carbs": 17,
+    "fat": 14,
+    "satFat": 7.5,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Keeps for up to a week in the fridge.",
+  "source": "Three Ingredient Baking"
+}

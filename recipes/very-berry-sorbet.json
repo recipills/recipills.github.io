@@ -1,0 +1,62 @@
+{
+  "id": "very-berry-sorbet",
+  "title": "Very Berry Sorbet",
+  "description": "A rich, fruity sorbet made from frozen mixed berries, sugar and egg whites. The egg whites prevent it becoming too icy and help it last longer.",
+  "cuisine": "British",
+  "category": "Dessert",
+  "tags": [
+    "ice cream",
+    "sorbet",
+    "berries",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "prepTime": 20,
+  "cookTime": null,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "500g frozen mixed berries",
+      "kcal": 260,
+      "protein": 5,
+      "carbs": 57,
+      "fat": 2.5,
+      "satFat": 0
+    },
+    {
+      "text": "100g granulated sugar",
+      "kcal": 400,
+      "protein": 0,
+      "carbs": 100,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 egg whites",
+      "kcal": 30,
+      "protein": 7.2,
+      "carbs": 0.4,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Heat the berries in a saucepan with 30g of the sugar for around 20 minutes over a low heat until soft. Mash roughly. Freeze for an hour.",
+    "Whisk the egg whites to soft peaks, add the remaining sugar and whisk again.",
+    "When the frozen berries have ice crystals starting to form, remove from freezer and stir in the egg mixture.",
+    "Return to freezer for at least 4 hours, stirring twice in the first hour.",
+    "Scoop and serve, scattered with fresh mint if you like."
+  ],
+  "macros": {
+    "kcal": 86,
+    "protein": 1.5,
+    "carbs": 20,
+    "fat": 0.3,
+    "satFat": 0,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 6–8. The rich purple tones are lovely in a ripple effect.",
+  "source": "Three Ingredient Baking"
+}

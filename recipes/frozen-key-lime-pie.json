@@ -1,0 +1,62 @@
+{
+  "id": "frozen-key-lime-pie",
+  "title": "Frozen Key Lime Pie",
+  "description": "A cheat's frozen key lime pie with a dark chocolate digestive base, zingy lime cream cheese filling and a biscuit crumb topping.",
+  "cuisine": "American",
+  "category": "Dessert",
+  "tags": [
+    "puddings",
+    "key lime pie",
+    "frozen",
+    "no-bake"
+  ],
+  "prepTime": 30,
+  "cookTime": null,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "15 dark chocolate digestives (around 255g)",
+      "kcal": 1147,
+      "protein": 14,
+      "carbs": 155,
+      "fat": 51,
+      "satFat": 20
+    },
+    {
+      "text": "360g low-fat cream cheese",
+      "kcal": 540,
+      "protein": 46.8,
+      "carbs": 14.4,
+      "fat": 36,
+      "satFat": 22.9
+    },
+    {
+      "text": "2 limes",
+      "kcal": 16,
+      "protein": 0.4,
+      "carbs": 4,
+      "fat": 0.2,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Line a 20cm round cake tin with baking paper.",
+    "Microwave 14 digestives for 30 seconds, blitz to crumbs. Add 1 heaped teaspoon of cream cheese to help bind. Press into the tin and refrigerate.",
+    "Whip the remaining cream cheese until fluffy. Grate the zest of both limes, squeeze the juice, add half the zest and all the juice to the cream cheese. Mix.",
+    "Spread over the biscuit base. Crush the remaining digestive, mix with leftover zest and sprinkle on top.",
+    "Freeze for 3–4 hours until the top is like ice cream.",
+    "Take out 20 minutes before serving. Slice with a warmed knife."
+  ],
+  "macros": {
+    "kcal": 163,
+    "protein": 6,
+    "carbs": 17,
+    "fat": 8.7,
+    "satFat": 4.3,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serves 8–10. Keeps in the freezer for at least a month.",
+  "source": "Three Ingredient Baking"
+}

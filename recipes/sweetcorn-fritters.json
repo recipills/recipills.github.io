@@ -1,0 +1,63 @@
+{
+  "id": "sweetcorn-fritters",
+  "title": "Sweetcorn Fritters",
+  "description": "Crispy veggie fritters of tinned sweetcorn, finely grated hard cheese and eggs. Ready in minutes — great for breakfast topped with bacon and avocado.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [
+    "savoury",
+    "fritters",
+    "sweetcorn",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 8,
+  "ingredients": [
+    {
+      "text": "160g tinned sweetcorn, drained",
+      "kcal": 138,
+      "protein": 1.9,
+      "carbs": 30.4,
+      "fat": 5.1,
+      "satFat": 2.9
+    },
+    {
+      "text": "50g hard cheese (Cheddar or similar), finely grated",
+      "kcal": 200,
+      "protein": 16.5,
+      "carbs": 0.05,
+      "fat": 15,
+      "satFat": 9.5
+    },
+    {
+      "text": "2 eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10,
+      "satFat": 3.2
+    }
+  ],
+  "steps": [
+    "Tip the sweetcorn kernels into a bowl.",
+    "Grate the cheese as finely as possible — this binds the fritters. Add the cheese and eggs to the sweetcorn and stir vigorously.",
+    "Heat a teaspoon of olive oil in a large pan over medium heat.",
+    "Ladle spoonfuls of the mix (about 2 dessert spoons) into the pan, leaving space between them.",
+    "Cook for 3–4 minutes on each side until set and golden brown. Drain off excess liquid between batches.",
+    "Serve hot, straight from the pan."
+  ],
+  "macros": {
+    "kcal": 60,
+    "protein": 4,
+    "carbs": 4,
+    "fat": 3.8,
+    "satFat": 1.9,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Makes 8 fritters. Per fritter estimate. Great sprinkled with chilli flakes or lime juice.",
+  "source": "Three Ingredient Baking"
+}
