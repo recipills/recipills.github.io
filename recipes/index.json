@@ -1,7 +1,4 @@
-{
-  "total": 709,
-  "files": [
-    "15-min-tortilla-pizza",
+[   "15-min-tortilla-pizza",
     "2-ingredient-naan-bread",
     "3-ingredient-apple-cake",
     "3-ingredient-protein-cheesecake",
@@ -710,5 +707,4 @@
     "zingy-chicken-salad",
     "zingy-thai-chicken-carrot-red-cabbage-salad",
     "zucchimole"
-  ]
-}
+]
