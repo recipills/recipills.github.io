@@ -1,0 +1,36 @@
+{
+  "id": "033",
+  "title": "Oven-Baked Mushroom Stroganoff Rice",
+  "chapter": "In a Tray",
+  "page": 95,
+  "serves": 4,
+  "calories_per_serving": 419,
+  "prep_time": "10 minutes",
+  "cook_time": "40 minutes",
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "low-calorie cooking spray",
+    "1 onion, finely chopped",
+    "3 garlic cloves, crushed",
+    "400g (14oz) chestnut mushrooms, sliced",
+    "1 tablespoon smoked paprika",
+    "1 teaspoon onion granules",
+    "1 teaspoon dried thyme",
+    "300g (10.5oz) long grain white rice",
+    "750ml (1 pint 7fl oz) hot vegetable stock",
+    "2 tablespoons Worcestershire sauce",
+    "2 tablespoons tomato pur\u00e9e",
+    "100g (3.5oz) half-fat cr\u00e8me fra\u00eeche",
+    "salt and pepper",
+    "parsley leaves, finely chopped, to serve"
+  ],
+  "method": [
+    "Preheat the oven to 200\u00b0C/180\u00b0C fan (400\u00b0F), Gas Mark 6.",
+    "Spray an ovenproof dish with low-calorie cooking spray. Add the onion, garlic, mushrooms, smoked paprika, onion granules and thyme. Spray with more cooking spray, mix well and spread out evenly. Bake in the oven for 15 minutes.",
+    "Remove the dish from the oven, add the rice, hot stock, Worcestershire sauce and tomato pur\u00e9e. Stir everything together, cover tightly with foil and return to the oven for 20 minutes.",
+    "Remove the foil, stir, then return to the oven (without foil) for 5 minutes.",
+    "Season, stir through the cr\u00e8me fra\u00eeche and serve scattered with parsley."
+  ],
+  "notes": "Add beef strips or chicken thigh fillets in step 2 with the vegetables for a non-vegetarian version."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "005",
+  "title": "Pizza Mac n Cheese",
+  "chapter": "In a Pot",
+  "page": 24,
+  "serves": 4,
+  "calories_per_serving": 508,
+  "prep_time": "5 minutes",
+  "cook_time": "30 minutes",
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "500ml (18fl oz) tomato passata",
+    "250ml (9fl oz) semi-skimmed milk",
+    "150ml (1/4 pint) water",
+    "1 teaspoon onion granules",
+    "1 teaspoon garlic granules",
+    "300g (10.5oz) macaroni",
+    "1 teaspoon dried oregano",
+    "90g (3.25oz) Cheddar cheese, grated",
+    "100g (3.5oz) mozzarella cheese, torn",
+    "toppings/fillings of choice (see notes)",
+    "salt and pepper"
+  ],
+  "method": [
+    "Preheat the oven to 200\u00b0C/180\u00b0C fan (400\u00b0F), Gas Mark 6.",
+    "Pour the passata, milk and water into a small flameproof casserole dish, add both the onion and garlic granules and bring to the boil.",
+    "Add the macaroni, reduce the heat and allow to bubble away for 15 minutes, stirring occasionally.",
+    "Season to taste, add the oregano, then stir through half of each of the grated Cheddar and torn mozzarella.",
+    "Cover the top of the pasta with all the remaining cheese and pop into the oven for 15 minutes, until the cheese on top is bubbling and the macaroni is cooked through."
+  ],
+  "notes": "Suggested toppings: anchovies, jalape\u00f1os or bacon on top; or stir in mushrooms, peppers, olives, pepperoni, sweetcorn or tuna in step 4. Calorie count is without toppings."
+}

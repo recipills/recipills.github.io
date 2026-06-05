@@ -1,0 +1,34 @@
+{
+  "id": "042",
+  "title": "Sausage and New Potato Tray Bake",
+  "chapter": "In a Tray",
+  "page": 120,
+  "serves": 4,
+  "calories_per_serving": 356,
+  "prep_time": "10 minutes",
+  "cook_time": "45 minutes",
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "8 reduced-fat pork sausages",
+    "500g (1lb 2oz) baby new potatoes, halved",
+    "2 red onions, cut into wedges",
+    "2 peppers (any colour), deseeded and roughly chopped",
+    "200g (7oz) cherry tomatoes",
+    "3 garlic cloves, crushed",
+    "1 tablespoon olive oil",
+    "1 tablespoon balsamic vinegar",
+    "1 teaspoon dried rosemary",
+    "1 teaspoon dried thyme",
+    "1 tablespoon wholegrain mustard",
+    "salt and pepper"
+  ],
+  "method": [
+    "Preheat the oven to 200\u00b0C/180\u00b0C fan (400\u00b0F), Gas Mark 6.",
+    "In a large roasting tin, mix together the potatoes, onions, peppers, cherry tomatoes and garlic. Drizzle over the olive oil and balsamic vinegar, add the rosemary and thyme, season with salt and pepper and mix.",
+    "Nestle the sausages among the vegetables.",
+    "Roast in the oven for 35 minutes, then remove and brush the sausages with the wholegrain mustard.",
+    "Return to the oven for a final 10 minutes until the sausages are golden and the vegetables are tender."
+  ],
+  "notes": "Swap sausages for chicken thighs or pork chops. Add mushrooms or courgettes to the vegetable mix."
+}

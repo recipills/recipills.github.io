@@ -1,0 +1,30 @@
+{
+  "id": "051",
+  "title": "Salmon Miso Broth",
+  "chapter": "Soup-er",
+  "page": 149,
+  "serves": 2,
+  "calories_per_serving": 519,
+  "prep_time": "5 minutes",
+  "cook_time": "12 minutes",
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "500ml (18fl oz) chicken stock",
+    "50g (1.75oz) long grain rice",
+    "1 tablespoon miso paste",
+    "1 tablespoon mirin",
+    "1 tablespoon light soy sauce",
+    "2 carrots, peeled and cut into fine matchsticks",
+    "2 salmon fillets, skin removed, cut into bite-sized chunks",
+    "75g (2.75oz) sugarsnap peas",
+    "TO SERVE (OPTIONAL): chopped spring onions, coriander leaves"
+  ],
+  "method": [
+    "In a medium-sized saucepan, bring the stock to the boil, add the rice and simmer for 7 minutes.",
+    "Add the miso paste to the pan and stir to dissolve, then add the mirin, soy sauce, carrots and salmon.",
+    "Simmer for 3 minutes, add the sugarsnap peas, then simmer for another 2 minutes.",
+    "Serve just as it is, or with some spring onions and coriander scattered over."
+  ],
+  "notes": "Miso is a fermented soy bean paste with a distinctive salty, umami flavour. Mirin is a Japanese sweet rice cooking wine. Both available in most big supermarkets near soy sauce and noodles."
+}

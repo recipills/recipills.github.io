@@ -1,0 +1,34 @@
+{
+  "id": "045",
+  "title": "Super-Green Soup",
+  "chapter": "Soup-er",
+  "page": 137,
+  "serves": 6,
+  "calories_per_serving": 142,
+  "prep_time": "20 minutes",
+  "cook_time": "30 minutes",
+  "vegetarian": true,
+  "freezer_friendly": true,
+  "ingredients": [
+    "spray oil",
+    "2 onions, finely chopped",
+    "2 celery sticks, finely chopped",
+    "1 fennel bulb, trimmed and sliced",
+    "2 garlic cloves, finely chopped",
+    "2 courgettes, roughly chopped",
+    "1 head of broccoli, florets cut away, stalk trimmed and chopped",
+    "1 litre (1.75 pints) hot vegetable stock",
+    "400g (14oz) can of chickpeas, drained and rinsed",
+    "small handful of parsley leaves",
+    "2 large handfuls of baby spinach",
+    "juice of 1 lemon",
+    "salt and pepper"
+  ],
+  "method": [
+    "Spray oil into a large deep casserole dish and fry the onions and celery over a medium heat for 5 minutes. Add the fennel, garlic, courgettes and broccoli stalks and fry gently for 10 minutes.",
+    "Pour in the hot stock and add the chickpeas, bring to the boil and cook at a fast simmer for 5 minutes.",
+    "Add the broccoli florets, parsley and spinach, pop a lid on the pan and simmer for 7-8 minutes until the broccoli is tender.",
+    "Season with salt and pepper, squeeze in the lemon juice and use a hand blender to blend into a smooth soup, or leave chunkier if preferred."
+  ],
+  "notes": "Don't throw away broccoli stalks \u2014 trim away the tough outer bits and slice into coins to add to the soup."
+}

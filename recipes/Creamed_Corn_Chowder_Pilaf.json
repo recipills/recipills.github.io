@@ -1,0 +1,33 @@
+{
+  "id": "020",
+  "title": "Creamed Corn Chowder Pilaf",
+  "chapter": "In a Pan",
+  "page": 56,
+  "serves": 4,
+  "calories_per_serving": 400,
+  "prep_time": "5 minutes",
+  "cook_time": "30 minutes",
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "1 teaspoon unsalted butter",
+    "1 onion, finely chopped",
+    "1 garlic clove, crushed",
+    "600g (1lb 5oz) frozen sweetcorn, defrosted",
+    "1 litre (1.75 pints) hot vegetable stock, plus extra if needed",
+    "100ml (3.5fl oz) semi-skimmed milk",
+    "250g (9oz) long grain rice",
+    "100g (3.5oz) light cream cheese",
+    "pepper",
+    "parsley leaves, to serve",
+    "SPICE MIX: 1 tsp smoked paprika, 1 tsp dried thyme, 1 tsp salt, 1/2 tsp pepper, 1/2 tsp onion granules, 1/2 tsp garlic granules"
+  ],
+  "method": [
+    "Mix together all the ingredients for the spice mix.",
+    "Using a saut\u00e9 pan (with a lid), melt the butter and fry the onion for 5 minutes until soft. Add the garlic, sweetcorn and spice mix, stir together, then pour in about half the hot stock and all the milk. Bring up to a simmer and simmer for 5 minutes.",
+    "Using a ladle, remove 2 ladlefuls of the mixture and place in a bowl. Pur\u00e9e it with a hand blender or mini chopper, then return it to the saut\u00e9 pan.",
+    "Add the rice and remaining stock to the pan, stir it through and place the lid on. Simmer gently for 15 minutes. Remove the lid, stir, then allow it to bubble for 5 minutes with the lid off.",
+    "Check that the rice is cooked (if not, allow to simmer for longer). Stir through the cream cheese. Season with black pepper and serve scattered with finely chopped parsley."
+  ],
+  "notes": "Can be eaten as a stand-alone meal or as a great side dish to grilled or barbecued meats. For non-vegetarians, fry chopped smoked bacon or chorizo with the onion in step 2."
+}

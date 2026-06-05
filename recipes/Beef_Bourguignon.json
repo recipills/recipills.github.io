@@ -1,0 +1,41 @@
+{
+  "id": "014",
+  "title": "Beef Bourguignon",
+  "chapter": "In a Pot",
+  "page": 44,
+  "serves": 4,
+  "calories_per_serving": 512,
+  "prep_time": "20 minutes",
+  "cook_time": "2 hours 10 minutes",
+  "vegetarian": false,
+  "freezer_friendly": true,
+  "ingredients": [
+    "spray oil",
+    "3 celery sticks, finely chopped",
+    "3 bacon medallions (fat removed), finely chopped",
+    "12 shallots, peeled",
+    "600g (1lb 5oz) lean diced beef",
+    "4 garlic cloves, crushed",
+    "2 tablespoons cornflour",
+    "150ml (1/4 pint) red wine",
+    "600ml (20fl oz) hot beef stock",
+    "3 tablespoons tomato pur\u00e9e",
+    "1 teaspoon dried thyme",
+    "1 teaspoon dried rosemary",
+    "1 teaspoon salt",
+    "1 teaspoon pepper",
+    "2 tablespoons dark soy sauce",
+    "4 carrots (about 350g/12oz), peeled and sliced",
+    "250g (9oz) chestnut mushrooms, halved or quartered if large",
+    "650g (1lb 7oz) baby potatoes, larger ones halved",
+    "parsley leaves, chopped, to serve"
+  ],
+  "method": [
+    "Preheat the oven to 200\u00b0C/180\u00b0C fan (400\u00b0F), Gas Mark 6.",
+    "Spray a large flameproof casserole dish (with a lid) with oil and stir-fry the celery, bacon and shallots over a medium heat for 3 minutes. Add the beef and garlic and stir-fry for a further 5 minutes to sear the outside of the beef.",
+    "Stir the cornflour through, then add the wine, hot stock, tomato pur\u00e9e, thyme, rosemary, salt and pepper, soy sauce, carrots and mushrooms. Gently mix and bring to a simmer. Place the lid on the pan and put on to the middle shelf of the oven for 1 hour.",
+    "After 1 hour, give everything a stir, add the baby potatoes, replace the lid and cook for a further 1 hour.",
+    "Serve scattered with chopped parsley."
+  ],
+  "notes": "A leaner version of the French classic. Potatoes are added to make it a meal-in-one. Crusty French bread to mop up the sauce is highly recommended."
+}

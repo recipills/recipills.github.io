@@ -1,0 +1,34 @@
+{
+  "id": "007",
+  "title": "Marks Chicken",
+  "chapter": "In a Pot",
+  "page": 28,
+  "serves": 4,
+  "calories_per_serving": 473,
+  "prep_time": "10 minutes",
+  "cook_time": "1 hour 15 minutes",
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "500g (1lb 2oz) new potatoes, sliced lengthways",
+    "100ml (3.5fl oz) hot chicken stock",
+    "8 chicken thigh fillets, fat trimmed away",
+    "8 anchovy fillets (from a can), drained",
+    "16 pitted green olives in brine",
+    "2 lemons, each cut into 4 wedges lengthways",
+    "2 garlic cloves, finely sliced lengthways",
+    "150g (5.5oz) cherry tomatoes, halved",
+    "1/2 teaspoon dried oregano",
+    "spray oil",
+    "100g (3.5oz) mozzarella cheese, torn into small pieces",
+    "salt and pepper"
+  ],
+  "method": [
+    "Preheat the oven to 200\u00b0C/180\u00b0C fan (400\u00b0F), Gas Mark 6.",
+    "In a medium casserole dish (with a lid), layer the sliced new potatoes and pour over the chicken stock. Lay the chicken thighs over the potatoes in a circle and place an anchovy fillet on each thigh.",
+    "Scatter the olives over and place the lemon wedges around the chicken. Space the garlic slices evenly, add the cherry tomatoes and sprinkle the oregano over everything. Season, spray with oil, place the lid on and bake in the oven for 1 hour.",
+    "Remove from the oven, scatter the mozzarella over the top, then return to the oven for 15 minutes until golden and bubbling.",
+    "Serve straight away (don't eat the lemon pieces) and spoon over the pan gravy with each serving."
+  ],
+  "notes": "Mark's original version contains chorizo \u2014 feel free to add it back. Leftover anchovies can be used to make a simple puttanesca pasta sauce."
+}

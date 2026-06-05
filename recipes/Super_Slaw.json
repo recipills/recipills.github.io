@@ -1,0 +1,26 @@
+{
+  "id": "065",
+  "title": "Super Slaw",
+  "chapter": "All in the Prep",
+  "page": 183,
+  "serves": 4,
+  "calories_per_serving": 102,
+  "prep_time": "15 minutes",
+  "cook_time": "None",
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "1/4 white cabbage, very finely shredded",
+    "1/4 red cabbage, very finely shredded",
+    "2 carrots, peeled and grated",
+    "4 spring onions, finely sliced",
+    "DRESSING: 2 tbsp apple cider vinegar, 1 tbsp fat-free Greek yogurt, 1 tsp Dijon mustard, 1/2 tsp honey, salt and pepper"
+  ],
+  "method": [
+    "In a large bowl, combine the white and red cabbage, carrots and spring onions.",
+    "In a small bowl, mix together all the dressing ingredients and season well.",
+    "Pour the dressing over the slaw and mix everything together thoroughly.",
+    "Taste and adjust the seasoning if needed. Serve immediately or refrigerate for up to 2 days."
+  ],
+  "notes": "Great alongside pulled pork, doner kebab and as a burger topping. Try adding finely chopped apple or fennel for extra flavour."
+}

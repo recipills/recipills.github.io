@@ -1,0 +1,30 @@
+{
+  "id": "068",
+  "title": "Chickpea and Tuna Salad",
+  "chapter": "All in the Prep",
+  "page": 195,
+  "serves": 2,
+  "calories_per_serving": 125,
+  "prep_time": "10 minutes",
+  "cook_time": "None",
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "145g (5oz) can of tuna chunks in spring water, drained",
+    "1 tablespoon cider vinegar",
+    "1 teaspoon Dijon mustard",
+    "1 garlic clove, crushed",
+    "400g (14oz) can of chickpeas, drained and rinsed",
+    "1 red pepper, deseeded and finely chopped",
+    "1 small courgette, finely chopped",
+    "3 spring onions, finely sliced",
+    "small handful of parsley leaves, finely chopped",
+    "salt and pepper"
+  ],
+  "method": [
+    "In a large bowl, use a fork to mash the tuna up with the vinegar, mustard, garlic and some salt and pepper.",
+    "Mix in the chickpeas to fully coat with the tuna and dressing.",
+    "Add the red pepper, courgette, spring onions and parsley and toss them in."
+  ],
+  "notes": "Any crunchy, fresh vegetables will work well \u2014 try green beans, sugarsnap peas, broccoli, lettuce, radishes or cucumber. Stir in some pre-cooked grains such as bulgur wheat or couscous to bulk it up."
+}

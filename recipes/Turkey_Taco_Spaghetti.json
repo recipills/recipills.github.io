@@ -1,0 +1,40 @@
+{
+  "id": "035",
+  "title": "Turkey Taco Spaghetti",
+  "chapter": "In a Tray",
+  "page": 99,
+  "serves": 4,
+  "calories_per_serving": 432,
+  "prep_time": "10 minutes",
+  "cook_time": "40 minutes",
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "spray oil",
+    "1 onion, finely chopped",
+    "3 garlic cloves, crushed",
+    "500g (1lb 2oz) turkey mince",
+    "400g (14oz) can of chopped tomatoes",
+    "2 tablespoons tomato pur\u00e9e",
+    "500ml (18fl oz) hot chicken stock",
+    "200g (7oz) spaghetti, broken into thirds",
+    "1 teaspoon onion granules",
+    "1 teaspoon garlic granules",
+    "1 teaspoon smoked paprika",
+    "1/2 teaspoon chilli powder",
+    "1/2 teaspoon ground cumin",
+    "1/2 teaspoon dried oregano",
+    "1 teaspoon salt",
+    "100g (3.5oz) mature Cheddar cheese, grated",
+    "salt and pepper",
+    "TO SERVE: soured cream, jalape\u00f1os, coriander leaves, lime wedges"
+  ],
+  "method": [
+    "Preheat the oven to 200\u00b0C/180\u00b0C fan (400\u00b0F), Gas Mark 6.",
+    "Spray an ovenproof dish with oil and stir together the onion, garlic, turkey mince, chopped tomatoes, tomato pur\u00e9e, hot stock, spaghetti and all the spices and salt. Mix well.",
+    "Cover tightly with foil and bake for 30 minutes.",
+    "Remove the foil, stir, then top with the grated cheese and return to the oven (without foil) for 10 minutes until the cheese is bubbling.",
+    "Serve with soured cream, jalape\u00f1os, coriander and lime wedges."
+  ],
+  "notes": "Use lean minced beef or chicken mince instead of turkey. To make it vegetarian, replace mince with a can of black beans and use vegetable stock."
+}

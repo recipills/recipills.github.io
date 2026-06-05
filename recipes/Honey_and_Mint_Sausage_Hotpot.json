@@ -1,0 +1,36 @@
+{
+  "id": "010",
+  "title": "Honey and Mint Sausage Hotpot",
+  "chapter": "In a Pot",
+  "page": 35,
+  "serves": 4,
+  "calories_per_serving": 308,
+  "prep_time": "15 minutes",
+  "cook_time": "50 minutes",
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "spray oil",
+    "1 red onion, finely chopped",
+    "8 reduced-fat pork sausages, each cut into 6",
+    "2 garlic cloves, crushed",
+    "large handful of mint leaves (about 20g), finely chopped, plus extra to serve",
+    "2 tablespoons red wine vinegar",
+    "2 tablespoons honey",
+    "1 tablespoon light soy sauce",
+    "1 litre (1.75 pints) hot beef stock",
+    "2 teaspoons wholegrain mustard",
+    "3 tablespoons tomato pur\u00e9e",
+    "450g (1lb) baby potatoes, halved, or quartered if large",
+    "300g (10.5oz) carrots, peeled and cut into matchsticks",
+    "salt and pepper"
+  ],
+  "method": [
+    "Preheat the oven to 220\u00b0C/200\u00b0C fan (425\u00b0F), Gas Mark 7.",
+    "Spray a flameproof casserole dish with oil and fry the onion and sausage pieces over a high heat for 5 minutes, constantly stirring.",
+    "Add the garlic, mint, vinegar, honey and soy sauce and stir-fry for 2 minutes. Pour in the hot stock, stir, then add the mustard and tomato pur\u00e9e.",
+    "Add the potatoes and carrots, season with salt and pepper, bring to the boil, then transfer to the middle shelf of the oven (uncovered) and cook for 40 minutes.",
+    "Give everything in the pot a thorough stir, then serve with mint scattered over the top."
+  ],
+  "notes": "You could replace the potatoes with butternut squash or sweet potato, or add mushrooms. For veggie sausages, fry the onion on its own in step 2, then add sausage pieces in step 3 with the garlic."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "046",
+  "title": "Hot and Sour Mushroom Noodle Soup",
+  "chapter": "Soup-er",
+  "page": 138,
+  "serves": 2,
+  "calories_per_serving": 264,
+  "prep_time": "5 minutes",
+  "cook_time": "12 minutes",
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "spray oil",
+    "1 onion, finely chopped",
+    "2 garlic cloves, crushed",
+    "1 red chilli, deseeded and finely chopped",
+    "250g (9oz) chestnut mushrooms, sliced",
+    "750ml (1 pint 7fl oz) hot vegetable stock",
+    "1 tablespoon tamarind paste",
+    "1 tablespoon dark soy sauce",
+    "1 teaspoon honey",
+    "1 packet instant ramen noodles (flavour sachet not used)",
+    "coriander leaves, to serve"
+  ],
+  "method": [
+    "In a deep saucepan, fry the onion gently in spray oil for 5 minutes.",
+    "Add the garlic, chilli and mushrooms and fry gently for another 5 minutes.",
+    "Pour in the hot stock, add the tamarind paste, soy sauce and honey and stir well.",
+    "Add the instant noodles to the pot and simmer for 2 minutes until the noodles are cooked. Serve immediately, scattered with fresh coriander."
+  ],
+  "notes": "Use fine or medium egg noodles instead of instant ramen. Crush leftover ramen noodles as a crunchy topping for salads or as a breadcrumb replacement."
+}

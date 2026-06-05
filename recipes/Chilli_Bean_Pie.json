@@ -1,0 +1,37 @@
+{
+  "id": "004",
+  "title": "Chilli Bean Pie",
+  "chapter": "In a Pot",
+  "page": 23,
+  "serves": 6,
+  "calories_per_serving": 238,
+  "prep_time": "15 minutes",
+  "cook_time": "45 minutes",
+  "vegetarian": true,
+  "freezer_friendly": true,
+  "ingredients": [
+    "spray oil",
+    "2 red onions, finely chopped",
+    "2 celery sticks, finely chopped",
+    "3 garlic cloves, crushed",
+    "2 red peppers, deseeded and finely chopped",
+    "400g (14oz) can of chopped tomatoes",
+    "400g (14oz) can of black beans, drained and rinsed",
+    "400g (14oz) can of pinto beans, drained and rinsed",
+    "2 tablespoons tomato pur\u00e9e",
+    "150g (5.5oz) frozen sweetcorn",
+    "1 tablespoon pickled jalape\u00f1os, finely chopped (optional)",
+    "200ml (7fl oz) boiling water",
+    "about 300g (10.5oz) sweet potatoes, peeled and sliced into fine circles",
+    "paprika (any type), for sprinkling",
+    "SPICE MIX: 1/2 tsp chilli powder, 1 tsp ground cumin, 1 tsp dried oregano, 1 tsp garlic granules, 1 tsp sweet paprika, 1 tsp salt, 1/2 tsp pepper"
+  ],
+  "method": [
+    "Prepare the spice mix. Preheat the oven to 220\u00b0C/200\u00b0C fan (425\u00b0F), Gas Mark 7.",
+    "Spray a flameproof casserole dish with oil and fry the red onions for 8 minutes. Add celery, garlic and peppers and stir-fry for 5 minutes, then stir in the spice mix.",
+    "Add the chopped tomatoes, black beans and pinto beans, tomato pur\u00e9e, sweetcorn, jalape\u00f1os (if using) and boiling water, bring to a simmer, then stir thoroughly.",
+    "Remove from heat and lay the sweet potato slices over the top, overlapping in a circle from middle to edge. Spray the top with oil and sprinkle with paprika.",
+    "Bake on the middle shelf of the oven for 30 minutes until the sweet potatoes are cooked through and golden brown."
+  ],
+  "notes": "Customise the beans to your taste. To make it meatier, fry chicken thigh fillets or lean minced beef after frying the onions in step 2."
+}
