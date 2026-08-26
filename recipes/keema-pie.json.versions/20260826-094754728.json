@@ -1,0 +1,137 @@
+{
+  "id": "keema-pie",
+  "title": "Keema Pie",
+  "description": "If you love curries and you love pies, then this is the recipe for you! A weekend wonder, this Keema Pie is infused with Indian spices and uses sweet potatoes as well as regular spuds for a mixed mash topping.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 20,
+  "cookTime": 60,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "400g 5%-fat minced beef",
+      "kcal": 544,
+      "protein": 84.0,
+      "carbs": 0.0,
+      "fat": 20.0,
+      "satFat": 8.8
+    },
+    {
+      "text": "1 onion, peeled and diced",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 bell peppers, deseeded and diced",
+      "kcal": 99,
+      "protein": 3.2,
+      "carbs": 19.2,
+      "fat": 1.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 carrots, peeled and diced",
+      "kcal": 56,
+      "protein": 1.1,
+      "carbs": 12.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1cm (½ in) piece of root ginger, peeled and grated",
+      "kcal": 24,
+      "protein": 0.5,
+      "carbs": 5.4,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "2 tsp garlic granules",
+      "kcal": 20,
+      "protein": 1.0,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp curry powder",
+      "kcal": 42,
+      "protein": 1.8,
+      "carbs": 7.2,
+      "fat": 1.8,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 tbsp tomato puree",
+      "kcal": 45,
+      "protein": 2.4,
+      "carbs": 9.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "450ml beef stock (2 beef stock cubes dissolved in 450ml boiling water)",
+      "kcal": 18,
+      "protein": 1.3,
+      "carbs": 1.8,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "juice of ½ lemon",
+      "kcal": 3,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "150g frozen peas",
+      "kcal": 99,
+      "protein": 8.1,
+      "carbs": 13.5,
+      "fat": 1.4,
+      "satFat": 0.3
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200°C (fan 180°C/gas mark 6).\n\nPeel the potatoes and sweet potatoes and cut them into even-sized\nchunks. Place them in a saucepan, cover with cold salted water and bring\nto the boil over a high heat. Turn the heat down and allow to simmer for\naround 20 minutes, or until a knife slides easily into the potatoes.",
+    "Meanwhile, cook the mince. Spray a large pan or wok with low-calorie\ncooking spray, place over a medium–high heat, add the mince and brown\nfor 4–5 minutes. Add the onion, peppers and carrots and continue\ncooking for another 3–4 minutes. Add the ginger, garlic granules and\ncurry powder. Stir well, then add the tomato puree. Pour in the beef\nstock, squeeze in the lemon juice, stir well, and bring to the boil.",
+    "Reduce the heat to low and allow to simmer uncovered for 20 minutes.\nThe sauce should reduce and thicken. If you think it is a bit runny, cook it\nfor a little longer.",
+    "When the potatoes are cooked, drain, return to the pan and mash well.\nAdd the turmeric and onion seeds if using, and mix in. Taste and add salt\nand pepper as necessary.",
+    "When the mince is cooked, stir through the frozen peas, then place the\nmix into a deep ovenproof dish. A lasagne dish is perfect. (At this point\nyou could allow it to cool completely and freeze for topping and baking at\na later date.)",
+    "Once the filling has cooled slightly, spread the mashed potatoes on top of\nthe meat and fluff up with a fork. Place in the preheated oven for 30\nminutes, or until the topping is golden."
+  ],
+  "macros": {
+    "kcal": 389,
+    "protein": 30.3,
+    "carbs": 52.1,
+    "fat": 6.6,
+    "satFat": 2.4,
+    "fibre": 11.8,
+    "sugar": 20.4,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

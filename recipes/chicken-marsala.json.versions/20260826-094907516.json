@@ -1,0 +1,109 @@
+{
+  "id": "chicken-marsala",
+  "title": "Chicken Marsala",
+  "description": "Pan-fried, flour-dusted chicken breasts in a Marsala wine sauce with shallots and mushrooms.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "4 small chicken breasts (skin and visible fat removed)",
+      "kcal": 636,
+      "protein": 144.0,
+      "carbs": 0.0,
+      "fat": 9.0,
+      "satFat": 2.4
+    },
+    {
+      "text": "1 tbsp plain flour",
+      "kcal": 364,
+      "protein": 10.0,
+      "carbs": 77.0,
+      "fat": 2.0,
+      "satFat": 0.5
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp reduced-fat butter",
+      "kcal": 365,
+      "protein": 40.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "350ml chicken stock (1 chicken stock cube dissolved in 350ml boiling water)",
+      "kcal": 14,
+      "protein": 1.1,
+      "carbs": 1.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 shallots, peeled and finely chopped",
+      "kcal": 20,
+      "protein": 0.8,
+      "carbs": 4.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g mushrooms, cut into chunky slices",
+      "kcal": 26,
+      "protein": 3.6,
+      "carbs": 0.8,
+      "fat": 1.0,
+      "satFat": 0.2
+    },
+    {
+      "text": "2 garlic cloves, peeled and crushed",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50ml Marsala wine",
+      "kcal": 800,
+      "protein": 0.0,
+      "carbs": 100.0,
+      "fat": 50.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Butterfly the chicken breasts. To do this, slice horizontally from the thicker outer edge of the chicken breast, stopping about 1cm (½in) from the other edge of the breast, and fold open like a book.",
+    "Season the flour with a little salt and pepper and dust each butterflied breast so they have a light coating. Melt half of the butter in a frying pan over a medium heat and then add the chicken.",
+    "Cook for 2 minutes each side until golden brown. You may need to do this in two batches, depending on the size of the chicken breasts.",
+    "When browned, remove the chicken and place to one side.  Deglaze the pan with a little stock, scraping up any crispy brown bits on the bottom.",
+    "Add the remaining butter and sauté the shallots for a couple of minutes until golden, then add the mushrooms and garlic and continue cooking for another minute.",
+    "Pour in the Marsala wine and scrape up any more crispy golden bits from the bottom of the pan.",
+    "Stir in the rest of the chicken stock and bring to a simmer.",
+    "Return the chicken to the pan, and cook for 15 minutes, turning it over halfway through.",
+    "Check your chicken is cooked. There should be no pink in the middle. The sauce should have reduced during the cooking time, but if you find it a little thin, remove the chicken and turn up the heat for a couple of minutes until it has thickened.",
+    "Return the chicken to the pan, stir in the parsley and serve."
+  ],
+  "macros": {
+    "kcal": 198,
+    "fat": 6.3,
+    "satFat": 2.1,
+    "carbs": 7.3,
+    "sugar": 1.9,
+    "fibre": 1.1,
+    "protein": 28,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

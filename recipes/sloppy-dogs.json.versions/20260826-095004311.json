@@ -1,0 +1,169 @@
+{
+  "id": "sloppy-dogs",
+  "title": "Sloppy Dogs",
+  "description": "These Sloppy Dogs are a new take on the hotdog. We’ve taken lean pork mince and combined it with the flavours of classic toppings, including fried onions, ketchup and mustard.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "2 white onions, peeled and finely chopped",
+      "kcal": 108,
+      "protein": 3.6,
+      "carbs": 23.7,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red pepper, deseeded and finely chopped",
+      "kcal": 50,
+      "protein": 1.6,
+      "carbs": 9.6,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "150ml pork stock (2 pork stock cubes dissolved in 150ml boiling water), or use beef or chicken stock",
+      "kcal": 6,
+      "protein": 0.4,
+      "carbs": 0.6,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "500g 5%-fat minced pork",
+      "kcal": 680,
+      "protein": 105.0,
+      "carbs": 0.0,
+      "fat": 25.0,
+      "satFat": 9.0
+    },
+    {
+      "text": "1 tsp onion granules",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 1.8,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp garlic granules",
+      "kcal": 10,
+      "protein": 0.5,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp sweet paprika",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp mustard powder",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 0.5,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tsp Worcestershire sauce or Henderson’s relish",
+      "kcal": 10,
+      "protein": 0.0,
+      "carbs": 2.4,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp balsamic vinegar",
+      "kcal": 14,
+      "protein": 0.1,
+      "carbs": 2.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 x 400g tin chopped tomatoes",
+      "kcal": 80,
+      "protein": 4.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "4 tbsp tomato puree",
+      "kcal": 60,
+      "protein": 3.2,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "6 gluten-free finger rolls (we like Promise Supersoft White Sandwich Rolls)",
+      "kcal": 720,
+      "protein": 18.0,
+      "carbs": 132.0,
+      "fat": 12.0,
+      "satFat": 2.4
+    },
+    {
+      "text": "120g reduced-fat Cheddar, finely grated",
+      "kcal": 328,
+      "protein": 39.6,
+      "carbs": 0.1,
+      "fat": 18.0,
+      "satFat": 11.4
+    },
+    {
+      "text": "2 spring onions, trimmed and thinly sliced (optional)",
+      "kcal": 10,
+      "protein": 0.6,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C (fan 200°C/gas mark 7).",
+    "Put the onions, red pepper and the pork stock in a frying pan and sauté\nover a medium heat. After around 5 minutes the onions will be\n\ntranslucent and the liquid will have reduced to a glossy coating. Spray\nsome low-calorie cooking spray into the pan.",
+    "Add the pork mince, onion granules, garlic granules, paprika, mustard\npowder, Worcestershire sauce and balsamic vinegar. Sauté for 4–5\nminutes until the mince has browned.",
+    "Once the mince has browned, add the chopped tomatoes and tomato\npuree. Stir and simmer over a medium–low heat so that it is gently\nbubbling. After around 5 minutes the sauce should look rich and be\nreduced and thick. Remember, this is served in a bun, so if the sauce is\nstill runny, reduce it further. Season with salt and pepper to taste. (At this\npoint, if you want to keep the mince for another day, you can freeze it\nonce cooled – defrost fully before reheating.)",
+    "Slice the buns down the middle and line up on a baking tray. Spoon the\npork mix into the buns and top with the grated cheese. Pop the buns into\nthe oven for 3–5 minutes. You want the cheese to melt but you don’t want\nthe buns to burn!",
+    "Serve with an optional scattering of spring onions."
+  ],
+  "macros": {
+    "kcal": 379,
+    "protein": 30,
+    "carbs": 34,
+    "fat": 10,
+    "satFat": 3.4,
+    "fibre": 12,
+    "sugar": 13,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

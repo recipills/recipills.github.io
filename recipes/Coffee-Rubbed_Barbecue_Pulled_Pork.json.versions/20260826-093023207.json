@@ -1,0 +1,36 @@
+{
+  "id": "Coffee-Rubbed_Barbecue_Pulled_Pork",
+  "title": "Coffee-Rubbed Barbecue Pulled Pork",
+  "description": "Pork tenderloin rubbed with a smoky coffee and paprika spice mix, then slow-cooked in a tangy balsamic and honey barbecue sauce and shredded.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "chapter": "In a Slow-Cooker",
+  "page": 165,
+  "prepTime": 10,
+  "cookTime": 360,
+  "servings": 4,
+  "vegetarian": false,
+  "freezer_friendly": true,
+  "ingredients": [
+    "2 x pork tenderloins (total weight about 1kg/2lb 4oz)",
+    "SPICE MIX: 2 tsp smoked paprika, 1 tbsp fine-ground espresso coffee, 1 tsp garlic granules, 1 tsp coarse sea salt, 1/2 tsp cayenne pepper",
+    "SAUCE: 150ml (1/4 pint) chicken stock, 2 tbsp balsamic vinegar, 2 tbsp tomato purée, 1 tbsp honey, 1 tbsp Worcestershire sauce"
+  ],
+  "steps": [
+    "Make up the spice rub by mixing everything in a bowl.",
+    "Place the pork tenderloins into the slow-cooker pot and rub them all over with the spice mix.",
+    "Make up the sauce by mixing all the ingredients together in a small bowl. Pour this around the pork, then place the lid on the slow-cooker. Cook on low for 6-8 hours (best results), or on high for 4-6 hours.",
+    "Use 2 forks to shred the tender pork and mix it into the juices to absorb the flavours."
+  ],
+  "macros": {
+    "kcal": 274,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serve in lightly toasted wholemeal baps with Super Slaw and Quick Purple Pickle (p.183 & p.210). Oven method: 180°C/160°C fan, Gas Mark 4, casserole with lid, 2 hours."
+}

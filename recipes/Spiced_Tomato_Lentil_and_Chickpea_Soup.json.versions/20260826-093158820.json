@@ -1,0 +1,49 @@
+{
+  "id": "Spiced_Tomato_Lentil_and_Chickpea_Soup",
+  "title": "Spiced Tomato Lentil and Chickpea Soup",
+  "description": "A spiced red lentil, chickpea and tomato soup flavoured with cumin, turmeric, ginger and cinnamon.",
+  "cuisine": "Middle Eastern",
+  "category": "Lunch",
+  "chapter": "Soup-er",
+  "page": 134,
+  "prepTime": 15,
+  "cookTime": 60,
+  "servings": 6,
+  "vegetarian": true,
+  "freezer_friendly": true,
+  "ingredients": [
+    "2 onions, quartered",
+    "2 celery sticks, roughly chopped",
+    "1 teaspoon olive oil",
+    "400g (14oz) can of plum tomatoes",
+    "2 carrots, peeled and roughly chopped",
+    "4 garlic cloves",
+    "large handful of parsley leaves, plus extra chopped to serve",
+    "1 red chilli, deseeded and finely chopped",
+    "1 litre (1.75 pints) hot vegetable stock",
+    "150g (5.5oz) dried red lentils",
+    "400g (14oz) can of chickpeas, drained and rinsed",
+    "1 sweet potato, peeled and chopped",
+    "3 tablespoons tomato purée",
+    "2 lemons, cut into wedges, to serve",
+    "SPICE MIX: 1 tsp ground cumin, 1 tsp ground turmeric, 1 tsp ground ginger, 1/2 tsp ground cinnamon, 1/2 tsp salt, 1/2 tsp pepper"
+  ],
+  "steps": [
+    "Make up the spice mix in a small bowl.",
+    "In a food processor, blend the onions and celery until very finely chopped.",
+    "In a large saucepan, heat the oil and scrape in the onion and celery. Fry gently for 10 minutes. Meanwhile, put the tomatoes, carrots, garlic, parsley and chilli in the food processor and blend until smooth.",
+    "Increase the heat, add the spice blend to the onions and stir for 30 seconds. Reduce heat and pour in the tomato mixture. Add the hot stock, red lentils, chickpeas, sweet potato and tomato purée.",
+    "Bring to the boil, then gently simmer for 45 minutes, stirring occasionally. Serve with lemon wedges and parsley."
+  ],
+  "macros": {
+    "kcal": 246,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Leftover Fakeaway Doner Kebab (p.169) chopped up makes a delicious meaty addition. Coriander or mint leaves also work well."
+}

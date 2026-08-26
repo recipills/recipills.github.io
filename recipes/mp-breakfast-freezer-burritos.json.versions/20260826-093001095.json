@@ -1,0 +1,112 @@
+{
+  "id": "mp-breakfast-freezer-burritos",
+  "title": "Breakfast Freezer Burritos",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "10 protein-packed breakfast burritos with egg, beef, potatoes, peppers and cheddar \u2014 assembled on a sheet pan and frozen for busy mornings.",
+  "cuisine": "American",
+  "category": "Meal Prep",
+  "tags": [
+    "breakfast",
+    "freezer burrito",
+    "meal prep",
+    "eggs",
+    "beef"
+  ],
+  "prepTime": 20,
+  "cookTime": 55,
+  "servings": 10,
+  "ingredients": [
+    {
+      "text": "10 wheat tortillas (25cm)",
+      "kcal": 1500,
+      "protein": 35.0,
+      "carbs": 270.0,
+      "fat": 25.0,
+      "satFat": 7.5
+    },
+    {
+      "text": "500g ground beef 95/5",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20 eggs",
+      "kcal": 1500,
+      "protein": 130.0,
+      "carbs": 10.0,
+      "fat": 110.0,
+      "satFat": 33.0
+    },
+    {
+      "text": "150g cheddar cheese",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "6 medium onions (300g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 red bell peppers (300g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "500g potatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "8g garlic powder, 8g smoked paprika, 8g cayenne",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g oil, salt, pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Chop onions, peppers and potatoes into small pieces; toss with oil and salt; bake on sheet pan 200\u00b0C/400\u00b0F 30 min.",
+    "Add raw beef on top; add seasonings; stir; bake 10 more min.",
+    "Whisk 20 eggs; pour evenly over sheet pan; bake 10 more min until set.",
+    "Divide sheet into 10 squares. Place one square on each tortilla with 15g cheddar; roll into burritos.",
+    "Wrap in parchment + foil. Freeze up to 3 months. Microwave from frozen 5 min on medium."
+  ],
+  "macros": {
+    "kcal": 541,
+    "protein": 31.0,
+    "carbs": 45.0,
+    "fat": 26.0,
+    "satFat": 8.0,
+    "fibre": 2.5,
+    "sugar": 1.0,
+    "iron": 1.5
+  },
+  "notes": "Can use ground turkey. Can also air-fry after defrosting at 180\u00b0C 3\u20134 min.",
+  "source": "The Felu Cookbook"
+}

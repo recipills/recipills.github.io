@@ -1,0 +1,125 @@
+{
+  "id": "chimichurri-lamb-chops",
+  "title": "Chimichurri Lamb Chops",
+  "description": "Griddled lamb chops marinated in a fresh herb chimichurri sauce made with mint, coriander, parsley, lemon and garlic.",
+  "cuisine": "Latin",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 10,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "30g bunch of fresh mint",
+      "kcal": 3,
+      "protein": 0.3,
+      "carbs": 0.4,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "10g fresh coriander",
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "10g fresh flat-leaf parsley",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "grated zest and half the juice of 1 lemon",
+      "kcal": 6,
+      "protein": 0.1,
+      "carbs": 2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tbsp red wine vinegar",
+      "kcal": 6,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tsp garlic granules",
+      "kcal": 20,
+      "protein": 1.0,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp granulated sweetener or sugar",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "8 lamb chops or cutlets, trimmed of all visible fat",
+      "kcal": 1200,
+      "protein": 72.0,
+      "carbs": 0.0,
+      "fat": 136.0,
+      "satFat": 36.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Remove the mint leaves from any tough or woody stalks and place in a food processor or blender along with the coriander and parsley.",
+    "Blitz on pulse setting until the herbs are finely chopped. Be careful not to over process as you don’t want them to turn into a puree. Alternatively, you can finely chop them with a sharp knife. Scrape into a bowl and add the lemon zest and juice, red wine vinegar, garlic granules, water and sweetener.",
+    "Taste and season with a little salt and pepper if required.",
+    "Divide the sauce into two. Take one half and rub liberally onto the lamb chops.",
+    "Place them in a bowl, cover and refrigerate for between 1–2 hours.",
+    "After marinating time, take the lamb chops out of the fridge and allow 15 minutes for them to reach room temperature.",
+    "Spray a griddle pan or heavy-based frying pan with low-calorie cooking spray and place over a high heat.",
+    "When the pan is hot, add the lamb chops.",
+    "Cooking time will vary depending on how thick the chops are and how you like them. We prefer ours medium. You can expect to cook them for between 5 and 7 minutes each side. You may need to cook them in two batches, depending on the size of your pan.",
+    "Serve with a little of the remaining sauce drizzled over the top."
+  ],
+  "macros": {
+    "kcal": 235,
+    "fat": 19,
+    "satFat": 8.6,
+    "carbs": 1.4,
+    "sugar": 0.5,
+    "fibre": 0.6,
+    "protein": 15,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

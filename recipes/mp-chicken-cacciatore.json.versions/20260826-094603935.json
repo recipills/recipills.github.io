@@ -1,0 +1,121 @@
+{
+  "id": "mp-chicken-cacciatore",
+  "title": "Italian Style Chicken Cacciatore",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "4-serving hunter-style Italian chicken braise with mushrooms, tomatoes, peppers and carrots \u2014 perfect freezer meal.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [
+    "cacciatore",
+    "chicken",
+    "Italian",
+    "stew",
+    "meal prep"
+  ],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "750g chicken thighs + 250g chicken breast",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 large onion (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "800g crushed tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "300g mushrooms",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red bell pepper (150g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 carrot (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g tomato pur\u00e9e",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "10g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "250g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Brown chicken in batches; remove. Saut\u00e9 mushrooms until collapsed and golden.",
+    "Add remaining vegetables; fry 5 minutes. Add tomato pur\u00e9e; fry 30 sec.",
+    "Add water with broth; add crushed tomatoes. Return thighs; simmer 20\u201330 min.",
+    "Add breast for last 5\u20138 minutes until cooked through.",
+    "Portion into 4 containers. Store fridge 3\u20135 days or freeze 3 months."
+  ],
+  "macros": {
+    "kcal": 1884,
+    "protein": 230,
+    "carbs": 106,
+    "fat": 75,
+    "satFat": 18,
+    "fibre": 20,
+    "sugar": 20,
+    "iron": 8
+  },
+  "macrosNote": "Whole recipe. Per serving: 471 kcal, 57g protein, 26g carbs, 18g fat",
+  "notes": "Can be made with chicken thighs only. Add 50g olives for extra flavour.",
+  "source": "The Felu Cookbook"
+}

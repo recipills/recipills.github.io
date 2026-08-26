@@ -1,0 +1,150 @@
+{
+  "id": "creamy-garlic-and-parmesan-chicken",
+  "title": "Creamy Garlic and Parmesan Chicken",
+  "description": "Diced chicken breast in a creamy garlic and Parmesan sauce with broccoli, topped with a crisp Parmesan breadcrumb crust.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 35,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "500g diced chicken breast",
+      "kcal": 530,
+      "protein": 120.0,
+      "carbs": 0.0,
+      "fat": 7.5,
+      "satFat": 2.0
+    },
+    {
+      "text": "1 small onion, peeled and finely chopped",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 garlic cloves, peeled and crushed",
+      "kcal": 16,
+      "protein": 0.8,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "475ml chicken stock (1 very low-salt chicken stock cube dissolved in",
+      "kcal": 19,
+      "protein": 1.4,
+      "carbs": 1.9,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "475ml boiling water)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "30g wholemeal bread",
+      "kcal": 72,
+      "protein": 3.3,
+      "carbs": 12.6,
+      "fat": 0.8,
+      "satFat": 0.1
+    },
+    {
+      "text": "60g Parmesan, grated",
+      "kcal": 250,
+      "protein": 22.8,
+      "carbs": 0.5,
+      "fat": 17.4,
+      "satFat": 10.8
+    },
+    {
+      "text": "3 tsp dried chives",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100g reduced-fat cream cheese",
+      "kcal": 150,
+      "protein": 13.0,
+      "carbs": 3.0,
+      "fat": 9.0,
+      "satFat": 5.5
+    },
+    {
+      "text": "150g broccoli, cut into small florets",
+      "kcal": 51,
+      "protein": 4.2,
+      "carbs": 4.5,
+      "fat": 0.6,
+      "satFat": 0.2
+    },
+    {
+      "text": "freshly ground black pepper (optional)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "80g steamed veg (+ 35 kcal per serving) or Stir-fried Savoy Cabbage, here (+ 38 kcal per",
+      "kcal": 21,
+      "protein": 1.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "serving)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a large ovenproof pan or casserole pan with low-calorie cooking spray and place over a high heat.",
+    "Add the chicken and cook for 2–3 minutes until sealed.",
+    "Remove from the pan, cover and put to one side. Give the pan another spray with low-calorie cooking spray and return to a medium heat.",
+    "Add the onion and sauté for 5 minutes until beginning to soften, then add the garlic and cook for a further minute.",
+    "Pour in the stock and bring to the boil, reduce the heat and simmer for 10 minutes.",
+    "While the stock simmers, preheat the oven to 200ºC (fan 180ºC/gas mark 6) and blitz the bread in a blender to make breadcrumbs.",
+    "Mix the crumbs with half the Parmesan and 1 teaspoon of the chives in a small bowl.",
+    "Add the cream cheese, the remaining Parmesan and another teaspoon of the chives to the stock and stir until well mixed. Test the consistency of the sauce – it should lightly coat the back of a spoon like thin cream. If it is too thin, simmer it for a couple more minutes until the correct consistency is reached.",
+    "Return the chicken to the pan along with the broccoli and the rest of the chives and mix until well combined.",
+    "Season with pepper if desired (you probably won’t need any salt).",
+    "Sprinkle the breadcrumb mix over the top and bake in the oven for 10– 15 minutes until the chicken and broccoli are cooked and the topping is crisp."
+  ],
+  "macros": {
+    "kcal": 258,
+    "fat": 8.1,
+    "satFat": 4.5,
+    "carbs": 4.7,
+    "sugar": 3.5,
+    "fibre": 1.9,
+    "protein": 41,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

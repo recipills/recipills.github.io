@@ -1,0 +1,46 @@
+{
+  "id": "Paneer_and_Spinach_Tikka_Masala",
+  "title": "Paneer and Spinach Tikka Masala",
+  "description": "Pan-fried paneer and green lentils simmered in a homemade tikka masala paste with tomatoes, spinach and yogurt.",
+  "cuisine": "Indian",
+  "category": "Dinner",
+  "chapter": "In a Pan",
+  "page": 60,
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "spray oil",
+    "200g (7oz) paneer, chopped into 1cm cubes",
+    "1 onion, finely chopped",
+    "1 red pepper, deseeded and finely chopped",
+    "400g (14oz) can of chopped tomatoes",
+    "400g (14oz) can of green lentils, drained and rinsed",
+    "200ml (7fl oz) boiling water",
+    "150g (5.5oz) baby spinach",
+    "150g (5.5oz) fat-free Greek yogurt",
+    "salt and pepper",
+    "coriander leaves, to serve",
+    "CURRY PASTE: 4 garlic cloves, 3cm piece of fresh root ginger peeled, 1 red chilli deseeded, 1 tsp ground turmeric, 2 tbsp tomato purée, 1 tbsp garam masala, 2 tbsp water"
+  ],
+  "steps": [
+    "Spray a sauté pan with oil and fry the paneer cubes for 3-4 minutes until the edges are starting to go golden brown. Scoop the paneer from the pan and set aside in a bowl.",
+    "Make up the curry paste: place all the ingredients into a mini chopper and whizz into a smooth paste.",
+    "Fry the onion in the sauté pan for 5 minutes, then add the curry paste: stir-fry gently for 2 minutes. Stir in the pepper, then the chopped tomatoes, green lentils and measured boiling water. Stir thoroughly and simmer over a medium heat for 15 minutes.",
+    "Stir the spinach into the sauce, remove from the heat, then spoon the yogurt on top. Leave it sitting on top of the sauce for 2 minutes before stirring it through.",
+    "Return the paneer to the curry, season to taste and serve scattered with coriander leaves."
+  ],
+  "macros": {
+    "kcal": 332,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "You can substitute the paneer for cubes of aubergine, butternut squash or sweet potato — fry with the onion in step 3, allowing them longer to simmer in step 5 (about 30 minutes)."
+}

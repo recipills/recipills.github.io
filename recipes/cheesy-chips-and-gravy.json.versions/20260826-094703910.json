@@ -1,0 +1,148 @@
+{
+  "id": "cheesy-chips-and-gravy",
+  "title": "Cheesy Chips and Gravy",
+  "description": "Oven-baked cheesy chips loaded with a homemade blended vegetable gravy and a mix of melted Cheddar and mozzarella.",
+  "cuisine": "British",
+  "category": "Side",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 55,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "500g potatoes, peeled and cut into 1cm (½in)-thick chips",
+      "kcal": 385,
+      "protein": 10.0,
+      "carbs": 85.0,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "¼ tsp onion salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "40g reduced-fat Cheddar, grated",
+      "kcal": 109,
+      "protein": 13.2,
+      "carbs": 0.0,
+      "fat": 6,
+      "satFat": 3.8
+    },
+    {
+      "text": "70g reduced-fat mozzarella, grated",
+      "kcal": 175,
+      "protein": 16.8,
+      "carbs": 0.7,
+      "fat": 11.2,
+      "satFat": 7.7
+    },
+    {
+      "text": "½ onion, peeled and roughly chopped",
+      "kcal": 20,
+      "protein": 0.7,
+      "carbs": 4.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 small carrot, peeled and roughly chopped",
+      "kcal": 28,
+      "protein": 0.6,
+      "carbs": 6.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 small potato, peeled and roughly chopped",
+      "kcal": 139,
+      "protein": 3.6,
+      "carbs": 30.6,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 low-salt beef stock pots",
+      "kcal": 8,
+      "protein": 0.6,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "a dash of Henderson’s relish or Worcestershire sauce",
+      "kcal": 15,
+      "protein": 0,
+      "carbs": 3.6,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "a few drops of gravy browning (optional)",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0.2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "Everyday Light",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 200ºC (fan 180ºC/gas mark 6).",
+    "Spray the potato chips with low-calorie cooking spray and toss them in the onion salt.",
+    "Scatter them on a baking sheet and cook in the preheated oven for 40– 45 minutes, turning them halfway through, until the centre of the chips are soft and they’re crisp and golden on the outside.",
+    "Meanwhile, make the gravy.",
+    "Put all of the ingredients (except the gravy browning) in a saucepan, add 600ml of water and bring to the boil.",
+    "Reduce the heat and simmer for 25 minutes until the carrots and potatoes are soft.",
+    "Remove the pan from the heat and blitz the mixture with a hand blender.",
+    "Add a couple of drops of gravy browning if required. If the gravy is too thick, add a little water until it reaches a consistency you are happy with. Keep the gravy hot until the chips are cooked.",
+    "Mix the grated Cheddar and mozzarella together.",
+    "When the chips are cooked, divide them between two warmed bowls.",
+    "Sprinkle half the cheese mix over, smother with the hot gravy, then sprinkle over the rest of the cheese. The heat from the gravy will melt the cheese.",
+    "Serve and enjoy!",
+    "AIR-FRYER METHOD   25 mins",
+    "First, make the gravy.",
+    "Put all of the ingredients (except the gravy browning) in a saucepan, add 600ml of water and bring to the boil.",
+    "Reduce the heat and simmer for 25 minutes until the carrots and potatoes are soft.",
+    "Remove the pan from the heat and blitz the mixture with a hand blender.",
+    "Add a couple of drops of gravy browning if required. If the gravy is too thick, add a little water until it reaches a consistency you are happy with.",
+    "While the gravy cooks, preheat the air fryer to 180°C.",
+    "Spray the potatoes with low-calorie cooking spray and sprinkle on the onion salt.",
+    "Place in the air fryer basket and cook for about 20 minutes, shaking the chips halfway through to ensure even cooking.",
+    "Mix the grated Cheddar and mozzarella together.",
+    "When the chips are cooked, divide between two warmed bowls.",
+    "Sprinkle over half the cheese mix, smother in hot gravy and then sprinkle on the remaining cheese. The heat from the gravy will melt the cheese.",
+    "Serve and enjoy!  “Pinch of Nom has been a lifesaver when it comes to recipes and inspiration.”"
+  ],
+  "macros": {
+    "kcal": 228,
+    "fat": 4.9,
+    "satFat": 3,
+    "carbs": 34,
+    "sugar": 4.5,
+    "fibre": 4.4,
+    "protein": 10,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "Oven-Baked_Mushroom_Stroganoff_Rice",
+  "title": "Oven-Baked Mushroom Stroganoff Rice",
+  "description": "An oven-baked mushroom stroganoff-style rice dish with smoked paprika and Worcestershire sauce, finished with a creamy crème fraîche stir-through.",
+  "cuisine": "Russian",
+  "category": "Dinner",
+  "chapter": "In a Tray",
+  "page": 95,
+  "prepTime": 10,
+  "cookTime": 40,
+  "servings": 4,
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "low-calorie cooking spray",
+    "1 onion, finely chopped",
+    "3 garlic cloves, crushed",
+    "400g (14oz) chestnut mushrooms, sliced",
+    "1 tablespoon smoked paprika",
+    "1 teaspoon onion granules",
+    "1 teaspoon dried thyme",
+    "300g (10.5oz) long grain white rice",
+    "750ml (1 pint 7fl oz) hot vegetable stock",
+    "2 tablespoons Worcestershire sauce",
+    "2 tablespoons tomato purée",
+    "100g (3.5oz) half-fat crème fraîche",
+    "salt and pepper",
+    "parsley leaves, finely chopped, to serve"
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan (400°F), Gas Mark 6.",
+    "Spray an ovenproof dish with low-calorie cooking spray. Add the onion, garlic, mushrooms, smoked paprika, onion granules and thyme. Spray with more cooking spray, mix well and spread out evenly. Bake in the oven for 15 minutes.",
+    "Remove the dish from the oven, add the rice, hot stock, Worcestershire sauce and tomato purée. Stir everything together, cover tightly with foil and return to the oven for 20 minutes.",
+    "Remove the foil, stir, then return to the oven (without foil) for 5 minutes.",
+    "Season, stir through the crème fraîche and serve scattered with parsley."
+  ],
+  "macros": {
+    "kcal": 419,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Add beef strips or chicken thigh fillets in step 2 with the vegetables for a non-vegetarian version."
+}

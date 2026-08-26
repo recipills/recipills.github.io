@@ -1,0 +1,104 @@
+{
+  "id": "noodle-mushroom-zucchini",
+  "title": "Mushroom Zucchini Noodles",
+  "chapter": 10,
+  "chapterName": "Noodle Recipes",
+  "description": "High-volume chicken noodle stir-fry with mushrooms, zucchini and tomatoes in a simple soy sauce \u2014 the ultimate filling low-calorie bowl.",
+  "cuisine": "International",
+  "category": "Dinner",
+  "tags": [
+    "mushroom",
+    "zucchini",
+    "chicken",
+    "noodles",
+    "high volume"
+  ],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "80g dry thin wheat noodles or egg noodles",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 chicken breast (180g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g mushrooms",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g zucchini",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 medium onion (50g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "25g soy sauce",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook noodles; drain. Chop mushrooms, zucchini, onion and tomatoes. Cut chicken into strips.",
+    "Fry chicken in 2g oil 1 min per side; season with salt and pepper; remove.",
+    "Saut\u00e9 mushrooms with 50g water; once collapsed add 2g oil; brown 4\u20135 min. Add zucchini and onion; fry 3 min. Add tomatoes; fry 2 min. Remove.",
+    "Add noodles to pan; stir-fry 1 min.",
+    "Return chicken and vegetables; add soy sauce; toss 30 sec. Done."
+  ],
+  "macros": {
+    "kcal": 575,
+    "protein": 55,
+    "carbs": 75,
+    "fat": 10,
+    "satFat": 2,
+    "fibre": 6,
+    "sugar": 7,
+    "iron": 4
+  },
+  "notes": "Originally made with shirataki noodles (10 kcal/100g). Swapped for 80g dry wheat noodles (~280 kcal). Macros adjusted accordingly. Add cornstarch slurry for a thicker sauce.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "Jumbled_Cottage_Pie",
+  "title": "Jumbled Cottage Pie",
+  "description": "A layered bake of minced beef, grated carrot and parsnip, and baked beans, sandwiched between sliced potato layers and topped with Cheddar.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "chapter": "In a Pot",
+  "page": 40,
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 70,
+  "vegetarian": false,
+  "freezer_friendly": true,
+  "ingredients": [
+    "spray oil",
+    "1 onion, finely chopped",
+    "500g (1lb 2oz) extra-lean minced beef (less than 5% fat)",
+    "2 carrots, peeled and grated",
+    "1 parsnip, peeled and grated",
+    "1 beef stock cube",
+    "4 tablespoons tomato purée",
+    "2 tablespoons Worcestershire sauce",
+    "1 tablespoon brown sauce (such as HP)",
+    "1 teaspoon dried thyme",
+    "400g (14oz) can of baked beans",
+    "750g (1lb 10oz) potatoes, peeled and finely sliced",
+    "100g (3.5oz) mature Cheddar cheese, grated",
+    "salt and pepper"
+  ],
+  "steps": [
+    "Preheat the oven to 210°C/190°C fan (410°F), Gas Mark 6.5.",
+    "Spray a large flameproof casserole dish (with a lid) with oil and fry the onion and minced beef for 5 minutes, breaking apart any lumps.",
+    "Add the grated carrots and parsnip, crumble in the stock cube and add the tomato purée, 1 tablespoon Worcestershire sauce, the brown sauce, thyme and baked beans. Season and bring to a bubble. Remove from heat, then remove half the meat mixture into a bowl.",
+    "Smooth over what remains in the dish, layer in half the sliced potatoes, sprinkle on half the cheese. Add remaining meat mixture, layer remaining potatoes over the top, cover with remaining cheese, then splash remaining Worcestershire sauce over the cheese.",
+    "Cover the pan and bake on the middle shelf for 45 minutes. Remove the lid and bake for a further 15 minutes. Serve immediately."
+  ],
+  "macros": {
+    "kcal": 598,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "For added fibre, halve the amount of beef and replace with a 400g can of green lentils. You can also use sliced sweet potato instead of regular potato."
+}

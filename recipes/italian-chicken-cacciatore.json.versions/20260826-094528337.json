@@ -1,0 +1,54 @@
+{
+  "id": "italian-chicken-cacciatore",
+  "title": "Italian Chicken Cacciatore",
+  "description": "Chicken thighs baked with a Mediterranean vegetable mix of onions, peppers, celery and mushrooms in a rich tomato and passata sauce.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "chapter": "Savoury Traybakes",
+  "page": 84,
+  "tags": [
+    "chicken",
+    "traybake",
+    "Italian",
+    "one tray"
+  ],
+  "prepTime": 10,
+  "cookTime": 35,
+  "servings": 4,
+  "ingredients": [
+    "2 red onions, finely chopped",
+    "4 garlic cloves, crushed",
+    "1 red pepper, deseeded and chopped",
+    "1 yellow pepper, deseeded and chopped",
+    "2 celery sticks, finely chopped",
+    "125g chestnut mushrooms, quartered",
+    "200g cherry tomatoes, halved",
+    "2 tbsp balsamic vinegar",
+    "2 tbsp Italian mixed herbs",
+    "low-calorie cooking spray",
+    "400g can chopped tomatoes",
+    "250g tomato passata",
+    "8 chicken thigh fillets, fat trimmed",
+    "1 tsp salt",
+    "pepper",
+    "fresh herbs (parsley, basil, oregano), to serve"
+  ],
+  "steps": [
+    "Preheat oven to 220°C/200°C fan.",
+    "Place onions, garlic, peppers, celery, mushrooms, cherry tomatoes, balsamic vinegar and Italian herbs in a deep baking tray; spray with cooking spray; roast 15 minutes.",
+    "Remove; stir vegetables; add chopped tomatoes, passata and chicken; season. Stir and return to oven for 20 minutes.",
+    "Serve scattered with fresh herbs."
+  ],
+  "macros": {
+    "kcal": 385,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Great for scaling up. Prepare vegetables in advance and cover with foil until ready to bake. Serve with Cannellini Bean Mash (p.147) or a rocket salad.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "pork-larb-lettuce-wraps",
+  "title": "Pork Larb Lettuce Wraps",
+  "description": "Thai-style spiced pork mince stir-fried with garlic, chilli, fish sauce, lime and fresh herbs, served in lettuce cups.",
+  "cuisine": "Asian",
+  "category": "Lunch",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 5,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "2 little gem lettuces",
+      "kcal": 20,
+      "protein": 1.6,
+      "carbs": 3.0,
+      "fat": 3.0,
+      "satFat": 1.6
+    },
+    {
+      "text": "2½ tbsp fish sauce",
+      "kcal": 15,
+      "protein": 2.2,
+      "carbs": 1.8,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "juice of 1½ limes",
+      "kcal": 8,
+      "protein": 0.2,
+      "carbs": 2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp granulated sweetener",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "3 garlic cloves, peeled and crushed",
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 3.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 red chillies, deseeded – one finely chopped, the other thinly sliced",
+      "kcal": 6,
+      "protein": 0.4,
+      "carbs": 1.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "500g 5%-fat pork mince",
+      "kcal": 680,
+      "protein": 105.0,
+      "carbs": 0.0,
+      "fat": 25.0,
+      "satFat": 9.0
+    },
+    {
+      "text": "4 spring onions, trimmed and sliced",
+      "kcal": 20,
+      "protein": 1.2,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "handful of fresh mint, roughly chopped",
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "handful of fresh Thai basil, roughly chopped",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "handful of fresh coriander, roughly chopped",
+      "kcal": 2,
+      "protein": 0.2,
+      "carbs": 0.3,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Break off all the leaves of the gem lettuces and give them a good wash under cold water and shake dry.",
+    "Place in a serving bowl.",
+    "In a small bowl mix together the fish sauce, lime juice and sweetener to make a dressing.",
+    "Spray a wok or a large frying pan with low-calorie cooking spray and stir-fry the garlic and finely chopped chilli (save the sliced chilli for garnish later) over a medium heat for 1 minute.",
+    "Increase to a high heat and add the pork mince to the wok.",
+    "Stir-fry for 5 minutes, until the meat is opaque.",
+    "Pour in two thirds of the dressing and continue to cook for another 2–3 minutes until the liquid has evaporated.",
+    "Allow to cool, then stir through the remaining dressing, spring onions and herbs.",
+    "Place in a serving bowl and sprinkle with the sliced chilli.",
+    "Serve with the bowl of lettuce and serving spoons, so people can pile the larb into the leaves and build their own wraps."
+  ],
+  "macros": {
+    "kcal": 189,
+    "fat": 6.5,
+    "satFat": 2.4,
+    "carbs": 2.9,
+    "sugar": 2.1,
+    "fibre": 1.7,
+    "protein": 28,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

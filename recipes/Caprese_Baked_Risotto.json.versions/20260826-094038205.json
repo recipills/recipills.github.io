@@ -1,0 +1,47 @@
+{
+  "id": "Caprese_Baked_Risotto",
+  "title": "Caprese Baked Risotto",
+  "description": "An oven-baked risotto with tomatoes, oregano and basil, topped with mozzarella and Parmesan-style cheese for a Caprese-inspired finish.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "chapter": "In a Tray",
+  "page": 92,
+  "prepTime": 10,
+  "cookTime": 35,
+  "servings": 4,
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "low-calorie cooking spray",
+    "1 onion, finely chopped",
+    "2 garlic cloves, crushed",
+    "300g (10.5oz) risotto rice (carnaroli or arborio)",
+    "1 litre (1.75 pints) hot vegetable stock",
+    "400g (14oz) can of chopped tomatoes",
+    "1 teaspoon dried oregano",
+    "1 teaspoon dried basil",
+    "150g (5.5oz) cherry tomatoes, halved",
+    "125g (4.5oz) mozzarella, torn",
+    "30g (1oz) Parmesan-style vegetarian cheese, grated",
+    "salt and pepper",
+    "large handful of basil leaves, to serve"
+  ],
+  "steps": [
+    "Preheat the oven to 200°C/180°C fan (400°F), Gas Mark 6.",
+    "Spray an ovenproof dish with low-calorie cooking spray. Stir in the onion, garlic, rice, hot stock, chopped tomatoes, oregano and basil. Season with salt and pepper.",
+    "Cover the dish tightly with foil and bake in the oven for 25 minutes.",
+    "Remove the foil, stir thoroughly, then scatter the cherry tomatoes over the top, followed by the mozzarella and Parmesan-style cheese.",
+    "Return to the oven (without the foil) for 10 minutes, until the cheese is bubbling and golden. Serve scattered with fresh basil leaves."
+  ],
+  "macros": {
+    "kcal": 395,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "To make this non-vegetarian, stir in cooked chicken or bacon with the cherry tomatoes in step 4."
+}

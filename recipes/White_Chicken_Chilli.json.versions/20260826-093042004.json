@@ -1,0 +1,47 @@
+{
+  "id": "White_Chicken_Chilli",
+  "title": "White Chicken Chilli",
+  "description": "A slow-cooker white chicken chilli made with shredded chicken thighs, cannellini beans and sweetcorn in a creamy green chilli broth.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "chapter": "In a Slow-Cooker",
+  "page": 161,
+  "prepTime": 10,
+  "cookTime": 240,
+  "servings": 4,
+  "vegetarian": false,
+  "freezer_friendly": true,
+  "ingredients": [
+    "600g (1lb 5oz) chicken thigh fillets (about 6), fat trimmed away",
+    "1 onion, finely chopped",
+    "2 green chillies, deseeded and finely chopped",
+    "2 x 400g (14oz) cans of cannellini beans, drained and rinsed",
+    "325g (11oz) can of sweetcorn, drained",
+    "2 teaspoons garlic granules",
+    "1 teaspoon ground cumin",
+    "1 teaspoon dried oregano",
+    "500ml (18fl oz) chicken stock",
+    "3 tablespoons half-fat crème fraîche",
+    "1 tablespoon cornflour",
+    "salt and pepper",
+    "TO SERVE: coriander leaves, sliced green chillies, lime wedges"
+  ],
+  "steps": [
+    "Place the chicken, onion, chillies, cannellini beans, sweetcorn, garlic granules, cumin, oregano and chicken stock into the slow-cooker pot and season with salt and pepper.",
+    "Give everything a mix, pop the lid on and cook on high for 4-5 hours, or on low for 7-8 hours.",
+    "Towards the end of the cooking time, in a small bowl, combine the crème fraîche and cornflour.",
+    "Use 2 forks to shred the chicken thighs in the slow-cooker bowl, then stir in the crème fraîche mixture. Leave for 5 minutes, then stir again.",
+    "Serve with coriander leaves, sliced green chillies and a lime wedge."
+  ],
+  "macros": {
+    "kcal": 447,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serve with baked potatoes, tortilla chips, guacamole, sliced avocado, grated cheese, jalapeños and lime wedges, or with rice. Oven method: 180°C/160°C fan, Gas Mark 4, casserole with lid, 1 hour 20 minutes."
+}

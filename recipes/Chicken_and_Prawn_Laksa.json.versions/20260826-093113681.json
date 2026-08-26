@@ -1,0 +1,47 @@
+{
+  "id": "Chicken_and_Prawn_Laksa",
+  "title": "Chicken and Prawn Laksa",
+  "description": "A creamy coconut and chicken laksa with prawns, egg noodles and a homemade chilli and lemongrass paste.",
+  "cuisine": "Malaysian",
+  "category": "Dinner",
+  "chapter": "Soup-er",
+  "page": 150,
+  "prepTime": 15,
+  "cookTime": 30,
+  "servings": 4,
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "spray oil",
+    "800ml (1 pint 8fl oz) hot chicken stock",
+    "400ml (14fl oz) can of light coconut milk",
+    "2 tablespoons sweet chilli sauce",
+    "finely grated zest and juice of 1 unwaxed lime",
+    "1/2 teaspoon ground turmeric",
+    "2-3 chicken breasts (total weight about 400g/14oz), chopped small",
+    "200g (7oz) cooked peeled cold-water prawns",
+    "200g (7oz) medium egg noodles",
+    "200g (7oz) beansprouts",
+    "salt",
+    "LAKSA PASTE: 1 red chilli deseeded, 1 lemon grass stalk trimmed and roughly chopped, 2 garlic cloves, 2.5cm piece fresh root ginger peeled, 1 tbsp fish sauce, 40g flaked almonds, 2 spring onions roughly chopped, 2 tbsp water",
+    "TO SERVE: coriander leaves, lime wedges"
+  ],
+  "steps": [
+    "Put all the paste ingredients into a mini chopper and blend until smooth.",
+    "Use a large nonstick casserole dish. Fry the paste gently in spray oil for 2 minutes, then add the hot stock, coconut milk, sweet chilli sauce, lime zest and juice and turmeric.",
+    "Bring to the boil, add the chicken, then reduce to a simmer and cook for 20 minutes.",
+    "Add the prawns and noodles (make sure the noodles are submerged) and simmer for a further 5 minutes, or until the noodles are cooked through.",
+    "Stir in the beansprouts, season with salt, and serve scattered with coriander leaves and with a lime wedge on the side."
+  ],
+  "macros": {
+    "kcal": 526,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Use rice noodles or thicker noodles. For children, omit chilli from the paste and add chilli sauce to adult portions at the table."
+}

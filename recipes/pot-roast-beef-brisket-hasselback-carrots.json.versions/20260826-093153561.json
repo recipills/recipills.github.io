@@ -1,0 +1,57 @@
+{
+  "id": "pot-roast-beef-brisket-hasselback-carrots",
+  "title": "Pot-roast Beef Brisket with Hasselback Carrots",
+  "description": "Rolled beef brisket slow-cooked in a herby stock gravy until fall-apart tender, served with roasted hasselback carrots.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "chapter": "Friday Night Specials",
+  "page": 122,
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 280,
+  "tags": [
+    "beef",
+    "slow roast",
+    "Sunday roast",
+    "sharing"
+  ],
+  "ingredients": [
+    "low-calorie cooking spray",
+    "1kg rolled beef brisket",
+    "2 red onions, finely chopped",
+    "2 garlic cloves, crushed",
+    "2 celery sticks",
+    "1 litre beef stock",
+    "1 tsp mustard powder",
+    "1 tbsp Worcestershire sauce",
+    "1 tsp dried thyme",
+    "1 tsp dried rosemary",
+    "1 tbsp tomato purée",
+    "2 tsp cornflour",
+    "8 similar-sized carrots, peeled but left whole",
+    "salt and pepper"
+  ],
+  "steps": [
+    "Preheat oven to 170°C/150°C fan.",
+    "Sear beef in cooking spray over high heat for 1 minute each side; transfer to casserole dish.",
+    "Stir-fry onions, garlic and celery in same pan for 5 minutes; transfer to casserole.",
+    "Mix stock with mustard powder, Worcestershire sauce, thyme, rosemary and tomato purée. Mix cornflour with 1 tbsp cold water; stir into stock. Pour over beef; season; lid on; cook 4 hours, turning meat halfway.",
+    "With ~1 hour left, boil carrots whole for 10 minutes; drain; cool under running water.",
+    "Place each carrot between 2 wooden spoon handles; slice evenly across at ~5mm intervals to create hasselback effect.",
+    "Place carrots on baking tray; spray; season; roast at 200°C for 40 minutes until browned.",
+    "Remove beef; blend remaining pan contents with hand blender to make gravy.",
+    "Slice or pull apart beef with 2 forks; serve with gravy and hasselback carrots."
+  ],
+  "macros": {
+    "kcal": 341,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Always rest a roast chicken or beef for at least 15 minutes after cooking. Make stock with leftovers (see p.217).",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "thai-chicken-noodle-soup",
+  "title": "Thai Chicken Noodle Soup",
+  "description": "A Thai-style soup of chicken, rice noodles and vegetables in a garlic, chilli and lime-spiked stock.",
+  "cuisine": "Thai",
+  "category": "Dinner",
+  "chapter": "Quick & Easy Midweek Meals",
+  "page": 52,
+  "tags": [
+    "chicken",
+    "soup",
+    "noodles",
+    "Thai"
+  ],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    "2 chicken breasts, cut into strips",
+    "low-calorie cooking spray",
+    "3 garlic cloves, crushed",
+    "2 chillies (ideally 1 red, 1 green), finely chopped",
+    "4 spring onions, trimmed and finely sliced",
+    "1.4 litres hot chicken stock",
+    "3 tbsp light soy sauce",
+    "1 large carrot, peeled and cut into matchsticks",
+    "300g rice stick noodles",
+    "150g broccoli florets",
+    "50g fine green beans, halved",
+    "1 head pak choi, trimmed and leaves separated",
+    "juice of 1 lime; 1 lime cut into wedges",
+    "coriander leaves, to serve"
+  ],
+  "steps": [
+    "Fry chicken in cooking spray in a large deep saucepan until no pink showing outside. Add garlic, chillies and spring onions; stir-fry 1 minute.",
+    "Pour in hot stock; add soy sauce and carrots; simmer 5 minutes.",
+    "Add noodles, submerged; simmer 5 minutes.",
+    "Add broccoli, green beans and pak choi; simmer 3 minutes.",
+    "Check noodles are cooked; stir in lime juice.",
+    "Serve immediately scattered with coriander and with lime wedges."
+  ],
+  "macros": {
+    "kcal": 445,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Great with homemade chicken stock and leftover roast chicken. Also works with mushrooms, peppers, sugarsnaps, beansprouts and spinach.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

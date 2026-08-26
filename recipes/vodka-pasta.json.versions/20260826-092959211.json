@@ -1,0 +1,129 @@
+{
+  "id": "vodka-pasta",
+  "title": "Vodka Pasta",
+  "description": "Creamy tomato and vodka pasta sauce with cream cheese, garlic and chilli flakes, tossed with fusilli.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "400g dried fusilli pasta (or pasta of your choice)",
+      "kcal": 1400,
+      "protein": 48.0,
+      "carbs": 288.0,
+      "fat": 6.0,
+      "satFat": 1.2
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "2 onions, peeled and finely chopped",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 garlic cloves, peeled and crushed",
+      "kcal": 16,
+      "protein": 0.8,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp dried chilli flakes",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.2,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp Italian mixed herbs",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp tomato puree",
+      "kcal": 30,
+      "protein": 1.6,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "50ml vodka",
+      "kcal": 115,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 × 400g tin chopped tomatoes",
+      "kcal": 80,
+      "protein": 4.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "200ml vegetable stock (1 vegetable stock cube dissolved in 200ml boiling water)",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 1.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "120g low-fat cream cheese",
+      "kcal": 180,
+      "protein": 15.6,
+      "carbs": 3.6,
+      "fat": 10.8,
+      "satFat": 6.6
+    },
+    {
+      "text": "a few basil leaves, to garnish",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "While the pasta is cooking, spray a frying pan with low-calorie cooking spray and place over a medium heat.",
+    "Add the onions and sauté for 5 minutes until they have started to soften, then stir in the garlic, chilli flakes and Italian mixed herbs and cook for a further 5 minutes.",
+    "Add the tomato puree and vodka, stir and cook for a further 3 minutes.",
+    "Add the chopped tomatoes, vegetable stock and cream cheese, stir, reduce the heat and simmer for 5 minutes – the mixture should still be bubbling.",
+    "Remove the sauce from the heat and mix the pasta into the sauce.",
+    "Serve, scattered with basil leaves, and enjoy!"
+  ],
+  "macros": {
+    "kcal": 512,
+    "fat": 5.1,
+    "satFat": 1.7,
+    "carbs": 84,
+    "sugar": 17,
+    "fibre": 8.6,
+    "protein": 20,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

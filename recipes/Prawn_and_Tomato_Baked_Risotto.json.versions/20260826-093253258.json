@@ -1,0 +1,45 @@
+{
+  "id": "Prawn_and_Tomato_Baked_Risotto",
+  "title": "Prawn and Tomato Baked Risotto",
+  "description": "Cherry tomatoes, prawns and risotto rice baked together in the oven with lemon zest and topped with asparagus.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "chapter": "In a Tray",
+  "page": 104,
+  "prepTime": 10,
+  "cookTime": 50,
+  "servings": 4,
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "low-calorie cooking spray",
+    "250g (9oz) cherry tomatoes",
+    "1 red onion, finely chopped",
+    "2 garlic cloves, finely chopped",
+    "1 unwaxed lemon, zested then cut into wedges",
+    "150g (5.5oz) cooked and peeled king prawns",
+    "300g (10.5oz) risotto rice (carnaroli or arborio)",
+    "1 litre (1.75 pints) hot chicken stock",
+    "150g (5.5oz) fine asparagus spears, woody ends trimmed",
+    "salt and pepper",
+    "parsley leaves, finely chopped, to serve"
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan (425°F), Gas Mark 7.",
+    "Spray an oven dish with low-calorie cooking spray and add the tomatoes, onion and garlic. Mix and spray again. Place into the oven and cook for 20 minutes.",
+    "Remove the dish from the oven, stir in the lemon zest and prawns, season with salt and pepper, then stir in the rice. Pour the hot stock over, then carefully return the dish to the oven. Bake for 25 minutes.",
+    "Remove the dish from the oven, stir with a fork, then place the asparagus on top, season and spray with low-calorie cooking spray. Return to the oven for a final 5 minutes.",
+    "Serve with lemon wedges and finely chopped parsley."
+  ],
+  "macros": {
+    "kcal": 353,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Make this vegetarian by replacing the prawns with 2 roasted and chopped red peppers and substituting the chicken stock for vegetable stock."
+}

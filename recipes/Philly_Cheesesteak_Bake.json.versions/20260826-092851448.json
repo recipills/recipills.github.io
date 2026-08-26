@@ -1,0 +1,49 @@
+{
+  "id": "Philly_Cheesesteak_Bake",
+  "title": "Philly Cheesesteak Bake",
+  "description": "A baked casserole of minced beef, peppers and mushrooms topped with an egg mixture and melted Edam, inspired by the Philly cheesesteak sandwich.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "chapter": "In a Pot",
+  "page": 44,
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 50,
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "spray oil",
+    "2 onions, finely chopped",
+    "4 large eggs",
+    "50ml (1.75fl oz) semi-skimmed milk",
+    "1 tablespoon Worcestershire sauce",
+    "500g (1lb 2oz) lean minced beef (less than 5% fat)",
+    "2 green peppers, deseeded and finely chopped",
+    "4 large flat mushrooms, roughly chopped",
+    "1 teaspoon onion granules",
+    "1 teaspoon garlic granules",
+    "1/2 teaspoon English mustard powder",
+    "1 beef stock cube",
+    "140g (5oz) Edam cheese, finely sliced",
+    "salt and pepper"
+  ],
+  "steps": [
+    "Preheat oven to 200°C/180°C fan (400°F), Gas Mark 6.",
+    "Spray a small flameproof casserole dish or ovenproof frying pan (about 20cm/8 inches in diameter) with oil and fry the onions for 10 minutes over a gentle heat until soft and golden brown.",
+    "Meanwhile, beat the eggs in a medium-sized bowl with the milk, Worcestershire sauce and some salt and pepper.",
+    "Increase the heat, add the beef, peppers and mushrooms and stir-fry, breaking up the clumps in the meat, for about 5 minutes. Add the onion granules, garlic granules and mustard powder and crumble over the stock cube. Stir well and remove the pan from the heat.",
+    "Pour the egg mixture over, making sure you cover all the exposed beef mix, then lay the slices of cheese on top.",
+    "Bake on the middle shelf of the oven for around 35 minutes, until the cheese on top is bubbling and golden brown. Serve piping hot."
+  ],
+  "macros": {
+    "kcal": 453,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Mix 1 tablespoon of chilli sauce with the egg mixture in step 3 for a bit of spice. Leftovers taste great cold or served in a bread roll for another take on the Philly cheesesteak."
+}

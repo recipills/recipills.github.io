@@ -1,0 +1,56 @@
+{
+  "id": "rich-smoky-veggie-boston-baked-beans",
+  "title": "Rich, Smoky Veggie Boston Baked Beans",
+  "description": "Borlotti beans slow-baked in a smoky, sweet-and-tangy tomato sauce with maple syrup, soy sauce and smoked paprika.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "chapter": "Family Favourites",
+  "page": 108,
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "beans",
+    "bake",
+    "high-fibre",
+    "freezer-friendly"
+  ],
+  "prepTime": 10,
+  "cookTime": 90,
+  "servings": 4,
+  "ingredients": [
+    "1 large onion, finely chopped",
+    "low-calorie cooking spray",
+    "600ml vegetable stock",
+    "3 × 400g cans borlotti beans, drained and rinsed",
+    "150g tomato passata",
+    "1 carrot, peeled and grated",
+    "2 tbsp tomato purée",
+    "2 tbsp maple syrup",
+    "2 tbsp dark soy sauce",
+    "1 tbsp balsamic vinegar",
+    "juice of ½ lemon",
+    "1 tsp smoked paprika",
+    "1 tsp mustard powder",
+    "1 tsp garlic granules",
+    "1 tsp dried thyme",
+    "½ tsp salt"
+  ],
+  "steps": [
+    "Preheat oven to 200°C/180°C fan.",
+    "In a large deep pan with a lid, fry onion in cooking spray until soft and lightly browned.",
+    "Remove from heat; pour in stock; add all remaining ingredients and stir well.",
+    "Pop lid on; bake in centre of oven for 1½ hours. After 1 hour, stir and remove lid for final 30 minutes."
+  ],
+  "macros": {
+    "kcal": 226,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Add chopped sausage, smoked bacon or pancetta fried alongside the onion for a meat version.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

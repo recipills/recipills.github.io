@@ -1,0 +1,137 @@
+{
+  "id": "mp-lasagna",
+  "title": "Lasagna",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "Classic Italian lasagna made lean with 95% ground beef, cottage cheese and light mozzarella \u2014 great for 4-day meal prep.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [
+    "lasagna",
+    "beef",
+    "meal prep",
+    "Italian",
+    "oven"
+  ],
+  "prepTime": 20,
+  "cookTime": 30,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "400g ground beef 95/5",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 lasagna sheets",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 large onion (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g celery root",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 carrot (100g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 cloves garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "250g mushrooms",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "400g crushed tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g 1% fat cottage cheese",
+      "kcal": 144,
+      "protein": 24.0,
+      "carbs": 6.0,
+      "fat": 2.0,
+      "satFat": 1.2
+    },
+    {
+      "text": "125g fresh light mozzarella (or 100g shredded)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g vegetable broth powder",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "7g dry gelatine",
+      "kcal": 28,
+      "protein": 6.1,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Soak lasagna sheets in lukewarm water.",
+    "Chop all vegetables; saut\u00e9 mushrooms with water until collapsed, then brown in oil.",
+    "Fry beef; add vegetables, garlic, crushed tomatoes and broth. Simmer 5\u20137 minutes.",
+    "Preheat oven 180\u00b0C/350\u00b0F. Layer: sauce \u2192 lasagna \u2192 sauce \u2192 cottage cheese; repeat. Bake 20 min.",
+    "Add mozzarella; bake 3\u20134 more minutes until melted. Rest 5\u201310 min; portion into 4 containers."
+  ],
+  "macros": {
+    "kcal": 639,
+    "protein": 97,
+    "carbs": 21,
+    "fat": 27,
+    "satFat": 12,
+    "fibre": 4,
+    "sugar": 6,
+    "iron": 5
+  },
+  "macrosNote": "Whole recipe (4 servings). Per serving: 320 kcal, 49g protein",
+  "notes": "Lasts 3\u20135 days in the fridge. Soak sheets first to prevent dry lasagna.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "mp-sausage-egg-mcmuffins",
+  "title": "Sausage Egg McMuffins",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "Homemade high-protein egg McMuffins with lean turkey/chicken sausage and egg whites \u2014 freeze and microwave on busy mornings.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "tags": [
+    "McMuffin",
+    "eggs",
+    "breakfast",
+    "meal prep",
+    "freezer"
+  ],
+  "prepTime": 15,
+  "cookTime": 20,
+  "servings": 6,
+  "ingredients": [
+    {
+      "text": "6 English muffins or bread rolls",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "300g ground chicken or turkey (5% fat)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "6 eggs (or egg whites)",
+      "kcal": 450,
+      "protein": 39.0,
+      "carbs": 3.0,
+      "fat": 33.0,
+      "satFat": 9.9
+    },
+    {
+      "text": "6 slices American cheese",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder, 1g paprika, 1g fennel seeds, salt, pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix ground chicken/turkey with garlic powder, paprika, fennel, salt and pepper. Form into 6 patties.",
+    "Cook patties in oil on medium heat 3\u20134 min each side. Remove.",
+    "Fry or scramble eggs; season with salt and pepper.",
+    "Toast muffins. Layer: bottom muffin \u2192 sausage patty \u2192 egg \u2192 cheese \u2192 top muffin.",
+    "Wrap individually in parchment + foil. Freeze. Microwave from frozen 2\u20133 min."
+  ],
+  "macros": {
+    "kcal": 1800,
+    "protein": 150,
+    "carbs": 120,
+    "fat": 72,
+    "satFat": 20,
+    "fibre": 5,
+    "sugar": 5,
+    "iron": 6
+  },
+  "macrosNote": "Whole recipe (6 portions). Per portion: ~300 kcal, 25g protein",
+  "notes": "Use light English muffins to reduce calories. Add hot sauce for a kick.",
+  "source": "The Felu Cookbook"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "filo-fish-pie",
+  "title": "Filo Fish Pie",
+  "description": "Poached cod, smoked haddock and prawns in a leek and onion sauce, topped with scrunched filo pastry and baked until golden.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 70,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 onion, peeled and finely chopped",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 leeks, trimmed, washed and sliced",
+      "kcal": 93,
+      "protein": 4.5,
+      "carbs": 18.0,
+      "fat": 0.9,
+      "satFat": 0.3
+    },
+    {
+      "text": "1 garlic clove, peeled and crushed",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "250ml semi-skimmed milk",
+      "kcal": 85,
+      "protein": 8.5,
+      "carbs": 12.5,
+      "fat": 0.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "350g skinless cod fillets, cut into large chunks",
+      "kcal": 280,
+      "protein": 63.0,
+      "carbs": 0.0,
+      "fat": 2.4,
+      "satFat": 0.4
+    },
+    {
+      "text": "230g skinless smoked haddock fillets, cut into large chunks",
+      "kcal": 230,
+      "protein": 46.0,
+      "carbs": 0.0,
+      "fat": 2.3,
+      "satFat": 0.5
+    },
+    {
+      "text": "2 bay leaves",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "80g frozen peas",
+      "kcal": 53,
+      "protein": 4.3,
+      "carbs": 7.2,
+      "fat": 0.7,
+      "satFat": 0.2
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "175g cooked and peeled prawns, drained",
+      "kcal": 122,
+      "protein": 26.2,
+      "carbs": 0.0,
+      "fat": 1.1,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 tbsp cornflour",
+      "kcal": 30,
+      "protein": 0.0,
+      "carbs": 7.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 egg, beaten",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180ºC (fan 160ºC/gas mark 4).",
+    "Spray a large frying pan (with a lid) with low-calorie cooking spray and place over a medium heat.",
+    "Add the onion and leeks and fry for 10 minutes, until softened.",
+    "Add the garlic and fry for 2–3 minutes.",
+    "Add the milk, cod, haddock, bay leaves, peas and seasoning.",
+    "Cover and simmer over a low heat for 15 minutes or until the fish is just starting to flake. Don’t stir; try to keep the fish in chunks.",
+    "Place a colander over a large bowl. Gently tip the contents of the frying pan into the colander to drain off the cooking liquid.",
+    "Place the  drained fish and vegetables in an 18cm x 27cm (roughly 7in x 10½in) ovenproof dish, add the prawns and remove the bay leaves.",
+    "Place the cooking liquid in the frying pan and place on a medium heat.",
+    "Mix the cornflour with 1 tbsp of water until smooth.",
+    "Stir the cornflour mixture into the cooking liquid and simmer for 3–4 minutes until slightly thickened.",
+    "Season again if needed.",
+    "Pour the sauce over the fish and vegetables. Scrunch up each sheet of filo and place on top of the pie. Glaze with the beaten egg.",
+    "Place in the oven and cook for 30–35 minutes, until piping hot and golden brown."
+  ],
+  "macros": {
+    "kcal": 318,
+    "fat": 4.4,
+    "satFat": 1.4,
+    "carbs": 26,
+    "sugar": 8.4,
+    "fibre": 3.7,
+    "protein": 42,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

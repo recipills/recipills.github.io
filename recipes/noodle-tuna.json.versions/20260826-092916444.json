@@ -1,0 +1,88 @@
+{
+  "id": "noodle-tuna",
+  "title": "Tuna Noodles",
+  "chapter": 10,
+  "chapterName": "Noodle Recipes",
+  "description": "Classic Italian-style tuna and tomato spaghetti \u2014 simple, high-protein and ready in 20 minutes.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [
+    "tuna",
+    "pasta",
+    "Italian",
+    "tomato",
+    "quick"
+  ],
+  "prepTime": 5,
+  "cookTime": 15,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "80g dry spaghetti or linguine",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g canned tuna (in water)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "250g tomatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 cloves garlic",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g water",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "5g oil, salt, black pepper, chili flakes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Cook pasta per packet; reserve 50g pasta water; drain.",
+    "Halve tomatoes. Peel and mince garlic.",
+    "Fry garlic in oil 20 sec; add tomatoes and water; close lid; simmer 6 min until tomatoes break.",
+    "Add tuna; cook 30 sec; season with salt, pepper and chili flakes.",
+    "Add cooked pasta + reserved pasta water; toss 30 sec. Done."
+  ],
+  "macros": {
+    "kcal": 553,
+    "protein": 46,
+    "carbs": 77,
+    "fat": 8,
+    "satFat": 1,
+    "fibre": 6,
+    "sugar": 8,
+    "iron": 4
+  },
+  "notes": "Originally made with shirataki noodles (10 kcal/100g). Swapped for 80g dry wheat noodles (~280 kcal). Macros adjusted accordingly. Top with parsley or basil.",
+  "source": "The Felu Cookbook"
+}

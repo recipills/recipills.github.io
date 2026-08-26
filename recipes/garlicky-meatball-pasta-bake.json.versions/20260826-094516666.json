@@ -1,0 +1,52 @@
+{
+  "id": "garlicky-meatball-pasta-bake",
+  "title": "Garlicky Meatball Pasta Bake",
+  "description": "Beef meatballs simmered in a garlic and chilli tomato sauce, tossed with penne pasta and baked under melted mozzarella and Parmesan.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "chapter": "Savoury Traybakes",
+  "page": 92,
+  "tags": [
+    "beef",
+    "pasta",
+    "bake",
+    "meatballs",
+    "Italian-inspired"
+  ],
+  "prepTime": 15,
+  "cookTime": 50,
+  "servings": 4,
+  "ingredients": [
+    "500g lean minced beef (less than 5% fat)",
+    "low-calorie cooking spray",
+    "2 × 400g cans chopped tomatoes",
+    "5 garlic cloves, peeled",
+    "1 whole green chilli, stalk removed",
+    "300g dried penne pasta",
+    "150g mozzarella",
+    "30g Parmesan cheese, grated",
+    "salt and pepper",
+    "To serve: small handful of basil leaves, chopped red chilli (optional)"
+  ],
+  "steps": [
+    "Preheat oven to 200°C/180°C fan. Roll minced meat into walnut-sized balls. Fry over high heat in cooking spray for 5 minutes, turning to brown on all sides.",
+    "Blend tomatoes, garlic and chilli in a food processor until completely smooth; season.",
+    "Transfer sauce to a saucepan; bring to simmer; add cooked meatballs. Simmer 30 minutes.",
+    "Meanwhile, cook pasta for 12 minutes; drain; rinse with cold water.",
+    "Stir pasta through sauce; spoon into an ovenproof dish.",
+    "Tear mozzarella and distribute evenly on top; sprinkle with Parmesan; grind on pepper.",
+    "Bake 20 minutes until cheese is golden brown."
+  ],
+  "macros": {
+    "kcal": 501,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Can be made vegetarian using Chickpea Meatballs (p.103) instead of beef.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

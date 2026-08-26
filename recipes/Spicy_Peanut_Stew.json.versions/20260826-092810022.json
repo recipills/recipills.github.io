@@ -1,0 +1,52 @@
+{
+  "id": "Spicy_Peanut_Stew",
+  "title": "Spicy Peanut Stew",
+  "description": "A West African-inspired stew of sweet potato and cannellini beans simmered in a spiced tomato and peanut butter sauce with kale.",
+  "cuisine": "West African",
+  "category": "Dinner",
+  "chapter": "In a Pan",
+  "page": 55,
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 40,
+  "vegetarian": true,
+  "freezer_friendly": true,
+  "ingredients": [
+    "spray oil",
+    "1 onion, finely chopped",
+    "4 garlic cloves, crushed",
+    "3cm (1.25 inch) piece of fresh root ginger, peeled and grated",
+    "1 teaspoon smoked paprika",
+    "1 teaspoon ground cumin",
+    "1 teaspoon chilli flakes",
+    "1/2 teaspoon ground cinnamon",
+    "1 teaspoon dried thyme",
+    "3 tablespoons tomato purée",
+    "400g (14oz) can of chopped tomatoes",
+    "1 litre (1.75 pints) hot vegetable stock",
+    "1 large sweet potato (about 500g/1lb 2oz), peeled and finely chopped",
+    "400g (14oz) can of cannellini beans, drained and rinsed",
+    "3 tablespoons smooth peanut butter",
+    "100g (3.5oz) kale, roughly chopped",
+    "salt and pepper",
+    "TO SERVE: coriander leaves, lemon wedges, crushed peanuts (optional)"
+  ],
+  "steps": [
+    "Spray a large saucepan with oil and fry the onion for 5 minutes.",
+    "Add the garlic and ginger and stir-fry for 30 seconds, then add the spices and thyme and stir, frying gently for another 30 seconds. Squeeze in the tomato purée and mix to form a paste.",
+    "Add the chopped tomatoes, hot stock, sweet potato, cannellini beans and peanut butter. Thoroughly mix, then simmer for 30 minutes.",
+    "Season with salt and pepper, stir in the kale and simmer for another 3 minutes.",
+    "Serve with coriander leaves and lemon wedges, and scatter over some crushed peanuts, if you like."
+  ],
+  "macros": {
+    "kcal": 309,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Inspired by West African peanut stews. Can be served with rice or bread. If you have scotch bonnet chillies, use half of one instead of the chilli flakes for authentic fruity heat."
+}

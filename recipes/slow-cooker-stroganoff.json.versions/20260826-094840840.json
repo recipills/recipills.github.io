@@ -1,0 +1,119 @@
+{
+  "id": "slow-cooker-stroganoff",
+  "title": "Slow-cooker Stroganoff",
+  "description": "Slow-cooked beef stroganoff with mushrooms, cream cheese and Dijon mustard, finished with fresh parsley.",
+  "cuisine": "European",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 60,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "500g diced, lean stewing steak, trimmed of any visible fat",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 onion, peeled and finely diced",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 garlic cloves, peeled and crushed",
+      "kcal": 16,
+      "protein": 0.8,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200ml beef stock (1 very low-salt beef stock cube dissolved in 200ml boiling water)",
+      "kcal": 8,
+      "protein": 0.6,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tsp Henderson’s relish or Worcestershire sauce",
+      "kcal": 10,
+      "protein": 0.0,
+      "carbs": 2.4,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "300g mushrooms, cut into chunky slices",
+      "kcal": 39,
+      "protein": 5.4,
+      "carbs": 1.2,
+      "fat": 1.5,
+      "satFat": 0.3
+    },
+    {
+      "text": "180g low-fat cream cheese",
+      "kcal": 270,
+      "protein": 23.4,
+      "carbs": 5.4,
+      "fat": 16.2,
+      "satFat": 9.9
+    },
+    {
+      "text": "2–3 tbsp Dijon mustard",
+      "kcal": 90,
+      "protein": 4.8,
+      "carbs": 6.0,
+      "fat": 5.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "fresh parsley, to garnish",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a frying pan with low-calorie cooking spray and place over a medium-high heat.",
+    "Add the steak and onion and fry for 3 minutes until the meat is sealed and the onion has softened, then add the garlic, stir well and transfer everything to the slow-cooker bowl.",
+    "Add the stock and Henderson’s relish or Worcestershire sauce and cook on low for 6–7 hours.",
+    "Half an hour before serving, spray the frying pan with low-calorie cooking spray and sauté the mushrooms over a medium heat for 3 minutes.",
+    "Add the mushrooms to the slow cooker (still on the low setting), stir in the cream cheese and the Dijon mustard, close the lid and allow 20 minutes for the cream cheese to heat through.",
+    "Serve sprinkled with parsley and with your choice of accompaniment.   ELECTRIC PRESSURE-COOKER METHOD    40 MINS",
+    "Spray the pressure cooker with low-calorie cooking spray and set to ‘sauté’.",
+    "Add the steak and onion and fry for 5 minutes to seal the meat and soften the onion, then add the garlic and cook for 30 seconds. If your pressure cooker doesn’t have a sauté function, do this in a pan on the hob then transfer to the pressure cooker.",
+    "Turn off the ‘sauté’ mode, add the stock and relish, cover with the lid and set the valve to ‘sealing’.",
+    "Pressure-cook on high for 20 minutes, then release pressure naturally for 10 minutes. Release the remaining pressure using the ‘quick release’ function. Towards the end of cooking, spray a frying pan with low-calorie cooking spray and sauté the mushrooms over a medium heat for 3 minutes.",
+    "Add the cream cheese, mustard and mushrooms to the pressure cooker. The cheese can cool the stroganoff a little so set the pressure cooker to ‘sauté’ for a couple of minutes to reheat it if needed.",
+    "Serve sprinkled with parsley and your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 261,
+    "fat": 8.6,
+    "satFat": 3,
+    "carbs": 8.5,
+    "sugar": 5.1,
+    "fibre": 1.4,
+    "protein": 37,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

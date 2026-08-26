@@ -1,0 +1,47 @@
+{
+  "id": "broccoli-stem-soup",
+  "title": "Broccoli Stem Soup",
+  "description": "A zero-waste soup made from broccoli stems, onion, garlic and potato simmered in vegetable stock and blended smooth.",
+  "cuisine": "British",
+  "category": "Lunch",
+  "chapter": "Light Dishes & Sides",
+  "page": 143,
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "soup",
+    "zero-waste",
+    "quick"
+  ],
+  "ingredients": [
+    "low-calorie cooking spray",
+    "½ onion, finely chopped",
+    "2 garlic cloves, finely sliced",
+    "stalk and stems from 1 head of broccoli (woody parts trimmed, finely sliced)",
+    "1 potato (~150g), peeled and cut into cubes",
+    "700ml vegetable stock",
+    "½ tsp salt",
+    "pepper"
+  ],
+  "steps": [
+    "Heat a saucepan with cooking spray; add onion, garlic and broccoli stems; stir-fry gently for 6 minutes.",
+    "Add potato, stock and salt; bring to a simmer; cook gently for 20 minutes.",
+    "Blend until smooth with a hand blender.",
+    "Serve in warmed bowls with pepper ground on top."
+  ],
+  "macros": {
+    "kcal": 62,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Broccoli stems can also be sliced into coins or matchsticks for stir-fries, omelettes or raw in salads. Can also roast broccoli using the Roasted Cauliflower method (p.148).",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

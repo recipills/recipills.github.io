@@ -1,0 +1,52 @@
+{
+  "id": "lemony-chicken-courgette-carbonara",
+  "title": "Lemony Chicken & Courgette Carbonara",
+  "description": "A lighter carbonara with pan-fried chicken, courgette, lemon zest and juice tossed through spaghetti in an egg yolk and Parmesan sauce.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "chapter": "Family Favourites",
+  "page": 114,
+  "tags": [
+    "chicken",
+    "pasta",
+    "quick",
+    "carbonara",
+    "courgette"
+  ],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    "240g dried spaghetti",
+    "4 egg yolks",
+    "60g Parmesan cheese, finely grated",
+    "2 chicken breasts, chopped small",
+    "low-calorie cooking spray",
+    "4 garlic cloves, crushed",
+    "finely grated zest and juice of 2 unwaxed lemons",
+    "2 courgettes (~250g), sliced into 3mm pieces then halved",
+    "salt and pepper",
+    "parsley, finely chopped, to serve"
+  ],
+  "steps": [
+    "Simmer spaghetti in a large pan of boiling water for 11 minutes.",
+    "Beat egg yolks in a medium bowl; beat in Parmesan.",
+    "Fry chicken over high heat in cooking spray until no pink showing (~3 minutes). Add garlic, lemon zest and juice; season. Keep frying gently while spaghetti cooks.",
+    "When pasta nearly ready, take a ladleful of pasta water, add to egg mixture and mix in thoroughly.",
+    "Stir courgette pieces in with the chicken.",
+    "Drain spaghetti; remove chicken pan from heat; add spaghetti then egg mixture. Stir until everything coated with sauce.",
+    "Serve with chopped parsley and more pepper."
+  ],
+  "macros": {
+    "kcal": 442,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Swap chicken for bacon and leave out lemon juice and zest for a more traditional carbonara.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

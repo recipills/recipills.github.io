@@ -1,0 +1,51 @@
+{
+  "id": "rustic-devonshire-pork-in-cider",
+  "title": "Rustic Devonshire Pork in Cider",
+  "description": "Pork loin braised with onions, apples, sage and cider, then finished in the oven with potatoes and mustard.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "chapter": "Family Favourites",
+  "page": 121,
+  "tags": [
+    "pork",
+    "casserole",
+    "cider",
+    "freezer-friendly",
+    "one pot"
+  ],
+  "prepTime": 10,
+  "cookTime": 60,
+  "servings": 4,
+  "ingredients": [
+    "1 tsp butter",
+    "3 onions, finely chopped",
+    "500g pork loin steaks, fat trimmed, chopped",
+    "6 sage leaves, finely chopped (plus torn leaves to serve)",
+    "2 apples, peeled and finely chopped",
+    "250ml cider",
+    "700g potatoes, peeled and cut into chunks",
+    "1 tsp Dijon mustard",
+    "500ml hot chicken stock",
+    "salt and pepper"
+  ],
+  "steps": [
+    "Preheat oven to 200°C/180°C fan.",
+    "Melt butter in a large casserole dish; fry onions 10 minutes until softened and lightly golden.",
+    "Add pork, sage and apples; stir-fry over high heat 2 minutes.",
+    "Pour in cider; bring to boil; add potatoes, mustard and stock. Season; stir; lid on; bake in oven for 45 minutes.",
+    "Remove lid; bake another 15 minutes.",
+    "Scatter with torn sage leaves and grind over more pepper to serve."
+  ],
+  "macros": {
+    "kcal": 479,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Slow cooker: pre-fry onions; place in slow cooker with all ingredients except potatoes. Cook high 6–8 hours or low 10–12 hours. Add potato chunks 1 hour before end.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

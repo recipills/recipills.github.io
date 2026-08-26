@@ -1,0 +1,112 @@
+{
+  "id": "mp-caesar-chicken-wraps",
+  "title": "Caesar Chicken Wraps",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "4 protein-packed Caesar wraps with grilled chicken, deli meat, parmesan and homemade skyr-based Caesar dressing \u2014 perfect for 5-day fridge storage.",
+  "cuisine": "American",
+  "category": "Meal Prep",
+  "tags": [
+    "caesar",
+    "chicken",
+    "wrap",
+    "meal prep",
+    "high-protein"
+  ],
+  "prepTime": 15,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "4 wheat tortillas (25cm)",
+      "kcal": 600,
+      "protein": 14.0,
+      "carbs": 108.0,
+      "fat": 10.0,
+      "satFat": 3.0
+    },
+    {
+      "text": "600g chicken breast",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g lean deli meat",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "40g parmesan cheese",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 romaine lettuces",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g skyr or 0.2% Greek yogurt",
+      "kcal": 60,
+      "protein": 10.0,
+      "carbs": 4.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "40g light mayo",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g mustard, juice of \u00bd lemon, 1 clove garlic, salt",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4g garlic powder, 4g cayenne pepper, 15g olive oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Mix skyr, mayo, mustard, lemon juice, garlic and salt for Caesar dressing.",
+    "Chop romaine and grate parmesan; add to dressing and toss.",
+    "Season and fry chicken 1 min each side; add deli meat; stir 30 sec; remove.",
+    "Lay out 4 tortillas; divide filling and salad evenly; roll tightly.",
+    "Wrap in parchment; refrigerate up to 5 days."
+  ],
+  "macros": {
+    "kcal": 530,
+    "protein": 53.0,
+    "carbs": 34.8,
+    "fat": 19.5,
+    "satFat": 4.5,
+    "fibre": 2.5,
+    "sugar": 1.3,
+    "iron": 2
+  },
+  "notes": "Lasts 5 days in fridge. Use low-carb wraps to reduce calories.",
+  "source": "The Felu Cookbook"
+}

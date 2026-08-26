@@ -1,0 +1,56 @@
+{
+  "id": "golden-coconut-curry-butternut-red-lentils",
+  "title": "Golden Coconut Curry with Butternut Squash & Red Lentils",
+  "description": "A one-pot turmeric-spiced coconut curry of butternut squash and red lentils simmered with tomatoes and finished with spinach, oven-baked or slow-cooked.",
+  "cuisine": "Indian",
+  "category": "Dinner",
+  "chapter": "Friday Night Specials",
+  "page": 158,
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 90,
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "curry",
+    "slow cooker",
+    "coconut",
+    "high-fibre"
+  ],
+  "ingredients": [
+    "1 onion, finely chopped",
+    "3 garlic cloves, crushed",
+    "5cm piece of fresh root ginger, peeled and grated",
+    "1 red chilli, deseeded and finely chopped",
+    "500g butternut squash, chopped into 1cm cubes",
+    "120g red lentils",
+    "450ml vegetable stock",
+    "400g can chopped tomatoes",
+    "400g can light coconut milk",
+    "2 tsp ground turmeric",
+    "½ tsp mustard seeds",
+    "1 tsp cumin seeds",
+    "1 tsp garam masala",
+    "1 tsp salt",
+    "50g spinach"
+  ],
+  "steps": [
+    "Preheat oven to 180°C/160°C fan.",
+    "Put all ingredients except spinach into a large lidded casserole dish; stir; put lid on.",
+    "Cook in oven for 1½ hours, stirring halfway.",
+    "When done, stir in spinach and serve.",
+    "Slow cooker: cook 4 hours on high or 8 hours on low."
+  ],
+  "macros": {
+    "kcal": 203,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serve with rice or Quick & Easy Wholemeal Flatbreads (p.188) and fat-free Greek yogurt.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

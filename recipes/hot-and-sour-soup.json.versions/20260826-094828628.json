@@ -1,0 +1,139 @@
+{
+  "id": "hot-and-sour-soup",
+  "title": "Hot and Sour Soup",
+  "description": "This low-cal Hot and Sour Soup packs in the veggies and is the perfect quick meal to prepare on a cold day to warm you up. Xanthan gum is a great ingredient for thickening soup and can be found in most supermarkets in the ‘free-from’ aisles as a gluten-free variant of cornflour.",
+  "cuisine": "Asian",
+  "category": "Lunch",
+  "tags": [
+    "soup"
+  ],
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "100g mushrooms, sliced",
+      "kcal": 13,
+      "protein": 1.8,
+      "carbs": 0.4,
+      "fat": 0.5,
+      "satFat": 0.1
+    },
+    {
+      "text": "4 spring onions, trimmed and sliced",
+      "kcal": 20,
+      "protein": 1.2,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red chilli, deseeded and sliced",
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 garlic cloves, peeled and minced or grated",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 litre vegetable stock (2 vegetable stock cubes dissolved in 1 litre boiling water",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 carrots, peeled and cut into thin strips (julienne)",
+      "kcal": 56,
+      "protein": 1.1,
+      "carbs": 12.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "75g baby corn, cut into 5mm (¼ in)-thick slices",
+      "kcal": 20,
+      "protein": 1.9,
+      "carbs": 3.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "120g tinned bamboo shoots, drained",
+      "kcal": 14,
+      "protein": 1.8,
+      "carbs": 2.4,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp light soy sauce",
+      "kcal": 18,
+      "protein": 2.0,
+      "carbs": 1.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp rice vinegar",
+      "kcal": 10,
+      "protein": 0.0,
+      "carbs": 1.4,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp dried chilli flakes",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼–½ tsp xanthan gum 1 egg",
+      "kcal": 3,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a large saucepan or wok with low-calorie cooking spray. Add the\nmushrooms, spring onions, sliced chilli and garlic and stir-fry over a\nmedium heat for 3–4 minutes until they are soft. Add the stock, carrots,\nbaby corn, bamboo shoots, soy sauce, vinegar and chilli flakes.",
+    "Bring to the boil, then reduce the heat and simmer for 5 minutes. Remove\n\nfrom the heat, sprinkle over ¼ teaspoon of xanthan gum to thicken, and\nstir well. If you prefer your soup a little thicker, add more, a tiny amount at\na time, until the soup has reached your preferred consistency.",
+    "Crack the egg into a bowl and lightly beat with a fork.",
+    "Return the pan to the heat, then slowly drizzle the egg into the hot soup,\nwhile stirring. The egg will cook as it hits the hot soup and will become\nfine threads. Ladle into four warmed bowls and serve.",
+    "HOW to BATCH\n Cool within 2 hours of cooking, then divide the cooked recipe into\n individual servings and freeze immediately. Allow to defrost then\n reheat, or reheat straight from frozen in the microwave or over a\n medium heat, stirring occasionally. Find detailed guidelines on\n reheating on page 11.",
+    "OVEN-BAKED RISOTTO with SMOKED"
+  ],
+  "macros": {
+    "kcal": 98,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 3.3,
+    "satFat": 0.6,
+    "fibre": 5.7,
+    "sugar": 6.8,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

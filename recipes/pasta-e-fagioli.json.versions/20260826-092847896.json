@@ -1,0 +1,58 @@
+{
+  "id": "pasta-e-fagioli",
+  "title": "Pasta e Fagioli",
+  "description": "An Italian bean and pasta soup made with onion, celery, carrot, borlotti and cannellini beans in a tomato and vegetable stock base, finished with spinach and lemon.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "chapter": "Quick & Easy Midweek Meals",
+  "page": 43,
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "beans",
+    "soup",
+    "pasta",
+    "high-fibre"
+  ],
+  "prepTime": 10,
+  "cookTime": 45,
+  "servings": 4,
+  "ingredients": [
+    "1 large onion, finely chopped",
+    "2 celery sticks, finely chopped",
+    "2 carrots, peeled and very finely chopped",
+    "low-calorie cooking spray",
+    "2 garlic cloves, crushed",
+    "2 rosemary sprigs, leaves finely chopped",
+    "1 tsp dried oregano",
+    "250g tomato passata",
+    "1 litre vegetable stock",
+    "400g can borlotti beans, drained and rinsed",
+    "400g can cannellini beans, drained and rinsed",
+    "125g small dried pasta shapes or macaroni",
+    "30g spinach, roughly chopped",
+    "juice of ½ lemon",
+    "salt and pepper",
+    "parsley, to serve"
+  ],
+  "steps": [
+    "Fry onion, celery and carrots in cooking spray for about 10 minutes until softened.",
+    "Stir in garlic, rosemary and oregano; stir-fry 30 seconds.",
+    "Pour in passata and stock; bring to a rapid simmer. Add both cans of beans; simmer 10 minutes.",
+    "Remove one-third of the soup and blend; return to pan.",
+    "Tip in pasta; season; simmer 20 minutes until pasta is cooked.",
+    "Stir through spinach and lemon juice; check seasoning. Serve scattered with parsley."
+  ],
+  "macros": {
+    "kcal": 336,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Also use butter beans or kidney beans; replace spinach with kale. Freshly grated Parmesan is delicious on top.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

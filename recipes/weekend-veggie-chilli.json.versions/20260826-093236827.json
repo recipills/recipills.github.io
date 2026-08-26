@@ -1,0 +1,57 @@
+{
+  "id": "weekend-veggie-chilli",
+  "title": "Weekend Veggie Chilli",
+  "description": "A hearty freezer-friendly vegetable chilli of black and pinto beans, carrots, peppers and leeks simmered in a spiced tomato sauce.",
+  "cuisine": "Mexican",
+  "category": "Dinner",
+  "chapter": "Friday Night Specials",
+  "page": 157,
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 70,
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "chilli",
+    "freezer-friendly",
+    "blog favourite"
+  ],
+  "ingredients": [
+    "1 large onion, finely chopped",
+    "2 celery sticks, finely chopped",
+    "1 leek, finely chopped",
+    "low-calorie cooking spray",
+    "4 garlic cloves, crushed",
+    "2 large carrots, peeled and finely chopped",
+    "3 red peppers, deseeded and chopped",
+    "2 × 400g cans chopped tomatoes",
+    "350ml water",
+    "400g can black beans, drained and rinsed",
+    "400g can pinto beans, drained and rinsed",
+    "3 tbsp tomato purée",
+    "2 tbsp dark soy sauce",
+    "1 tbsp red wine vinegar",
+    "handful of coriander, to serve",
+    "Spice mix: 2 tsp chilli powder, 2 tsp ground cumin, 2 tsp smoked paprika, 1 tsp salt"
+  ],
+  "steps": [
+    "Preheat oven to 200°C/180°C fan.",
+    "Mix all spice mix ingredients together.",
+    "Fry onion, celery and leek in cooking spray for 10 minutes; add garlic, carrots and peppers; stir-fry 2 minutes.",
+    "Pour in tomatoes, water, black beans and pinto beans; add tomato purée, soy sauce, vinegar and spice mix; stir thoroughly.",
+    "Bring to a rapid simmer; lid on; bake in oven for 1 hour until rich, dark and all vegetables tender.",
+    "Serve scattered with coriander."
+  ],
+  "macros": {
+    "kcal": 282,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Great with leftover vegetables — sweet potato, butternut squash, parsnips, mushrooms, sweetcorn. Can be made in advance and reheated. Freezer-friendly.",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

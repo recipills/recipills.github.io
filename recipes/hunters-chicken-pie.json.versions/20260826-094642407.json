@@ -1,0 +1,202 @@
+{
+  "id": "hunters-chicken-pie",
+  "title": "Hunter's Chicken Pie",
+  "description": "Chicken and bacon simmered in a smoky barbecue-style tomato sauce, topped with cheesy mashed potato and baked until golden.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 20,
+  "cookTime": 55,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "500g diced chicken breast",
+      "kcal": 530,
+      "protein": 120.0,
+      "carbs": 0.0,
+      "fat": 7.5,
+      "satFat": 2.0
+    },
+    {
+      "text": "2 smoked bacon medallions, cut into 5mm (¼in) pieces",
+      "kcal": 50,
+      "protein": 9.0,
+      "carbs": 0.4,
+      "fat": 1.6,
+      "satFat": 0.6
+    },
+    {
+      "text": "2 medium onions, peeled and chopped",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tsp garlic granules",
+      "kcal": 20,
+      "protein": 1.0,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp dried oregano",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp English mustard powder",
+      "kcal": 15,
+      "protein": 0.8,
+      "carbs": 1.0,
+      "fat": 0.9,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tsp sweet smoked paprika",
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 2.4,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp tomato puree",
+      "kcal": 15,
+      "protein": 0.8,
+      "carbs": 3.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 × 400g tin chopped tomatoes",
+      "kcal": 80,
+      "protein": 4.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "200ml chicken stock (1 very low-salt chicken stock cube dissolved in 200ml boiling water)",
+      "kcal": 8,
+      "protein": 0.6,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp balsamic vinegar",
+      "kcal": 28,
+      "protein": 0.2,
+      "carbs": 5.4,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp Henderson’s relish or Worcestershire sauce",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 3.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 medium carrots, peeled and sliced",
+      "kcal": 56,
+      "protein": 1.1,
+      "carbs": 12.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp granulated sweetener, or caster sugar if you prefer (optional)",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "700g potatoes, peeled and cut into 4cm (1½in) chunks",
+      "kcal": 539,
+      "protein": 14.0,
+      "carbs": 119.0,
+      "fat": 0.7,
+      "satFat": 0.0
+    },
+    {
+      "text": "80g reduced-fat mature Cheddar, grated",
+      "kcal": 218,
+      "protein": 26.4,
+      "carbs": 0.1,
+      "fat": 12.0,
+      "satFat": 7.6
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "sprinkle of finely chopped parsley, to serve",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "80g steamed green vegetables (+ 35 kcal per serving)",
+      "kcal": 30,
+      "protein": 2,
+      "carbs": 4,
+      "fat": 0.5,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Spray a large saucepan with low-calorie cooking spray and place over a medium-high heat.",
+    "Add the chicken, cook for 2–3 minutes to seal, then transfer to a plate and set to one side. In the same pan, fry the bacon for 2 minutes (or longer if you like it crispy).",
+    "Transfer to a plate and set to one side.",
+    "Turn the heat down to medium, give the pan another spray with low- calorie cooking spray (no need to clean the pan – you want to keep the bacon flavours) and sauté the onions for 5 minutes until they are softening.",
+    "Add the garlic granules, oregano, mustard powder and smoked paprika and stir well, then stir in the tomato puree, chopped tomatoes, stock, vinegar and Henderson’s relish.",
+    "Add the carrots and return the chicken to the pan.",
+    "Reduce the heat and simmer, uncovered, for 20–25 minutes, until the carrots are cooked and the sauce is thick and rich.",
+    "Taste and add the sweetener if desired.",
+    "Meanwhile, preheat the oven to 200ºC (fan 180ºC/ gas mark 6) and cook the potatoes in a saucepan of boiling salted water for about 15 minutes.",
+    "When you can slide a knife easily through the potatoes, drain, return to the pan and mash well.",
+    "Stir the bacon and three-quarters of the grated cheese into the mashed potato and season with black pepper and a little salt if you wish.",
+    "Transfer the cooked chicken to an ovenproof dish.",
+    "Top it with the mash and use a fork to fluff up the top.",
+    "Sprinkle with the remaining cheese and bake in the oven for 20–25 minutes until golden on the top.",
+    "Remove from the oven, sprinkle with parsley and serve with your choice of"
+  ],
+  "macros": {
+    "kcal": 479,
+    "fat": 7.8,
+    "satFat": 3.5,
+    "carbs": 50,
+    "sugar": 16,
+    "fibre": 8.8,
+    "protein": 46,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

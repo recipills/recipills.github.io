@@ -1,0 +1,165 @@
+{
+  "id": "chinese-chicken-and-broccoli",
+  "title": "Chinese Chicken and Broccoli",
+  "description": "A stir-fry of diced chicken, mushrooms, carrots and broccoli in a soy, oyster sauce and ginger glaze.",
+  "cuisine": "Asian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "2 chicken breasts (skin and visible fat removed), diced",
+      "kcal": 318,
+      "protein": 72.0,
+      "carbs": 0.0,
+      "fat": 4.5,
+      "satFat": 1.2
+    },
+    {
+      "text": "sea salt and ¼ tsp freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "1 white onion, peeled and sliced",
+      "kcal": 54,
+      "protein": 1.8,
+      "carbs": 11.9,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 garlic clove, crushed",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp minced root ginger",
+      "kcal": 24,
+      "protein": 0.5,
+      "carbs": 5.4,
+      "fat": 0.2,
+      "satFat": 0.1
+    },
+    {
+      "text": "200g button mushrooms, quartered",
+      "kcal": 26,
+      "protein": 3.6,
+      "carbs": 0.8,
+      "fat": 1.0,
+      "satFat": 0.2
+    },
+    {
+      "text": "2 carrots, peeled and cut into strips",
+      "kcal": 56,
+      "protein": 1.1,
+      "carbs": 12.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "6 spring onions, trimmed and sliced",
+      "kcal": 30,
+      "protein": 1.8,
+      "carbs": 6.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 head of broccoli (cut into small florets and slice the stems) or 1 pack of Tenderstem",
+      "kcal": 119,
+      "protein": 9.8,
+      "carbs": 10.5,
+      "fat": 1.4,
+      "satFat": 0.4
+    },
+    {
+      "text": "broccoli",
+      "kcal": 119,
+      "protein": 9.8,
+      "carbs": 10.5,
+      "fat": 1.4,
+      "satFat": 0.4
+    },
+    {
+      "text": "2 tbsp dark soy sauce",
+      "kcal": 18,
+      "protein": 2.0,
+      "carbs": 1.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp oyster sauce",
+      "kcal": 16,
+      "protein": 0.6,
+      "carbs": 3.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 tbsp rice vinegar or white wine vinegar, with a little sweetener added",
+      "kcal": 6,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200ml chicken stock (1 stock cube and 1 stock pot dissolved in 200ml boiling water)",
+      "kcal": 8,
+      "protein": 0.6,
+      "carbs": 0.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g uncooked basmati rice per portion, cooked according to packet instructions (+",
+      "kcal": 175,
+      "protein": 4.0,
+      "carbs": 38.5,
+      "fat": 0.5,
+      "satFat": 0.1
+    }
+  ],
+  "steps": [
+    "Heat up a wok or decent-sized frying pan and spray with low-calorie cooking spray.",
+    "Add the diced chicken, season with salt and pepper, and cook for 3–5 minutes until browned.",
+    "Remove the chicken from the pan and set aside.",
+    "Spray your pan with a bit more low-calorie cooking spray, then add the onion, garlic, ginger and mushrooms.",
+    "Stir and cook until they are browned and starting to soften.",
+    "Add the carrots, spring onions and broccoli florets.",
+    "Return the chicken to the pan.",
+    "Stir in the dark soy sauce, oyster sauce and rice vinegar.",
+    "Pour in the stock, stir well and allow to simmer for 8–10 minutes, stirring occasionally, until the sauce reduces and thickens slightly.",
+    "Check the chicken is cooked, then serve with an accompaniment of your choice (or you can let it cool and freeze it for another day)."
+  ],
+  "macros": {
+    "kcal": 184,
+    "fat": 2.4,
+    "satFat": 0.5,
+    "carbs": 16,
+    "sugar": 9.7,
+    "fibre": 6.1,
+    "protein": 22,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

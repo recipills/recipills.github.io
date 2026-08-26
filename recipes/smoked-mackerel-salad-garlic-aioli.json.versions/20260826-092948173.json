@@ -1,0 +1,49 @@
+{
+  "id": "smoked-mackerel-salad-garlic-aioli",
+  "title": "Smoked Mackerel Salad with Garlic Aïoli",
+  "description": "Smoked mackerel served over bulgur wheat and quinoa with broccoli and asparagus, finished with a garlicky yogurt aïoli.",
+  "cuisine": "British",
+  "category": "Lunch",
+  "chapter": "Light Dishes & Sides",
+  "page": 140,
+  "tags": [
+    "fish",
+    "mackerel",
+    "salad",
+    "bulgur wheat",
+    "quinoa"
+  ],
+  "prepTime": 15,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    "For the aïoli: 4 garlic cloves crushed, 1 egg + 1 egg white, 200g fat-free Greek yogurt, juice of 1 lemon, salt",
+    "80g bulgur wheat",
+    "80g quinoa",
+    "4 smoked mackerel fillets",
+    "150g broccoli florets",
+    "250g asparagus spears, trimmed and cut into 2cm pieces",
+    "4 spring onions, trimmed and sliced",
+    "pepper"
+  ],
+  "steps": [
+    "Make aïoli: whisk garlic, egg and egg white together; stir in yogurt and lemon juice; season with salt.",
+    "Cook bulgur wheat and quinoa per package instructions; combine and cool.",
+    "Steam or simmer broccoli and asparagus for 3–4 minutes until just tender; drain.",
+    "Flake mackerel into chunks.",
+    "Divide grains between plates; top with broccoli, asparagus, spring onions and mackerel.",
+    "Drizzle aïoli over and finish with black pepper."
+  ],
+  "macros": {
+    "kcal": 488,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "The aïoli also works as a dip for Baked Sweet Potato Wedges (p.150).",
+  "source": "The Slimming Foodie by Pip Payne (2021)"
+}

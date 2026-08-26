@@ -1,0 +1,41 @@
+{
+  "id": "Tex-Mex_Pasta_Salad",
+  "title": "Tex-Mex Pasta Salad",
+  "description": "A macaroni salad with black beans, sweetcorn and red pepper, tossed in a smoky, zesty jalapeño and lime dressing.",
+  "cuisine": "Mexican",
+  "category": "Lunch",
+  "chapter": "All in the Prep",
+  "page": 180,
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "250g (9oz) macaroni",
+    "400g (14oz) can of black beans, drained and rinsed",
+    "150g (5.5oz) frozen sweetcorn, defrosted",
+    "1 red pepper, deseeded and finely chopped",
+    "4 spring onions, sliced",
+    "large handful of coriander leaves, finely chopped",
+    "salt and pepper",
+    "DRESSING: 2 tbsp fat-free Greek yogurt, 1 garlic clove crushed, 1/2 tsp smoked paprika, 2 tbsp finely chopped jalapeños, juice of 1 lime, pepper"
+  ],
+  "steps": [
+    "Bring a large pan of water to the boil and add 2 teaspoons of salt. Pour in the macaroni and simmer fast for 5 minutes.",
+    "Add the black beans and sweetcorn and simmer for another 5 minutes, or until the pasta is cooked.",
+    "Drain the pasta, beans and sweetcorn and give it a quick rinse under cold water. Drain very well. Place in a serving bowl and stir in the pepper, spring onions and coriander.",
+    "Make up the dressing by stirring all the ingredients vigorously. Add it to the salad, season well, then stir to combine everything. Serve warm or cold."
+  ],
+  "macros": {
+    "kcal": 331,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Substitute black beans for pinto beans, use different pasta shapes, or add extra vegetables such as avocado, red onion, green beans or baby tomatoes. Adjust jalapeños to taste."
+}

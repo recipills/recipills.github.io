@@ -1,0 +1,94 @@
+{
+  "id": "dill-cream-cheese-and-smoked-salmon-bagel",
+  "title": "Dill, Cream Cheese and Smoked Salmon Bagel",
+  "description": "A toasted wholemeal bagel topped with dill and lemon cream cheese, smoked salmon and thinly sliced cucumber.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 2,
+  "cookTime": 0,
+  "servings": 1,
+  "ingredients": [
+    {
+      "text": "1 wholemeal bagel thin",
+      "kcal": 110,
+      "protein": 6.0,
+      "carbs": 20.0,
+      "fat": 1.5,
+      "satFat": 0.3
+    },
+    {
+      "text": "40g reduced-fat cream cheese",
+      "kcal": 60,
+      "protein": 5.2,
+      "carbs": 1.2,
+      "fat": 3.6,
+      "satFat": 2.2
+    },
+    {
+      "text": "2 sprigs fresh dill, leaves only, finely chopped, plus extra to serve (optional)",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "½ tsp lemon juice",
+      "kcal": 4,
+      "protein": 0,
+      "carbs": 1.3,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "20g smoked salmon",
+      "kcal": 36,
+      "protein": 5.0,
+      "carbs": 0.0,
+      "fat": 1.8,
+      "satFat": 0.4
+    },
+    {
+      "text": "35g thinly sliced cucumber",
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "(+ 6 kcal) and some fresh dill",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "If you want your bagel toasted pop it in the toaster until lightly browned.",
+    "While the bagel is toasting, mix the reduced-fat cream cheese, dill, lemon juice and pepper in a small bowl.",
+    "Spread the cream cheese onto the bagel and lay the smoked salmon on top. You can add some optional thinly sliced cucumber and more fresh dill to serve if you like!"
+  ],
+  "macros": {
+    "kcal": 231,
+    "fat": 7.6,
+    "satFat": 3.6,
+    "carbs": 27,
+    "sugar": 4.9,
+    "fibre": 3.2,
+    "protein": 13,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

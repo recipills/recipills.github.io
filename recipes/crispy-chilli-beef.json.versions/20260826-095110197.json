@@ -1,0 +1,197 @@
+{
+  "id": "crispy-chilli-beef",
+  "title": "Crispy Chilli Beef",
+  "description": "Flour-and-egg-coated strips of rump steak baked until crispy, tossed with stir-fried vegetables in a sweet and sour chilli-soy sauce.",
+  "cuisine": "Asian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 10,
+  "cookTime": 25,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "1½ tbsp self-raising flour",
+      "kcal": 357,
+      "protein": 10.0,
+      "carbs": 74.0,
+      "fat": 2.0,
+      "satFat": 0.5
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "500g rump steak, cut into thin strips",
+      "kcal": 700,
+      "protein": 32.5,
+      "carbs": 0.0,
+      "fat": 105.0,
+      "satFat": 14.0
+    },
+    {
+      "text": "1 egg, beaten",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 red pepper, deseeded and sliced",
+      "kcal": 50,
+      "protein": 1.6,
+      "carbs": 9.6,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 carrot, peeled and cut into thin strips",
+      "kcal": 28,
+      "protein": 0.6,
+      "carbs": 6.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ onion, peeled and sliced",
+      "kcal": 20,
+      "protein": 0.7,
+      "carbs": 4.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "5 spring onions, trimmed and chopped",
+      "kcal": 25,
+      "protein": 1.5,
+      "carbs": 5.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 good pinches of dried chilli flakes, or ½ chopped red chilli, deseeded",
+      "kcal": 12,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 garlic cloves, peeled and finely chopped",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 2.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1.5cm (just over ½in) piece of root ginger, peeled and finely chopped",
+      "kcal": 36,
+      "protein": 0.8,
+      "carbs": 8.1,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "juice of 1 lime",
+      "kcal": 3,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 tsp granulated sweetener",
+      "kcal": 4,
+      "protein": 0.0,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "6 tbsp soy sauce (dark soy sauce works well, but light is fine too)",
+      "kcal": 54,
+      "protein": 6.0,
+      "carbs": 4.8,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 tbsp rice vinegar",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 2.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp honey",
+      "kcal": 21,
+      "protein": 0.0,
+      "carbs": 5.7,
+      "fat": 5.7,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 drops Frank’s RedHot Buffalo Wings, or another hot/chilli sauce",
+      "kcal": 2,
+      "protein": 0,
+      "carbs": 0.5,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "100ml beef stock (½ beef stock cube dissolved in 100ml boiling water)",
+      "kcal": 4,
+      "protein": 0.3,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "80g steamed vegetables (+ 38 kcal) or 50g uncooked basmati rice per portion, cooked",
+      "kcal": 30,
+      "protein": 2,
+      "carbs": 4,
+      "fat": 0.5,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 220°C (fan 200°C/gas mark 7).",
+    "Place the flour in a shallow bowl.",
+    "Season the strips of beef with salt and pepper, dip each one into the beaten egg, then quickly drag it  through the flour to give a light coating.",
+    "Place each piece of coated beef on a baking tray sprayed with a fair bit of low-calorie cooking spray, then give the strips a spray too. You could even put them on a piece of baking parchment to ensure they don’t stick.",
+    "Cook for 20–25 minutes, until the beef is crispy. You can turn them over towards the end if needed.",
+    "While the beef is cooking, spray a wok or large frying pan with some low-calorie cooking spray. Over a medium-hot heat, fry the pepper, carrot, onion, spring onions, chilli flakes, garlic and ginger.",
+    "Cook for 5 minutes, then add the lime juice, granulated sweetener, soy sauce, rice vinegar and honey.",
+    "Stir, then add a couple of drops of Frank’s sauce and the 100ml of beef stock.",
+    "Allow to cook for a minute then add the cooked beef strips.",
+    "Stir well and serve with your choice of accompaniment."
+  ],
+  "macros": {
+    "kcal": 349,
+    "fat": 15,
+    "satFat": 5.9,
+    "carbs": 20,
+    "sugar": 11,
+    "fibre": 3.4,
+    "protein": 31,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

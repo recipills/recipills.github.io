@@ -1,0 +1,47 @@
+{
+  "id": "Brazilian-Style_Coconut_Chicken_Curry",
+  "title": "Brazilian-Style Coconut Chicken Curry",
+  "description": "Chicken breasts and sweet potato slow-cooked in a peanut butter, lime and coconut milk sauce with pinto beans and cherry tomatoes.",
+  "cuisine": "Brazilian",
+  "category": "Dinner",
+  "chapter": "In a Slow-Cooker",
+  "page": 157,
+  "prepTime": 10,
+  "cookTime": 180,
+  "servings": 4,
+  "vegetarian": false,
+  "freezer_friendly": true,
+  "ingredients": [
+    "1 onion, finely chopped",
+    "2 tablespoons smooth peanut butter",
+    "finely grated zest and juice of 1 unwaxed lime, plus lime wedges to serve",
+    "1 teaspoon chilli flakes",
+    "2 garlic cloves, crushed",
+    "1 tablespoon ground turmeric",
+    "1 tablespoon cornflour",
+    "1 chicken stock cube, crumbled",
+    "400ml (14fl oz) light coconut milk",
+    "3 skinless chicken breasts",
+    "350g (12oz) sweet potatoes, peeled and chopped",
+    "400g (14oz) can of pinto beans, drained and rinsed",
+    "250g (9oz) cherry tomatoes, halved",
+    "salt and pepper",
+    "coriander leaves, to serve"
+  ],
+  "steps": [
+    "Put the onion into the slow-cooker pot with the peanut butter, lime zest and juice, chilli flakes, crushed garlic, turmeric, cornflour, crumbled stock cube and coconut milk and stir everything together thoroughly.",
+    "Add the whole chicken breasts, sweet potatoes, pinto beans and tomatoes, season well and stir again, place the lid on and cook on high for 3 hours or on low for 5 hours.",
+    "When the cooking time is up, use 2 forks to shred the chicken into the sauce. Serve seasoned with pepper, scattered with coriander leaves and with lime wedges on the side."
+  ],
+  "macros": {
+    "kcal": 508,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "To cook in a regular oven: preheat to 210°C/190°C fan, Gas Mark 6.5. Mix ingredients in a casserole dish with a lid, bake for 55 minutes. Add chopped spinach at the end to wilt into the sauce."
+}

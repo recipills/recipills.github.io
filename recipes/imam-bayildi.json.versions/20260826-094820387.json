@@ -1,0 +1,145 @@
+{
+  "id": "imam-bayildi",
+  "title": "Imam Bayildi",
+  "description": "This Turkish stuffed aubergine dish is traditionally doused in olive oil, and is considered so delicious its name translates as ‘The Imam Fainted’.",
+  "cuisine": "Turkish",
+  "category": "Side",
+  "tags": [],
+  "prepTime": 5,
+  "cookTime": 40,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "2 aubergines, sliced lengthways in half",
+      "kcal": 125,
+      "protein": 5.0,
+      "carbs": 15.0,
+      "fat": 2.0,
+      "satFat": 0.5
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "2 red onions, peeled and finely chopped",
+      "kcal": 79,
+      "protein": 2.6,
+      "carbs": 17.4,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red pepper, deseeded and diced",
+      "kcal": 50,
+      "protein": 1.6,
+      "carbs": 9.6,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 garlic cloves, peeled and minced",
+      "kcal": 16,
+      "protein": 0.8,
+      "carbs": 4.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 x 400g tin chopped tomatoes",
+      "kcal": 80,
+      "protein": 4.0,
+      "carbs": 12.0,
+      "fat": 0.4,
+      "satFat": 0.1
+    },
+    {
+      "text": "½ tsp sweet paprika",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp sumac (or subsitute 1 tsp lemon juice)",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp ground cinnamon",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp dried oregano",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp granulated sweetener",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp balsamic vinegar",
+      "kcal": 14,
+      "protein": 0.1,
+      "carbs": 2.7,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "fresh basil leaves, to serve (optional)",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "2 aubergines, sliced lengthways in half\nlow-calorie cooking spray\nsea salt and freshly ground black pepper\n2 red onions, peeled and finely chopped\n1 red pepper, deseeded and diced\n4 garlic cloves, peeled and minced\n1 x 400g tin chopped tomatoes\n½ tsp sweet paprika\n½ tsp sumac (or subsitute 1 tsp lemon juice)\n½ tsp ground cinnamon\n½ tsp dried oregano\n½ tsp granulated sweetener\n1 tbsp balsamic vinegar\nfresh basil leaves, to serve (optional)",
+    "Preheat the oven to 220°C (fan 200°C/gas mark 7).",
+    "Score the white flesh of the aubergine halves in a criss-cross pattern,\n\nwithout cutting through the skin at the bottom. Spray the halves all over\nwith low-calorie cooking spray and lay on a foil-lined baking tray, cut side\nup. Season with salt and pepper. Place the tray of aubergine into the\nmiddle of the hot oven for 30 minutes.",
+    "While the aubergine is cooking, spray a frying pan with low-calorie\ncooking spray and place over a medium heat. Add the onions, pepper\nand garlic and sauté for 5 minutes until the onion has softened. Add the\ntomatoes, paprika, sumac, cinnamon, oregano, sweetener and balsamic\nvinegar. Season with salt and pepper and simmer for 5 minutes. The\nmixture will thicken and deepen in colour.",
+    "Remove the aubergine halves from the oven. Carefully press down the\nedges of each aubergine so that the criss-cross sections open up more,\ncreating channels for the sauce to seep into. Spoon the tomato mix on\ntop and place the aubergines back in the oven for 10 minutes.",
+    "Remove from the oven and serve. The recipe can also be frozen once\ncooled. Make sure you defrost thoroughly before reheating in the oven."
+  ],
+  "macros": {
+    "kcal": 116,
+    "protein": 3.8,
+    "carbs": 16,
+    "fat": 2.2,
+    "satFat": 0.4,
+    "fibre": 5.4,
+    "sugar": 13,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

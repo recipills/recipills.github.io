@@ -1,0 +1,43 @@
+{
+  "id": "Curried_Chicken_Bake",
+  "title": "Curried Chicken Bake",
+  "description": "Chicken breast strips and vegetables roasted with a garam masala spice mix, finished with roasted cauliflower.",
+  "cuisine": "Indian",
+  "category": "Dinner",
+  "chapter": "In a Tray",
+  "page": 115,
+  "prepTime": 10,
+  "cookTime": 40,
+  "servings": 4,
+  "vegetarian": false,
+  "freezer_friendly": false,
+  "ingredients": [
+    "3 skinless chicken breasts, sliced into strips",
+    "3 peppers, deseeded and sliced into strips",
+    "2 onions, sliced",
+    "250g (9oz) cherry tomatoes",
+    "low-calorie cooking spray",
+    "1 cauliflower, broken into florets",
+    "3 tablespoons red wine vinegar",
+    "SPICE MIX: 2 tsp garam masala, 2 tsp ground turmeric, 2 tsp garlic granules, 1 tsp ground ginger, 1 tsp salt, 1 tsp chilli powder",
+    "TO SERVE: coriander leaves, lemon wedges"
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan (425°F), Gas Mark 7. Mix together all the ingredients for the spice mix.",
+    "In a large bowl, mix together the chicken, peppers, onions and cherry tomatoes. Spray with low-calorie cooking spray, add the spice mix and stir until everything is coated.",
+    "Spread over a large roasting tin, spray with more cooking spray and roast in the oven for 20 minutes.",
+    "Remove from the oven, add the cauliflower, drizzle over the vinegar, stir everything together and spray with cooking spray.",
+    "Return to the oven and roast for 20 more minutes, until the chicken is cooked through and the vegetables are tender and beginning to char. Scatter over coriander and serve with lemon wedges."
+  ],
+  "macros": {
+    "kcal": 272,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "Serve with mini naans or chapatis on the side. Also great with a dollop of mango chutney or cooling raita."
+}

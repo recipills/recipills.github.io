@@ -1,0 +1,52 @@
+{
+  "id": "Tuscan_Butter_Bean_Bake",
+  "title": "Tuscan Butter Bean Bake",
+  "description": "Butter beans, mushrooms, cherry tomatoes and kale baked in an Italian herb and balsamic sauce, topped with melted mozzarella and Parmesan-style cheese.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "chapter": "In a Pot",
+  "page": 16,
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "spray oil",
+    "1 red onion, finely chopped",
+    "1 red pepper, deseeded and finely chopped",
+    "2 garlic cloves, crushed",
+    "250g (9oz) chestnut mushrooms, quartered",
+    "200g (7oz) cherry tomatoes",
+    "1 teaspoon fennel seeds",
+    "2 teaspoons smoked paprika",
+    "2 tablespoons Italian herb mix",
+    "2 x 400g (14oz) cans of butter beans, drained and rinsed",
+    "150ml (1/4 pint) water",
+    "3 tablespoons tomato purée",
+    "1 tablespoon balsamic vinegar",
+    "100g (3.5oz) kale, finely sliced",
+    "30g (1oz) Parmesan-style vegetarian cheese, grated",
+    "150g (5.5oz) mozzarella cheese, torn",
+    "salt and pepper",
+    "handful of parsley leaves, to serve"
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan (425°F), Gas Mark 7.",
+    "Spray a medium-large flameproof casserole dish with oil and fry the onion and pepper for 5 minutes.",
+    "Add the garlic, mushrooms, cherry tomatoes and fennel seeds and stir-fry for 5 more minutes. Spoon in the smoked paprika and Italian herb mix, then season. Tip in the butter beans, water, tomato purée and balsamic vinegar, stir in the kale and bring to a simmer.",
+    "Stir through the Parmesan-style cheese, then scatter mozzarella over the top and place on the top shelf of the oven for 15 minutes, until cheese is melted and bubbling.",
+    "Grind some pepper over the bake and scatter on fresh parsley before serving."
+  ],
+  "macros": {
+    "kcal": 320,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "To spice it up, add a finely chopped red chilli with the garlic in step 3. For non-vegetarian version, fry Italian sausage or pork fillet with the onion and pepper in step 2."
+}

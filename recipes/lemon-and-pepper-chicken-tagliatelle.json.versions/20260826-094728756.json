@@ -1,0 +1,97 @@
+{
+  "id": "lemon-and-pepper-chicken-tagliatelle",
+  "title": "Lemon and Pepper Chicken Tagliatelle",
+  "description": "This dish is beautifully simple, but don’t let the sparse ingredient list fool you: this dish is full of flavour. Tagliatelle is a really versatile pasta, going well with thick sauces as well as basic elements such as tomatoes or, in this case, lemon juice.",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 5,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "2 lemons",
+      "kcal": 24,
+      "protein": 0.8,
+      "carbs": 6.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "4 chicken breasts, about 165g each (skin and visible fat removed)",
+      "kcal": 700,
+      "protein": 158.4,
+      "carbs": 0.0,
+      "fat": 9.9,
+      "satFat": 2.6
+    },
+    {
+      "text": "sea salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "200g tagliatelle",
+      "kcal": 700,
+      "protein": 24.0,
+      "carbs": 144.0,
+      "fat": 3.0,
+      "satFat": 0.6
+    },
+    {
+      "text": "2 egg yolks",
+      "kcal": 110,
+      "protein": 5.4,
+      "carbs": 1.2,
+      "fat": 9.0,
+      "satFat": 3.2
+    },
+    {
+      "text": "a pinch of chopped fresh chives or parsley, to serve (optional)",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "Halve and squeeze one of the lemons into a bowl and add ¼–½\nteaspoon of black pepper according to your taste. Place the chicken\nbreasts in the bowl and mix well. Allow to marinate for 30 minutes.",
+    "Remove the chicken and season with salt. Spray a griddle pan or heavy-\nbased frying pan with low-calorie cooking spray and place over a medium\nheat. Add the chicken breasts to the pan and cook for 14–15 minutes,\nturning halfway through. Ensure the chicken is cooked through, with no\npink remaining.",
+    "Meanwhile, bring a large pan of salted water to the boil and cook the\n\ftagliatelle, according to packet instructions – usually 9–10 minutes.",
+    "Mix the egg yolks with the juice of the remaining lemon and add a little\nsalt and pepper.",
+    "When the pasta is cooked, drain in a colander, reserving a little of the\ncooking water, and return the pasta to the pan. While still hot, stir in the\negg and lemon juice. The heat of the pasta will cook the egg. Add a little\nof the reserved pasta water if you wish.",
+    "Divide the pasta between four plates and slice the chicken breasts,\nplacing one on top of each plate. Scatter with fresh chives or parsley, if\nyou wish."
+  ],
+  "macros": {
+    "kcal": 397,
+    "protein": 48,
+    "carbs": 35,
+    "fat": 6.6,
+    "satFat": 1.8,
+    "fibre": 2,
+    "sugar": 1.3,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Everyday Light"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "bubble-and-squeak",
+  "title": "Bubble and Squeak",
+  "description": "A pan-fried patty of mashed potato and cabbage, mixed with fried onion, garlic and bacon and cooked until crisp and golden.",
+  "cuisine": "British",
+  "category": "Breakfast",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 55,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "4 medium potatoes, about 150g each, peeled and cut into large chunks",
+      "kcal": 462,
+      "protein": 12.0,
+      "carbs": 102.0,
+      "fat": 0.6,
+      "satFat": 0.0
+    },
+    {
+      "text": "150g Savoy cabbage, roughly shredded into 5mm (¼in)-wide strips",
+      "kcal": 39,
+      "protein": 2.0,
+      "carbs": 7.5,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 onion, peeled and thinly sliced",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 garlic clove, peeled and crushed",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "4 smoked bacon medallions, cut into 2cm (¾in) squares",
+      "kcal": 100,
+      "protein": 18.0,
+      "carbs": 0.8,
+      "fat": 3.2,
+      "satFat": 1.2
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    }
+  ],
+  "steps": [
+    "4 medium potatoes, about 150g each, peeled and cut into large chunks\n150g Savoy cabbage, roughly shredded into 5mm (¼in)-wide strips\nlow-calorie cooking spray\n1 onion, peeled and thinly sliced\n1 garlic clove, peeled and crushed\n4 smoked bacon medallions, cut into 2cm (¾in) squares\nsea salt and freshly ground black pepper",
+    "Place the potato chunks in a pan of boiling water, cover and reduce\nthe heat to simmer for 20–25 minutes. When done, the potatoes\nshould be soft when tested with a knife. Drain the potatoes and\nmash well. Set aside.\nPlace the cabbage in a pan of boiling water, cover and simmer for 3–\n4 minutes. Drain the cabbage well and add to the pan that contains\nthe mashed potato. Mix thoroughly.\nSpray a medium frying pan with low-calorie cooking spray and place\nover a medium heat. Add the onion and fry for 5–10 minutes, stirring,\n until softened and golden brown. Add the garlic and bacon to the\nonion and fry for a further 5 minutes, stirring. Add the onion, garlic\nand bacon to the pan of potato and cabbage. Season well with salt\nand pepper. Mix until completely combined.\nSpray a little low-calorie cooking spray into the frying pan and place\nover a high heat. Tip in the mixture and form into a large patty or into\neight small patties, if preferred. Fry for 10 minutes on each side, or\nuntil brown and crispy and hot right through.\n  SWAP THIS: Use any leftover cooked veg such as peas, carrots and sprouts\n  instead of the cabbage."
+  ],
+  "macros": {
+    "kcal": 203,
+    "fat": 2.1,
+    "satFat": 0.4,
+    "carbs": 32,
+    "sugar": 5.3,
+    "fibre": 5,
+    "protein": 12,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

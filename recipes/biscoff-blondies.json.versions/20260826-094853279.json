@@ -1,0 +1,123 @@
+{
+  "id": "biscoff-blondies",
+  "title": "Biscoff Blondies",
+  "description": "Sweet potato and Biscoff spread blondies studded with white chocolate and drizzled with melted Biscoff.",
+  "cuisine": "Belgian",
+  "category": "Dessert",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 35,
+  "servings": 16,
+  "ingredients": [
+    {
+      "text": "100g reduced-fat spread, plus a little extra for greasing",
+      "kcal": 365,
+      "protein": 39.0,
+      "carbs": 10.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "200g sweet potatoes, peeled and cut into small chunks",
+      "kcal": 172,
+      "protein": 3.2,
+      "carbs": 40.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g plain flour",
+      "kcal": 364,
+      "protein": 10.0,
+      "carbs": 77.0,
+      "fat": 2.0,
+      "satFat": 0.5
+    },
+    {
+      "text": "50g golden caster sugar",
+      "kcal": 194,
+      "protein": 0.0,
+      "carbs": 50.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "50g granulated sweetener",
+      "kcal": 100,
+      "protein": 0.0,
+      "carbs": 25.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp baking powder",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp vanilla extract",
+      "kcal": 12,
+      "protein": 0.0,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 medium eggs",
+      "kcal": 144,
+      "protein": 12.6,
+      "carbs": 0.8,
+      "fat": 10.0,
+      "satFat": 3.2
+    },
+    {
+      "text": "100g crunchy Biscoff spread, plus 20g for the topping",
+      "kcal": 582,
+      "protein": 33,
+      "carbs": 66,
+      "fat": 36,
+      "satFat": 6
+    },
+    {
+      "text": "40g white chocolate, roughly chopped",
+      "kcal": 224,
+      "protein": 13.2,
+      "carbs": 23.6,
+      "fat": 23.6,
+      "satFat": 7.6
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180ºC (fan 160ºC/gas mark 4).",
+    "Grease the cake tin with a little reduced-fat spread and line the base and sides with non- stick baking paper.",
+    "Put the sweet potatoes in a small saucepan of boiling water, reduce the heat, cover and simmer for 10–15 minutes or until tender.",
+    "Drain well and mash with a fork.",
+    "Leave to cool completely.",
+    "Place the cooled sweet potato in a medium bowl.",
+    "Add the flour, reduced-fat spread, sugar, granulated sweetener, baking powder, vanilla, eggs and 100g Biscoff spread and beat with an electric hand whisk for 1–2 minutes or until just combined.",
+    "Fold in the white chocolate, then scrape the mixture into the lined tin. Level the surface with a knife.",
+    "Bake in the oven for 20–25 minutes, until lightly golden. To test if it’s ready, insert a small sharp knife into the centre: when it’s cooked the knife will come out clean.",
+    "Remove from the oven and leave to cool in the tin on a wire rack (the residual heat from the tin will help them set and create the desired texture).",
+    "When it’s completely cool, use the baking paper to lift the blondies out of the tin and place them on the work surface.",
+    "Place the remaining Biscoff spread for the topping in a small cup and melt until runny, either by heating it in the microwave on low for 30–40 seconds, stirring occasionally until runny, or placing the cup in a bowl of boiling water and stirring until runny.",
+    "Drizzle the melted Biscoff spread over the Blondies.",
+    "Leave to set, then cut into sixteen squares using a large sharp knife.",
+    "Remove from the baking paper and serve.   NUTRITIONAL INFO PER SERVING                                           INDEX Ref numbers in italics refer to illustrations A almond milk: Bakewell rice pudding ref1, ref2   Mexican hot chocolate ref1, ref2 almonds: oven-baked pasanda curry ref1, ref2 apples: apple brown betty ref1, ref2   baked apple with a cheesy crumble ref1, ref2   blueberry and apple compote ref1, ref2 aubergines: cheesy aubergine bake ref1, ref2",
+    "B bacon: bacon and leek mac ‘n’ cheese ref1, ref2   butternut squash and bacon bake ref1, ref2"
+  ],
+  "macros": {
+    "kcal": 148,
+    "fat": 8.4,
+    "satFat": 2.2,
+    "carbs": 16,
+    "sugar": 7.9,
+    "fibre": 0.6,
+    "protein": 2.1,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Comfort Food"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "Baked_Mediterranean_Vegetables_with_Feta_and_Couscous",
+  "title": "Baked Mediterranean Vegetables with Feta and Couscous",
+  "description": "A tray of Mediterranean vegetables roasted with garlic and herbs, topped with feta cheese and served over couscous.",
+  "cuisine": "Mediterranean",
+  "category": "Dinner",
+  "chapter": "In a Tray",
+  "page": 119,
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 4,
+  "vegetarian": true,
+  "freezer_friendly": false,
+  "ingredients": [
+    "2 red onions, cut into wedges",
+    "2 courgettes, roughly chopped",
+    "2 red peppers, deseeded and roughly chopped",
+    "200g (7oz) cherry tomatoes",
+    "1 aubergine, roughly chopped",
+    "4 garlic cloves, crushed",
+    "1 tablespoon olive oil",
+    "1 tablespoon balsamic vinegar",
+    "1 teaspoon dried oregano",
+    "1 teaspoon dried thyme",
+    "200g (7oz) light feta cheese, crumbled",
+    "250g (9oz) couscous",
+    "350ml (12fl oz) boiling water",
+    "large handful of basil or parsley leaves",
+    "salt and pepper"
+  ],
+  "steps": [
+    "Preheat the oven to 220°C/200°C fan (425°F), Gas Mark 7.",
+    "In a large roasting tin, mix together the onions, courgettes, peppers, tomatoes, aubergine and garlic. Drizzle over the olive oil and balsamic vinegar, add the oregano and thyme, season and mix well.",
+    "Roast in the oven for 35 minutes, stirring halfway through.",
+    "Remove from the oven, scatter the feta over the vegetables and return to the oven for 10 minutes.",
+    "Meanwhile, place the couscous in a bowl, pour over the boiling water, cover with a plate and leave for 10 minutes. Fluff with a fork. Serve the roasted vegetables and feta on top of the couscous, scattered with herbs."
+  ],
+  "macros": {
+    "kcal": 349,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "satFat": null,
+    "fibre": null,
+    "sugar": null,
+    "iron": null
+  },
+  "notes": "This is wonderful served with a drizzle of tahini. You can also add olives or sun-dried tomatoes to the vegetable mix."
+}

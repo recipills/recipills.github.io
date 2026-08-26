@@ -1,0 +1,172 @@
+{
+  "id": "chicken-pot-pie-crumble",
+  "title": "Chicken Pot Pie Crumble",
+  "description": "A creamy chicken and vegetable pie with peas, sweetcorn and cream cheese, topped with a savoury oat crumble instead of pastry.",
+  "cuisine": "British",
+  "category": "Dinner",
+  "tags": [],
+  "prepTime": 15,
+  "cookTime": 45,
+  "servings": 4,
+  "ingredients": [
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
+    },
+    {
+      "text": "1 onion, peeled and diced",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 celery stick, trimmed and diced",
+      "kcal": 6,
+      "protein": 0.3,
+      "carbs": 1.0,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 large carrot, peeled and diced",
+      "kcal": 28,
+      "protein": 0.6,
+      "carbs": 6.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "400g potatoes, peeled and diced",
+      "kcal": 308,
+      "protein": 8.0,
+      "carbs": 68.0,
+      "fat": 0.4,
+      "satFat": 0.0
+    },
+    {
+      "text": "100g frozen peas",
+      "kcal": 66,
+      "protein": 5.4,
+      "carbs": 9.0,
+      "fat": 0.9,
+      "satFat": 0.2
+    },
+    {
+      "text": "1 x 80g tin sweetcorn, drained",
+      "kcal": 64,
+      "protein": 2.0,
+      "carbs": 12.8,
+      "fat": 0.5,
+      "satFat": 0.1
+    },
+    {
+      "text": "700ml chicken stock (1 chicken stock cube, dissolved in 700ml boiling water)",
+      "kcal": 28,
+      "protein": 2.1,
+      "carbs": 2.8,
+      "fat": 0.7,
+      "satFat": 0.0
+    },
+    {
+      "text": "30g reduced-fat cream cheese",
+      "kcal": 45,
+      "protein": 3.9,
+      "carbs": 0.9,
+      "fat": 2.7,
+      "satFat": 1.6
+    },
+    {
+      "text": "5g fresh parsley, chopped",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "5g fresh thyme leaves, chopped",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0.2,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "400g cooked chicken breast (skin and visible fat removed), shredded",
+      "kcal": 424,
+      "protein": 96.0,
+      "carbs": 0.0,
+      "fat": 6.0,
+      "satFat": 1.6
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "60g oats",
+      "kcal": 227,
+      "protein": 5.4,
+      "carbs": 40.2,
+      "fat": 0.6,
+      "satFat": 4.2
+    },
+    {
+      "text": "35g plain white flour",
+      "kcal": 127,
+      "protein": 3.5,
+      "carbs": 26.9,
+      "fat": 0.7,
+      "satFat": 0.2
+    },
+    {
+      "text": "½ tsp ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "25g reduced-fat spread",
+      "kcal": 91,
+      "protein": 9.8,
+      "carbs": 2.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "20g reduced-fat Cheddar, finely grated",
+      "kcal": 55,
+      "protein": 6.6,
+      "carbs": 0.0,
+      "fat": 3.0,
+      "satFat": 1.9
+    }
+  ],
+  "steps": [
+    "Spray a large frying pan with low-calorie cooking spray, place over a\nmedium heat and fry the onion, celery and carrot for 10–15 minutes\n until soft. Add the potatoes, peas, sweetcorn and chicken stock to\nthe frying pan. Cook for a further 15–20 minutes until the potatoes\nhave softened. Add the cream cheese, parsley, thyme and chicken\nto the pan and mix well. Gently simmer to reduce the sauce by half,\naround 15 minutes. Meanwhile, preheat the oven to 220°C (fan\n200°C/gas mark 7).\nSeason, then remove from heat and transfer to a medium ovenproof\ndish.\nIn a bowl add oats, flour and pepper. Using your fingers, rub in the\nreduced-fat spread until you have the consistency of breadcrumbs.\nAdd the Cheddar and sprinkle over the chicken mixture.\nPlace in the oven and cook for 20–25 minutes until the crumble is\ngolden brown."
+  ],
+  "macros": {
+    "kcal": 505,
+    "fat": 11,
+    "satFat": 3,
+    "carbs": 56,
+    "sugar": 8.8,
+    "fibre": 8.7,
+    "protein": 42,
+    "iron": 2.0
+  },
+  "notes": null,
+  "source": "Pinch of Nom: Quick & Easy"
+}

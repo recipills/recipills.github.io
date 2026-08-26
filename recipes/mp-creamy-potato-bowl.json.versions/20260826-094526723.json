@@ -1,0 +1,121 @@
+{
+  "id": "mp-creamy-potato-bowl",
+  "title": "Creamy Potato Bowl",
+  "chapter": 8,
+  "chapterName": "Meal Prep",
+  "description": "5-serving warm, comforting meal prep bowl with creamy mashed potato, chicken thighs and vegetables \u2014 ideal for cold weather.",
+  "cuisine": "International",
+  "category": "Dinner",
+  "tags": [
+    "potato",
+    "chicken",
+    "meal prep",
+    "creamy",
+    "comfort food"
+  ],
+  "prepTime": 20,
+  "cookTime": 45,
+  "servings": 5,
+  "ingredients": [
+    {
+      "text": "1250g potatoes",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "500g chicken thighs (skinless boneless)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "250g skimmed milk",
+      "kcal": 88,
+      "protein": 8.8,
+      "carbs": 12.5,
+      "fat": 0.2,
+      "satFat": 0.2
+    },
+    {
+      "text": "5 Laughing Cow wedges (85g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "3 medium onions (150g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 carrots (200g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "2 red bell peppers (300g)",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "500g chicken stock",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "6g garlic powder, 6g smoked paprika, salt, pepper",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "15g oil",
+      "kcal": 0,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    }
+  ],
+  "steps": [
+    "Season chicken; fry 2 min each side; remove. Fry vegetables 7\u201310 min.",
+    "Add chicken back; add stock; simmer covered 20 min until tender.",
+    "Meanwhile, boil potatoes until soft; mash with milk, Laughing Cow, salt and pepper.",
+    "Remove chicken; shred or cube; return to vegetables.",
+    "Portion chicken-veg and mashed potato into 5 containers."
+  ],
+  "macros": {
+    "kcal": 2500,
+    "protein": 145,
+    "carbs": 310,
+    "fat": 65,
+    "satFat": 15,
+    "fibre": 30,
+    "sugar": 20,
+    "iron": 8
+  },
+  "macrosNote": "Whole recipe. Per serving: ~500 kcal, 29g protein",
+  "notes": "Perfect for cold weather meal prep. Lasts 3\u20135 days in fridge.",
+  "source": "The Felu Cookbook"
+}
