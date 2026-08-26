@@ -10,6 +10,14 @@
   "servings": 6,
   "ingredients": [
     {
+      "text": "4 cooking apples, approximately 500g, peeled, cored and thinly sliced",
+      "kcal": 180,
+      "protein": 1.5,
+      "carbs": 45.0,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
       "text": "1 x 411g tin apricot halves, drained",
       "kcal": 164,
       "protein": 1.0,
@@ -70,14 +78,6 @@
       "kcal": 2,
       "protein": 0.0,
       "carbs": 0.3,
-      "fat": 0.0,
-      "satFat": 0.0
-    },
-    {
-      "text": "the reduced-fat spread into the flour until it resembles breadcrumbs.",
-      "kcal": 365,
-      "protein": 39.0,
-      "carbs": 10.0,
       "fat": 0.0,
       "satFat": 0.0
     }

@@ -116,6 +116,30 @@
       "carbs": 0.3,
       "fat": 0,
       "satFat": 0
+    },
+    {
+      "text": "700g potatoes, scrubbed and cut into large dice (no need to peel)",
+      "kcal": 539,
+      "protein": 14.0,
+      "carbs": 119.0,
+      "fat": 0.7,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ red onion, peeled and finely diced",
+      "kcal": 20,
+      "protein": 0.7,
+      "carbs": 4.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1½ tsp ground cumin",
+      "kcal": 12,
+      "protein": 0.6,
+      "carbs": 1.4,
+      "fat": 0.8,
+      "satFat": 0.0
     }
   ],
   "steps": [

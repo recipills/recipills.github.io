@@ -43,6 +43,54 @@
       "carbs": 4.0,
       "fat": 10.0,
       "satFat": 6.4
+    },
+    {
+      "text": "400g 5%-fat pork mince",
+      "kcal": 544,
+      "protein": 84.0,
+      "carbs": 0.0,
+      "fat": 20.0,
+      "satFat": 7.2
+    },
+    {
+      "text": "¼ tsp dried parsley",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp garlic granules",
+      "kcal": 2.5,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp dried sage",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.2,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp Worcestershire sauce or Henderson’s relish",
+      "kcal": 2.5,
+      "protein": 0.0,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "sea salt and freshly ground black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
     }
   ],
   "steps": [

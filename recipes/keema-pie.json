@@ -112,6 +112,38 @@
       "carbs": 13.5,
       "fat": 1.4,
       "satFat": 0.3
+    },
+    {
+      "text": "500g potatoes (Maris Pipers are ideal)",
+      "kcal": 385,
+      "protein": 10.0,
+      "carbs": 85.0,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "250g sweet potato",
+      "kcal": 215,
+      "protein": 4.0,
+      "carbs": 50.0,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp ground turmeric",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.4,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp black onion seeds (optional)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
     }
   ],
   "steps": [

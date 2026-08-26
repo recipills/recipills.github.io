@@ -64,6 +64,30 @@
       "satFat": 0.6
     },
     {
+      "text": "1g smoked paprika",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder",
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "0.5g cayenne pepper",
+      "kcal": 2,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
       "text": "20g low-sugar ketchup",
       "kcal": 9,
       "protein": 0.2,

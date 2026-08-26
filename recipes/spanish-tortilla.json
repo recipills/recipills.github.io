@@ -53,6 +53,22 @@
       "carbs": 1.2,
       "fat": 0.1,
       "satFat": 0.0
+    },
+    {
+      "text": "1g cayenne pepper",
+      "kcal": 3.3,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1g garlic powder",
+      "kcal": 3.2,
+      "protein": 0.2,
+      "carbs": 0.6,
+      "fat": 0.0,
+      "satFat": 0.0
     }
   ],
   "steps": [

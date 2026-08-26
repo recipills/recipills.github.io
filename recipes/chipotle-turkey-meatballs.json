@@ -98,6 +98,62 @@
       "carbs": 144.0,
       "fat": 3.0,
       "satFat": 0.6
+    },
+    {
+      "text": "500g turkey breast mince",
+      "kcal": 500,
+      "protein": 105.0,
+      "carbs": 0,
+      "fat": 2.5,
+      "satFat": 1.0
+    },
+    {
+      "text": "1 small onion, peeled and thinly chopped",
+      "kcal": 40,
+      "protein": 1.3,
+      "carbs": 8.7,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp chipotle chilli flakes",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp dried oregano",
+      "kcal": 3,
+      "protein": 0.1,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp garlic salt",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "a good grind of black pepper",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
+    },
+    {
+      "text": "low-calorie cooking spray",
+      "kcal": 1,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0.1,
+      "satFat": 0
     }
   ],
   "steps": [

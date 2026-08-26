@@ -162,6 +162,62 @@
       "carbs": 2.4,
       "fat": 0.0,
       "satFat": 0.0
+    },
+    {
+      "text": "300g fat-free Greek yoghurt",
+      "kcal": 171,
+      "protein": 27.0,
+      "carbs": 12.0,
+      "fat": 0.6,
+      "satFat": 0.3
+    },
+    {
+      "text": "1 egg",
+      "kcal": 72,
+      "protein": 6.3,
+      "carbs": 0.4,
+      "fat": 5.0,
+      "satFat": 1.6
+    },
+    {
+      "text": "½ tsp onion granules",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 0.9,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp garlic granules",
+      "kcal": 5,
+      "protein": 0.3,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp ground nutmeg",
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp ground cinnamon",
+      "kcal": 1.5,
+      "protein": 0.0,
+      "carbs": 0.3,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "120g reduced-fat Cheddar, finely grated",
+      "kcal": 328,
+      "protein": 39.6,
+      "carbs": 0.1,
+      "fat": 18.0,
+      "satFat": 11.4
     }
   ],
   "steps": [

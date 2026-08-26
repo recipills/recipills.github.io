@@ -130,6 +130,46 @@
       "carbs": 8.0,
       "fat": 0.2,
       "satFat": 0.1
+    },
+    {
+      "text": "1 tsp paprika",
+      "kcal": 6,
+      "protein": 0.3,
+      "carbs": 1.2,
+      "fat": 0.3,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp garam masala",
+      "kcal": 7,
+      "protein": 0.3,
+      "carbs": 1.0,
+      "fat": 0.3,
+      "satFat": 0.1
+    },
+    {
+      "text": "1 tsp ground cumin",
+      "kcal": 8,
+      "protein": 0.4,
+      "carbs": 0.9,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tsp ground coriander",
+      "kcal": 5,
+      "protein": 0.2,
+      "carbs": 1.0,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp ground cinnamon",
+      "kcal": 1.5,
+      "protein": 0.0,
+      "carbs": 0.3,
+      "fat": 0.0,
+      "satFat": 0.0
     }
   ],
   "steps": [

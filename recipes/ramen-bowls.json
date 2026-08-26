@@ -120,6 +120,46 @@
       "carbs": 72.0,
       "fat": 2.0,
       "satFat": 0.4
+    },
+    {
+      "text": "4 eggs",
+      "kcal": 288,
+      "protein": 25.2,
+      "carbs": 1.6,
+      "fat": 20.0,
+      "satFat": 6.4
+    },
+    {
+      "text": "2 carrots, peeled and cut into strips (julienne)",
+      "kcal": 56,
+      "protein": 1.1,
+      "carbs": 12.8,
+      "fat": 0.2,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 red pepper, deseeded, thinly sliced",
+      "kcal": 50,
+      "protein": 1.6,
+      "carbs": 9.6,
+      "fat": 0.5,
+      "satFat": 0.0
+    },
+    {
+      "text": "bunch of spring onions, trimmed and thinly sliced",
+      "kcal": 30,
+      "protein": 1.8,
+      "carbs": 6.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "lime wedges, to serve (optional)",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
     }
   ],
   "steps": [

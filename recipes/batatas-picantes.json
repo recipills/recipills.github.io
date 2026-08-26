@@ -56,6 +56,38 @@
       "carbs": 5.4,
       "fat": 0.0,
       "satFat": 0.0
+    },
+    {
+      "text": "1 x 500g carton passata",
+      "kcal": 175,
+      "protein": 8.0,
+      "carbs": 30.0,
+      "fat": 1.0,
+      "satFat": 0.2
+    },
+    {
+      "text": "2 tbsp balsamic vinegar",
+      "kcal": 28,
+      "protein": 0.2,
+      "carbs": 5.4,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "1 tbsp Worcestershire sauce or Henderson’s relish",
+      "kcal": 15,
+      "protein": 0.0,
+      "carbs": 3.6,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp chilli powder",
+      "kcal": 3,
+      "protein": 0.2,
+      "carbs": 0.5,
+      "fat": 0.2,
+      "satFat": 0.0
     }
   ],
   "steps": [

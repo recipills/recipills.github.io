@@ -90,6 +90,70 @@
       "carbs": 19.2,
       "fat": 1.0,
       "satFat": 0.0
+    },
+    {
+      "text": "150g fat-free Greek yoghurt",
+      "kcal": 86,
+      "protein": 13.5,
+      "carbs": 6.0,
+      "fat": 0.3,
+      "satFat": 0.2
+    },
+    {
+      "text": "½ tsp garlic granules",
+      "kcal": 5,
+      "protein": 0.3,
+      "carbs": 1.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp onion granules",
+      "kcal": 4,
+      "protein": 0.2,
+      "carbs": 0.9,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp dried mint",
+      "kcal": 1.5,
+      "protein": 0.1,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp ground turmeric",
+      "kcal": 4,
+      "protein": 0.1,
+      "carbs": 0.7,
+      "fat": 0.1,
+      "satFat": 0.0
+    },
+    {
+      "text": "½ tsp white wine vinegar",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.0,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "¼ tsp granulated sweetener",
+      "kcal": 1,
+      "protein": 0.0,
+      "carbs": 0.1,
+      "fat": 0.0,
+      "satFat": 0.0
+    },
+    {
+      "text": "dash of water",
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "satFat": 0
     }
   ],
   "steps": [

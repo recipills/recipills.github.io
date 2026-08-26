@@ -1,0 +1,7225 @@
+{
+  "_README": {
+    "purpose": "Reusable base-ingredient macro reference. Values are ballpark estimates from standard UK nutritional data, tuned for reduced-fat/fat-free products common in slimming cookbooks.",
+    "fields": "per = [kcal, protein_g, carbs_g, fat_g, satFat_g] for the stated basis; avg_g = typical weight of one item when a recipe gives a count without grams; g100 = optional per-100g fallback used when a normally-counted item is given by weight.",
+    "updated_for_books": [
+      "Pinch of Nom: Everyday Light",
+      "Pinch of Nom: Quick & Easy",
+      "Pinch of Nom: Comfort Food"
+    ],
+    "usage": "Parse quantity+unit from an ingredient line, map to the base name here, scale per by the parsed amount. See https://recipills.github.io/README.md"
+  },
+  "ingredients": {
+    "(1 chicken stock cube dissolved in 1 litre boiling wate": {
+      "basis": "fixed",
+      "per": [
+        44,
+        3.3,
+        4.4,
+        1.1,
+        0
+      ]
+    },
+    "(300ml stock for the slow-cooker method)": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.8,
+        1,
+        0.2,
+        0
+      ]
+    },
+    "(¾in) chunks": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "-sized red chillies": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "1 chilli (any colour), deseeded and finely chopped": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "1 chilli, deseeded and finely chopped": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "1 HOUR 20 MINS": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "1 HOUR 2O MINS": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "1 litre unsweetened almond milk": {
+      "basis": "fixed",
+      "per": [
+        130,
+        4,
+        2,
+        12,
+        4
+      ]
+    },
+    "1 Oreo biscuit": {
+      "basis": "fixed",
+      "per": [
+        53,
+        2.3,
+        7.5,
+        5,
+        0.7
+      ]
+    },
+    "1 small ripe banana, peeled": {
+      "basis": "fixed",
+      "per": [
+        60,
+        0.7,
+        14,
+        8,
+        0.7
+      ]
+    },
+    "1 tbsp Bourbon whiskey": {
+      "basis": "fixed",
+      "per": [
+        35,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "1 tbsp espresso powder": {
+      "basis": "fixed",
+      "per": [
+        15,
+        0.9,
+        2.4,
+        0,
+        0
+      ]
+    },
+    "1 tbsp flaked almonds": {
+      "basis": "fixed",
+      "per": [
+        50,
+        1.8,
+        0.6,
+        4.5,
+        0.3
+      ]
+    },
+    "1 tbsp ground almonds": {
+      "basis": "fixed",
+      "per": [
+        55,
+        2,
+        0.6,
+        5,
+        0.4
+      ]
+    },
+    "1 tbsp light or dark brown sugar": {
+      "basis": "fixed",
+      "per": [
+        48,
+        0,
+        12.5,
+        12.5,
+        0
+      ]
+    },
+    "1 tbsp Marmite": {
+      "basis": "fixed",
+      "per": [
+        27,
+        6,
+        3,
+        0,
+        0
+      ]
+    },
+    "1 tbsp reduced-fat mayonnaise": {
+      "basis": "fixed",
+      "per": [
+        45,
+        0.2,
+        2,
+        4,
+        0.6
+      ]
+    },
+    "1 tsp almond essence": {
+      "basis": "fixed",
+      "per": [
+        12,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "1 tsp espresso powder": {
+      "basis": "fixed",
+      "per": [
+        5,
+        0.3,
+        0.8,
+        0,
+        0
+      ]
+    },
+    "1 tsp Marmite": {
+      "basis": "fixed",
+      "per": [
+        9,
+        2,
+        1,
+        0,
+        0
+      ]
+    },
+    "1 tsp toasted sesame oil": {
+      "basis": "fixed",
+      "per": [
+        40,
+        0,
+        0,
+        4.5,
+        0.6
+      ]
+    },
+    "1 tsp turmeric": {
+      "basis": "fixed",
+      "per": [
+        8,
+        0.2,
+        1.4,
+        0.2,
+        0
+      ]
+    },
+    "1 vegetarian sausage": {
+      "basis": "fixed",
+      "per": [
+        80,
+        5,
+        6,
+        3,
+        1
+      ]
+    },
+    "1 × 200ml tin light coconut milk": {
+      "basis": "fixed",
+      "per": [
+        80,
+        7,
+        3,
+        2,
+        7
+      ]
+    },
+    "1 × 225g tin bamboo shoots, drained": {
+      "basis": "fixed",
+      "per": [
+        27,
+        3.4,
+        4.5,
+        0.5,
+        0
+      ]
+    },
+    "1 × 400g tin light coconut milk": {
+      "basis": "fixed",
+      "per": [
+        160,
+        14,
+        6,
+        4,
+        14
+      ]
+    },
+    "1-litre ovenproof dish": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "1.2-litre ovenproof": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "1.4kg unsmoked gammon joint": {
+      "basis": "fixed",
+      "per": [
+        2310,
+        322,
+        0,
+        112,
+        42
+      ]
+    },
+    "1.5 slices gouda cheese (37.5g)": {
+      "basis": "fixed",
+      "per": [
+        134,
+        10.1,
+        0.8,
+        9.8,
+        6.4
+      ]
+    },
+    "10 mint leaves, finely chopped": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "10 reduced-fat digestive biscuits": {
+      "basis": "fixed",
+      "per": [
+        550,
+        20,
+        90,
+        35,
+        8
+      ]
+    },
+    "100g crunchy Biscoff spread, plus 20g for the topping": {
+      "basis": "fixed",
+      "per": [
+        582,
+        33,
+        66,
+        36,
+        6
+      ]
+    },
+    "100g crunchy biscoff spread, plus 20g for the topping": {
+      "basis": "fixed",
+      "per": [
+        582,
+        33,
+        66,
+        36,
+        6
+      ]
+    },
+    "100g short-grain pudding rice": {
+      "basis": "fixed",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "100g softened unsalted butter, plus a little extra for ": {
+      "basis": "fixed",
+      "per": [
+        745,
+        0.7,
+        1,
+        83,
+        52
+      ]
+    },
+    "100ml coconut dairy-free": {
+      "basis": "fixed",
+      "per": [
+        35,
+        3.5,
+        1,
+        0.5,
+        3
+      ]
+    },
+    "10g pink and white mini marshmallows": {
+      "basis": "fixed",
+      "per": [
+        33,
+        0,
+        8,
+        5.5,
+        0.5
+      ]
+    },
+    "150g dried couscous": {
+      "basis": "fixed",
+      "per": [
+        564,
+        3,
+        112.5,
+        2.3,
+        0.8
+      ]
+    },
+    "15g desiccated coconut": {
+      "basis": "fixed",
+      "per": [
+        93,
+        2.5,
+        2.8,
+        8.5,
+        7.3
+      ]
+    },
+    "160g peeled pineapple": {
+      "basis": "fixed",
+      "per": [
+        80,
+        0.6,
+        20.8,
+        20.8,
+        2.2
+      ]
+    },
+    "160g sugar-free creamy toffees": {
+      "basis": "fixed",
+      "per": [
+        192,
+        4.8,
+        160,
+        44.8,
+        0
+      ]
+    },
+    "18 × 27cm (7 × 10½in)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "180g skinless, boneless smoked haddock, cut into 2.5cm ": {
+      "basis": "fixed",
+      "per": [
+        180,
+        36,
+        0,
+        1.8,
+        0.4
+      ]
+    },
+    "18cm (7in) round, loose-bottomed fluted metal flan tin": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "1kg silverside or topside beef joint, all visible fat r": {
+      "basis": "fixed",
+      "per": [
+        1200,
+        200,
+        0,
+        45,
+        18
+      ]
+    },
+    "2 HOURS 40 MINS": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "2 medium slices of bread (we use wholemeal)": {
+      "basis": "fixed",
+      "per": [
+        150,
+        7,
+        26,
+        2,
+        1
+      ]
+    },
+    "2 skinless, boneless chicken thighs (visible fat remove": {
+      "basis": "fixed",
+      "per": [
+        240,
+        36,
+        0,
+        10,
+        2.8
+      ]
+    },
+    "2 tbsp BBQ sauce": {
+      "basis": "fixed",
+      "per": [
+        50,
+        0.4,
+        12,
+        10,
+        0
+      ]
+    },
+    "2 tbsp buffalo hot sauce": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0,
+        1,
+        0.4,
+        0
+      ]
+    },
+    "2 tbsp chopped fresh mint": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "2 tbsp fajita seasoning": {
+      "basis": "fixed",
+      "per": [
+        28,
+        1.2,
+        6,
+        0.8,
+        0
+      ]
+    },
+    "2 tbsp flaked almonds": {
+      "basis": "fixed",
+      "per": [
+        100,
+        3.6,
+        1.2,
+        9,
+        0.6
+      ]
+    },
+    "2 tbsp ground almonds": {
+      "basis": "fixed",
+      "per": [
+        110,
+        4,
+        1.2,
+        10,
+        0.8
+      ]
+    },
+    "2 tbsp mint sauce": {
+      "basis": "fixed",
+      "per": [
+        30,
+        0.4,
+        6,
+        0,
+        0
+      ]
+    },
+    "2 tbsp passata": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.5,
+        1.8,
+        0.1,
+        0.1
+      ]
+    },
+    "2 tsp light double cream alternative": {
+      "basis": "fixed",
+      "per": [
+        4,
+        0.3,
+        0.3,
+        0.2,
+        0.2
+      ]
+    },
+    "2 tsp low-calorie chocolate syrup": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.1,
+        2.3,
+        1.7,
+        0.1
+      ]
+    },
+    "2 tsp Nutella": {
+      "basis": "fixed",
+      "per": [
+        33,
+        0.4,
+        3.7,
+        2.9,
+        1.9
+      ]
+    },
+    "2 tsp oregano leaves, chopped": {
+      "basis": "fixed",
+      "per": [
+        6,
+        0.2,
+        1.2,
+        0.2,
+        0
+      ]
+    },
+    "2 tsp tamarind paste": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.2,
+        2.3,
+        0,
+        0
+      ]
+    },
+    "2 tsp thyme leaves, chopped": {
+      "basis": "fixed",
+      "per": [
+        6,
+        0.2,
+        1.2,
+        0.2,
+        0
+      ]
+    },
+    "2 × 180g bags ready-cooked chestnuts, roughly chopped": {
+      "basis": "fixed",
+      "per": [
+        882,
+        9.7,
+        191,
+        43.2,
+        11.5
+      ]
+    },
+    "2 × 410g tins baked beans": {
+      "basis": "fixed",
+      "per": [
+        660,
+        42,
+        112,
+        1.7,
+        0.4
+      ]
+    },
+    "2%-fat turkey mince": {
+      "basis": "100g",
+      "per": [
+        100,
+        2,
+        0,
+        21,
+        1
+      ]
+    },
+    "2.4-litre ovenproof dish": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "200g passata": {
+      "basis": "fixed",
+      "per": [
+        70,
+        3.2,
+        12,
+        0.4,
+        0.8
+      ]
+    },
+    "20cm (8in) pie dish": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "23cm (9in) round, loose-bottomed, shallow cake tin, or ": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "250g Quorn mince": {
+      "basis": "fixed",
+      "per": [
+        238,
+        35,
+        10,
+        6.3,
+        2
+      ]
+    },
+    "250ml beef stock": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.8,
+        1,
+        0.2,
+        0
+      ]
+    },
+    "250ml unsweetened almond milk": {
+      "basis": "fixed",
+      "per": [
+        33,
+        1,
+        0.5,
+        3,
+        1
+      ]
+    },
+    "250–350ml beef stock": {
+      "basis": "fixed",
+      "per": [
+        12,
+        0.9,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "25g rolled oats": {
+      "basis": "fixed",
+      "per": [
+        95,
+        2.3,
+        16.8,
+        0.3,
+        1.8
+      ]
+    },
+    "2cm (¾in) fresh ginger": {
+      "basis": "fixed",
+      "per": [
+        8,
+        0.2,
+        1.8,
+        0.1,
+        0
+      ]
+    },
+    "3 gelatine leaves": {
+      "basis": "fixed",
+      "per": [
+        12,
+        2.7,
+        0,
+        0,
+        0
+      ]
+    },
+    "3 tbsp hoisin sauce": {
+      "basis": "fixed",
+      "per": [
+        105,
+        1.5,
+        21,
+        1.5,
+        0
+      ]
+    },
+    "300g passata": {
+      "basis": "fixed",
+      "per": [
+        105,
+        4.8,
+        18,
+        0.6,
+        1.2
+      ]
+    },
+    "30cm (12in) ovenproof dish": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "30g crisp lettuce, shredded": {
+      "basis": "fixed",
+      "per": [
+        4,
+        0.3,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "30g pitted green olives, quartered": {
+      "basis": "fixed",
+      "per": [
+        30,
+        0,
+        1.8,
+        3,
+        0
+      ]
+    },
+    "35 MINS": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "35 mins": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "380g skinless, boneless cod, cut into 2.5cm (1in) piece": {
+      "basis": "fixed",
+      "per": [
+        304,
+        68.4,
+        0,
+        2.7,
+        0.4
+      ]
+    },
+    "4 skinless, boneless salmon fillets (about 125g each), ": {
+      "basis": "fixed",
+      "per": [
+        900,
+        100,
+        0,
+        55,
+        11
+      ]
+    },
+    "4 tbsp bbq sauce": {
+      "basis": "fixed",
+      "per": [
+        100,
+        0.8,
+        24,
+        20,
+        0
+      ]
+    },
+    "4 tbsp BBQ sauce": {
+      "basis": "fixed",
+      "per": [
+        100,
+        0.8,
+        24,
+        20,
+        0
+      ]
+    },
+    "4 tbsp golden-syrup-alternative fruit syrup": {
+      "basis": "fixed",
+      "per": [
+        160,
+        0,
+        40,
+        32,
+        0
+      ]
+    },
+    "4 tbsp reduced-sugar raspberry jam or other red jam": {
+      "basis": "fixed",
+      "per": [
+        100,
+        0,
+        24,
+        22,
+        0.4
+      ]
+    },
+    "4 tbsp reduced-sugar raspberry or other red jam": {
+      "basis": "fixed",
+      "per": [
+        100,
+        0,
+        24,
+        22,
+        0.4
+      ]
+    },
+    "4 tsp 50%-less sugar caramel dessert topping": {
+      "basis": "fixed",
+      "per": [
+        40,
+        0,
+        10,
+        9,
+        0
+      ]
+    },
+    "4 × 125ml ramekin dishes": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "40 MINS": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "400g 0%-fat turkey breast mince": {
+      "basis": "fixed",
+      "per": [
+        400,
+        84,
+        0,
+        2,
+        0.8
+      ]
+    },
+    "400g diced stewing beef (all visible fat removed)": {
+      "basis": "fixed",
+      "per": [
+        480,
+        80,
+        0,
+        18,
+        7.2
+      ]
+    },
+    "400g frozen, stoned, dark sweet cherries, defrosted (ju": {
+      "basis": "fixed",
+      "per": [
+        160,
+        3.2,
+        36,
+        32,
+        4.8
+      ]
+    },
+    "400g skinless, boneless": {
+      "basis": "fixed",
+      "per": [
+        480,
+        72,
+        0,
+        20,
+        5.6
+      ]
+    },
+    "400g skinless, boneless chicken thighs (visible fat rem": {
+      "basis": "fixed",
+      "per": [
+        480,
+        72,
+        0,
+        20,
+        5.6
+      ]
+    },
+    "400ml coconut dairy-free": {
+      "basis": "fixed",
+      "per": [
+        140,
+        14,
+        4,
+        2,
+        12
+      ]
+    },
+    "40g reduced-fat": {
+      "basis": "fixed",
+      "per": [
+        109,
+        13.2,
+        0.04,
+        6,
+        3.8
+      ]
+    },
+    "40g rolled oats": {
+      "basis": "fixed",
+      "per": [
+        152,
+        3.6,
+        26.8,
+        0.4,
+        2.8
+      ]
+    },
+    "40g rolled porridge oats": {
+      "basis": "fixed",
+      "per": [
+        152,
+        3.6,
+        26.8,
+        0.4,
+        2.8
+      ]
+    },
+    "40g white chocolate, roughly chopped": {
+      "basis": "fixed",
+      "per": [
+        224,
+        13.2,
+        23.6,
+        23.6,
+        7.6
+      ]
+    },
+    "45 MINS": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "45g feta cheese, crumbled": {
+      "basis": "fixed",
+      "per": [
+        113,
+        6.8,
+        0.9,
+        9,
+        5.9
+      ]
+    },
+    "46 minutes": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "5%-fat beef mince": {
+      "basis": "100g",
+      "per": [
+        136,
+        5,
+        0,
+        21,
+        2.2
+      ]
+    },
+    "5%-fat minced beef": {
+      "basis": "100g",
+      "per": [
+        136,
+        21,
+        0,
+        5,
+        2.2
+      ]
+    },
+    "5%-fat minced pork": {
+      "basis": "100g",
+      "per": [
+        136,
+        21,
+        0,
+        5,
+        1.8
+      ]
+    },
+    "5%-fat pork mince": {
+      "basis": "100g",
+      "per": [
+        136,
+        21,
+        0,
+        5,
+        1.8
+      ]
+    },
+    "500g diced stewing beef, all visible fat removed": {
+      "basis": "fixed",
+      "per": [
+        600,
+        100,
+        0,
+        22,
+        9
+      ]
+    },
+    "500g diced, lean stewing steak, trimmed of any visible ": {
+      "basis": "fixed",
+      "per": [
+        600,
+        100,
+        0,
+        22.5,
+        9
+      ]
+    },
+    "500g passata": {
+      "basis": "fixed",
+      "per": [
+        175,
+        8,
+        30,
+        1,
+        2
+      ]
+    },
+    "500ml beef stock": {
+      "basis": "fixed",
+      "per": [
+        20,
+        1.5,
+        2,
+        0.5,
+        0
+      ]
+    },
+    "50g lightly salted tortilla chips": {
+      "basis": "fixed",
+      "per": [
+        245,
+        12,
+        32,
+        0.5,
+        3
+      ]
+    },
+    "50g milk chocolate, broken into pieces": {
+      "basis": "fixed",
+      "per": [
+        268,
+        15,
+        30,
+        28,
+        4
+      ]
+    },
+    "50ml vodka": {
+      "basis": "fixed",
+      "per": [
+        115,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "58 kcal per serving)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "5cm (2in) fresh ginger, grated": {
+      "basis": "fixed",
+      "per": [
+        20,
+        0.4,
+        4.5,
+        0.2,
+        0
+      ]
+    },
+    "5g hazelnuts, roughly chopped": {
+      "basis": "fixed",
+      "per": [
+        31,
+        3,
+        0.5,
+        0.3,
+        3.1
+      ]
+    },
+    "6 low-fat sausages, about 360g in total, cut into chunk": {
+      "basis": "fixed",
+      "per": [
+        252,
+        29,
+        14,
+        10.8,
+        3.6
+      ]
+    },
+    "6 pecan halves, chopped": {
+      "basis": "fixed",
+      "per": [
+        83,
+        8.6,
+        0.5,
+        0.1,
+        1.1
+      ]
+    },
+    "6 skinless, boneless chicken thighs (visible fat remove": {
+      "basis": "fixed",
+      "per": [
+        720,
+        108,
+        0,
+        30,
+        8.4
+      ]
+    },
+    "600g in total), peeled and cut into 2cm (¾in) dice": {
+      "basis": "fixed",
+      "per": [
+        462,
+        12,
+        102,
+        0,
+        27
+      ]
+    },
+    "60g low-calorie chocolate syrup": {
+      "basis": "fixed",
+      "per": [
+        60,
+        0.8,
+        14,
+        10,
+        0.4
+      ]
+    },
+    "60g matzo meal": {
+      "basis": "fixed",
+      "per": [
+        216,
+        6,
+        45,
+        0.6,
+        1.5
+      ]
+    },
+    "65g sweet (dulce) cooking chorizo, diced": {
+      "basis": "fixed",
+      "per": [
+        260,
+        20.8,
+        2.6,
+        16.9,
+        14.3
+      ]
+    },
+    "70g reduced-fat": {
+      "basis": "fixed",
+      "per": [
+        175,
+        16.8,
+        0.7,
+        11.2,
+        7.7
+      ]
+    },
+    "75g frozen edamame beans": {
+      "basis": "fixed",
+      "per": [
+        91,
+        8.3,
+        6.8,
+        3.8,
+        8.3
+      ]
+    },
+    "8 cloves": {
+      "basis": "fixed",
+      "per": [
+        8,
+        1.6,
+        8,
+        0.8,
+        0
+      ]
+    },
+    "8 Oreo biscuits": {
+      "basis": "fixed",
+      "per": [
+        424,
+        18.4,
+        60,
+        40,
+        5.6
+      ]
+    },
+    "8 skinless, boneless chicken thighs (visible fat remove": {
+      "basis": "fixed",
+      "per": [
+        960,
+        144,
+        0,
+        40,
+        11.2
+      ]
+    },
+    "8 stoned olives, sliced": {
+      "basis": "fixed",
+      "per": [
+        40,
+        0,
+        1.6,
+        4,
+        0
+      ]
+    },
+    "800g diced lamb, all visible fat removed": {
+      "basis": "fixed",
+      "per": [
+        1200,
+        144,
+        0,
+        64,
+        28
+      ]
+    },
+    "80g (about ½ head) Chinese leaves, shredded": {
+      "basis": "fixed",
+      "per": [
+        10,
+        1.2,
+        1,
+        0.6,
+        0.8
+      ]
+    },
+    "80g porridge oats": {
+      "basis": "fixed",
+      "per": [
+        303,
+        7.2,
+        53.6,
+        0.8,
+        5.6
+      ]
+    },
+    "900g (2lb) loaf tin": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "a few basil leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "a few sage leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "a few spinach leaves": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "a good handful of fresh basil": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "a good pinch of salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "a handful of coriander": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "a pinch of salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "all-purpose seasoning": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "american long-grain rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "amounts of sliced pepper": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 80
+    },
+    "and some fresh dill": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "angel hair pasta": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "apple": {
+      "basis": "unit",
+      "per": [
+        55,
+        0.3,
+        13,
+        0.2,
+        0
+      ]
+    },
+    "arborio  rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "arborio rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "asparagus": {
+      "basis": "100g",
+      "per": [
+        20,
+        2.2,
+        2,
+        1.5,
+        1.5
+      ],
+      "avg_g": 15
+    },
+    "asparagus spears": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.4,
+        0.4,
+        0,
+        0
+      ],
+      "g100": [
+        20,
+        2.2,
+        2,
+        0.4,
+        0.1
+      ]
+    },
+    "aubergine": {
+      "basis": "100g",
+      "per": [
+        25,
+        1,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 250
+    },
+    "aubergines": {
+      "basis": "100g",
+      "per": [
+        25,
+        1,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 250
+    },
+    "avocado": {
+      "basis": "unit",
+      "per": [
+        234,
+        21,
+        5,
+        1.1,
+        1.9
+      ]
+    },
+    "baby corn": {
+      "basis": "100g",
+      "per": [
+        26,
+        2.5,
+        5,
+        0.3,
+        0
+      ],
+      "avg_g": 100
+    },
+    "babybel cheeses": {
+      "basis": "unit",
+      "per": [
+        42,
+        3,
+        0,
+        3.4,
+        2.2
+      ]
+    },
+    "bacon medallions": {
+      "basis": "unit",
+      "per": [
+        25,
+        4.5,
+        0.2,
+        0.8,
+        0.3
+      ],
+      "g100": [
+        120,
+        21,
+        1,
+        3.8,
+        1.3
+      ]
+    },
+    "baileys irish cream": {
+      "basis": "tbsp",
+      "per": [
+        50,
+        2,
+        5,
+        4,
+        1
+      ]
+    },
+    "baking dish": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "baking potatoes": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0.1,
+        0
+      ],
+      "avg_g": 250
+    },
+    "baking powder": {
+      "basis": "tsp",
+      "per": [
+        2,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "balsamic vinegar": {
+      "basis": "tbsp",
+      "per": [
+        14,
+        0.1,
+        2.7,
+        0,
+        0
+      ]
+    },
+    "bananas": {
+      "basis": "100g",
+      "per": [
+        95,
+        1.2,
+        23,
+        0.3,
+        0.1
+      ],
+      "avg_g": 120
+    },
+    "barley": {
+      "basis": "100g",
+      "per": [
+        352,
+        10,
+        73,
+        2,
+        0.4
+      ]
+    },
+    "basil leaves, to garnish": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "basmati rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        8,
+        77,
+        0.9,
+        0.2
+      ]
+    },
+    "bay leaf": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "bay leaves": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "bbq sauce": {
+      "basis": "tbsp",
+      "per": [
+        25,
+        0.2,
+        6,
+        5,
+        0
+      ]
+    },
+    "bbq seasoning": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "beansprouts": {
+      "basis": "100g",
+      "per": [
+        30,
+        3,
+        4,
+        0.2,
+        1.8
+      ]
+    },
+    "beef stir-fry strips": {
+      "basis": "100g",
+      "per": [
+        130,
+        5,
+        2,
+        20,
+        2
+      ]
+    },
+    "beef stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "beef stock cube": {
+      "basis": "unit",
+      "per": [
+        10,
+        0.5,
+        1.5,
+        0.4,
+        0.2
+      ]
+    },
+    "bell peppers": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "black pepper": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "black treacle": {
+      "basis": "tbsp",
+      "per": [
+        63,
+        0,
+        16,
+        11,
+        0
+      ]
+    },
+    "blue cheese": {
+      "basis": "100g",
+      "per": [
+        350,
+        30,
+        0.5,
+        21,
+        15
+      ]
+    },
+    "blueberries": {
+      "basis": "100g",
+      "per": [
+        57,
+        0.7,
+        14,
+        0.3,
+        0
+      ],
+      "avg_g": 1.5
+    },
+    "boiling water": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "boiling water) (use 400ml beef stock for the slow-cooker method)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "bourbon whiskey": {
+      "basis": "tbsp",
+      "per": [
+        35,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "bramley cooking apples": {
+      "basis": "100g",
+      "per": [
+        36,
+        0.3,
+        9,
+        0.1,
+        0
+      ],
+      "avg_g": 180
+    },
+    "broad beans": {
+      "basis": "100g",
+      "per": [
+        80,
+        7,
+        11,
+        0.6,
+        0.1
+      ]
+    },
+    "broccoli": {
+      "basis": "100g",
+      "per": [
+        34,
+        2.8,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 350
+    },
+    "brown sugar": {
+      "basis": "tbsp",
+      "per": [
+        48,
+        0,
+        12.5,
+        12.5,
+        0
+      ]
+    },
+    "bunch of coriander": {
+      "basis": "fixed",
+      "per": [
+        5,
+        0.5,
+        0.8,
+        0.1,
+        0
+      ]
+    },
+    "bunch of fresh mint": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.3,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "butternut squash": {
+      "basis": "100g",
+      "per": [
+        40,
+        1,
+        9,
+        0.1,
+        0
+      ],
+      "avg_g": 900
+    },
+    "button mushrooms": {
+      "basis": "100g",
+      "per": [
+        13,
+        1.8,
+        0.4,
+        0.5,
+        0.1
+      ],
+      "avg_g": 12
+    },
+    "cajun seasoning": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.2,
+        0
+      ]
+    },
+    "cajun spice mix": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.2,
+        0
+      ]
+    },
+    "cardamom pods": {
+      "basis": "unit",
+      "per": [
+        1,
+        0.1,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "carrot": {
+      "basis": "100g",
+      "per": [
+        35,
+        0.7,
+        8,
+        0.1,
+        0
+      ],
+      "avg_g": 80
+    },
+    "carrots": {
+      "basis": "100g",
+      "per": [
+        35,
+        0.7,
+        8,
+        0.1,
+        0
+      ],
+      "avg_g": 80
+    },
+    "carton passata": {
+      "basis": "carton500",
+      "per": [
+        175,
+        8,
+        30,
+        1,
+        0.2
+      ]
+    },
+    "caster sugar": {
+      "basis": "tbsp",
+      "per": [
+        46,
+        0,
+        12,
+        0,
+        0
+      ]
+    },
+    "cauliflower": {
+      "basis": "100g",
+      "per": [
+        28,
+        2,
+        3,
+        0.5,
+        0.1
+      ],
+      "avg_g": 250
+    },
+    "cayenne pepper": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "celery": {
+      "basis": "unit",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "celery salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "celery stalk": {
+      "basis": "unit",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "celery stick": {
+      "basis": "unit",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "celery sticks": {
+      "basis": "unit",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "Cheddar, grated": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "cherry tomato": {
+      "basis": "unit",
+      "per": [
+        2,
+        0.1,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "cherry tomatoes": {
+      "basis": "100g",
+      "per": [
+        18,
+        0.9,
+        3.1,
+        0.2,
+        0
+      ],
+      "avg_g": 8
+    },
+    "chestnuts": {
+      "basis": "100g",
+      "per": [
+        245,
+        2.7,
+        53,
+        12,
+        3.2
+      ]
+    },
+    "chicken": {
+      "basis": "100g",
+      "per": [
+        145,
+        21,
+        0,
+        6.5,
+        1.9
+      ],
+      "avg_g": 1400
+    },
+    "chicken breast": {
+      "basis": "100g",
+      "per": [
+        106,
+        24,
+        0,
+        1.5,
+        0.4
+      ],
+      "avg_g": 150
+    },
+    "chicken breasts": {
+      "basis": "100g",
+      "per": [
+        106,
+        24,
+        0,
+        1.5,
+        0.4
+      ],
+      "avg_g": 150
+    },
+    "chicken chipolata sausages": {
+      "basis": "unit",
+      "per": [
+        60,
+        5,
+        1,
+        4,
+        1.3
+      ]
+    },
+    "chicken chipolatas": {
+      "basis": "unit",
+      "per": [
+        60,
+        5,
+        1,
+        4,
+        1.3
+      ]
+    },
+    "chicken drumsticks": {
+      "basis": "unit",
+      "per": [
+        105,
+        14,
+        0,
+        5.5,
+        1.5
+      ]
+    },
+    "chicken sausages or 4–6 chipolata-style sausages": {
+      "basis": "unit",
+      "per": [
+        70,
+        6,
+        2,
+        4,
+        1.5
+      ]
+    },
+    "chicken stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "chicken thigh fillets": {
+      "basis": "100g",
+      "per": [
+        120,
+        18,
+        0,
+        5,
+        1.4
+      ],
+      "avg_g": 70
+    },
+    "chicken thigh fillets cut into 2cm pieces": {
+      "basis": "100g",
+      "per": [
+        120,
+        18,
+        0,
+        5,
+        1.4
+      ],
+      "avg_g": 70
+    },
+    "chilli powder": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "chilli sauce": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0.3,
+        3.5,
+        0.1,
+        0
+      ]
+    },
+    "chillies": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "chinese 5-spice": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.2,
+        1.2,
+        0.2,
+        0
+      ]
+    },
+    "chinese leaves": {
+      "basis": "100g",
+      "per": [
+        13,
+        1.5,
+        1.2,
+        0.8,
+        1
+      ]
+    },
+    "chipolata sausages": {
+      "basis": "unit",
+      "per": [
+        60,
+        5,
+        1,
+        4,
+        1.3
+      ]
+    },
+    "chipotle chilli flakes": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "chives": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "chocolate spread": {
+      "basis": "tbsp",
+      "per": [
+        80,
+        5,
+        9,
+        7,
+        3
+      ]
+    },
+    "chocolate syrup": {
+      "basis": "tbsp",
+      "per": [
+        40,
+        0.5,
+        10,
+        8,
+        0.2
+      ]
+    },
+    "chopped fresh coriander": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.3,
+        0,
+        0
+      ]
+    },
+    "chopped fresh parsley": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "chopped rosemary": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "chorizo": {
+      "basis": "100g",
+      "per": [
+        450,
+        38,
+        3,
+        30,
+        11
+      ]
+    },
+    "cider vinegar": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "cinnamon stick": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "clear honey": {
+      "basis": "tbsp",
+      "per": [
+        64,
+        0,
+        17,
+        17,
+        0
+      ]
+    },
+    "cocoa powder": {
+      "basis": "tbsp",
+      "per": [
+        12,
+        1,
+        2,
+        0.1,
+        0
+      ]
+    },
+    "cod or hake fillets": {
+      "basis": "100g",
+      "per": [
+        80,
+        18,
+        0,
+        0.7,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "cooked beetroot": {
+      "basis": "100g",
+      "per": [
+        46,
+        1.7,
+        10,
+        8.8,
+        1.7
+      ]
+    },
+    "cooked ham": {
+      "basis": "100g",
+      "per": [
+        107,
+        18,
+        1,
+        3.3,
+        1.1
+      ]
+    },
+    "cooked king prawns": {
+      "basis": "100g",
+      "per": [
+        70,
+        15,
+        0,
+        0.6,
+        0.1
+      ]
+    },
+    "cooked low-fat sausages": {
+      "basis": "unit",
+      "per": [
+        80,
+        8,
+        4,
+        3.5,
+        1.3
+      ]
+    },
+    "cooked new potatoes": {
+      "basis": "100g",
+      "per": [
+        75,
+        1.7,
+        16,
+        0.3,
+        0
+      ]
+    },
+    "cooked prawns": {
+      "basis": "100g",
+      "per": [
+        70,
+        15,
+        0,
+        0.6,
+        0.1
+      ]
+    },
+    "cooking apples": {
+      "basis": "100g",
+      "per": [
+        36,
+        0.3,
+        9,
+        0.1,
+        0
+      ],
+      "avg_g": 180
+    },
+    "cornflour": {
+      "basis": "100g",
+      "per": [
+        354,
+        0.3,
+        87,
+        0.7,
+        0.1
+      ]
+    },
+    "cornflour mixed with": {
+      "basis": "tbsp",
+      "per": [
+        30,
+        0,
+        7,
+        0,
+        0
+      ]
+    },
+    "cornichons or small gherkins": {
+      "basis": "100g",
+      "per": [
+        15,
+        0.6,
+        2.6,
+        0.2,
+        0
+      ]
+    },
+    "courgette": {
+      "basis": "100g",
+      "per": [
+        18,
+        1.2,
+        2,
+        0.4,
+        0.1
+      ],
+      "avg_g": 200
+    },
+    "courgettes": {
+      "basis": "100g",
+      "per": [
+        18,
+        1.2,
+        2,
+        0.4,
+        0.1
+      ],
+      "avg_g": 200
+    },
+    "cucumber": {
+      "basis": "100g",
+      "per": [
+        15,
+        0.7,
+        1.5,
+        0.1,
+        0
+      ],
+      "avg_g": 300
+    },
+    "curry powder": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "custard": {
+      "basis": "fixed",
+      "per": [
+        58,
+        2.1,
+        5.8,
+        2.1,
+        0.6
+      ]
+    },
+    "cut into 5mm (¼in) dice": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "dairy-free coconut milk alternative": {
+      "basis": "100ml",
+      "per": [
+        35,
+        3.5,
+        1,
+        0.5,
+        3
+      ]
+    },
+    "dark chocolate": {
+      "basis": "100g",
+      "per": [
+        560,
+        33,
+        55,
+        28,
+        4
+      ]
+    },
+    "desiccated coconut": {
+      "basis": "tbsp",
+      "per": [
+        37,
+        1,
+        1.1,
+        3.4,
+        2.9
+      ]
+    },
+    "diced chicken": {
+      "basis": "100g",
+      "per": [
+        106,
+        24,
+        0,
+        1.5,
+        0.4
+      ]
+    },
+    "diced lamb": {
+      "basis": "100g",
+      "per": [
+        150,
+        18,
+        0,
+        8,
+        3.5
+      ]
+    },
+    "diced stewing beef": {
+      "basis": "100g",
+      "per": [
+        120,
+        20,
+        0,
+        4.5,
+        1.8
+      ]
+    },
+    "diced stewing steak": {
+      "basis": "100g",
+      "per": [
+        120,
+        20,
+        0,
+        4.5,
+        1.8
+      ]
+    },
+    "diet cherry cola": {
+      "basis": "100ml",
+      "per": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "digestive biscuits": {
+      "basis": "unit",
+      "per": [
+        67,
+        2.9,
+        9.9,
+        5.8,
+        1
+      ]
+    },
+    "double-chocolate cookies": {
+      "basis": "unit",
+      "per": [
+        50,
+        2.5,
+        7,
+        4,
+        1.5
+      ]
+    },
+    "dried basil": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "dried chilli flakes": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.2,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "dried chipotle flakes": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "dried coriander": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "dried couscous": {
+      "basis": "100g",
+      "per": [
+        376,
+        2,
+        75,
+        1.5,
+        0.5
+      ]
+    },
+    "dried dill": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried italian herbs": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried lasagne sheets": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "dried mint": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.2,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "dried oregano": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried parsley": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.3,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "dried pasta": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "dried quinoa": {
+      "basis": "100g",
+      "per": [
+        368,
+        14,
+        57,
+        6,
+        0.7
+      ]
+    },
+    "dried rosemary": {
+      "basis": "tsp",
+      "per": [
+        4,
+        0.1,
+        0.7,
+        0.2,
+        0
+      ]
+    },
+    "dried sage": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried spaghetti": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "dried tarragon": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "dried thyme": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "drops frank's redhot buffalo wings": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "drops of gravy browning": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "edamame beans": {
+      "basis": "100g",
+      "per": [
+        121,
+        11,
+        9,
+        5,
+        11
+      ]
+    },
+    "egg": {
+      "basis": "egg",
+      "per": [
+        72,
+        6.3,
+        0.4,
+        5,
+        1.6
+      ]
+    },
+    "egg whites": {
+      "basis": "unit",
+      "per": [
+        15,
+        3.6,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "egg yolk": {
+      "basis": "unit",
+      "per": [
+        55,
+        2.7,
+        0.6,
+        4.5,
+        1.6
+      ]
+    },
+    "egg yolks": {
+      "basis": "unit",
+      "per": [
+        55,
+        2.7,
+        0.6,
+        4.5,
+        1.6
+      ]
+    },
+    "eggs": {
+      "basis": "egg",
+      "per": [
+        72,
+        6.3,
+        0.4,
+        5,
+        1.6
+      ]
+    },
+    "espresso powder": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.3,
+        0.8,
+        0,
+        0
+      ]
+    },
+    "Everyday Light": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "extra lean minced beef": {
+      "basis": "100g",
+      "per": [
+        120,
+        3.5,
+        0,
+        22,
+        1.5
+      ]
+    },
+    "extra slices to serve": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "extra-lean medallion steaks": {
+      "basis": "100g",
+      "per": [
+        125,
+        22,
+        0,
+        4,
+        1.7
+      ],
+      "avg_g": 120
+    },
+    "extra-light cream cheese": {
+      "basis": "100g",
+      "per": [
+        80,
+        5,
+        4,
+        4,
+        2.5
+      ]
+    },
+    "fajita seasoning": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1.5,
+        0.2,
+        0
+      ]
+    },
+    "fat-free": {
+      "basis": "100g",
+      "per": [
+        54,
+        5.7,
+        8,
+        0.2,
+        0.1
+      ]
+    },
+    "fat-free greek yoghurt": {
+      "basis": "100g",
+      "per": [
+        57,
+        9,
+        4,
+        0.2,
+        0.1
+      ]
+    },
+    "fat-free natural yoghurt": {
+      "basis": "100g",
+      "per": [
+        54,
+        5.7,
+        8,
+        0.2,
+        0.1
+      ]
+    },
+    "fennel seeds": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1,
+        0.3,
+        0
+      ]
+    },
+    "feta cheese": {
+      "basis": "100g",
+      "per": [
+        250,
+        15,
+        4,
+        20,
+        12
+      ]
+    },
+    "finely chopped chives": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "finely chopped fresh rosemary leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "finely grated zest of 1 lime": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.1,
+        0.9,
+        0,
+        0
+      ]
+    },
+    "fish sauce": {
+      "basis": "tbsp",
+      "per": [
+        6,
+        0.9,
+        0.7,
+        0,
+        0
+      ]
+    },
+    "fish stock pot": {
+      "basis": "unit",
+      "per": [
+        15,
+        0.5,
+        2,
+        0.4,
+        0.1
+      ]
+    },
+    "flaked almonds": {
+      "basis": "100g",
+      "per": [
+        613,
+        21,
+        7,
+        53,
+        4.3
+      ]
+    },
+    "flat mushrooms": {
+      "basis": "100g",
+      "per": [
+        13,
+        1.8,
+        0.4,
+        0.5,
+        0.1
+      ],
+      "avg_g": 40
+    },
+    "flat rice noodles": {
+      "basis": "100g",
+      "per": [
+        360,
+        0.2,
+        86,
+        0,
+        0.5
+      ]
+    },
+    "FOR THE CARAMEL": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "for the slow cooker, 350ml for the pressure cooker)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "For the top": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOR THE TOPPING": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "fresh basil": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh basil leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh cherries": {
+      "basis": "unit",
+      "per": [
+        4,
+        0.1,
+        1,
+        0,
+        0
+      ]
+    },
+    "fresh chilli": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "fresh coriander": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.3,
+        0,
+        0
+      ]
+    },
+    "fresh dill": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh ginger": {
+      "basis": "100g",
+      "per": [
+        80,
+        1.8,
+        18,
+        0.8,
+        0.2
+      ],
+      "avg_g": 5
+    },
+    "fresh or frozen strawberries": {
+      "basis": "100g",
+      "per": [
+        33,
+        0.7,
+        8,
+        0.3,
+        0
+      ],
+      "avg_g": 12
+    },
+    "fresh parsley": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh parsley leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh pineapple": {
+      "basis": "100g",
+      "per": [
+        50,
+        0.4,
+        13,
+        13,
+        1.4
+      ]
+    },
+    "fresh rosemary leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "fresh sage leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "fresh salmon": {
+      "basis": "100g",
+      "per": [
+        180,
+        20,
+        0,
+        11,
+        2.2
+      ]
+    },
+    "fresh tarragon": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "fresh thyme": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "freshly ground black pepper": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "frozen broad beans": {
+      "basis": "100g",
+      "per": [
+        80,
+        7,
+        11,
+        0.6,
+        0.1
+      ]
+    },
+    "frozen cherries": {
+      "basis": "100g",
+      "per": [
+        40,
+        0.8,
+        9,
+        8,
+        1.2
+      ]
+    },
+    "frozen edamame beans": {
+      "basis": "100g",
+      "per": [
+        121,
+        11,
+        9,
+        5,
+        11
+      ]
+    },
+    "frozen peas": {
+      "basis": "100g",
+      "per": [
+        66,
+        5.4,
+        9,
+        0.9,
+        0.2
+      ],
+      "avg_g": 100
+    },
+    "frozen petits pois": {
+      "basis": "100g",
+      "per": [
+        66,
+        5.4,
+        9,
+        0.9,
+        0.2
+      ]
+    },
+    "frozen raspberries": {
+      "basis": "100g",
+      "per": [
+        52,
+        1.2,
+        12,
+        0.7,
+        0
+      ]
+    },
+    "gammon joint": {
+      "basis": "100g",
+      "per": [
+        165,
+        23,
+        0,
+        8,
+        3
+      ]
+    },
+    "gammon steak": {
+      "basis": "100g",
+      "per": [
+        165,
+        23,
+        0,
+        8,
+        3
+      ],
+      "avg_g": 125
+    },
+    "garam masala": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1,
+        0.3,
+        0.1
+      ]
+    },
+    "garlic bulb": {
+      "basis": "unit",
+      "per": [
+        40,
+        1.8,
+        9,
+        0.1,
+        0
+      ]
+    },
+    "garlic clove": {
+      "basis": "unit",
+      "per": [
+        4,
+        0.2,
+        1,
+        0,
+        0
+      ]
+    },
+    "garlic cloves": {
+      "basis": "unit",
+      "per": [
+        4,
+        0.2,
+        1,
+        0,
+        0
+      ]
+    },
+    "garlic granules": {
+      "basis": "tsp",
+      "per": [
+        10,
+        0.5,
+        2,
+        0,
+        0
+      ]
+    },
+    "Garlic Mushroom Biryani (here), Cheese and Onion Mash (": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "garlic salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "gelatine leaves": {
+      "basis": "unit",
+      "per": [
+        4,
+        0.9,
+        0,
+        0,
+        0
+      ]
+    },
+    "gin": {
+      "basis": "tbsp",
+      "per": [
+        30,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "gluten-free finger rolls": {
+      "basis": "unit",
+      "per": [
+        120,
+        3,
+        22,
+        2,
+        0.4
+      ]
+    },
+    "gluten-free seeded wholemeal roll": {
+      "basis": "unit",
+      "per": [
+        160,
+        5,
+        26,
+        4,
+        0.6
+      ]
+    },
+    "golden syrup": {
+      "basis": "tbsp",
+      "per": [
+        75,
+        0,
+        20,
+        13,
+        0
+      ]
+    },
+    "gouda cheese": {
+      "basis": "100g",
+      "per": [
+        356,
+        27,
+        2.2,
+        26,
+        17
+      ]
+    },
+    "granulated sweetener": {
+      "basis": "tsp",
+      "per": [
+        2,
+        0,
+        0.5,
+        0,
+        0
+      ],
+      "g100": [
+        39,
+        0,
+        10,
+        0,
+        0
+      ]
+    },
+    "grapes": {
+      "basis": "unit",
+      "per": [
+        3,
+        0,
+        0.8,
+        0,
+        0
+      ]
+    },
+    "grated cheese": {
+      "basis": "100g",
+      "per": [
+        400,
+        33,
+        0,
+        25,
+        16
+      ]
+    },
+    "grated mozzarella": {
+      "basis": "100g",
+      "per": [
+        250,
+        24,
+        1,
+        16,
+        11
+      ]
+    },
+    "grated reduced-fat mozzarella": {
+      "basis": "100g",
+      "per": [
+        250,
+        24,
+        1,
+        16,
+        11
+      ]
+    },
+    "greek yoghurt": {
+      "basis": "100g",
+      "per": [
+        57,
+        9,
+        4,
+        0.2,
+        0.1
+      ]
+    },
+    "green beans": {
+      "basis": "100g",
+      "per": [
+        31,
+        1.8,
+        3,
+        0.5,
+        0.1
+      ]
+    },
+    "green cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 600
+    },
+    "green chilli": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "green lentils": {
+      "basis": "100g",
+      "per": [
+        310,
+        24,
+        50,
+        1.5,
+        0.2
+      ]
+    },
+    "green pepper": {
+      "basis": "100g",
+      "per": [
+        20,
+        0.9,
+        3,
+        2.6,
+        0.3
+      ],
+      "avg_g": 160
+    },
+    "ground allspice": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1.2,
+        0.2,
+        0
+      ]
+    },
+    "ground almonds": {
+      "basis": "100g",
+      "per": [
+        612,
+        55,
+        6.5,
+        1.3,
+        6.7
+      ]
+    },
+    "ground cinnamon": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.1,
+        1.2,
+        0.1,
+        0
+      ]
+    },
+    "ground coriander": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.2,
+        0
+      ]
+    },
+    "ground cumin": {
+      "basis": "tsp",
+      "per": [
+        8,
+        0.4,
+        0.9,
+        0.5,
+        0
+      ]
+    },
+    "ground ginger": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.2,
+        1.3,
+        0.1,
+        0
+      ]
+    },
+    "ground nutmeg": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.3,
+        0.5,
+        0.3,
+        0
+      ]
+    },
+    "ground turmeric": {
+      "basis": "tsp",
+      "per": [
+        8,
+        0.2,
+        1.4,
+        0.2,
+        0
+      ]
+    },
+    "handful of flat-leaf parsley leaves, roughly chopped": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "handful of fresh oregano": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.1,
+        0.3,
+        0,
+        0
+      ]
+    },
+    "harissa paste": {
+      "basis": "tbsp",
+      "per": [
+        30,
+        2,
+        2,
+        1,
+        0.5
+      ]
+    },
+    "hazelnuts": {
+      "basis": "100g",
+      "per": [
+        628,
+        60,
+        10,
+        5,
+        62
+      ]
+    },
+    "head of broccoli": {
+      "basis": "100g",
+      "per": [
+        34,
+        2.8,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 350
+    },
+    "head of cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 900
+    },
+    "head of cauliflower": {
+      "basis": "100g",
+      "per": [
+        28,
+        2,
+        3,
+        0.5,
+        0.1
+      ],
+      "avg_g": 600
+    },
+    "head of iceberg lettuce": {
+      "basis": "100g",
+      "per": [
+        14,
+        1,
+        2,
+        2,
+        1
+      ],
+      "avg_g": 450
+    },
+    "henderson's relish": {
+      "basis": "tbsp",
+      "per": [
+        8,
+        0,
+        1.8,
+        0,
+        0
+      ]
+    },
+    "henderson’s relish or worcestershire sauce": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0,
+        3.6,
+        0,
+        0
+      ]
+    },
+    "HOB-TOP": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "HOB-TOP METHOD": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "hoisin sauce": {
+      "basis": "tbsp",
+      "per": [
+        35,
+        0.5,
+        7,
+        0.5,
+        0
+      ]
+    },
+    "honey": {
+      "basis": "tbsp",
+      "per": [
+        64,
+        0,
+        17,
+        17,
+        0
+      ]
+    },
+    "hot dogs": {
+      "basis": "unit",
+      "per": [
+        100,
+        6,
+        2,
+        7,
+        3
+      ]
+    },
+    "hot pepper sauce": {
+      "basis": "tsp",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "icing sugar": {
+      "basis": "tbsp",
+      "per": [
+        29,
+        0,
+        7.5,
+        0,
+        0
+      ]
+    },
+    "instant oat cereal": {
+      "basis": "100g",
+      "per": [
+        379,
+        9,
+        67,
+        1,
+        7
+      ]
+    },
+    "italian hard cheese": {
+      "basis": "100g",
+      "per": [
+        416,
+        38,
+        0.9,
+        29,
+        18
+      ]
+    },
+    "jar laksa curry paste": {
+      "basis": "tbsp",
+      "per": [
+        25,
+        1.5,
+        3,
+        1,
+        0.5
+      ]
+    },
+    "jasmine rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "juice of 1 lemon": {
+      "basis": "fixed",
+      "per": [
+        6,
+        0.1,
+        2,
+        0,
+        0
+      ]
+    },
+    "juice of ½ lemon": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "juice of ½ lime": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "juice of½ lemon": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "kcal per 125g cooked serving)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "lamb chops or cutlets": {
+      "basis": "unit",
+      "per": [
+        150,
+        9,
+        0,
+        17,
+        4.5
+      ]
+    },
+    "lamb leg steaks": {
+      "basis": "100g",
+      "per": [
+        155,
+        24,
+        0,
+        6.5,
+        2.8
+      ],
+      "avg_g": 120
+    },
+    "lamb stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "lamb’s lettuce": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.3,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "lean": {
+      "basis": "100g",
+      "per": [
+        129,
+        21,
+        0,
+        5,
+        2
+      ]
+    },
+    "lean 5%-fat beef mince": {
+      "basis": "100g",
+      "per": [
+        136,
+        5,
+        0,
+        21,
+        2.2
+      ]
+    },
+    "lean diced pork": {
+      "basis": "100g",
+      "per": [
+        122,
+        21,
+        0,
+        4,
+        1.4
+      ]
+    },
+    "lean ham": {
+      "basis": "100g",
+      "per": [
+        107,
+        18,
+        1,
+        3.3,
+        1.1
+      ]
+    },
+    "lean pork mince": {
+      "basis": "100g",
+      "per": [
+        136,
+        21,
+        0,
+        5,
+        1.8
+      ]
+    },
+    "lean pork steaks or chops": {
+      "basis": "100g",
+      "per": [
+        140,
+        5,
+        1.8,
+        22,
+        2
+      ],
+      "avg_g": 150
+    },
+    "leek": {
+      "basis": "100g",
+      "per": [
+        31,
+        1.5,
+        6,
+        0.3,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "leeks": {
+      "basis": "100g",
+      "per": [
+        31,
+        1.5,
+        6,
+        0.3,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "leg of lamb": {
+      "basis": "100g",
+      "per": [
+        160,
+        9,
+        0,
+        19,
+        4.5
+      ]
+    },
+    "lemon": {
+      "basis": "unit",
+      "per": [
+        12,
+        0.4,
+        3,
+        0.1,
+        0
+      ]
+    },
+    "lemon juice": {
+      "basis": "fixed",
+      "per": [
+        4,
+        0,
+        1.3,
+        0,
+        0
+      ]
+    },
+    "lemons": {
+      "basis": "unit",
+      "per": [
+        12,
+        0.4,
+        3,
+        0.1,
+        0
+      ]
+    },
+    "light double cream alternative": {
+      "basis": "100ml",
+      "per": [
+        60,
+        4,
+        5,
+        3,
+        2.5
+      ]
+    },
+    "light puff pastry": {
+      "basis": "100g",
+      "per": [
+        280,
+        12,
+        38,
+        0.5,
+        1.5
+      ]
+    },
+    "light soy sauce": {
+      "basis": "tbsp",
+      "per": [
+        9,
+        1,
+        0.8,
+        0,
+        0
+      ]
+    },
+    "light spreadable cheese": {
+      "basis": "100g",
+      "per": [
+        150,
+        13,
+        3,
+        9,
+        5.5
+      ]
+    },
+    "light spreadable or squeezy cheese": {
+      "basis": "100g",
+      "per": [
+        180,
+        13,
+        5,
+        12,
+        8
+      ]
+    },
+    "lighter burger cheese slices": {
+      "basis": "unit",
+      "per": [
+        40,
+        3.5,
+        1,
+        2.5,
+        1.6
+      ]
+    },
+    "lime juice": {
+      "basis": "fixed",
+      "per": [
+        4,
+        0,
+        1.3,
+        0,
+        0
+      ]
+    },
+    "lime slices, halved": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "lime wedges, to serve": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "limes": {
+      "basis": "unit",
+      "per": [
+        8,
+        0.2,
+        2,
+        0,
+        0
+      ]
+    },
+    "little gem lettuces": {
+      "basis": "unit",
+      "per": [
+        10,
+        0.8,
+        1.5,
+        1.5,
+        0.8
+      ]
+    },
+    "long-grain rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "lotus biscoff biscuit": {
+      "basis": "unit",
+      "per": [
+        30,
+        1.5,
+        3.8,
+        2.2,
+        0.5
+      ]
+    },
+    "lotus biscoff spread": {
+      "basis": "tbsp",
+      "per": [
+        97,
+        5.5,
+        11,
+        6,
+        1
+      ]
+    },
+    "low-calorie caramel syrup": {
+      "basis": "tsp",
+      "per": [
+        2,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "low-calorie chocolate syrup": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0.2,
+        3.5,
+        2.5,
+        0.1
+      ]
+    },
+    "low-calorie cooking spray": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0,
+        0.1,
+        0
+      ]
+    },
+    "low-calorie tortilla wraps": {
+      "basis": "unit",
+      "per": [
+        110,
+        5,
+        18,
+        2,
+        0.5
+      ]
+    },
+    "low-calorie wraps": {
+      "basis": "unit",
+      "per": [
+        110,
+        5,
+        18,
+        2,
+        0.5
+      ]
+    },
+    "low-fat (under 5% fat) cream cheese": {
+      "basis": "100g",
+      "per": [
+        80,
+        11,
+        4,
+        4,
+        2.5
+      ]
+    },
+    "low-fat aerosol cream": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.7,
+        0.6,
+        0.8,
+        0.5
+      ]
+    },
+    "low-fat cream cheese": {
+      "basis": "100g",
+      "per": [
+        150,
+        13,
+        3,
+        9,
+        5.5
+      ]
+    },
+    "low-fat sausages": {
+      "basis": "unit",
+      "per": [
+        70,
+        8,
+        3,
+        3.5,
+        1.3
+      ]
+    },
+    "low-fat spreadable cheese": {
+      "basis": "100g",
+      "per": [
+        180,
+        13,
+        5,
+        12,
+        8
+      ]
+    },
+    "low-fat tortilla wraps": {
+      "basis": "unit",
+      "per": [
+        110,
+        5,
+        18,
+        2,
+        0.5
+      ]
+    },
+    "macaroni": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "mangetouts": {
+      "basis": "100g",
+      "per": [
+        32,
+        3.6,
+        4,
+        0.2,
+        0
+      ]
+    },
+    "mango": {
+      "basis": "100g",
+      "per": [
+        60,
+        0.8,
+        15,
+        0.4,
+        0.1
+      ],
+      "avg_g": 200
+    },
+    "maple syrup": {
+      "basis": "tbsp",
+      "per": [
+        52,
+        0,
+        13,
+        12,
+        0
+      ]
+    },
+    "marmite": {
+      "basis": "tsp",
+      "per": [
+        9,
+        2,
+        1,
+        0,
+        0
+      ]
+    },
+    "marmite or gf yeast extract": {
+      "basis": "tsp",
+      "per": [
+        9,
+        2,
+        1,
+        0,
+        0
+      ]
+    },
+    "marsala wine": {
+      "basis": "tbsp",
+      "per": [
+        16,
+        0,
+        2,
+        1,
+        0
+      ]
+    },
+    "marshmallows": {
+      "basis": "100g",
+      "per": [
+        330,
+        0,
+        80,
+        55,
+        5
+      ]
+    },
+    "matzo meal": {
+      "basis": "100g",
+      "per": [
+        360,
+        10,
+        75,
+        1,
+        2.5
+      ]
+    },
+    "mild curry powder": {
+      "basis": "tsp",
+      "per": [
+        7,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "milk": {
+      "basis": "100ml",
+      "per": [
+        48,
+        3.5,
+        5,
+        1.8,
+        1.2
+      ]
+    },
+    "milk alternative": {
+      "basis": "100ml",
+      "per": [
+        35,
+        1.2,
+        2.5,
+        2,
+        1.5
+      ]
+    },
+    "mint sauce": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0.2,
+        3,
+        0,
+        0
+      ]
+    },
+    "mixed herbs": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "mixed salad": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.7,
+        1,
+        0.2,
+        0
+      ]
+    },
+    "mixed spice": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.2,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "mozzarella, grated": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "mushrooms": {
+      "basis": "100g",
+      "per": [
+        13,
+        1.8,
+        0.4,
+        0.5,
+        0.1
+      ],
+      "avg_g": 15
+    },
+    "mustard": {
+      "basis": "tsp",
+      "per": [
+        15,
+        0.8,
+        1,
+        0.9,
+        0
+      ]
+    },
+    "mustard powder": {
+      "basis": "tsp",
+      "per": [
+        15,
+        0.8,
+        1,
+        0.9,
+        0
+      ]
+    },
+    "nests dry egg noodles": {
+      "basis": "unit",
+      "per": [
+        175,
+        6,
+        36,
+        1,
+        0.2
+      ]
+    },
+    "nests of egg noodles": {
+      "basis": "unit",
+      "per": [
+        175,
+        6,
+        36,
+        1,
+        0.2
+      ]
+    },
+    "new potatoes": {
+      "basis": "100g",
+      "per": [
+        70,
+        1.7,
+        15,
+        0.3,
+        0
+      ],
+      "avg_g": 40
+    },
+    "no-added-sugar orange squash": {
+      "basis": "100ml",
+      "per": [
+        5,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "no-added-sugar peach squash": {
+      "basis": "100ml",
+      "per": [
+        5,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "noodle nests": {
+      "basis": "unit",
+      "per": [
+        175,
+        6,
+        36,
+        1,
+        0.2
+      ]
+    },
+    "nutella": {
+      "basis": "tbsp",
+      "per": [
+        100,
+        1.1,
+        11,
+        8.8,
+        5.7
+      ]
+    },
+    "oats": {
+      "basis": "100g",
+      "per": [
+        379,
+        9,
+        67,
+        1,
+        7
+      ]
+    },
+    "Oblong ovenproof dish about 24 × 20 × 5cm (9½ × 8 × 2in": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "of chopped spinach leaves": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.4,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "of cooked beetroot": {
+      "basis": "100g",
+      "per": [
+        46,
+        1.7,
+        10,
+        8.8,
+        1.7
+      ]
+    },
+    "of coriander leaves": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "of fresh herbs": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "of fresh mint": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.2,
+        0.3,
+        0,
+        0
+      ]
+    },
+    "of fresh thai basil": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0.1,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "of ground nutmeg": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.3,
+        0.5,
+        0.3,
+        0
+      ]
+    },
+    "of lamb's lettuce": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.3,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "of lamb’s lettuce": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.3,
+        0.4,
+        0,
+        0
+      ]
+    },
+    "okra": {
+      "basis": "100g",
+      "per": [
+        33,
+        2.5,
+        5,
+        2,
+        3.2
+      ]
+    },
+    "olives": {
+      "basis": "unit",
+      "per": [
+        5,
+        0,
+        0.2,
+        0.5,
+        0
+      ]
+    },
+    "onion": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 110
+    },
+    "onion granules": {
+      "basis": "tsp",
+      "per": [
+        8,
+        0.4,
+        1.8,
+        0,
+        0
+      ]
+    },
+    "onion powder": {
+      "basis": "tsp",
+      "per": [
+        8,
+        0.4,
+        1.8,
+        0,
+        0
+      ]
+    },
+    "onion salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "onions": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 110
+    },
+    "orange": {
+      "basis": "100g",
+      "per": [
+        37,
+        0.9,
+        8.5,
+        0.1,
+        0
+      ],
+      "avg_g": 130
+    },
+    "oreo biscuits": {
+      "basis": "unit",
+      "per": [
+        53,
+        2.3,
+        7.5,
+        5,
+        0.7
+      ]
+    },
+    "orzo": {
+      "basis": "100g",
+      "per": [
+        350,
+        2,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "ovenproof dish": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "oyster sauce": {
+      "basis": "tbsp",
+      "per": [
+        8,
+        0.3,
+        1.6,
+        0,
+        0
+      ]
+    },
+    "pak choi": {
+      "basis": "100g",
+      "per": [
+        13,
+        1.5,
+        1.2,
+        0.8,
+        1
+      ],
+      "avg_g": 100
+    },
+    "panko breadcrumbs": {
+      "basis": "100g",
+      "per": [
+        380,
+        3,
+        79,
+        3,
+        3
+      ]
+    },
+    "paprika": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "parmesan": {
+      "basis": "100g",
+      "per": [
+        416,
+        38,
+        0.9,
+        29,
+        18
+      ]
+    },
+    "parsnips": {
+      "basis": "100g",
+      "per": [
+        64,
+        1.2,
+        13,
+        1.1,
+        0.2
+      ],
+      "avg_g": 130
+    },
+    "passata": {
+      "basis": "100g",
+      "per": [
+        35,
+        1.6,
+        6,
+        0.2,
+        0.4
+      ]
+    },
+    "pasta": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "peaches": {
+      "basis": "unit",
+      "per": [
+        40,
+        0.9,
+        10,
+        0.2,
+        0
+      ]
+    },
+    "peanut butter powder": {
+      "basis": "tbsp",
+      "per": [
+        45,
+        2.5,
+        3,
+        1,
+        0.5
+      ]
+    },
+    "pecorino": {
+      "basis": "100g",
+      "per": [
+        390,
+        36,
+        0,
+        28,
+        17
+      ]
+    },
+    "peppers": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "pickled vegetable juice": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.5,
+        0.2,
+        0
+      ]
+    },
+    "pinch of salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "pineapple": {
+      "basis": "100g",
+      "per": [
+        50,
+        0.4,
+        13,
+        13,
+        1.4
+      ]
+    },
+    "pink lady apple": {
+      "basis": "unit",
+      "per": [
+        60,
+        0.3,
+        14,
+        0.2,
+        0
+      ]
+    },
+    "pitted green olives": {
+      "basis": "unit",
+      "per": [
+        5,
+        0,
+        0.2,
+        0.5,
+        0
+      ]
+    },
+    "plain chocolate chips": {
+      "basis": "100g",
+      "per": [
+        540,
+        30,
+        62,
+        56,
+        3
+      ]
+    },
+    "plain flour": {
+      "basis": "100g",
+      "per": [
+        364,
+        10,
+        77,
+        2,
+        0.5
+      ]
+    },
+    "plain white flour": {
+      "basis": "100g",
+      "per": [
+        364,
+        10,
+        77,
+        2,
+        0.5
+      ]
+    },
+    "plain wholemeal flour": {
+      "basis": "100g",
+      "per": [
+        340,
+        13,
+        64,
+        2.2,
+        0.4
+      ]
+    },
+    "poached egg": {
+      "basis": "egg",
+      "per": [
+        72,
+        6.3,
+        0.4,
+        5,
+        1.6
+      ]
+    },
+    "pork loin steaks": {
+      "basis": "100g",
+      "per": [
+        140,
+        22,
+        0,
+        5.5,
+        2
+      ],
+      "avg_g": 120
+    },
+    "pork shoulder joint": {
+      "basis": "100g",
+      "per": [
+        145,
+        20,
+        0,
+        7,
+        2.5
+      ],
+      "avg_g": 1500
+    },
+    "pork stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "pork stock cube": {
+      "basis": "unit",
+      "per": [
+        10,
+        0.5,
+        1.5,
+        0.4,
+        0.2
+      ]
+    },
+    "pork tenderloin": {
+      "basis": "100g",
+      "per": [
+        135,
+        4,
+        1.5,
+        24,
+        1.5
+      ],
+      "avg_g": 500
+    },
+    "pork tenderloin fillet": {
+      "basis": "100g",
+      "per": [
+        135,
+        4,
+        1.5,
+        24,
+        1.5
+      ],
+      "avg_g": 500
+    },
+    "potato": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0.1,
+        0
+      ],
+      "avg_g": 180
+    },
+    "potatoes": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0.1,
+        0
+      ],
+      "avg_g": 180
+    },
+    "Preheat the grill on a medium setting.": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "pudding basin": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "puffed rice cereal": {
+      "basis": "100g",
+      "per": [
+        390,
+        1,
+        89,
+        3,
+        0.5
+      ]
+    },
+    "quark": {
+      "basis": "100g",
+      "per": [
+        68,
+        12,
+        4,
+        0.2,
+        0.1
+      ]
+    },
+    "quick-cooking steaks": {
+      "basis": "100g",
+      "per": [
+        160,
+        8,
+        0,
+        22,
+        3
+      ],
+      "avg_g": 120
+    },
+    "quorn mince": {
+      "basis": "100g",
+      "per": [
+        95,
+        14,
+        4,
+        2.5,
+        0.8
+      ]
+    },
+    "radishes": {
+      "basis": "100g",
+      "per": [
+        12,
+        0.7,
+        2,
+        0.1,
+        0
+      ],
+      "avg_g": 15
+    },
+    "raisins": {
+      "basis": "100g",
+      "per": [
+        272,
+        0.5,
+        69,
+        67,
+        3
+      ]
+    },
+    "raw beetroot": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.7,
+        8,
+        0.1,
+        0
+      ],
+      "avg_g": 120
+    },
+    "raw king prawns": {
+      "basis": "100g",
+      "per": [
+        70,
+        15,
+        0,
+        0.6,
+        0.1
+      ]
+    },
+    "ready-cooked chestnuts": {
+      "basis": "100g",
+      "per": [
+        245,
+        2.7,
+        53,
+        12,
+        3.2
+      ]
+    },
+    "red cabbage": {
+      "basis": "100g",
+      "per": [
+        28,
+        1.4,
+        6,
+        0.2,
+        0
+      ],
+      "avg_g": 500
+    },
+    "red chilli": {
+      "basis": "unit",
+      "per": [
+        3,
+        0.2,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "red food colouring": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "red lentils": {
+      "basis": "100g",
+      "per": [
+        352,
+        1,
+        60,
+        2,
+        8
+      ]
+    },
+    "red onion": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 110
+    },
+    "red onions": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 110
+    },
+    "red or yellow pepper": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "red pepper": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "red peppers": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "red wine stock pot": {
+      "basis": "unit",
+      "per": [
+        20,
+        0.3,
+        3,
+        0.3,
+        0.1
+      ]
+    },
+    "red wine vinegar": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "reduced-fat butter": {
+      "basis": "100g",
+      "per": [
+        365,
+        40,
+        1,
+        0,
+        0
+      ]
+    },
+    "reduced-fat cheddar": {
+      "basis": "100g",
+      "per": [
+        273,
+        33,
+        0.1,
+        15,
+        9.5
+      ]
+    },
+    "reduced-fat cheddar cheese": {
+      "basis": "100g",
+      "per": [
+        273,
+        33,
+        0.1,
+        15,
+        9.5
+      ]
+    },
+    "reduced-fat cream alternative": {
+      "basis": "100ml",
+      "per": [
+        60,
+        4,
+        5,
+        3,
+        2.5
+      ]
+    },
+    "reduced-fat cream cheese": {
+      "basis": "100g",
+      "per": [
+        150,
+        13,
+        3,
+        9,
+        5.5
+      ]
+    },
+    "reduced-fat digestive biscuits": {
+      "basis": "unit",
+      "per": [
+        55,
+        2,
+        9,
+        3.5,
+        0.8
+      ]
+    },
+    "reduced-fat feta cheese": {
+      "basis": "100g",
+      "per": [
+        200,
+        15,
+        2,
+        14,
+        9
+      ]
+    },
+    "reduced-fat feta or greek salad cheese": {
+      "basis": "100g",
+      "per": [
+        200,
+        15,
+        2,
+        14,
+        9
+      ]
+    },
+    "reduced-fat feta or greek-style salad cheese": {
+      "basis": "100g",
+      "per": [
+        200,
+        15,
+        2,
+        14,
+        9
+      ]
+    },
+    "reduced-fat halloumi": {
+      "basis": "100g",
+      "per": [
+        230,
+        22,
+        2,
+        14,
+        9
+      ]
+    },
+    "reduced-fat mature cheddar": {
+      "basis": "100g",
+      "per": [
+        273,
+        33,
+        0.1,
+        15,
+        9.5
+      ]
+    },
+    "reduced-fat mayonnaise": {
+      "basis": "tbsp",
+      "per": [
+        45,
+        0.2,
+        2,
+        4,
+        0.6
+      ]
+    },
+    "reduced-fat mozzarella": {
+      "basis": "100g",
+      "per": [
+        250,
+        24,
+        1,
+        16,
+        11
+      ]
+    },
+    "reduced-fat mozzarella paprika": {
+      "basis": "100g",
+      "per": [
+        250,
+        24,
+        1,
+        16,
+        11
+      ]
+    },
+    "reduced-fat natural yoghurt": {
+      "basis": "100g",
+      "per": [
+        60,
+        5.5,
+        8,
+        0.3,
+        0.1
+      ]
+    },
+    "reduced-fat pork sausages": {
+      "basis": "unit",
+      "per": [
+        90,
+        5.5,
+        4,
+        3,
+        1.5
+      ]
+    },
+    "reduced-fat processed cheese slices": {
+      "basis": "unit",
+      "per": [
+        30,
+        1.5,
+        1.5,
+        1.8,
+        1
+      ]
+    },
+    "reduced-fat soft cheese": {
+      "basis": "100g",
+      "per": [
+        150,
+        13,
+        3,
+        9,
+        5.5
+      ]
+    },
+    "reduced-fat spread": {
+      "basis": "100g",
+      "per": [
+        365,
+        39,
+        10,
+        0,
+        0
+      ]
+    },
+    "reduced-fat spreadable cheese": {
+      "basis": "100g",
+      "per": [
+        150,
+        13,
+        3,
+        9,
+        5.5
+      ]
+    },
+    "reduced-fat suet": {
+      "basis": "100g",
+      "per": [
+        530,
+        55,
+        30,
+        0,
+        0
+      ]
+    },
+    "reduced-sugar jam": {
+      "basis": "tbsp",
+      "per": [
+        25,
+        0,
+        6,
+        5.5,
+        0.1
+      ]
+    },
+    "reduced-sugar strawberry jam": {
+      "basis": "tbsp",
+      "per": [
+        25,
+        0,
+        6,
+        5.5,
+        0.1
+      ]
+    },
+    "rice noodles": {
+      "basis": "100g",
+      "per": [
+        360,
+        0.2,
+        86,
+        0,
+        0.5
+      ]
+    },
+    "rice vinegar": {
+      "basis": "tbsp",
+      "per": [
+        5,
+        0,
+        0.7,
+        0,
+        0
+      ]
+    },
+    "ricotta": {
+      "basis": "100g",
+      "per": [
+        144,
+        11,
+        3,
+        11,
+        7
+      ]
+    },
+    "ripe mango": {
+      "basis": "100g",
+      "per": [
+        60,
+        0.8,
+        15,
+        0.4,
+        0.1
+      ],
+      "avg_g": 200
+    },
+    "risotto rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "risotto rice or other white rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "root ginger": {
+      "basis": "100g",
+      "per": [
+        80,
+        1.8,
+        18,
+        0.8,
+        0.2
+      ],
+      "avg_g": 30
+    },
+    "root vegetables": {
+      "basis": "100g",
+      "per": [
+        45,
+        1,
+        9,
+        0.3,
+        0
+      ]
+    },
+    "rosemary sprigs": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "rump steak": {
+      "basis": "100g",
+      "per": [
+        140,
+        6.5,
+        0,
+        21,
+        2.8
+      ],
+      "avg_g": 150
+    },
+    "runny honey": {
+      "basis": "tbsp",
+      "per": [
+        64,
+        0,
+        17,
+        17,
+        0
+      ]
+    },
+    "sachets of vegetarian gelatine": {
+      "basis": "unit",
+      "per": [
+        5,
+        0.4,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "sage": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "salmon fillets": {
+      "basis": "100g",
+      "per": [
+        180,
+        20,
+        0,
+        11,
+        2.2
+      ],
+      "avg_g": 130
+    },
+    "salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "salt and black pepper": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "salt and pepper": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "salted peanuts": {
+      "basis": "100g",
+      "per": [
+        614,
+        52,
+        13,
+        27,
+        25
+      ]
+    },
+    "savoy cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 600
+    },
+    "savoy or green cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 600
+    },
+    "sea salt": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "sea salt and finely ground black pepper": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "sea salt and freshly ground black pepper": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "seafood mix": {
+      "basis": "100g",
+      "per": [
+        80,
+        15,
+        1,
+        1.5,
+        0.3
+      ]
+    },
+    "season all seasoning mix": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "seasoning of your choice, such as chip seasoning, papri": {
+      "basis": "fixed",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.1,
+        0
+      ]
+    },
+    "self-raising flour": {
+      "basis": "100g",
+      "per": [
+        357,
+        10,
+        74,
+        2,
+        0.5
+      ]
+    },
+    "serving)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "sesame oil": {
+      "basis": "tsp",
+      "per": [
+        40,
+        0,
+        0,
+        4.5,
+        0.6
+      ]
+    },
+    "sesame seeds": {
+      "basis": "tsp",
+      "per": [
+        17,
+        0.5,
+        0.7,
+        1.5,
+        0.2
+      ]
+    },
+    "shallots": {
+      "basis": "unit",
+      "per": [
+        10,
+        0.4,
+        2.3,
+        0,
+        0
+      ]
+    },
+    "sheets filo pastry": {
+      "basis": "unit",
+      "per": [
+        45,
+        1,
+        8,
+        0.3,
+        0.5
+      ]
+    },
+    "sheets of filo pastry": {
+      "basis": "unit",
+      "per": [
+        45,
+        1,
+        8,
+        0.3,
+        0.5
+      ]
+    },
+    "short-grain pudding rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "silverside or topside beef joint": {
+      "basis": "100g",
+      "per": [
+        120,
+        20,
+        0,
+        4.5,
+        1.8
+      ]
+    },
+    "silverskin pickled onions": {
+      "basis": "unit",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "skimmed milk": {
+      "basis": "100ml",
+      "per": [
+        34,
+        3.4,
+        5,
+        0.1,
+        0.1
+      ]
+    },
+    "skinless cod fillets": {
+      "basis": "100g",
+      "per": [
+        80,
+        18,
+        0,
+        0.7,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "skinless cod fillets or similar": {
+      "basis": "100g",
+      "per": [
+        80,
+        18,
+        0,
+        0.7,
+        0.1
+      ],
+      "avg_g": 150
+    },
+    "skinless smoked haddock fillets": {
+      "basis": "100g",
+      "per": [
+        100,
+        20,
+        0,
+        1,
+        0.2
+      ],
+      "avg_g": 150
+    },
+    "sliced pepperoni": {
+      "basis": "100g",
+      "per": [
+        500,
+        40,
+        2,
+        32,
+        14
+      ]
+    },
+    "small silverskin pickled onions": {
+      "basis": "unit",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "smoked paprika": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "smoked salmon": {
+      "basis": "100g",
+      "per": [
+        180,
+        25,
+        0,
+        9,
+        2
+      ]
+    },
+    "smoked white fish": {
+      "basis": "100g",
+      "per": [
+        100,
+        20,
+        0,
+        1,
+        0.2
+      ]
+    },
+    "smoky paprika": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "soy sauce": {
+      "basis": "tbsp",
+      "per": [
+        9,
+        1,
+        0.8,
+        0,
+        0
+      ]
+    },
+    "spaghetti": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "spinach": {
+      "basis": "100g",
+      "per": [
+        23,
+        2.8,
+        1.6,
+        0.4,
+        0.1
+      ],
+      "avg_g": 100
+    },
+    "spinach leaves": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0.4,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "spring green cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 400
+    },
+    "spring onion": {
+      "basis": "unit",
+      "per": [
+        5,
+        0.3,
+        1,
+        0,
+        0
+      ]
+    },
+    "spring onions": {
+      "basis": "unit",
+      "per": [
+        5,
+        0.3,
+        1,
+        0,
+        0
+      ]
+    },
+    "sprinkle of finely chopped parsley, to serve": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "squeeze of lime juice": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "sriracha sauce": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "steamed mixed vegetables": {
+      "basis": "fixed",
+      "per": [
+        30,
+        2,
+        4,
+        0.5,
+        0
+      ]
+    },
+    "steamed vegetables": {
+      "basis": "fixed",
+      "per": [
+        30,
+        2,
+        4,
+        0.5,
+        0
+      ]
+    },
+    "stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.3,
+        0.4,
+        0.1,
+        0
+      ]
+    },
+    "strawberries": {
+      "basis": "100g",
+      "per": [
+        33,
+        0.7,
+        8,
+        0.3,
+        0
+      ],
+      "avg_g": 12
+    },
+    "sugar snap peas": {
+      "basis": "100g",
+      "per": [
+        36,
+        3,
+        5,
+        3,
+        2.5
+      ]
+    },
+    "sugar-free chewy caramels": {
+      "basis": "unit",
+      "per": [
+        5,
+        0.1,
+        1,
+        0.5,
+        0
+      ]
+    },
+    "sugar-free chocolate syrup": {
+      "basis": "tbsp",
+      "per": [
+        5,
+        0,
+        1,
+        0.5,
+        0
+      ]
+    },
+    "sugar-free elderflower cordial": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.6,
+        0,
+        0
+      ]
+    },
+    "sumac": {
+      "basis": "tsp",
+      "per": [
+        5,
+        0.2,
+        1,
+        0.2,
+        0
+      ]
+    },
+    "swede": {
+      "basis": "100g",
+      "per": [
+        24,
+        0.7,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 400
+    },
+    "sweet paprika": {
+      "basis": "tsp",
+      "per": [
+        6,
+        0.3,
+        1.2,
+        0.3,
+        0
+      ]
+    },
+    "sweet potato": {
+      "basis": "100g",
+      "per": [
+        86,
+        1.6,
+        20,
+        0.1,
+        0
+      ],
+      "avg_g": 300
+    },
+    "sweet potatoes": {
+      "basis": "100g",
+      "per": [
+        86,
+        1.6,
+        20,
+        0.1,
+        0
+      ],
+      "avg_g": 300
+    },
+    "sweetcorn": {
+      "basis": "100g",
+      "per": [
+        86,
+        1.2,
+        19,
+        3.2,
+        1.8
+      ],
+      "avg_g": 100
+    },
+    "tagliatelle": {
+      "basis": "100g",
+      "per": [
+        350,
+        12,
+        72,
+        1.5,
+        0.3
+      ]
+    },
+    "tamarind paste": {
+      "basis": "tbsp",
+      "per": [
+        30,
+        0.5,
+        7,
+        0.1,
+        0
+      ]
+    },
+    "tenderstem broccoli": {
+      "basis": "100g",
+      "per": [
+        34,
+        2.8,
+        3,
+        0.4,
+        0.1
+      ],
+      "avg_g": 100
+    },
+    "than 3cm (1¼in)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "tin apricot halves": {
+      "basis": "tin400",
+      "per": [
+        160,
+        1,
+        37,
+        37,
+        2.5
+      ]
+    },
+    "tin baked beans": {
+      "basis": "tin400",
+      "per": [
+        300,
+        19,
+        52,
+        0.8,
+        0.2
+      ]
+    },
+    "tin beansprouts": {
+      "basis": "tin400",
+      "per": [
+        80,
+        6,
+        8,
+        0.4,
+        3
+      ]
+    },
+    "tin black beans": {
+      "basis": "tin400",
+      "per": [
+        260,
+        17,
+        40,
+        1,
+        0.2
+      ]
+    },
+    "tin butter beans": {
+      "basis": "tin400",
+      "per": [
+        280,
+        18,
+        42,
+        1.2,
+        0.2
+      ]
+    },
+    "tin chickpeas": {
+      "basis": "tin400",
+      "per": [
+        312,
+        16,
+        44,
+        0.6,
+        12
+      ]
+    },
+    "tin chopped tomatoes": {
+      "basis": "tin400",
+      "per": [
+        80,
+        4,
+        12,
+        0.4,
+        0.1
+      ]
+    },
+    "tin green lentils": {
+      "basis": "tin400",
+      "per": [
+        280,
+        20,
+        40,
+        1,
+        0.2
+      ]
+    },
+    "tin haricot beans": {
+      "basis": "tin400",
+      "per": [
+        280,
+        18,
+        42,
+        1.2,
+        0.2
+      ]
+    },
+    "tin kidney beans": {
+      "basis": "tin400",
+      "per": [
+        280,
+        18,
+        40,
+        1,
+        12
+      ]
+    },
+    "tin lean corned beef": {
+      "basis": "tin340",
+      "per": [
+        460,
+        27,
+        0,
+        60,
+        0
+      ]
+    },
+    "tin mixed beans in chilli sauce": {
+      "basis": "tin400",
+      "per": [
+        320,
+        18,
+        52,
+        2,
+        0.4
+      ]
+    },
+    "tin sweetcorn": {
+      "basis": "tin325",
+      "per": [
+        260,
+        8,
+        52,
+        2,
+        0.3
+      ]
+    },
+    "tin water chestnuts": {
+      "basis": "tin225",
+      "per": [
+        110,
+        2,
+        26,
+        0.2,
+        0
+      ]
+    },
+    "tinned bamboo shoots": {
+      "basis": "100g",
+      "per": [
+        12,
+        1.5,
+        2,
+        0.2,
+        0
+      ]
+    },
+    "tinned cannellini beans": {
+      "basis": "100g",
+      "per": [
+        100,
+        8,
+        18,
+        0.5,
+        3
+      ]
+    },
+    "tins butter beans": {
+      "basis": "tin400",
+      "per": [
+        280,
+        18,
+        42,
+        1.2,
+        0.2
+      ]
+    },
+    "tins chickpeas": {
+      "basis": "tin400",
+      "per": [
+        312,
+        16,
+        44,
+        0.6,
+        12
+      ]
+    },
+    "tins chopped tomatoes": {
+      "basis": "tin400",
+      "per": [
+        80,
+        4,
+        12,
+        0.4,
+        0.1
+      ]
+    },
+    "tins mushy peas": {
+      "basis": "tin400",
+      "per": [
+        320,
+        8,
+        48,
+        3,
+        12
+      ]
+    },
+    "tins peeled new potatoes": {
+      "basis": "tin400",
+      "per": [
+        280,
+        7,
+        60,
+        0.4,
+        0
+      ]
+    },
+    "tins sweetcorn": {
+      "basis": "tin325",
+      "per": [
+        260,
+        8,
+        52,
+        2,
+        0.3
+      ]
+    },
+    "tins tuna": {
+      "basis": "tin145",
+      "per": [
+        150,
+        33,
+        0,
+        1.5,
+        0.4
+      ]
+    },
+    "TO ACCOMPANY": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "TO ACCOMPANY (optional)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "TO DECORATE": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "TO FINISH": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "TO SERVE": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "toasted sesame oil": {
+      "basis": "tsp",
+      "per": [
+        40,
+        0,
+        0,
+        4.5,
+        0.6
+      ]
+    },
+    "tofu": {
+      "basis": "100g",
+      "per": [
+        76,
+        4.5,
+        1.8,
+        8,
+        1.3
+      ],
+      "avg_g": 200
+    },
+    "tomato": {
+      "basis": "100g",
+      "per": [
+        18,
+        0.9,
+        3.1,
+        0.2,
+        0
+      ],
+      "avg_g": 80
+    },
+    "tomato puree": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0.8,
+        3,
+        0.1,
+        0
+      ]
+    },
+    "tomatoes": {
+      "basis": "100g",
+      "per": [
+        18,
+        0.9,
+        3.1,
+        0.2,
+        0
+      ],
+      "avg_g": 80
+    },
+    "tortilla chips": {
+      "basis": "100g",
+      "per": [
+        490,
+        24,
+        64,
+        1,
+        6
+      ]
+    },
+    "tortilla wraps": {
+      "basis": "unit",
+      "per": [
+        120,
+        4,
+        20,
+        2,
+        0.5
+      ]
+    },
+    "turkey breast steaks": {
+      "basis": "100g",
+      "per": [
+        105,
+        24,
+        0,
+        1,
+        0.3
+      ],
+      "avg_g": 120
+    },
+    "turnip": {
+      "basis": "100g",
+      "per": [
+        23,
+        0.9,
+        5,
+        0.2,
+        0
+      ],
+      "avg_g": 150
+    },
+    "uncooked rice": {
+      "basis": "100g",
+      "per": [
+        350,
+        7,
+        78,
+        0.6,
+        0.1
+      ]
+    },
+    "unsalted reduced-fat butter": {
+      "basis": "100g",
+      "per": [
+        365,
+        40,
+        1,
+        0,
+        0
+      ]
+    },
+    "unsweetened dairy-free coconut milk alternative": {
+      "basis": "100ml",
+      "per": [
+        35,
+        3.5,
+        1,
+        0.5,
+        3
+      ]
+    },
+    "vanilla extract": {
+      "basis": "tsp",
+      "per": [
+        12,
+        0,
+        0.5,
+        0,
+        0
+      ]
+    },
+    "vegetable stock": {
+      "basis": "100ml",
+      "per": [
+        4,
+        0.2,
+        0.5,
+        0.1,
+        0
+      ]
+    },
+    "vegetarian sausage": {
+      "basis": "unit",
+      "per": [
+        80,
+        5,
+        6,
+        3,
+        1
+      ]
+    },
+    "vodka": {
+      "basis": "tbsp",
+      "per": [
+        35,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "water": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "white cabbage": {
+      "basis": "100g",
+      "per": [
+        26,
+        1.3,
+        5,
+        0.1,
+        0
+      ],
+      "avg_g": 600
+    },
+    "white onions": {
+      "basis": "100g",
+      "per": [
+        36,
+        1.2,
+        7.9,
+        0.2,
+        0
+      ],
+      "avg_g": 150
+    },
+    "white potatoes": {
+      "basis": "100g",
+      "per": [
+        77,
+        2,
+        17,
+        0.1,
+        0
+      ],
+      "avg_g": 180
+    },
+    "white self-raising flour": {
+      "basis": "100g",
+      "per": [
+        357,
+        10,
+        74,
+        2,
+        0.5
+      ]
+    },
+    "white wine vinegar": {
+      "basis": "tbsp",
+      "per": [
+        3,
+        0,
+        0.1,
+        0,
+        0
+      ]
+    },
+    "whole black peppercorns": {
+      "basis": "tsp",
+      "per": [
+        3,
+        0.1,
+        0.6,
+        0.1,
+        0
+      ]
+    },
+    "wholemeal bagel thin": {
+      "basis": "unit",
+      "per": [
+        110,
+        6,
+        20,
+        1.5,
+        0.3
+      ]
+    },
+    "wholemeal bread": {
+      "basis": "slice",
+      "per": [
+        75,
+        3.5,
+        13,
+        1,
+        0.2
+      ],
+      "g100": [
+        240,
+        11,
+        42,
+        2.5,
+        0.5
+      ]
+    },
+    "wholemeal breadcrumbs": {
+      "basis": "100g",
+      "per": [
+        240,
+        11,
+        42,
+        2.5,
+        0.5
+      ]
+    },
+    "wholemeal english muffins": {
+      "basis": "unit",
+      "per": [
+        150,
+        6,
+        28,
+        1.5,
+        0.3
+      ]
+    },
+    "wholemeal rolls": {
+      "basis": "unit",
+      "per": [
+        110,
+        4.5,
+        20,
+        1.5,
+        0.3
+      ]
+    },
+    "worcestershire sauce": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0,
+        3.6,
+        0,
+        0
+      ]
+    },
+    "worcestershire sauce or henderson’s relish": {
+      "basis": "tbsp",
+      "per": [
+        15,
+        0,
+        3.6,
+        0,
+        0
+      ]
+    },
+    "xanthan gum": {
+      "basis": "fixed",
+      "per": [
+        3,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    "yellow pepper": {
+      "basis": "100g",
+      "per": [
+        31,
+        1,
+        6,
+        0.3,
+        0
+      ],
+      "avg_g": 160
+    },
+    "zest and juice of 1 lemon": {
+      "basis": "fixed",
+      "per": [
+        8,
+        0.2,
+        2.5,
+        0,
+        0
+      ]
+    },
+    "zest and juice of 2 limes": {
+      "basis": "fixed",
+      "per": [
+        10,
+        0.2,
+        3,
+        0,
+        0
+      ]
+    },
+    "zest and ½ juice of 1 lime": {
+      "basis": "fixed",
+      "per": [
+        5,
+        0.1,
+        1.5,
+        0,
+        0
+      ]
+    },
+    "¼ pepper (about 40g) – we used a mixture of colours – d": {
+      "basis": "fixed",
+      "per": [
+        8,
+        0.3,
+        1.5,
+        0.1,
+        0
+      ]
+    },
+    "¼ tsp freshly ground": {
+      "basis": "fixed",
+      "per": [
+        1,
+        0,
+        0.2,
+        0,
+        0
+      ]
+    },
+    "½ chilli, deseeded and finely chopped": {
+      "basis": "fixed",
+      "per": [
+        2,
+        0.1,
+        0.3,
+        0,
+        0
+      ]
+    },
+    "½ tsp beef extract, such as bovril": {
+      "basis": "fixed",
+      "per": [
+        5,
+        1,
+        0.3,
+        0.2,
+        0
+      ]
+    },
+    "½ tsp beef extract, such as Bovril": {
+      "basis": "fixed",
+      "per": [
+        5,
+        1,
+        0.3,
+        0.2,
+        0
+      ]
+    },
+    "× 2in)": {
+      "basis": "fixed",
+      "per": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}
